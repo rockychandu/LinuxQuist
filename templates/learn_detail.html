@@ -1,0 +1,75 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ lesson.title }} — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="margin-bottom: 2rem;">
+  <a href="{{ url_for('learn_list') }}" style="color: var(--neon-orange); font-size: 0.9rem;">&larr; Back to Learn Hub</a>
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem; margin-top: 0.5rem;">
+    <div>
+      <h1 style="font-family: var(--font-title); font-size: 2.4rem; color: #fff;">{{ lesson.title }}</h1>
+      <p style="color: var(--text-muted);">Est. Time: {{ lesson.estimated_minutes }} mins &bull; Reward: +{{ lesson.xp_reward }} XP</p>
+    </div>
+    {% if is_completed %}
+      <button class="btn btn-sunset" disabled><i class="fas fa-check-circle"></i> Lesson Completed</button>
+    {% else %}
+      <button id="completeLearnBtn" class="btn btn-primary" onclick="markLearnCompleted({{ lesson.id }})"><i class="fas fa-check-circle"></i> Mark Completed (+{{ lesson.xp_reward }} XP)</button>
+    {% endif %}
+  </div>
+</div>
+
+<div class="grid-2">
+  <!-- READING MATERIAL -->
+  <div class="card" style="font-size: 1rem; line-height: 1.7;">
+    <h3 style="font-family: var(--font-title); color: var(--neon-orange); margin-bottom: 1rem;"><i class="fas fa-book"></i> Tutorial Guide</h3>
+    <div style="white-space: pre-wrap; font-family: var(--font-main); color: #e2e8f0;">
+      {{ lesson.content_md }}
+    </div>
+  </div>
+
+  <!-- COMMAND PRACTICE SANDBOX -->
+  <div class="card">
+    <h3 style="font-family: var(--font-title); color: var(--neon-pink); margin-bottom: 1rem;"><i class="fas fa-code"></i> Command Examples & Sandbox</h3>
+    <div style="display: flex; flex-direction: column; gap: 0.75rem; margin-bottom: 1.5rem;">
+      {% for ex in examples %}
+        <div style="background: var(--bg-terminal); padding: 0.75rem 1rem; border-radius: 8px; border: 1px solid var(--border-subtle); display: flex; justify-content: space-between; align-items: center;">
+          <code style="color: var(--neon-orange); font-family: var(--font-code); font-weight: bold;">$ {{ ex.cmd }}</code>
+          <span style="font-size: 0.85rem; color: var(--text-muted);">{{ ex.desc }}</span>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div id="learnTerminalContainer"></div>
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    new TerminalSimulator('learnTerminalContainer');
+  });
+
+  async function markLearnCompleted(lessonId) {
+    try {
+      const res = await fetch(`/api/learn/${lessonId}/complete`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' }
+      });
+      const data = await res.json();
+      if (data.success) {
+        if (window.soundEngine) window.soundEngine.playSuccessSound();
+        showToast(`Learn Lesson Completed! +${data.xp_earned} XP`, 'success');
+        const btn = document.getElementById('completeLearnBtn');
+        if (btn) {
+          btn.innerHTML = '<i class="fas fa-check-circle"></i> Completed!';
+          btn.className = 'btn btn-sunset';
+          btn.disabled = true;
+        }
+      }
+    } catch (e) {
+      showToast("Error completing lesson", "error");
+    }
+  }
+</script>
+{% endblock %}

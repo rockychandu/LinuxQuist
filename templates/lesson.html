@@ -1,0 +1,90 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ lesson.title }} — LinuxQuest{% endblock %}
+
+{% block content %}
+<!-- LESSON HEADER -->
+<div style="margin-bottom: 2rem;">
+  <div style="display: flex; align-items: center; gap: 0.5rem; color: var(--neon-cyan); font-size: 0.9rem; margin-bottom: 0.5rem;">
+    <a href="{{ url_for('levels') }}">&larr; Back to 10 Levels</a> &bull; <span>{{ level.title }}</span>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
+    <div>
+      <h1 style="font-family: var(--font-title); font-size: 2.4rem; color: #fff;">{{ lesson.title }}</h1>
+      <p style="color: var(--text-muted); margin-top: 0.25rem;">
+        <i class="fas fa-clock"></i> {{ lesson.estimated_minutes }} mins &bull; <i class="fas fa-layer-group"></i> {{ lesson.difficulty }}
+      </p>
+    </div>
+    <div>
+      {% if is_completed %}
+        <button id="completeLessonBtn" class="btn btn-success" disabled><i class="fas fa-check-circle"></i> Lesson Completed (+{{ lesson.xp_reward }} XP)</button>
+      {% else %}
+        <button id="completeLessonBtn" class="btn btn-primary" onclick="markLessonCompleted({{ lesson.id }})"><i class="fas fa-check-circle"></i> Complete Lesson (+{{ lesson.xp_reward }} XP)</button>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<div class="grid-2">
+  <!-- READING & EXPLANATION CONTENT -->
+  <div class="card" style="font-size: 1rem; line-height: 1.7;">
+    <h3 style="font-family: var(--font-title); color: var(--neon-cyan); margin-bottom: 1rem;"><i class="fas fa-book-open"></i> Lesson Material</h3>
+
+    <!-- OBJECTIVES -->
+    <div style="background: rgba(0,243,255,0.05); border-left: 3px solid var(--neon-cyan); padding: 1rem; border-radius: 6px; margin-bottom: 1.5rem;">
+      <h4 style="color: var(--neon-cyan); margin-bottom: 0.5rem; font-size: 0.95rem;"><i class="fas fa-bullseye"></i> Learning Objectives:</h4>
+      <ul style="padding-left: 1.25rem; color: var(--text-main);">
+        {% for obj in objectives %}
+          <li>{{ obj }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <!-- MARKDOWN CONTENT DISPLAY -->
+    <div style="color: #e2e8f0; white-space: pre-wrap; font-family: var(--font-main);">
+      {{ lesson.content_md }}
+    </div>
+
+    <!-- CODE EXAMPLES CHEATSHEET -->
+    <div style="margin-top: 2rem;">
+      <h4 style="font-family: var(--font-title); color: var(--neon-green); margin-bottom: 0.75rem;"><i class="fas fa-code"></i> Command Reference:</h4>
+      <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+        {% for code in code_examples %}
+          <div style="background: var(--bg-terminal); padding: 0.75rem 1rem; border-radius: 6px; border: 1px solid var(--border-subtle); display: flex; justify-content: space-between; align-items: center;">
+            <code style="color: var(--neon-cyan); font-family: var(--font-code); font-weight: bold;">$ {{ code.cmd }}</code>
+            <span style="font-size: 0.85rem; color: var(--text-muted);">{{ code.desc }}</span>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  <!-- EMBEDDED PRACTICE TERMINAL -->
+  <div>
+    <div class="card" style="margin-bottom: 1.5rem;">
+      <h3 style="font-family: var(--font-title); color: var(--neon-green); margin-bottom: 0.5rem;"><i class="fas fa-terminal"></i> Practice Terminal Sandbox</h3>
+      <p style="color: var(--text-muted); font-size: 0.85rem; margin-bottom: 1rem;">Try executing the lesson commands below live in the sandbox environment:</p>
+      
+      <div id="lessonTerminalContainer"></div>
+    </div>
+
+    {% if quiz %}
+      <div class="card" style="text-align: center;">
+        <h3 style="font-family: var(--font-title); color: var(--neon-gold); margin-bottom: 0.5rem;"><i class="fas fa-question-circle"></i> Test Your Knowledge</h3>
+        <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1rem;">Take the interactive quiz for this lesson to earn extra XP!</p>
+        <a href="{{ url_for('quiz_detail', quiz_id=quiz.id) }}" class="btn btn-outline" style="border-color: var(--neon-gold); color: var(--neon-gold);">
+          <i class="fas fa-play"></i> Start Quiz (+{{ quiz.xp_reward }} XP)
+        </a>
+      </div>
+    {% endif %}
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    new TerminalSimulator('lessonTerminalContainer');
+  });
+</script>
+{% endblock %}

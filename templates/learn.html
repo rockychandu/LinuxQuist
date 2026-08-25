@@ -1,0 +1,36 @@
+{% extends 'base.html' %}
+
+{% block title %}Learn Linux — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="text-align: center; margin-bottom: 2.5rem;">
+  <h1 style="font-family: var(--font-title); font-size: 2.6rem; color: #fff;">
+    <i class="fas fa-book-open text-orange"></i> Learn Linux Concepts (10 Lessons)
+  </h1>
+  <p style="color: var(--text-muted); max-width: 600px; margin: 0.5rem auto 0 auto;">
+    Master Linux fundamentals step-by-step before testing your written command skills in quests and daily challenges.
+  </p>
+</div>
+
+<div class="grid-2">
+  {% for les in lessons %}
+    <div class="card">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+        <span style="font-family: var(--font-code); color: var(--neon-orange); font-weight: bold;">LESSON {{ les.lesson_number }} / 10</span>
+        {% if les.id in completed_ids %}
+          <span style="color: var(--neon-gold); font-weight: bold;"><i class="fas fa-check-circle"></i> Completed</span>
+        {% else %}
+          <span class="stat-chip xp"><i class="fas fa-star"></i> +{{ les.xp_reward }} XP</span>
+        {% endif %}
+      </div>
+
+      <h3 style="font-family: var(--font-title); font-size: 1.3rem; color: #fff; margin-bottom: 0.5rem;">{{ les.title }}</h3>
+      <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.25rem;">{{ les.summary }}</p>
+
+      <a href="{{ url_for('learn_detail', slug=les.slug) }}" class="btn btn-primary" style="width: 100%; padding: 0.5rem;">
+        <i class="fas fa-graduation-cap"></i> Read Lesson & Practice
+      </a>
+    </div>
+  {% endfor %}
+</div>
+{% endblock %}

@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+
+{% block title %}Settings — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="max-width: 600px; margin: 2rem auto;">
+  <div class="card">
+    <h1 style="font-family: var(--font-title); font-size: 2.2rem; color: #fff; margin-bottom: 0.5rem;">
+      <i class="fas fa-cog text-cyan"></i> Account Settings
+    </h1>
+    <p style="color: var(--text-muted); margin-bottom: 2rem;">Manage your profile and security preferences</p>
+
+    {% if message %}
+      <div style="background: rgba(0, 255, 157, 0.15); border: 1px solid var(--neon-green); color: var(--neon-green); padding: 0.75rem; border-radius: 8px; margin-bottom: 1.5rem;">
+        <i class="fas fa-check-circle"></i> {{ message }}
+      </div>
+    {% endif %}
+
+    {% if error %}
+      <div style="background: rgba(255, 51, 102, 0.15); border: 1px solid var(--neon-red); color: var(--neon-red); padding: 0.75rem; border-radius: 8px; margin-bottom: 1.5rem;">
+        <i class="fas fa-exclamation-circle"></i> {{ error }}
+      </div>
+    {% endif %}
+
+    <!-- PROFILE BIO EDIT -->
+    <form method="POST" action="{{ url_for('settings') }}" style="margin-bottom: 2rem; border-bottom: 1px solid var(--border-subtle); padding-bottom: 2rem;">
+      <input type="hidden" name="action" value="profile">
+      <h3 style="font-family: var(--font-title); color: #fff; margin-bottom: 1rem;">Profile Information</h3>
+
+      <div style="margin-bottom: 1.25rem;">
+        <label style="display: block; margin-bottom: 0.4rem; color: var(--text-muted); font-size: 0.9rem;">Bio / Tagline</label>
+        <input type="text" name="bio" value="{{ user.bio }}" required style="width: 100%; background: var(--bg-input); border: 1px solid var(--border-color); color: #fff; padding: 0.75rem 1rem; border-radius: 8px; outline: none;">
+      </div>
+
+      <button type="submit" class="btn btn-primary"><i class="fas fa-save"></i> Save Profile</button>
+    </form>
+
+    <!-- PASSWORD UPDATE -->
+    <form method="POST" action="{{ url_for('settings') }}">
+      <input type="hidden" name="action" value="password">
+      <h3 style="font-family: var(--font-title); color: #fff; margin-bottom: 1rem;">Security & Password</h3>
+
+      <div style="margin-bottom: 1.25rem;">
+        <label style="display: block; margin-bottom: 0.4rem; color: var(--text-muted); font-size: 0.9rem;">Current Password</label>
+        <input type="password" name="old_password" required style="width: 100%; background: var(--bg-input); border: 1px solid var(--border-color); color: #fff; padding: 0.75rem 1rem; border-radius: 8px; outline: none;">
+      </div>
+
+      <div style="margin-bottom: 1.5rem;">
+        <label style="display: block; margin-bottom: 0.4rem; color: var(--text-muted); font-size: 0.9rem;">New Password</label>
+        <input type="password" name="new_password" required style="width: 100%; background: var(--bg-input); border: 1px solid var(--border-color); color: #fff; padding: 0.75rem 1rem; border-radius: 8px; outline: none;">
+      </div>
+
+      <button type="submit" class="btn btn-success"><i class="fas fa-key"></i> Update Password</button>
+    </form>
+  </div>
+</div>
+{% endblock %}

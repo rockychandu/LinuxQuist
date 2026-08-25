@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+
+{% block title %}Quest — {{ quest.title }}{% endblock %}
+
+{% block content %}
+<div id="questSuccessBanner" style="display: none; margin-bottom: 1.5rem;"></div>
+
+<div class="grid-2" style="grid-template-columns: 360px 1fr; align-items: start;">
+  <!-- LEFT SIDEBAR -->
+  <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+    <div class="card" style="border-left: 4px solid var(--neon-orange);">
+      <span style="font-size: 0.8rem; color: var(--neon-orange); font-weight: bold; text-transform: uppercase;">WRITTEN COMMAND TEST</span>
+      <h2 style="font-family: var(--font-title); font-size: 1.3rem; color: #fff; margin: 0.5rem 0;">{{ quest.title }}</h2>
+      <p style="color: var(--text-muted); font-size: 0.85rem; margin-bottom: 1rem;">{{ quest.description }}</p>
+
+      <div style="background: rgba(255,94,54,0.06); border: 1px solid var(--border-color); padding: 0.8rem; border-radius: 8px; font-size: 0.85rem;">
+        <strong style="color: var(--neon-orange);"><i class="fas fa-bullseye"></i> Goal:</strong>
+        <p style="color: #fff; margin-top: 0.25rem;">{{ quest.objective }}</p>
+      </div>
+
+      <button onclick="toggleHint()" class="btn btn-outline" style="width: 100%; margin-top: 1rem; padding: 0.4rem; font-size: 0.85rem;">
+        <i class="fas fa-lightbulb text-gold"></i> Need a Hint?
+      </button>
+
+      <div id="hintBox" style="display: none; margin-top: 0.75rem; padding: 0.8rem; background: rgba(255,190,11,0.1); border: 1px dashed var(--neon-gold); border-radius: 6px; font-size: 0.85rem; color: var(--neon-gold);">
+        <i class="fas fa-info-circle"></i> {{ quest.hint }}
+      </div>
+    </div>
+
+    <!-- VISUAL VFS TREE -->
+    <div class="card">
+      <h3 style="font-family: var(--font-title); color: var(--neon-gold); font-size: 1.1rem; margin-bottom: 0.75rem;"><i class="fas fa-folder-tree"></i> VFS File Tree</h3>
+      <div id="vfsTreeContainer" style="background: var(--bg-terminal); padding: 0.8rem; border-radius: 8px; border: 1px solid var(--border-subtle); max-height: 280px; overflow-y: auto; font-family: var(--font-code); font-size: 0.85rem;"></div>
+    </div>
+  </div>
+
+  <!-- WRITTEN COMMAND TEST TERMINAL -->
+  <div>
+    <div id="questTerminalContainer"></div>
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  let activeQuest = { id: {{ quest.id }}, initial_vfs_json: '{{ quest.initial_vfs_json | safe }}' };
+
+  document.addEventListener('DOMContentLoaded', () => {
+    window.terminalInstance = new TerminalSimulator('questTerminalContainer', activeQuest);
+  });
+
+  function toggleHint() {
+    const hint = document.getElementById('hintBox');
+    if (hint) hint.style.display = hint.style.display === 'none' ? 'block' : 'none';
+  }
+</script>
+{% endblock %}

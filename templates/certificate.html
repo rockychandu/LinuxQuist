@@ -1,0 +1,74 @@
+{% extends 'base.html' %}
+
+{% block title %}Official Certificate of Completion — LinuxQuest{% endblock %}
+
+{% block extra_css %}
+<style>
+  @media print {
+    body { background: #fff !important; color: #000 !important; }
+    .navbar, .footer, .no-print { display: none !important; }
+    .certificate-card { border: 10px double #c59b27 !important; background: #070a0f !important; color: #fff !important; }
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<div class="no-print" style="text-align: center; margin-bottom: 2rem;">
+  <h1 style="font-family: var(--font-title); font-size: 2.5rem; color: #fff;">
+    <i class="fas fa-certificate text-gold"></i> Official Certificate of Mastery
+  </h1>
+  <p style="color: var(--text-muted); margin-bottom: 1.5rem;">Congratulations! You have completed all levels and achieved Linux Master status.</p>
+  
+  <button onclick="window.print()" class="btn btn-primary" style="padding: 0.75rem 2rem;">
+    <i class="fas fa-print"></i> Print / Save as PDF Certificate
+  </button>
+</div>
+
+<!-- CERTIFICATE CANVAS / CONTAINER -->
+<div class="certificate-card" style="max-width: 900px; margin: 0 auto 3rem auto; background: radial-gradient(circle at 50% 50%, #0d121c 0%, #05080e 100%); border: 12px double var(--neon-gold); border-radius: 16px; padding: 4rem 3rem; text-align: center; position: relative; box-shadow: 0 0 50px rgba(255,204,0,0.2);">
+  
+  <!-- GOLD SEAL BADGE -->
+  <div style="position: absolute; top: 2rem; right: 2.5rem; width: 90px; height: 90px; border-radius: 50%; background: linear-gradient(135deg, #ffe066 0%, #c59b27 100%); display: flex; align-items: center; justify-content: center; color: #000; font-size: 2.5rem; box-shadow: 0 0 20px rgba(255,204,0,0.5);">
+    <i class="fas fa-award"></i>
+  </div>
+
+  <div style="font-family: var(--font-code); color: var(--neon-cyan); font-size: 1rem; font-weight: bold; letter-spacing: 3px; margin-bottom: 1rem; text-transform: uppercase;">
+    <i class="fas fa-terminal"></i> LINUXQUEST PLATFORM CERTIFICATION
+  </div>
+
+  <h2 style="font-family: var(--font-title); font-size: 2.8rem; color: var(--neon-gold); margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 2px;">
+    Certificate of Completion
+  </h2>
+
+  <p style="font-size: 1.1rem; color: var(--text-muted); margin-bottom: 2rem;">This certifies that</p>
+
+  <div style="font-family: var(--font-title); font-size: 3.2rem; font-weight: 800; color: #ffffff; text-decoration: underline var(--neon-green) 4px; margin-bottom: 1.5rem;">
+    {{ user.username }}
+  </div>
+
+  <p style="font-size: 1.15rem; color: var(--text-main); max-width: 650px; margin: 0 auto 2.5rem auto; line-height: 1.8;">
+    has successfully mastered all 20 levels of the LinuxQuest Curriculum, demonstrating expertise in Linux Navigation, System Permissions, Text Processing, Process Management, Networking, Shell Automation, and System Administration Architecture.
+  </p>
+
+  <!-- OFFICIAL TITLE -->
+  <div style="background: rgba(255,204,0,0.08); border: 1px solid var(--neon-gold); display: inline-block; padding: 0.75rem 2rem; border-radius: 30px; margin-bottom: 3rem;">
+    <span style="font-family: var(--font-title); font-size: 1.4rem; font-weight: bold; color: var(--neon-gold);">
+      <i class="fas fa-crown"></i> Certified Linux Architect
+    </span>
+  </div>
+
+  <!-- FOOTER DETAILS -->
+  <div style="display: flex; justify-content: space-between; align-items: flex-end; border-top: 1px solid var(--border-subtle); padding-top: 1.5rem; text-align: left; font-size: 0.85rem; color: var(--text-muted);">
+    <div>
+      <div><strong>Certificate ID:</strong> <code style="color: var(--neon-cyan);">{{ cert.cert_code }}</code></div>
+      <div><strong>Verification Hash:</strong> <code style="color: var(--neon-green);">{{ cert.verification_hash }}</code></div>
+      <div><strong>Issue Date:</strong> {{ cert.issued_at }}</div>
+    </div>
+    <div style="text-align: right;">
+      <div style="font-family: 'Brush Script MT', cursive; font-size: 2rem; color: var(--neon-cyan);">Linus Torvalds</div>
+      <div style="border-top: 1px solid var(--text-muted); width: 160px; margin-left: auto; margin-top: 0.2rem;"></div>
+      <div style="font-weight: bold; color: #fff; margin-top: 0.25rem;">LinuxQuest Board</div>
+    </div>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,67 @@
+{% extends 'base.html' %}
+
+{% block title %}20 Levels Roadmap — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="text-align: center; margin-bottom: 3rem;">
+  <h1 style="font-family: var(--font-title); font-size: 2.8rem; color: #fff;">
+    <i class="fas fa-sitemap text-orange"></i> 20-Level Linux Learning Roadmap
+  </h1>
+  <p style="color: var(--text-muted); max-width: 650px; margin: 0.5rem auto 0 auto;">
+    Advance through all 20 levels. Complete lessons, quizzes, and written quests to unlock your official Certificate!
+  </p>
+</div>
+
+<div style="display: flex; flex-direction: column; gap: 1.5rem;">
+  {% for lvl in levels %}
+    {% set is_unlocked = g.user and (g.user.xp >= lvl.required_xp or g.user.level >= lvl.level_number or g.user.role == 'admin') %}
+    
+    <div class="card" style="border-left: 4px solid {% if is_unlocked %}var(--neon-orange){% else %}var(--border-color){% endif %}; background: {% if is_unlocked %}var(--bg-card){% else %}rgba(8,6,12,0.6){% endif %};">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 1rem;">
+        <div style="display: flex; align-items: flex-start; gap: 1.25rem;">
+          <div style="width: 54px; height: 54px; border-radius: 12px; background: {% if is_unlocked %}rgba(255,94,54,0.12){% else %}rgba(255,255,255,0.03){% endif %}; border: 1px solid {% if is_unlocked %}var(--neon-orange){% else %}var(--border-subtle){% endif %}; display: flex; align-items: center; justify-content: center; font-size: 1.5rem; color: {% if is_unlocked %}var(--neon-orange){% else %}var(--text-muted){% endif %};">
+            <i class="fas {{ lvl.icon }}"></i>
+          </div>
+          <div>
+            <div style="font-family: var(--font-code); font-size: 0.85rem; color: var(--neon-orange); font-weight: bold;">
+              LEVEL {{ lvl.level_number }} / 20
+            </div>
+            <h2 style="font-family: var(--font-title); font-size: 1.4rem; color: #fff; margin: 0.2rem 0;">{{ lvl.title }}</h2>
+            <p style="color: var(--text-muted); font-size: 0.9rem; max-width: 700px;">{{ lvl.description }}</p>
+          </div>
+        </div>
+
+        <div style="text-align: right;">
+          <span class="stat-chip xp" style="font-size: 0.85rem; margin-bottom: 0.75rem;"><i class="fas fa-star"></i> Required: {{ lvl.required_xp }} XP</span>
+          <div>
+            {% if is_unlocked %}
+              <span style="color: var(--neon-gold); font-size: 0.85rem; font-weight: bold;"><i class="fas fa-unlock"></i> Unlocked</span>
+            {% else %}
+              <span style="color: var(--text-muted); font-size: 0.85rem;"><i class="fas fa-lock"></i> Locked</span>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+
+      <!-- ACTION BUTTONS FOR THIS LEVEL -->
+      <div style="margin-top: 1.25rem; border-top: 1px solid var(--border-subtle); padding-top: 1rem; display: flex; flex-wrap: wrap; gap: 0.75rem;">
+        {% if is_unlocked %}
+          <a href="{{ url_for('quests_list') }}" class="btn btn-primary" style="padding: 0.45rem 1rem; font-size: 0.85rem;">
+            <i class="fas fa-edit"></i> Write Command Test
+          </a>
+          <a href="{{ url_for('quizzes_list') }}" class="btn btn-sunset" style="padding: 0.45rem 1rem; font-size: 0.85rem;">
+            <i class="fas fa-question-circle"></i> Take Quiz
+          </a>
+          <a href="{{ url_for('learn_list') }}" class="btn btn-outline" style="padding: 0.45rem 1rem; font-size: 0.85rem;">
+            <i class="fas fa-book-open"></i> Learn Concepts
+          </a>
+        {% else %}
+          <button class="btn btn-outline" disabled style="opacity: 0.5; padding: 0.45rem 1rem; font-size: 0.85rem;">
+            <i class="fas fa-lock"></i> Reach {{ lvl.required_xp }} XP to Unlock
+          </button>
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
+</div>
+{% endblock %}

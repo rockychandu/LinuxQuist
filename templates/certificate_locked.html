@@ -1,0 +1,44 @@
+{% extends 'base.html' %}
+
+{% block title %}Certificate Locked — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="max-width: 650px; margin: 3rem auto;">
+  <div class="card" style="text-align: center; padding: 3rem 2rem; border-color: var(--neon-red); background: linear-gradient(135deg, rgba(12,16,24,0.95) 0%, rgba(255,51,102,0.06) 100%);">
+    
+    <!-- LOCK ICON -->
+    <div style="width: 80px; height: 80px; border-radius: 50%; background: rgba(255,51,102,0.15); border: 2px solid var(--neon-red); display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: var(--neon-red); margin: 0 auto 1.5rem auto; box-shadow: 0 0 25px rgba(255,51,102,0.3);">
+      <i class="fas fa-lock"></i>
+    </div>
+
+    <h1 style="font-family: var(--font-title); font-size: 2.4rem; color: #fff; margin-bottom: 0.75rem;">
+      Official Certificate Locked
+    </h1>
+
+    <p style="color: var(--text-muted); font-size: 1.05rem; max-width: 500px; margin: 0 auto 1.75rem auto;">
+      The <strong>LinuxQuest Certified Linux Architect Certificate</strong> is awarded only after completing all 20 curriculum levels!
+    </p>
+
+    <!-- CURRENT LEVEL PROGRESS -->
+    <div style="background: rgba(0,0,0,0.5); border: 1px solid var(--border-subtle); padding: 1.25rem; border-radius: 10px; margin-bottom: 2rem; text-align: left;">
+      <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem; font-size: 0.95rem;">
+        <span style="color: var(--text-main); font-weight: bold;"><i class="fas fa-shield-alt text-cyan"></i> Your Current Progress</span>
+        <span style="color: var(--neon-gold); font-weight: bold;">Level {{ user.level }} / 20</span>
+      </div>
+      
+      {% set progress_pct = (user.level / 20 * 100) %}
+      <div class="progress-bar-bg">
+        <div class="progress-bar-fill" style="width: {{ progress_pct }}%;"></div>
+      </div>
+
+      <div style="margin-top: 1rem; font-size: 0.85rem; color: var(--text-muted);">
+        <i class="fas fa-info-circle text-cyan"></i> Complete Level 20 lessons and quests to automatically unlock your official certificate!
+      </div>
+    </div>
+
+    <a href="{{ url_for('levels') }}" class="btn btn-primary btn-large" style="padding: 0.8rem 2rem;">
+      <i class="fas fa-graduation-cap"></i> Continue Learning Levels &rarr;
+    </a>
+  </div>
+</div>
+{% endblock %}

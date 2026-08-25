@@ -1,0 +1,83 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<section class="hero-section">
+  <h1 class="hero-title">Master Linux. Complete Quests.<br>Become a Linux Legend.</h1>
+  <p class="hero-subtitle">
+    An interactive gamified platform featuring 10 structured levels, 30+ hands-on missions, 50+ quizzes, and a simulated bash shell. Zero installation required.
+  </p>
+  <div class="hero-ctas">
+    <a href="{{ url_for('register') }}" class="btn btn-primary btn-large">
+      <i class="fas fa-gamepad"></i> Start Learning Free
+    </a>
+    <a href="{{ url_for('quests_list') }}" class="btn btn-outline btn-large">
+      <i class="fas fa-scroll"></i> Written Command Quests
+    </a>
+  </div>
+</section>
+
+<!-- LIVE DEMO TERMINAL WIDGET -->
+<section style="margin: 2rem 0 4rem 0;">
+  <div style="text-align: center; margin-bottom: 1.5rem;">
+    <h2 style="font-family: var(--font-title); font-size: 2rem; color: #fff;">
+      <i class="fas fa-terminal text-cyan"></i> Try the Interactive Terminal
+    </h2>
+    <p style="color: var(--text-muted);">Type real commands like <code>pwd</code>, <code>ls</code>, <code>mkdir demo</code>, or <code>cat notes.txt</code> right now!</p>
+  </div>
+
+  <div id="demoTerminalContainer"></div>
+</section>
+
+<!-- 10-LEVEL CURRICULUM PREVIEW -->
+<section style="margin-bottom: 4rem;">
+  <h2 style="font-family: var(--font-title); font-size: 2rem; text-align: center; margin-bottom: 2rem;">
+    <i class="fas fa-sitemap text-green"></i> 10-Level Linux Learning Curve
+  </h2>
+
+  <div class="grid-3">
+    {% for lvl in levels %}
+      <div class="card">
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.75rem;">
+          <span style="font-family: var(--font-code); color: var(--neon-cyan); font-weight: bold;">LEVEL {{ lvl.level_number }}</span>
+          <span class="stat-chip xp"><i class="fas fa-star"></i> {{ lvl.required_xp }} XP</span>
+        </div>
+        <h3 style="font-family: var(--font-title); color: #fff; margin-bottom: 0.5rem;">
+          <i class="fas {{ lvl.icon }} text-green"></i> {{ lvl.title }}
+        </h3>
+        <p style="color: var(--text-muted); font-size: 0.9rem;">{{ lvl.description }}</p>
+      </div>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- FEATURE CARDS -->
+<section style="margin-bottom: 4rem;">
+  <div class="grid-3">
+    <div class="card" style="text-align: center;">
+      <i class="fas fa-shield-alt" style="font-size: 3rem; color: var(--neon-cyan); margin-bottom: 1rem;"></i>
+      <h3>100% Sandboxed</h3>
+      <p style="color: var(--text-muted); margin-top: 0.5rem;">Safe virtual file system that prevents accidental host system commands.</p>
+    </div>
+
+    <div class="card" style="text-align: center;">
+      <i class="fas fa-trophy" style="font-size: 3rem; color: var(--neon-gold); margin-bottom: 1rem;"></i>
+      <h3>Gamified Progress</h3>
+      <p style="color: var(--text-muted); margin-top: 0.5rem;">Earn XP, level up from Linux Newbie to System Administrator, and unlock badges.</p>
+    </div>
+
+    <div class="card" style="text-align: center;">
+      <i class="fas fa-volume-up" style="font-size: 3rem; color: var(--neon-green); margin-bottom: 1rem;"></i>
+      <h3>Retro Audio Engine</h3>
+      <p style="color: var(--text-muted); margin-top: 0.5rem;">Synthesizes tactile terminal keyclicks and fanfare audio effects via Web Audio API.</p>
+    </div>
+  </div>
+</section>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    new TerminalSimulator('demoTerminalContainer');
+  });
+</script>
+{% endblock %}

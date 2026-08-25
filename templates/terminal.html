@@ -1,0 +1,83 @@
+{% extends 'base.html' %}
+
+{% block title %}Quest Terminal — {{ quest.title if quest else 'Linux Shell' }}{% endblock %}
+
+{% block content %}
+<div id="questSuccessBanner" style="display: none; margin-bottom: 1.5rem;"></div>
+
+<div class="grid-2" style="grid-template-columns: 360px 1fr; align-items: start;">
+  <!-- LEFT SIDEBAR: QUEST OBJECTIVES & VFS INSPECTOR -->
+  <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+    <!-- QUEST OBJECTIVE CARD -->
+    {% if quest %}
+      <div class="card" style="border-left: 4px solid var(--neon-cyan);">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+          <span style="font-size: 0.8rem; color: var(--neon-cyan); font-weight: bold; text-transform: uppercase;">ACTIVE QUEST</span>
+          <span class="stat-chip xp"><i class="fas fa-star"></i> +{{ quest.xp_reward }} XP</span>
+        </div>
+        <h2 style="font-family: var(--font-title); font-size: 1.3rem; color: #fff; margin-bottom: 0.5rem;">{{ quest.title }}</h2>
+        <p style="color: var(--text-muted); font-size: 0.85rem; margin-bottom: 1rem;">{{ quest.description }}</p>
+
+        <div style="background: rgba(0,255,157,0.05); border: 1px solid rgba(0,255,157,0.2); padding: 0.8rem; border-radius: 8px; font-size: 0.85rem;">
+          <strong style="color: var(--neon-green);"><i class="fas fa-bullseye"></i> Goal:</strong>
+          <p style="color: #fff; margin-top: 0.25rem;">{{ quest.objective }}</p>
+        </div>
+
+        <button onclick="toggleHint()" class="btn btn-outline" style="width: 100%; margin-top: 1rem; padding: 0.4rem; font-size: 0.85rem;">
+          <i class="fas fa-lightbulb"></i> Need a Hint?
+        </button>
+
+        <div id="hintBox" style="display: none; margin-top: 0.75rem; padding: 0.8rem; background: rgba(255,204,0,0.1); border: 1px dashed var(--neon-gold); border-radius: 6px; font-size: 0.85rem; color: var(--neon-gold);">
+          <i class="fas fa-info-circle"></i> {{ quest.hint }}
+        </div>
+      </div>
+    {% endif %}
+
+    <!-- VISUAL VFS TREE INSPECTOR -->
+    <div class="card">
+      <h3 style="font-family: var(--font-title); color: var(--neon-gold); font-size: 1.1rem; margin-bottom: 0.75rem; display: flex; align-items: center; justify-content: space-between;">
+        <span><i class="fas fa-folder-tree"></i> VFS File Tree</span>
+        <span style="font-size: 0.75rem; color: var(--text-muted);">Real-time</span>
+      </h3>
+      <div id="vfsTreeContainer" style="background: var(--bg-terminal); padding: 0.8rem; border-radius: 8px; border: 1px solid var(--border-subtle); max-height: 280px; overflow-y: auto; font-family: var(--font-code); font-size: 0.85rem;">
+        <!-- Dynamically rendered by TerminalEngine -->
+      </div>
+    </div>
+
+    <!-- QUEST SELECTOR -->
+    <div class="card">
+      <h4 style="font-family: var(--font-title); color: #fff; margin-bottom: 0.75rem; font-size: 1rem;"><i class="fas fa-list"></i> Select Quest:</h4>
+      <select onchange="window.location.href='/quest/' + this.value" style="width: 100%; background: var(--bg-input); border: 1px solid var(--border-color); color: #fff; padding: 0.6rem; border-radius: 6px; outline: none; font-size: 0.9rem;">
+        {% for q in all_quests %}
+          <option value="{{ q.slug }}" {% if quest and q.id == quest.id %}selected{% endif %}>
+            {{ q.title }} (+{{ q.xp_reward }} XP)
+          </option>
+        {% endfor %}
+      </select>
+    </div>
+  </div>
+
+  <!-- RIGHT SIDEBAR: QUEST TERMINAL SIMULATOR -->
+  <div>
+    <div id="questTerminalContainer"></div>
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  let questData = {% if quest %} {{ quest.initial_vfs_json | safe }} {% else %} null {% endif %};
+  let activeQuest = {% if quest %} { id: {{ quest.id }}, initial_vfs_json: '{{ quest.initial_vfs_json | safe }}' } {% else %} null {% endif %};
+
+  document.addEventListener('DOMContentLoaded', () => {
+    window.terminalInstance = new TerminalSimulator('questTerminalContainer', activeQuest);
+  });
+
+  function toggleHint() {
+    const hint = document.getElementById('hintBox');
+    if (hint) {
+      hint.style.display = hint.style.display === 'none' ? 'block' : 'none';
+    }
+  }
+</script>
+{% endblock %}

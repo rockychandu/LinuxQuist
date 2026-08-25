@@ -1,0 +1,68 @@
+{% extends 'base.html' %}
+
+{% block title %}Leaderboard — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="text-align: center; margin-bottom: 2.5rem;">
+  <h1 style="font-family: var(--font-title); font-size: 2.8rem; color: #fff;">
+    <i class="fas fa-trophy text-gold"></i> LinuxQuest Global Leaderboard
+  </h1>
+  <p style="color: var(--text-muted); max-width: 650px; margin: 0.5rem auto 0 auto;">
+    Top system administrators and shell wizards ranked by total XP and streak longevity.
+  </p>
+</div>
+
+<!-- LEADERBOARD TABLE -->
+<div class="card" style="padding: 0; overflow: hidden;">
+  <table class="leaderboard-table">
+    <thead>
+      <tr>
+        <th style="width: 80px;">Rank</th>
+        <th>Player</th>
+        <th>Level</th>
+        <th>Streak</th>
+        <th style="text-align: right;">Total XP</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for u in users %}
+        <tr style="{% if g.user and u.id == g.user.id %}background: rgba(0,243,255,0.08);{% endif %}">
+          <td class="rank-badge rank-{{ loop.index }}">
+            {% if loop.index == 1 %}
+              <i class="fas fa-crown text-gold"></i> #1
+            {% elif loop.index == 2 %}
+              <i class="fas fa-medal" style="color:#c0c0c0;"></i> #2
+            {% elif loop.index == 3 %}
+              <i class="fas fa-medal" style="color:#cd7f32;"></i> #3
+            {% else %}
+              #{{ loop.index }}
+            {% endif %}
+          </td>
+          <td>
+            <div style="display: flex; align-items: center; gap: 0.75rem;">
+              <div style="width: 38px; height: 38px; border-radius: 50%; background: rgba(0,243,255,0.1); border: 1px solid var(--neon-cyan); display: flex; align-items: center; justify-content: center; font-size: 1rem; color: var(--neon-cyan);">
+                <i class="fas fa-user-ninja"></i>
+              </div>
+              <div>
+                <strong style="color: #fff;">{{ u.username }}</strong>
+                {% if u.role == 'admin' %}
+                  <span style="font-size: 0.7rem; background: var(--neon-gold); color: #000; font-weight: bold; padding: 0.1rem 0.4rem; border-radius: 4px; margin-left: 0.4rem;">ADMIN</span>
+                {% endif %}
+              </div>
+            </div>
+          </td>
+          <td>
+            <span class="stat-chip level"><i class="fas fa-shield-alt"></i> Lvl {{ u.level }}</span>
+          </td>
+          <td>
+            <span class="stat-chip streak"><i class="fas fa-fire"></i> {{ u.streak }}d</span>
+          </td>
+          <td style="text-align: right; font-weight: 800; font-size: 1.1rem; color: var(--neon-gold);">
+            {{ u.xp }} XP
+          </td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endblock %}

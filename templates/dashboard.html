@@ -1,0 +1,124 @@
+{% extends 'base.html' %}
+
+{% block title %}Dashboard — LinuxQuest{% endblock %}
+
+{% block content %}
+<!-- WELCOME BANNER & STATS CARD -->
+<div class="card" style="margin-bottom: 2rem; background: linear-gradient(135deg, rgba(12,16,24,0.9) 0%, rgba(0,243,255,0.08) 100%);">
+  <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1.5rem;">
+    <div style="display: flex; align-items: center; gap: 1.25rem;">
+      <div style="width: 70px; height: 70px; border-radius: 50%; background: linear-gradient(135deg, var(--neon-cyan), var(--neon-purple)); padding: 3px;">
+        <div style="width: 100%; height: 100%; border-radius: 50%; background: #000; display: flex; align-items: center; justify-content: center; font-size: 2rem; color: var(--neon-cyan);">
+          <i class="fas fa-terminal"></i>
+        </div>
+      </div>
+      <div>
+        <h1 style="font-family: var(--font-title); font-size: 2.2rem; color: #fff; line-height: 1.2;">
+          Welcome, <span style="color: var(--neon-green);">{{ user.username }}</span>!
+        </h1>
+        <p style="color: var(--text-muted); font-size: 0.95rem;">
+          <i class="fas fa-shield-alt text-cyan"></i> Level {{ user.level }} Explorer &bull; <i class="fas fa-fire text-red"></i> {{ user.streak }} Day Streak
+        </p>
+      </div>
+    </div>
+
+    <div style="display: flex; gap: 1rem;">
+      <a href="{{ url_for('quests_list') }}" class="btn btn-primary"><i class="fas fa-scroll"></i> Written Quests</a>
+      <a href="{{ url_for('daily_challenge') }}" class="btn btn-outline"><i class="fas fa-calendar-check"></i> Daily Challenge</a>
+    </div>
+  </div>
+
+  <!-- XP PROGRESS BAR -->
+  <div style="margin-top: 1.75rem;">
+    <div style="display: flex; justify-content: space-between; margin-bottom: 0.5rem; font-size: 0.9rem;">
+      <span style="color: var(--neon-gold); font-weight: 600;"><i class="fas fa-star"></i> {{ user.xp }} XP</span>
+      <span style="color: var(--text-muted);">Next Level Goal: {{ next_xp }} XP</span>
+    </div>
+    {% set xp_percent = (user.xp / next_xp * 100) if next_xp > 0 else 100 %}
+    <div class="progress-bar-bg">
+      <div class="progress-bar-fill" style="width: {{ xp_percent if xp_percent <= 100 else 100 }}%;"></div>
+    </div>
+  </div>
+</div>
+
+<!-- DASHBOARD GRID -->
+<div class="grid-2" style="margin-bottom: 2rem;">
+  <!-- RECOMMENDED NEXT LESSON -->
+  <div class="card">
+    <h3 style="font-family: var(--font-title); color: var(--neon-cyan); margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem;">
+      <i class="fas fa-graduation-cap"></i> Recommended Next Lesson
+    </h3>
+    {% if next_lesson %}
+      <div style="background: rgba(255,255,255,0.03); border: 1px solid var(--border-subtle); padding: 1.25rem; border-radius: 10px;">
+        <h4 style="font-family: var(--font-title); font-size: 1.2rem; color: #fff;">{{ next_lesson.title }}</h4>
+        <p style="color: var(--text-muted); font-size: 0.9rem; margin: 0.5rem 0 1rem 0;">
+          Est. Time: {{ next_lesson.estimated_minutes }} mins &bull; Reward: +{{ next_lesson.xp_reward }} XP
+        </p>
+        <a href="{{ url_for('learn_detail', slug=next_lesson.slug) }}" class="btn btn-primary" style="padding: 0.5rem 1rem; font-size: 0.9rem;">
+          <i class="fas fa-play"></i> Start Learn Lesson Now
+        </a>
+      </div>
+    {% else %}
+      <p style="color: var(--neon-green);"><i class="fas fa-check-circle"></i> You have completed all available lessons!</p>
+    {% endif %}
+  </div>
+
+  <!-- STATS OVERVIEW -->
+  <div class="card">
+    <h3 style="font-family: var(--font-title); color: var(--neon-green); margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem;">
+      <i class="fas fa-chart-line"></i> Learning Statistics
+    </h3>
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem; text-align: center;">
+      <div style="background: rgba(0,243,255,0.05); border: 1px solid rgba(0,243,255,0.2); padding: 1rem; border-radius: 10px;">
+        <div style="font-size: 1.8rem; font-weight: 800; color: var(--neon-cyan);">{{ completed_lessons }} / {{ total_lessons }}</div>
+        <div style="font-size: 0.85rem; color: var(--text-muted);">Lessons Completed</div>
+      </div>
+      <div style="background: rgba(0,255,157,0.05); border: 1px solid rgba(0,255,157,0.2); padding: 1rem; border-radius: 10px;">
+        <div style="font-size: 1.8rem; font-weight: 800; color: var(--neon-green);">{{ completed_quests }}</div>
+        <div style="font-size: 0.85rem; color: var(--text-muted);">Quests Solved</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- RECENT ACTIVITY FEED & BADGES PREVIEW -->
+<div class="grid-2">
+  <!-- RECENT XP ACTIVITIES -->
+  <div class="card">
+    <h3 style="font-family: var(--font-title); color: #fff; margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem;">
+      <i class="fas fa-history text-gold"></i> Recent Activity Feed
+    </h3>
+    {% if activities %}
+      <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+        {% for act in activities %}
+          <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.6rem 0.8rem; background: rgba(255,255,255,0.02); border-radius: 6px; border-left: 3px solid var(--neon-cyan);">
+            <div>
+              <div style="font-weight: 600; font-size: 0.9rem;">{{ act.description }}</div>
+              <div style="font-size: 0.75rem; color: var(--text-muted);">{{ act.created_at }}</div>
+            </div>
+            <span style="color: var(--neon-gold); font-weight: bold;">+{{ act.amount }} XP</span>
+          </div>
+        {% endfor %}
+      </div>
+    {% else %}
+      <p style="color: var(--text-muted);">No activity recorded yet. Start a lesson!</p>
+    {% endif %}
+  </div>
+
+  <!-- ACHIEVEMENTS PREVIEW -->
+  <div class="card">
+    <h3 style="font-family: var(--font-title); color: #fff; margin-bottom: 1rem; display: flex; align-items: center; justify-content: space-between;">
+      <span><i class="fas fa-award text-purple"></i> Achievements</span>
+      <a href="{{ url_for('achievements') }}" style="font-size: 0.85rem;">View All &rarr;</a>
+    </h3>
+    <div class="badge-grid" style="grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));">
+      {% for ach in achievements %}
+        <div class="badge-card {% if ach.unlocked_at %}unlocked{% endif %}" style="padding: 0.8rem;">
+          <i class="fas {{ ach.icon }} badge-icon" style="font-size: 1.6rem;"></i>
+          <div style="font-size: 0.75rem; font-weight: bold; margin-top: 0.2rem;">{{ ach.title }}</div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endblock %}

@@ -1,0 +1,29 @@
+{
+  "name": "linuxquest",
+  "version": "2.4.0",
+  "description": "Interactive Linux Learning & Gamification Platform",
+  "main": "app.py",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "python app.py",
+    "seed": "python seed_data.py",
+    "test": "python -m unittest discover tests"
+  },
+  "keywords": [
+    "linux",
+    "terminal",
+    "learning",
+    "gamification",
+    "python",
+    "flask"
+  ],
+  "author": "LinuxQuest Team",
+  "dependencies": {
+    "flask": "^3.0.3",
+    "werkzeug": "^3.0.3"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

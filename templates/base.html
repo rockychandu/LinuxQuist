@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}LinuxQuest — Master Linux, Complete Quests, Become a Legend{% endblock %}</title>
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  {% block extra_css %}{% endblock %}
+</head>
+<body>
+
+  <!-- TOP NAVBAR -->
+  <nav class="navbar">
+    <a href="{{ url_for('index') }}" class="brand-logo">
+      <i class="fas fa-terminal"></i> <span class="brand-text">LinuxQuest</span>
+    </a>
+
+    <ul class="top-nav-links">
+      <li><a href="{{ url_for('quests_list') }}"><i class="fas fa-scroll"></i> Quests</a></li>
+      <li><a href="{{ url_for('quizzes_list') }}"><i class="fas fa-question-circle"></i> 10 Quiz Levels</a></li>
+      <li><a href="{{ url_for('certificate') }}"><i class="fas fa-certificate text-gold"></i> Certificate</a></li>
+    </ul>
+
+    <div class="user-nav-widget">
+      {% if g.user %}
+        <div class="stat-chip xp"><i class="fas fa-star"></i> {{ g.user.xp }} XP</div>
+        <div class="stat-chip streak"><i class="fas fa-fire"></i> {{ g.user.streak }}d</div>
+        <div class="stat-chip level"><i class="fas fa-shield-alt"></i> Lvl {{ g.user.level }}</div>
+        
+        <a href="{{ url_for('dashboard') }}" class="btn btn-outline" style="padding: 0.4rem 0.8rem; font-size: 0.85rem;">
+          <i class="fas fa-user"></i> {{ g.user.username }}
+        </a>
+        
+        {% if g.user.role == 'admin' %}
+          <a href="{{ url_for('admin_dashboard') }}" class="btn btn-outline" style="border-color: var(--neon-gold); color: var(--neon-gold); padding: 0.4rem 0.8rem; font-size: 0.85rem;">
+            <i class="fas fa-cog"></i> Admin
+          </a>
+        {% endif %}
+
+        <!-- PROMINENT LOGOUT BUTTON -->
+        <a href="{{ url_for('logout') }}" class="btn btn-outline" style="border-color: var(--neon-red); color: var(--neon-red); padding: 0.4rem 0.8rem; font-size: 0.85rem;" title="Logout of Account">
+          <i class="fas fa-sign-out-alt"></i> Logout
+        </a>
+      {% else %}
+        <a href="{{ url_for('login') }}" class="btn btn-outline">Login</a>
+        <a href="{{ url_for('register') }}" class="btn btn-primary">Start Quest</a>
+      {% endif %}
+    </div>
+  </nav>
+
+  <!-- APP LAYOUT (TOP + SIDEBAR) -->
+  <div class="app-layout">
+    <!-- LEFT SIDEBAR -->
+    <aside class="sidebar">
+      <div class="sidebar-title">LEARNING HUB</div>
+      <a href="{{ url_for('learn_list') }}" class="sidebar-link"><i class="fas fa-book-open"></i> Learn Linux (10)</a>
+      <a href="{{ url_for('levels') }}" class="sidebar-link"><i class="fas fa-sitemap"></i> 20 Levels Roadmap</a>
+      <a href="{{ url_for('quests_list') }}" class="sidebar-link"><i class="fas fa-scroll"></i> Written Quests</a>
+      <a href="{{ url_for('quizzes_list') }}" class="sidebar-link"><i class="fas fa-question-circle"></i> 10 Quiz Levels</a>
+
+      <div class="sidebar-title">ANALYTICS & SOCIAL</div>
+      <a href="{{ url_for('performance') }}" class="sidebar-link"><i class="fas fa-chart-bar"></i> Performance</a>
+      <a href="{{ url_for('friends') }}" class="sidebar-link"><i class="fas fa-user-friends"></i> Friends</a>
+      <a href="{{ url_for('leaderboard') }}" class="sidebar-link"><i class="fas fa-trophy"></i> Leaderboard</a>
+      <a href="{{ url_for('achievements') }}" class="sidebar-link"><i class="fas fa-award"></i> Badges</a>
+    </aside>
+
+    <!-- MAIN CONTENT -->
+    <main class="main-content">
+      {% block content %}{% endblock %}
+    </main>
+  </div>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <p>&copy; 2026 <strong>LinuxQuest Platform</strong>. 20 Levels Roadmap &bull; Learn Hub &bull; Friends System.</p>
+  </footer>
+
+  <!-- JS SCRIPTS -->
+  <script src="{{ url_for('static', filename='js/audio_engine.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/terminal_engine.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+  {% block extra_js %}{% endblock %}
+
+</body>
+</html>

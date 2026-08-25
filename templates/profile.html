@@ -1,0 +1,63 @@
+{% extends 'base.html' %}
+
+{% block title %}Player Profile — LinuxQuest{% endblock %}
+
+{% block content %}
+<div class="card" style="margin-bottom: 2rem; background: linear-gradient(135deg, rgba(12,16,24,0.95) 0%, rgba(176,38,255,0.06) 100%); border-color: rgba(176,38,255,0.3);">
+  <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 1.5rem;">
+    <div style="display: flex; align-items: center; gap: 1.5rem;">
+      <div style="width: 80px; height: 80px; border-radius: 50%; background: linear-gradient(135deg, var(--neon-purple), var(--neon-cyan)); padding: 3px;">
+        <div style="width: 100%; height: 100%; border-radius: 50%; background: #000; display: flex; align-items: center; justify-content: center; font-size: 2.5rem; color: var(--neon-cyan);">
+          <i class="fas fa-terminal"></i>
+        </div>
+      </div>
+      <div>
+        <h1 style="font-family: var(--font-title); font-size: 2.4rem; color: #fff;">{{ user.username }}</h1>
+        <p style="color: var(--text-muted); font-size: 0.95rem;">{{ user.bio }}</p>
+        <div style="display: flex; gap: 0.75rem; margin-top: 0.5rem;">
+          <span class="stat-chip level"><i class="fas fa-shield-alt"></i> Level {{ user.level }}</span>
+          <span class="stat-chip xp"><i class="fas fa-star"></i> {{ user.xp }} XP</span>
+          <span class="stat-chip streak"><i class="fas fa-fire"></i> {{ user.streak }} Day Streak</span>
+        </div>
+      </div>
+    </div>
+
+    <a href="{{ url_for('settings') }}" class="btn btn-outline"><i class="fas fa-cog"></i> Account Settings</a>
+  </div>
+</div>
+
+<div class="grid-2">
+  <!-- USER ACHIEVEMENTS -->
+  <div class="card">
+    <h3 style="font-family: var(--font-title); color: #fff; margin-bottom: 1rem;"><i class="fas fa-award text-purple"></i> Unlocked Badges ({{ user_achievements|length }})</h3>
+    {% if user_achievements %}
+      <div class="badge-grid" style="grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));">
+        {% for ach in user_achievements %}
+          <div class="badge-card unlocked" style="padding: 0.8rem;">
+            <i class="fas {{ ach.icon }} badge-icon" style="font-size: 1.8rem;"></i>
+            <div style="font-size: 0.8rem; font-weight: bold;">{{ ach.title }}</div>
+          </div>
+        {% endfor %}
+      </div>
+    {% else %}
+      <p style="color: var(--text-muted);">No badges unlocked yet.</p>
+    {% endif %}
+  </div>
+
+  <!-- ACTIVITY LOG -->
+  <div class="card">
+    <h3 style="font-family: var(--font-title); color: #fff; margin-bottom: 1rem;"><i class="fas fa-history text-cyan"></i> XP Activity Log</h3>
+    <div style="display: flex; flex-direction: column; gap: 0.6rem;">
+      {% for act in activities %}
+        <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.6rem 0.8rem; background: rgba(255,255,255,0.02); border-radius: 6px; border-left: 3px solid var(--neon-cyan);">
+          <div>
+            <div style="font-weight: 600; font-size: 0.9rem;">{{ act.description }}</div>
+            <div style="font-size: 0.75rem; color: var(--text-muted);">{{ act.created_at }}</div>
+          </div>
+          <span style="color: var(--neon-gold); font-weight: bold;">+{{ act.amount }} XP</span>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endblock %}

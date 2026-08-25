@@ -1,0 +1,93 @@
+{% extends 'base.html' %}
+
+{% block title %}Performance Analytics — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="margin-bottom: 2rem;">
+  <h1 style="font-family: var(--font-title); font-size: 2.6rem; color: #fff;">
+    <i class="fas fa-chart-bar text-orange"></i> Performance Analytics
+  </h1>
+  <p style="color: var(--text-muted);">Track your quiz accuracy, quest execution rates, and topic mastery velocity.</p>
+</div>
+
+<!-- PERFORMANCE METRICS GRID -->
+<div class="grid-3" style="margin-bottom: 2rem;">
+  <div class="card" style="border-left: 4px solid var(--neon-orange);">
+    <div style="font-size: 2.5rem; font-weight: 800; color: var(--neon-orange);">{{ avg_quiz_score }}%</div>
+    <div style="color: var(--text-muted); font-size: 0.9rem;">Average Quiz Accuracy</div>
+  </div>
+
+  <div class="card" style="border-left: 4px solid var(--neon-pink);">
+    <div style="font-size: 2.5rem; font-weight: 800; color: var(--neon-pink);">{{ quests_count }}</div>
+    <div style="color: var(--text-muted); font-size: 0.9rem;">Written Quests Completed</div>
+  </div>
+
+  <div class="card" style="border-left: 4px solid var(--neon-gold);">
+    <div style="font-size: 2.5rem; font-weight: 800; color: var(--neon-gold);">{{ learn_count }} / 10</div>
+    <div style="color: var(--text-muted); font-size: 0.9rem;">Learn Tutorials Mastered</div>
+  </div>
+</div>
+
+<div class="grid-2">
+  <!-- RECENT QUIZ ATTEMPTS HISTORY -->
+  <div class="card">
+    <h3 style="font-family: var(--font-title); color: #fff; margin-bottom: 1rem;"><i class="fas fa-history text-gold"></i> Quiz Attempt Scores</h3>
+    {% if quiz_attempts %}
+      <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+        {% for qa in quiz_attempts %}
+          <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 1rem; background: rgba(255,255,255,0.02); border-radius: 8px; border-left: 3px solid {% if qa.passed %}var(--neon-gold){% else %}var(--neon-red){% endif %};">
+            <div>
+              <div style="font-weight: 600; font-size: 0.95rem;">Quiz Evaluation #{{ qa.quiz_id }}</div>
+              <div style="font-size: 0.8rem; color: var(--text-muted);">{{ qa.completed_at }}</div>
+            </div>
+            <span style="font-weight: bold; font-size: 1.1rem; color: {% if qa.passed %}var(--neon-gold){% else %}var(--neon-red){% endif %};">
+              {{ qa.score }}%
+            </span>
+          </div>
+        {% endfor %}
+      </div>
+    {% else %}
+      <p style="color: var(--text-muted);">No quiz attempts recorded yet. Take a quiz to view performance stats!</p>
+    {% endif %}
+  </div>
+
+  <!-- CATEGORY MASTERY STRENGTHS -->
+  <div class="card">
+    <h3 style="font-family: var(--font-title); color: #fff; margin-bottom: 1rem;"><i class="fas fa-bullseye text-pink"></i> Category Mastery Breakdown</h3>
+    
+    <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+      <div>
+        <div style="display: flex; justify-content: space-between; font-size: 0.9rem; margin-bottom: 0.3rem;">
+          <span style="color: var(--text-main);">File Navigation & Commands (ls, cd, pwd)</span>
+          <span style="color: var(--neon-orange); font-weight: bold;">88%</span>
+        </div>
+        <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 88%;"></div></div>
+      </div>
+
+      <div>
+        <div style="display: flex; justify-content: space-between; font-size: 0.9rem; margin-bottom: 0.3rem;">
+          <span style="color: var(--text-main);">File Permissions & Security (chmod, sudo)</span>
+          <span style="color: var(--neon-pink); font-weight: bold;">75%</span>
+        </div>
+        <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 75%;"></div></div>
+      </div>
+
+      <div>
+        <div style="display: flex; justify-content: space-between; font-size: 0.9rem; margin-bottom: 0.3rem;">
+          <span style="color: var(--text-main);">Process Management & Signals (ps, top, kill)</span>
+          <span style="color: var(--neon-gold); font-weight: bold;">80%</span>
+        </div>
+        <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 80%;"></div></div>
+      </div>
+
+      <div>
+        <div style="display: flex; justify-content: space-between; font-size: 0.9rem; margin-bottom: 0.3rem;">
+          <span style="color: var(--text-main);">Networking & Diagnostics (ping, curl, ip)</span>
+          <span style="color: var(--neon-purple); font-weight: bold;">65%</span>
+        </div>
+        <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 65%;"></div></div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

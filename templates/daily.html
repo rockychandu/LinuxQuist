@@ -1,0 +1,40 @@
+{% extends 'base.html' %}
+
+{% block title %}Daily Linux Challenge — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="max-width: 680px; margin: 2rem auto;">
+  <div class="card" style="text-align: center; border-color: var(--neon-gold); background: linear-gradient(135deg, rgba(12,16,24,0.95) 0%, rgba(255,204,0,0.06) 100%);">
+    <div style="font-family: var(--font-code); color: var(--neon-gold); font-size: 0.9rem; font-weight: bold; margin-bottom: 0.5rem; text-transform: uppercase;">
+      <i class="fas fa-calendar-day"></i> DAILY MISSION FOR {{ challenge.date_str if challenge else 'TODAY' }}
+    </div>
+
+    <h1 style="font-family: var(--font-title); font-size: 2.4rem; color: #fff; margin-bottom: 0.75rem;">
+      {{ challenge.title if challenge else 'Daily System Audit' }}
+    </h1>
+
+    <p style="color: var(--text-muted); font-size: 1.05rem; max-width: 550px; margin: 0 auto 1.5rem auto;">
+      {{ challenge.description if challenge else 'Complete today\'s special Linux challenge to maintain your streak and earn bonus XP!' }}
+    </p>
+
+    <div style="display: inline-flex; gap: 1rem; margin-bottom: 2rem;">
+      <span class="stat-chip xp" style="padding: 0.5rem 1rem; font-size: 1rem;"><i class="fas fa-star"></i> Bonus +{{ challenge.bonus_xp if challenge else 150 }} XP</span>
+      <span class="stat-chip streak" style="padding: 0.5rem 1rem; font-size: 1rem;"><i class="fas fa-fire"></i> Keep Your Streak Active</span>
+    </div>
+
+    {% if is_completed %}
+      <div style="background: rgba(0,255,157,0.1); border: 1px solid var(--neon-green); color: var(--neon-green); padding: 1rem; border-radius: 8px; font-weight: bold;">
+        <i class="fas fa-check-circle"></i> Today's Daily Challenge Completed! Return tomorrow for a new mission.
+      </div>
+    {% else %}
+      {% if challenge %}
+        <div>
+          <a href="{{ url_for('quest_detail', slug=challenge.quest_slug) }}" class="btn btn-primary btn-large" style="padding: 0.8rem 2rem;">
+            <i class="fas fa-edit"></i> Write Daily Command Test
+          </a>
+        </div>
+      {% endif %}
+    {% endif %}
+  </div>
+</div>
+{% endblock %}

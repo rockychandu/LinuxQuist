@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+node_modules/
+.next/
+dist/
+build/
+
+.env
+.env.*
+!.env.example
+
+*.log
+linuxquest.db
+
+.DS_Store
+Thumbs.db

@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block title %}Achievements & Badges — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="text-align: center; margin-bottom: 3rem;">
+  <h1 style="font-family: var(--font-title); font-size: 2.8rem; color: #fff;">
+    <i class="fas fa-award text-purple"></i> Achievement Hall of Fame
+  </h1>
+  <p style="color: var(--text-muted); max-width: 650px; margin: 0.5rem auto 0 auto;">
+    Unlock badges by completing terminal quests, maintaining daily streaks, passing quizzes, and leveling up.
+  </p>
+</div>
+
+<div class="badge-grid" style="grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));">
+  {% for ach in achievements %}
+    {% set is_unlocked = ach.id in unlocked_map %}
+    <div class="card badge-card {% if is_unlocked %}unlocked{% endif %}">
+      <i class="fas {{ ach.icon }} badge-icon"></i>
+      <h3 style="font-family: var(--font-title); font-size: 1.15rem; color: #fff; margin-bottom: 0.25rem;">{{ ach.title }}</h3>
+      <p style="color: var(--text-muted); font-size: 0.85rem; margin-bottom: 0.75rem;">{{ ach.description }}</p>
+
+      {% if is_unlocked %}
+        <div style="color: var(--neon-gold); font-size: 0.8rem; font-weight: bold;">
+          <i class="fas fa-check-circle"></i> Unlocked {{ unlocked_map[ach.id] }}
+        </div>
+      {% else %}
+        <div style="color: var(--text-muted); font-size: 0.8rem;">
+          <i class="fas fa-lock"></i> Reward: +{{ ach.xp_reward }} XP
+        </div>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
+{% endblock %}

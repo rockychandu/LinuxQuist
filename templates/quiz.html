@@ -1,0 +1,43 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ quiz.title }} — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="max-width: 750px; margin: 2rem auto;">
+  <div class="card">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
+      <a href="{{ url_for('quizzes_list') }}" style="color: var(--neon-cyan); font-size: 0.9rem;">&larr; Back to Quizzes</a>
+      <span class="stat-chip xp"><i class="fas fa-star"></i> +{{ quiz.xp_reward }} XP Reward</span>
+    </div>
+
+    <h1 style="font-family: var(--font-title); font-size: 2.2rem; color: #fff; margin-bottom: 0.5rem;">{{ quiz.title }}</h1>
+    <p style="color: var(--text-muted); margin-bottom: 2rem;">Select the correct answer for each question below:</p>
+
+    <!-- RESULT NOTIFICATION BOX -->
+    <div id="quizResultBox" style="display: none; margin-bottom: 2rem;"></div>
+
+    <form id="quizForm" onsubmit="event.preventDefault(); submitQuizForm({{ quiz.id }});">
+      {% for q in questions %}
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid var(--border-subtle); padding: 1.25rem; border-radius: 10px; margin-bottom: 1.5rem;">
+          <h3 style="font-size: 1.1rem; color: #fff; margin-bottom: 1rem; display: flex; gap: 0.5rem;">
+            <span style="color: var(--neon-cyan); font-family: var(--font-code);">Q{{ loop.index }}.</span> {{ q.question }}
+          </h3>
+
+          <div style="display: flex; flex-direction: column; gap: 0.75rem;">
+            {% for opt in q.options %}
+              <label style="display: flex; align-items: center; gap: 0.75rem; background: rgba(0,0,0,0.4); border: 1px solid var(--border-color); padding: 0.8rem 1rem; border-radius: 8px; cursor: pointer; transition: all 0.2s ease;">
+                <input type="radio" name="{{ q.id }}" value="{{ loop.index0 }}" required style="accent-color: var(--neon-cyan);">
+                <span style="color: var(--text-main); font-size: 0.95rem;">{{ opt }}</span>
+              </label>
+            {% endfor %}
+          </div>
+        </div>
+      {% endfor %}
+
+      <button type="submit" class="btn btn-success btn-large" style="width: 100%; padding: 0.9rem; font-size: 1.1rem;">
+        <i class="fas fa-paper-plane"></i> Submit Quiz & Claim XP
+      </button>
+    </form>
+  </div>
+</div>
+{% endblock %}
