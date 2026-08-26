@@ -432,11 +432,19 @@ class TerminalSimulator {
   cmdMkdir(args) {
     const path = args.find(a => !a.startsWith('-'));
     if (!path) {
-      this.writeLine('mkdir: missing operand');
+      this.writeLine('mkdir: missing operand', 'text-red');
       return;
     }
-    this.vfs.createDirectory(path, this.cwd);
+
+    const created = this.vfs.createDirectory(path, this.cwd);
+
+    if (!created) {
+      this.writeLine(`mkdir: cannot create directory '${path}'`, 'text-red');
+      return;
+    }
+
     this.updateVFSInspector();
+    this.writeLine(`Created directory: ${path}`, 'text-green');
   }
 
   cmdRm(args) {
