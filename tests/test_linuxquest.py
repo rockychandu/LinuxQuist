@@ -8799,4 +8799,6 @@ class TestLinuxQuestScenarios(unittest.TestCase):
     def test_progression_scenario_2199(self):
         lvl = calculate_level(87960)
         self.assertGreaterEqual(lvl, 1)
-
+    def test_application_module_imports(self):
+        import app
+        self.assertIsNotNone(app)
