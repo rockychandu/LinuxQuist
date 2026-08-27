@@ -6,10 +6,27 @@ import hashlib
 from datetime import datetime, date, timedelta
 from flask import Flask, render_template, request, jsonify, redirect, url_for, session, g
 from werkzeug.security import generate_password_hash, check_password_hash
-from database import get_db
+from werkzeug.middleware.proxy_fix import ProxyFix
+from database import get_db, init_db
+from seed_data import seed_database
 
 app = Flask(__name__)
+app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=1, x_port=1, x_prefix=1)
 app.secret_key = os.environ.get('SECRET_KEY', 'linuxquest-secret-key-cyber-2026')
+app.config['PREFERRED_URL_SCHEME'] = os.environ.get('PREFERRED_URL_SCHEME', 'https')
+
+def ensure_db_initialized():
+    try:
+        init_db()
+        db = get_db()
+        lessons_count = db.execute("SELECT COUNT(*) as c FROM learn_lessons;").fetchone()['c']
+        db.close()
+        if lessons_count == 0:
+            seed_database()
+    except Exception as e:
+        print(f"[!] DB Init note: {e}")
+
+ensure_db_initialized()
 
 # 20 Levels XP Thresholds
 LEVEL_THRESHOLDS = [
@@ -73,12 +90,24 @@ def check_and_award_achievements(db, user_id):
 
 @app.before_request
 def load_logged_in_user():
+    # Force HTTPS redirect when requested over HTTP behind a proxy or in production
+    if not request.is_secure and request.headers.get('X-Forwarded-Proto') == 'http':
+        if os.environ.get('FLASK_ENV') == 'production' or os.environ.get('FORCE_HTTPS') == '1':
+            url = request.url.replace('http://', 'https://', 1)
+            return redirect(url, code=301)
+
     g.db = get_db()
     user_id = session.get('user_id')
     if user_id is None:
         g.user = None
     else:
         g.user = g.db.execute("SELECT * FROM users WHERE id = ?", (user_id,)).fetchone()
+
+@app.after_request
+def add_security_headers(response):
+    if request.is_secure or request.headers.get('X-Forwarded-Proto') == 'https':
+        response.headers['Strict-Transport-Security'] = 'max-age=31536000; includeSubDomains'
+    return response
 
 @app.teardown_request
 def close_db(exception):
@@ -499,8 +528,9 @@ def admin_dashboard():
 # --- REST APIs ---
 
 @app.route('/api/learn/<int:lesson_id>/complete', methods=['POST'])
-@login_required
 def api_complete_learn_lesson(lesson_id):
+    if g.user is None:
+        return jsonify({'success': False, 'error': 'Authentication required'}), 401
     lesson = g.db.execute("SELECT * FROM learn_lessons WHERE id = ?", (lesson_id,)).fetchone()
     if not lesson:
         return jsonify({'success': False, 'error': 'Lesson not found'}), 404

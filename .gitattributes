@@ -1,0 +1,6 @@
+# GitHub Linguist Overrides
+*.py linguist-language=Python
+python_db/*.py linguist-language=Python
+tests/*.py linguist-language=Python
+static/js/* linguist-vendored=true
+static/css/* linguist-vendored=true
