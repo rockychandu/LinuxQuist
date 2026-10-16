@@ -1,0 +1,308 @@
+{% extends 'base.html' %}
+
+{% block title %}Terminal Speedrun Arena — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="margin-bottom: 2rem;">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+    <div>
+      <span class="badge" style="background: rgba(255,94,54,0.15); color: var(--neon-orange); border: 1px solid var(--neon-orange); padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.8rem; font-weight: bold;">
+        <i class="fas fa-bolt"></i> HIGH OCTANE CHALLENGE
+      </span>
+      <h1 style="font-family: var(--font-title); font-size: 2rem; color: #fff; margin: 0.5rem 0 0.25rem 0;">
+        Terminal Speedrun Arena
+      </h1>
+      <p style="color: var(--text-muted); font-size: 0.95rem;">
+        Race against the clock to execute consecutive Linux commands. Score multipliers, gain massive XP, and top the leaderboard!
+      </p>
+    </div>
+
+    <!-- HUD STATS -->
+    <div style="display: flex; gap: 1rem; align-items: center;">
+      <div class="card" style="padding: 0.5rem 1.2rem; text-align: center; border-color: var(--neon-cyan);">
+        <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Time Left</div>
+        <div id="speedrunTimer" style="font-family: var(--font-code); font-size: 1.8rem; font-weight: bold; color: var(--neon-cyan);">00:45</div>
+      </div>
+      <div class="card" style="padding: 0.5rem 1.2rem; text-align: center; border-color: var(--neon-gold);">
+        <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Score</div>
+        <div id="speedrunScore" style="font-family: var(--font-code); font-size: 1.8rem; font-weight: bold; color: var(--neon-gold);">0</div>
+      </div>
+      <div class="card" style="padding: 0.5rem 1.2rem; text-align: center; border-color: var(--neon-green);">
+        <div style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Streak</div>
+        <div id="speedrunStreak" style="font-family: var(--font-code); font-size: 1.8rem; font-weight: bold; color: var(--neon-green);">0x</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ARENA LAYOUT -->
+<div class="grid-2" style="grid-template-columns: 360px 1fr; gap: 1.5rem; align-items: start;">
+  <!-- LEFT PANEL: OBJECTIVES & CONTROLS -->
+  <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+    <!-- MISSION CONTROL -->
+    <div class="card" style="border-left: 4px solid var(--neon-orange);">
+      <h3 style="font-family: var(--font-title); font-size: 1.1rem; color: #fff; margin-bottom: 0.5rem;">
+        <i class="fas fa-flag-checkered"></i> Speedrun Controls
+      </h3>
+      <div style="margin-bottom: 1rem;">
+        <label style="font-size: 0.8rem; color: var(--text-muted); display: block; margin-bottom: 0.3rem;">Select Difficulty:</label>
+        <select id="diffSelector" style="width: 100%; background: #0f172a; border: 1px solid var(--border-color); color: #fff; padding: 0.6rem; border-radius: 6px; outline: none; font-size: 0.9rem;">
+          <option value="sprint">Novice Sprint (3 Missions, 45s) &bull; +150 XP</option>
+          <option value="blitz" selected>DevOps Blitz (5 Missions, 60s) &bull; +300 XP</option>
+          <option value="hardcore">Kernel Hardcore (7 Missions, 90s) &bull; +500 XP</option>
+        </select>
+      </div>
+
+      <button id="startSpeedrunBtn" onclick="startSpeedrun()" class="btn btn-primary" style="width: 100%; padding: 0.75rem; font-size: 1rem; font-weight: bold; display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
+        <i class="fas fa-play"></i> START SPEEDRUN
+      </button>
+    </div>
+
+    <!-- CURRENT MISSION CARD -->
+    <div class="card" id="missionCard">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+        <span style="font-size: 0.75rem; color: var(--neon-cyan); font-weight: bold; text-transform: uppercase;" id="missionStage">MISSION 1 / 5</span>
+        <span class="badge" style="background: rgba(0,255,157,0.15); color: var(--neon-green); font-size: 0.75rem; padding: 2px 6px; border-radius: 3px;" id="missionPoints">+100 pts</span>
+      </div>
+      <h3 id="missionTitle" style="color: #fff; font-size: 1.15rem; margin-bottom: 0.5rem;">
+        Prepare for Launch
+      </h3>
+      <p id="missionDesc" style="color: var(--text-muted); font-size: 0.85rem; line-height: 1.4; margin-bottom: 1rem;">
+        Press "START SPEEDRUN" to begin the countdown timer. You must execute each command accurately in the terminal.
+      </p>
+
+      <div style="background: rgba(0,243,255,0.06); border: 1px solid rgba(0,243,255,0.2); padding: 0.75rem; border-radius: 6px; font-size: 0.85rem;">
+        <strong style="color: var(--neon-cyan);"><i class="fas fa-terminal"></i> Required Action:</strong>
+        <div id="missionTarget" style="color: #fff; font-family: var(--font-code); margin-top: 0.3rem;">
+          Waiting for start...
+        </div>
+      </div>
+    </div>
+
+    <!-- LIVE LEADERBOARD PREVIEW -->
+    <div class="card">
+      <h3 style="font-family: var(--font-title); font-size: 1rem; color: var(--neon-gold); margin-bottom: 0.75rem;">
+        <i class="fas fa-trophy"></i> Top Speedrunners
+      </h3>
+      <div style="display: flex; flex-direction: column; gap: 0.6rem; font-size: 0.85rem;">
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <span><strong style="color: var(--neon-gold);">#1</strong> root_wizard</span>
+          <span style="color: var(--neon-cyan); font-family: var(--font-code);">1,840 pts (28s)</span>
+        </div>
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <span><strong style="color: #cbd5e1);">#2</strong> bash_ninja</span>
+          <span style="color: var(--neon-cyan); font-family: var(--font-code);">1,620 pts (34s)</span>
+        </div>
+        <div style="display: flex; justify-content: space-between; align-items: center;">
+          <span><strong style="color: #cd7f32);">#3</strong> cyber_hero</span>
+          <span style="color: var(--neon-cyan); font-family: var(--font-code);">1,450 pts (41s)</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- RIGHT PANEL: SPEEDRUN TERMINAL SIMULATOR -->
+  <div style="display: flex; flex-direction: column; gap: 1rem;">
+    <div id="speedrunTerminalContainer"></div>
+  </div>
+</div>
+
+<!-- COMPLETION MODAL -->
+<div id="speedrunResultModal" style="display:none; position:fixed; top:0; left:0; width:100vw; height:100vh; background:rgba(0,0,0,0.85); z-index:9999; justify-content:center; align-items:center;">
+  <div class="card" style="width:90%; max-width:480px; text-align:center; border:2px solid var(--neon-gold); padding:2rem; box-shadow:0 0 40px rgba(255,190,11,0.3);">
+    <i class="fas fa-award text-gold" style="font-size:3.5rem; margin-bottom:1rem;"></i>
+    <h2 style="font-family:var(--font-title); font-size:1.8rem; color:#fff; margin-bottom:0.5rem;" id="resHeading">SPEEDRUN COMPLETED!</h2>
+    <p style="color:var(--text-muted); font-size:0.95rem; margin-bottom:1.5rem;" id="resSubheading">Incredible reflexes and command precision!</p>
+
+    <div style="display:grid; grid-template-columns:1fr 1fr; gap:1rem; margin-bottom:1.5rem;">
+      <div style="background:#0f172a; padding:1rem; border-radius:8px; border:1px solid var(--border-color);">
+        <div style="font-size:0.75rem; color:var(--text-muted);">FINAL SCORE</div>
+        <div id="resFinalScore" style="font-family:var(--font-code); font-size:1.6rem; color:var(--neon-gold); font-weight:bold;">1,250</div>
+      </div>
+      <div style="background:#0f172a; padding:1rem; border-radius:8px; border:1px solid var(--border-color);">
+        <div style="font-size:0.75rem; color:var(--text-muted);">XP EARNED</div>
+        <div id="resXpEarned" style="font-family:var(--font-code); font-size:1.6rem; color:var(--neon-green); font-weight:bold;">+300 XP</div>
+      </div>
+    </div>
+
+    <button onclick="closeResultModal()" class="btn btn-primary" style="width:100%; padding:0.75rem; font-weight:bold;">
+      Play Again
+    </button>
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  const MISSIONS = [
+    {
+      title: "Create Workspace Directory",
+      desc: "Create a new folder called 'speed_lab' in your current directory.",
+      target: "mkdir speed_lab",
+      check: (vfs) => vfs.getNode('/home/hero/speed_lab') !== null
+    },
+    {
+      title: "Set Secure Key Permissions",
+      desc: "Touch a file named 'id_rsa' and configure permissions to 600.",
+      target: "touch id_rsa && chmod 600 id_rsa",
+      check: (vfs) => {
+        const n = vfs.getNode('/home/hero/id_rsa');
+        return n && n.perm === 'rw-------';
+      }
+    },
+    {
+      title: "Filter Error Logs",
+      desc: "Search for 'CRITICAL' in /var/log/syslog and redirect output to error_dump.txt",
+      target: "grep CRITICAL /var/log/syslog > error_dump.txt",
+      check: (vfs) => {
+        const n = vfs.getNode('/home/hero/error_dump.txt');
+        return n && n.content && n.content.includes('CRITICAL');
+      }
+    },
+    {
+      title: "Neutralize Rogue Process",
+      desc: "Terminate the rogue background daemon with PID 1337.",
+      target: "kill 1337",
+      check: (vfs, term) => !term.processes.some(p => p.pid === 1337)
+    },
+    {
+      title: "System Audit Summary",
+      desc: "Append current host uptime to notes.txt",
+      target: "uptime >> notes.txt",
+      check: (vfs) => {
+        const n = vfs.getNode('/home/hero/notes.txt');
+        return n && n.content && (n.content.includes('load average') || n.content.includes('up'));
+      }
+    }
+  ];
+
+  let currentMissionIdx = 0;
+  let score = 0;
+  let streak = 0;
+  let timeLeft = 60;
+  let timerInterval = null;
+  let isRunning = false;
+
+  function startSpeedrun() {
+    currentMissionIdx = 0;
+    score = 0;
+    streak = 0;
+    isRunning = true;
+
+    const diff = document.getElementById('diffSelector').value;
+    timeLeft = diff === 'sprint' ? 45 : diff === 'blitz' ? 60 : 90;
+
+    document.getElementById('startSpeedrunBtn').disabled = true;
+    document.getElementById('startSpeedrunBtn').innerText = "RUNNING...";
+
+    updateHUD();
+    loadCurrentMission();
+
+    if (timerInterval) clearInterval(timerInterval);
+    timerInterval = setInterval(() => {
+      timeLeft--;
+      updateHUD();
+      if (timeLeft <= 0) {
+        endSpeedrun(false);
+      }
+    }, 1000);
+
+    if (window.soundEngine) window.soundEngine.playCommandChime();
+  }
+
+  function updateHUD() {
+    const min = Math.floor(timeLeft / 60);
+    const sec = timeLeft % 60;
+    document.getElementById('speedrunTimer').innerText = `${min.toString().padStart(2, '0')}:${sec.toString().padStart(2, '0')}`;
+    document.getElementById('speedrunScore').innerText = score;
+    document.getElementById('speedrunStreak').innerText = `${streak}x`;
+  }
+
+  function loadCurrentMission() {
+    if (currentMissionIdx >= MISSIONS.length) {
+      endSpeedrun(true);
+      return;
+    }
+
+    const m = MISSIONS[currentMissionIdx];
+    document.getElementById('missionStage').innerText = `MISSION ${currentMissionIdx + 1} / ${MISSIONS.length}`;
+    document.getElementById('missionTitle').innerText = m.title;
+    document.getElementById('missionDesc').innerText = m.desc;
+    document.getElementById('missionTarget').innerText = m.target;
+  }
+
+  function checkSpeedrunProgress() {
+    if (!isRunning || currentMissionIdx >= MISSIONS.length) return;
+
+    const m = MISSIONS[currentMissionIdx];
+    if (m.check(window.terminalInstance.vfs, window.terminalInstance)) {
+      streak++;
+      const gained = 100 * streak + timeLeft * 2;
+      score += gained;
+      currentMissionIdx++;
+
+      if (window.soundEngine) window.soundEngine.playSuccessSound();
+      updateHUD();
+
+      if (currentMissionIdx >= MISSIONS.length) {
+        endSpeedrun(true);
+      } else {
+        loadCurrentMission();
+      }
+    }
+  }
+
+  async function endSpeedrun(won) {
+    clearInterval(timerInterval);
+    isRunning = false;
+    document.getElementById('startSpeedrunBtn').disabled = false;
+    document.getElementById('startSpeedrunBtn').innerText = "START SPEEDRUN";
+
+    const modal = document.getElementById('speedrunResultModal');
+    const heading = document.getElementById('resHeading');
+    const subheading = document.getElementById('resSubheading');
+    const finalScore = document.getElementById('resFinalScore');
+    const xpEarned = document.getElementById('resXpEarned');
+
+    finalScore.innerText = score;
+    const bonusXP = won ? Math.min(score, 500) : 50;
+    xpEarned.innerText = `+${bonusXP} XP`;
+
+    if (won) {
+      heading.innerText = "SPEEDRUN VICTORY!";
+      subheading.innerText = `Cleared all challenges with ${timeLeft}s remaining!`;
+    } else {
+      heading.innerText = "TIME EXPIRED!";
+      subheading.innerText = "Solid attempt! Keep honing your command muscle memory.";
+    }
+
+    modal.style.display = 'flex';
+
+    // Submit speedrun score to backend
+    try {
+      await fetch('/api/speedrun/submit', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ score: score, passed: won, xp_reward: bonusXP })
+      });
+    } catch (e) {
+      console.log('Speedrun API sync note:', e);
+    }
+  }
+
+  function closeResultModal() {
+    document.getElementById('speedrunResultModal').style.display = 'none';
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    window.terminalInstance = new TerminalSimulator('speedrunTerminalContainer', null);
+    
+    // Hook terminal command execution to check progress
+    const originalExec = window.terminalInstance.executeCommand.bind(window.terminalInstance);
+    window.terminalInstance.executeCommand = function(cmd) {
+      originalExec(cmd);
+      setTimeout(checkSpeedrunProgress, 100);
+    };
+  });
+</script>
+{% endblock %}

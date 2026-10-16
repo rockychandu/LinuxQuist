@@ -6999,1400 +6999,1400 @@ PYTHON_SCENARIOS = [
         "title": "Scenario #1000: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1000.log",
         "solution_output": "CRITICAL: Service #1000 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1001,
         "title": "Scenario #1001: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1001.log",
         "solution_output": "CRITICAL: Service #1001 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1002,
         "title": "Scenario #1002: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1002.log",
         "solution_output": "CRITICAL: Service #1002 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1003,
         "title": "Scenario #1003: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1003.log",
         "solution_output": "CRITICAL: Service #1003 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1004,
         "title": "Scenario #1004: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1004.log",
         "solution_output": "CRITICAL: Service #1004 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1005,
         "title": "Scenario #1005: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1005.log",
         "solution_output": "CRITICAL: Service #1005 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1006,
         "title": "Scenario #1006: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1006.log",
         "solution_output": "CRITICAL: Service #1006 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1007,
         "title": "Scenario #1007: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1007.log",
         "solution_output": "CRITICAL: Service #1007 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1008,
         "title": "Scenario #1008: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1008.log",
         "solution_output": "CRITICAL: Service #1008 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1009,
         "title": "Scenario #1009: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1009.log",
         "solution_output": "CRITICAL: Service #1009 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1010,
         "title": "Scenario #1010: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1010.log",
         "solution_output": "CRITICAL: Service #1010 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1011,
         "title": "Scenario #1011: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1011.log",
         "solution_output": "CRITICAL: Service #1011 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1012,
         "title": "Scenario #1012: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1012.log",
         "solution_output": "CRITICAL: Service #1012 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1013,
         "title": "Scenario #1013: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1013.log",
         "solution_output": "CRITICAL: Service #1013 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1014,
         "title": "Scenario #1014: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1014.log",
         "solution_output": "CRITICAL: Service #1014 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1015,
         "title": "Scenario #1015: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1015.log",
         "solution_output": "CRITICAL: Service #1015 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1016,
         "title": "Scenario #1016: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1016.log",
         "solution_output": "CRITICAL: Service #1016 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1017,
         "title": "Scenario #1017: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1017.log",
         "solution_output": "CRITICAL: Service #1017 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1018,
         "title": "Scenario #1018: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1018.log",
         "solution_output": "CRITICAL: Service #1018 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1019,
         "title": "Scenario #1019: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1019.log",
         "solution_output": "CRITICAL: Service #1019 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1020,
         "title": "Scenario #1020: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1020.log",
         "solution_output": "CRITICAL: Service #1020 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1021,
         "title": "Scenario #1021: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1021.log",
         "solution_output": "CRITICAL: Service #1021 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1022,
         "title": "Scenario #1022: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1022.log",
         "solution_output": "CRITICAL: Service #1022 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1023,
         "title": "Scenario #1023: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1023.log",
         "solution_output": "CRITICAL: Service #1023 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1024,
         "title": "Scenario #1024: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1024.log",
         "solution_output": "CRITICAL: Service #1024 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1025,
         "title": "Scenario #1025: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1025.log",
         "solution_output": "CRITICAL: Service #1025 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1026,
         "title": "Scenario #1026: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1026.log",
         "solution_output": "CRITICAL: Service #1026 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1027,
         "title": "Scenario #1027: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1027.log",
         "solution_output": "CRITICAL: Service #1027 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1028,
         "title": "Scenario #1028: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1028.log",
         "solution_output": "CRITICAL: Service #1028 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1029,
         "title": "Scenario #1029: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1029.log",
         "solution_output": "CRITICAL: Service #1029 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1030,
         "title": "Scenario #1030: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1030.log",
         "solution_output": "CRITICAL: Service #1030 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1031,
         "title": "Scenario #1031: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1031.log",
         "solution_output": "CRITICAL: Service #1031 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1032,
         "title": "Scenario #1032: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1032.log",
         "solution_output": "CRITICAL: Service #1032 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1033,
         "title": "Scenario #1033: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1033.log",
         "solution_output": "CRITICAL: Service #1033 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1034,
         "title": "Scenario #1034: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1034.log",
         "solution_output": "CRITICAL: Service #1034 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1035,
         "title": "Scenario #1035: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1035.log",
         "solution_output": "CRITICAL: Service #1035 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1036,
         "title": "Scenario #1036: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1036.log",
         "solution_output": "CRITICAL: Service #1036 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1037,
         "title": "Scenario #1037: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1037.log",
         "solution_output": "CRITICAL: Service #1037 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1038,
         "title": "Scenario #1038: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1038.log",
         "solution_output": "CRITICAL: Service #1038 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1039,
         "title": "Scenario #1039: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1039.log",
         "solution_output": "CRITICAL: Service #1039 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1040,
         "title": "Scenario #1040: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1040.log",
         "solution_output": "CRITICAL: Service #1040 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1041,
         "title": "Scenario #1041: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1041.log",
         "solution_output": "CRITICAL: Service #1041 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1042,
         "title": "Scenario #1042: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1042.log",
         "solution_output": "CRITICAL: Service #1042 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1043,
         "title": "Scenario #1043: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1043.log",
         "solution_output": "CRITICAL: Service #1043 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1044,
         "title": "Scenario #1044: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1044.log",
         "solution_output": "CRITICAL: Service #1044 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1045,
         "title": "Scenario #1045: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1045.log",
         "solution_output": "CRITICAL: Service #1045 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1046,
         "title": "Scenario #1046: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1046.log",
         "solution_output": "CRITICAL: Service #1046 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1047,
         "title": "Scenario #1047: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1047.log",
         "solution_output": "CRITICAL: Service #1047 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1048,
         "title": "Scenario #1048: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1048.log",
         "solution_output": "CRITICAL: Service #1048 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1049,
         "title": "Scenario #1049: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1049.log",
         "solution_output": "CRITICAL: Service #1049 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1050,
         "title": "Scenario #1050: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1050.log",
         "solution_output": "CRITICAL: Service #1050 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1051,
         "title": "Scenario #1051: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1051.log",
         "solution_output": "CRITICAL: Service #1051 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1052,
         "title": "Scenario #1052: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1052.log",
         "solution_output": "CRITICAL: Service #1052 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1053,
         "title": "Scenario #1053: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1053.log",
         "solution_output": "CRITICAL: Service #1053 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1054,
         "title": "Scenario #1054: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1054.log",
         "solution_output": "CRITICAL: Service #1054 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1055,
         "title": "Scenario #1055: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1055.log",
         "solution_output": "CRITICAL: Service #1055 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1056,
         "title": "Scenario #1056: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1056.log",
         "solution_output": "CRITICAL: Service #1056 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1057,
         "title": "Scenario #1057: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1057.log",
         "solution_output": "CRITICAL: Service #1057 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1058,
         "title": "Scenario #1058: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1058.log",
         "solution_output": "CRITICAL: Service #1058 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1059,
         "title": "Scenario #1059: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1059.log",
         "solution_output": "CRITICAL: Service #1059 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1060,
         "title": "Scenario #1060: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1060.log",
         "solution_output": "CRITICAL: Service #1060 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1061,
         "title": "Scenario #1061: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1061.log",
         "solution_output": "CRITICAL: Service #1061 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1062,
         "title": "Scenario #1062: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1062.log",
         "solution_output": "CRITICAL: Service #1062 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1063,
         "title": "Scenario #1063: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1063.log",
         "solution_output": "CRITICAL: Service #1063 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1064,
         "title": "Scenario #1064: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1064.log",
         "solution_output": "CRITICAL: Service #1064 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1065,
         "title": "Scenario #1065: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1065.log",
         "solution_output": "CRITICAL: Service #1065 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1066,
         "title": "Scenario #1066: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1066.log",
         "solution_output": "CRITICAL: Service #1066 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1067,
         "title": "Scenario #1067: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1067.log",
         "solution_output": "CRITICAL: Service #1067 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1068,
         "title": "Scenario #1068: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1068.log",
         "solution_output": "CRITICAL: Service #1068 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1069,
         "title": "Scenario #1069: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1069.log",
         "solution_output": "CRITICAL: Service #1069 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1070,
         "title": "Scenario #1070: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1070.log",
         "solution_output": "CRITICAL: Service #1070 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1071,
         "title": "Scenario #1071: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1071.log",
         "solution_output": "CRITICAL: Service #1071 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1072,
         "title": "Scenario #1072: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1072.log",
         "solution_output": "CRITICAL: Service #1072 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1073,
         "title": "Scenario #1073: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1073.log",
         "solution_output": "CRITICAL: Service #1073 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1074,
         "title": "Scenario #1074: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1074.log",
         "solution_output": "CRITICAL: Service #1074 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1075,
         "title": "Scenario #1075: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1075.log",
         "solution_output": "CRITICAL: Service #1075 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1076,
         "title": "Scenario #1076: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1076.log",
         "solution_output": "CRITICAL: Service #1076 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1077,
         "title": "Scenario #1077: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1077.log",
         "solution_output": "CRITICAL: Service #1077 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1078,
         "title": "Scenario #1078: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1078.log",
         "solution_output": "CRITICAL: Service #1078 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1079,
         "title": "Scenario #1079: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1079.log",
         "solution_output": "CRITICAL: Service #1079 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1080,
         "title": "Scenario #1080: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1080.log",
         "solution_output": "CRITICAL: Service #1080 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1081,
         "title": "Scenario #1081: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1081.log",
         "solution_output": "CRITICAL: Service #1081 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1082,
         "title": "Scenario #1082: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1082.log",
         "solution_output": "CRITICAL: Service #1082 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1083,
         "title": "Scenario #1083: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1083.log",
         "solution_output": "CRITICAL: Service #1083 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1084,
         "title": "Scenario #1084: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1084.log",
         "solution_output": "CRITICAL: Service #1084 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1085,
         "title": "Scenario #1085: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1085.log",
         "solution_output": "CRITICAL: Service #1085 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1086,
         "title": "Scenario #1086: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1086.log",
         "solution_output": "CRITICAL: Service #1086 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1087,
         "title": "Scenario #1087: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1087.log",
         "solution_output": "CRITICAL: Service #1087 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1088,
         "title": "Scenario #1088: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1088.log",
         "solution_output": "CRITICAL: Service #1088 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1089,
         "title": "Scenario #1089: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1089.log",
         "solution_output": "CRITICAL: Service #1089 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1090,
         "title": "Scenario #1090: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1090.log",
         "solution_output": "CRITICAL: Service #1090 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1091,
         "title": "Scenario #1091: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1091.log",
         "solution_output": "CRITICAL: Service #1091 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1092,
         "title": "Scenario #1092: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1092.log",
         "solution_output": "CRITICAL: Service #1092 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1093,
         "title": "Scenario #1093: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1093.log",
         "solution_output": "CRITICAL: Service #1093 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1094,
         "title": "Scenario #1094: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1094.log",
         "solution_output": "CRITICAL: Service #1094 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1095,
         "title": "Scenario #1095: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1095.log",
         "solution_output": "CRITICAL: Service #1095 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1096,
         "title": "Scenario #1096: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1096.log",
         "solution_output": "CRITICAL: Service #1096 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1097,
         "title": "Scenario #1097: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1097.log",
         "solution_output": "CRITICAL: Service #1097 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1098,
         "title": "Scenario #1098: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1098.log",
         "solution_output": "CRITICAL: Service #1098 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1099,
         "title": "Scenario #1099: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1099.log",
         "solution_output": "CRITICAL: Service #1099 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1100,
         "title": "Scenario #1100: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1100.log",
         "solution_output": "CRITICAL: Service #1100 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1101,
         "title": "Scenario #1101: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1101.log",
         "solution_output": "CRITICAL: Service #1101 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1102,
         "title": "Scenario #1102: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1102.log",
         "solution_output": "CRITICAL: Service #1102 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1103,
         "title": "Scenario #1103: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1103.log",
         "solution_output": "CRITICAL: Service #1103 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1104,
         "title": "Scenario #1104: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1104.log",
         "solution_output": "CRITICAL: Service #1104 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1105,
         "title": "Scenario #1105: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1105.log",
         "solution_output": "CRITICAL: Service #1105 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1106,
         "title": "Scenario #1106: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1106.log",
         "solution_output": "CRITICAL: Service #1106 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1107,
         "title": "Scenario #1107: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1107.log",
         "solution_output": "CRITICAL: Service #1107 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1108,
         "title": "Scenario #1108: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1108.log",
         "solution_output": "CRITICAL: Service #1108 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1109,
         "title": "Scenario #1109: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1109.log",
         "solution_output": "CRITICAL: Service #1109 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1110,
         "title": "Scenario #1110: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1110.log",
         "solution_output": "CRITICAL: Service #1110 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1111,
         "title": "Scenario #1111: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1111.log",
         "solution_output": "CRITICAL: Service #1111 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1112,
         "title": "Scenario #1112: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1112.log",
         "solution_output": "CRITICAL: Service #1112 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1113,
         "title": "Scenario #1113: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1113.log",
         "solution_output": "CRITICAL: Service #1113 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1114,
         "title": "Scenario #1114: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1114.log",
         "solution_output": "CRITICAL: Service #1114 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1115,
         "title": "Scenario #1115: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1115.log",
         "solution_output": "CRITICAL: Service #1115 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1116,
         "title": "Scenario #1116: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1116.log",
         "solution_output": "CRITICAL: Service #1116 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1117,
         "title": "Scenario #1117: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1117.log",
         "solution_output": "CRITICAL: Service #1117 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1118,
         "title": "Scenario #1118: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1118.log",
         "solution_output": "CRITICAL: Service #1118 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1119,
         "title": "Scenario #1119: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1119.log",
         "solution_output": "CRITICAL: Service #1119 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1120,
         "title": "Scenario #1120: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1120.log",
         "solution_output": "CRITICAL: Service #1120 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1121,
         "title": "Scenario #1121: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1121.log",
         "solution_output": "CRITICAL: Service #1121 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1122,
         "title": "Scenario #1122: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1122.log",
         "solution_output": "CRITICAL: Service #1122 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1123,
         "title": "Scenario #1123: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1123.log",
         "solution_output": "CRITICAL: Service #1123 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1124,
         "title": "Scenario #1124: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1124.log",
         "solution_output": "CRITICAL: Service #1124 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1125,
         "title": "Scenario #1125: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1125.log",
         "solution_output": "CRITICAL: Service #1125 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1126,
         "title": "Scenario #1126: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1126.log",
         "solution_output": "CRITICAL: Service #1126 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1127,
         "title": "Scenario #1127: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1127.log",
         "solution_output": "CRITICAL: Service #1127 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1128,
         "title": "Scenario #1128: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1128.log",
         "solution_output": "CRITICAL: Service #1128 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1129,
         "title": "Scenario #1129: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1129.log",
         "solution_output": "CRITICAL: Service #1129 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1130,
         "title": "Scenario #1130: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1130.log",
         "solution_output": "CRITICAL: Service #1130 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1131,
         "title": "Scenario #1131: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1131.log",
         "solution_output": "CRITICAL: Service #1131 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1132,
         "title": "Scenario #1132: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1132.log",
         "solution_output": "CRITICAL: Service #1132 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1133,
         "title": "Scenario #1133: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1133.log",
         "solution_output": "CRITICAL: Service #1133 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1134,
         "title": "Scenario #1134: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1134.log",
         "solution_output": "CRITICAL: Service #1134 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1135,
         "title": "Scenario #1135: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1135.log",
         "solution_output": "CRITICAL: Service #1135 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1136,
         "title": "Scenario #1136: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1136.log",
         "solution_output": "CRITICAL: Service #1136 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1137,
         "title": "Scenario #1137: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1137.log",
         "solution_output": "CRITICAL: Service #1137 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1138,
         "title": "Scenario #1138: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1138.log",
         "solution_output": "CRITICAL: Service #1138 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1139,
         "title": "Scenario #1139: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1139.log",
         "solution_output": "CRITICAL: Service #1139 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1140,
         "title": "Scenario #1140: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1140.log",
         "solution_output": "CRITICAL: Service #1140 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1141,
         "title": "Scenario #1141: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1141.log",
         "solution_output": "CRITICAL: Service #1141 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1142,
         "title": "Scenario #1142: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1142.log",
         "solution_output": "CRITICAL: Service #1142 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1143,
         "title": "Scenario #1143: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1143.log",
         "solution_output": "CRITICAL: Service #1143 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1144,
         "title": "Scenario #1144: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1144.log",
         "solution_output": "CRITICAL: Service #1144 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1145,
         "title": "Scenario #1145: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1145.log",
         "solution_output": "CRITICAL: Service #1145 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1146,
         "title": "Scenario #1146: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1146.log",
         "solution_output": "CRITICAL: Service #1146 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1147,
         "title": "Scenario #1147: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1147.log",
         "solution_output": "CRITICAL: Service #1147 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1148,
         "title": "Scenario #1148: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1148.log",
         "solution_output": "CRITICAL: Service #1148 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1149,
         "title": "Scenario #1149: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1149.log",
         "solution_output": "CRITICAL: Service #1149 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1150,
         "title": "Scenario #1150: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1150.log",
         "solution_output": "CRITICAL: Service #1150 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1151,
         "title": "Scenario #1151: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1151.log",
         "solution_output": "CRITICAL: Service #1151 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1152,
         "title": "Scenario #1152: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1152.log",
         "solution_output": "CRITICAL: Service #1152 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1153,
         "title": "Scenario #1153: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1153.log",
         "solution_output": "CRITICAL: Service #1153 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1154,
         "title": "Scenario #1154: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1154.log",
         "solution_output": "CRITICAL: Service #1154 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1155,
         "title": "Scenario #1155: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1155.log",
         "solution_output": "CRITICAL: Service #1155 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1156,
         "title": "Scenario #1156: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1156.log",
         "solution_output": "CRITICAL: Service #1156 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1157,
         "title": "Scenario #1157: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1157.log",
         "solution_output": "CRITICAL: Service #1157 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1158,
         "title": "Scenario #1158: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1158.log",
         "solution_output": "CRITICAL: Service #1158 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1159,
         "title": "Scenario #1159: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1159.log",
         "solution_output": "CRITICAL: Service #1159 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1160,
         "title": "Scenario #1160: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1160.log",
         "solution_output": "CRITICAL: Service #1160 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1161,
         "title": "Scenario #1161: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1161.log",
         "solution_output": "CRITICAL: Service #1161 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1162,
         "title": "Scenario #1162: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1162.log",
         "solution_output": "CRITICAL: Service #1162 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1163,
         "title": "Scenario #1163: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1163.log",
         "solution_output": "CRITICAL: Service #1163 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1164,
         "title": "Scenario #1164: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1164.log",
         "solution_output": "CRITICAL: Service #1164 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1165,
         "title": "Scenario #1165: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1165.log",
         "solution_output": "CRITICAL: Service #1165 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1166,
         "title": "Scenario #1166: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1166.log",
         "solution_output": "CRITICAL: Service #1166 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1167,
         "title": "Scenario #1167: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1167.log",
         "solution_output": "CRITICAL: Service #1167 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1168,
         "title": "Scenario #1168: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1168.log",
         "solution_output": "CRITICAL: Service #1168 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1169,
         "title": "Scenario #1169: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1169.log",
         "solution_output": "CRITICAL: Service #1169 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1170,
         "title": "Scenario #1170: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1170.log",
         "solution_output": "CRITICAL: Service #1170 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1171,
         "title": "Scenario #1171: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1171.log",
         "solution_output": "CRITICAL: Service #1171 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1172,
         "title": "Scenario #1172: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1172.log",
         "solution_output": "CRITICAL: Service #1172 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1173,
         "title": "Scenario #1173: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1173.log",
         "solution_output": "CRITICAL: Service #1173 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1174,
         "title": "Scenario #1174: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1174.log",
         "solution_output": "CRITICAL: Service #1174 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1175,
         "title": "Scenario #1175: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1175.log",
         "solution_output": "CRITICAL: Service #1175 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1176,
         "title": "Scenario #1176: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1176.log",
         "solution_output": "CRITICAL: Service #1176 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1177,
         "title": "Scenario #1177: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1177.log",
         "solution_output": "CRITICAL: Service #1177 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1178,
         "title": "Scenario #1178: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1178.log",
         "solution_output": "CRITICAL: Service #1178 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1179,
         "title": "Scenario #1179: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1179.log",
         "solution_output": "CRITICAL: Service #1179 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1180,
         "title": "Scenario #1180: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1180.log",
         "solution_output": "CRITICAL: Service #1180 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1181,
         "title": "Scenario #1181: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1181.log",
         "solution_output": "CRITICAL: Service #1181 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1182,
         "title": "Scenario #1182: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1182.log",
         "solution_output": "CRITICAL: Service #1182 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1183,
         "title": "Scenario #1183: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1183.log",
         "solution_output": "CRITICAL: Service #1183 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1184,
         "title": "Scenario #1184: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1184.log",
         "solution_output": "CRITICAL: Service #1184 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1185,
         "title": "Scenario #1185: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1185.log",
         "solution_output": "CRITICAL: Service #1185 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1186,
         "title": "Scenario #1186: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1186.log",
         "solution_output": "CRITICAL: Service #1186 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1187,
         "title": "Scenario #1187: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1187.log",
         "solution_output": "CRITICAL: Service #1187 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1188,
         "title": "Scenario #1188: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1188.log",
         "solution_output": "CRITICAL: Service #1188 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1189,
         "title": "Scenario #1189: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1189.log",
         "solution_output": "CRITICAL: Service #1189 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1190,
         "title": "Scenario #1190: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1190.log",
         "solution_output": "CRITICAL: Service #1190 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1191,
         "title": "Scenario #1191: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1191.log",
         "solution_output": "CRITICAL: Service #1191 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1192,
         "title": "Scenario #1192: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1192.log",
         "solution_output": "CRITICAL: Service #1192 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1193,
         "title": "Scenario #1193: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1193.log",
         "solution_output": "CRITICAL: Service #1193 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1194,
         "title": "Scenario #1194: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1194.log",
         "solution_output": "CRITICAL: Service #1194 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1195,
         "title": "Scenario #1195: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1195.log",
         "solution_output": "CRITICAL: Service #1195 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1196,
         "title": "Scenario #1196: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1196.log",
         "solution_output": "CRITICAL: Service #1196 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1197,
         "title": "Scenario #1197: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1197.log",
         "solution_output": "CRITICAL: Service #1197 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1198,
         "title": "Scenario #1198: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1198.log",
         "solution_output": "CRITICAL: Service #1198 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1199,
         "title": "Scenario #1199: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_1199.log",
         "solution_output": "CRITICAL: Service #1199 failed to start.",
-        "difficulty": "Medium"
+        "difficulty": "Easy"
     },
     {
         "scenario_id": 1200,
@@ -17499,2100 +17499,2100 @@ PYTHON_SCENARIOS = [
         "title": "Scenario #2500: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2500.log",
         "solution_output": "CRITICAL: Service #2500 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2501,
         "title": "Scenario #2501: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2501.log",
         "solution_output": "CRITICAL: Service #2501 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2502,
         "title": "Scenario #2502: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2502.log",
         "solution_output": "CRITICAL: Service #2502 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2503,
         "title": "Scenario #2503: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2503.log",
         "solution_output": "CRITICAL: Service #2503 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2504,
         "title": "Scenario #2504: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2504.log",
         "solution_output": "CRITICAL: Service #2504 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2505,
         "title": "Scenario #2505: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2505.log",
         "solution_output": "CRITICAL: Service #2505 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2506,
         "title": "Scenario #2506: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2506.log",
         "solution_output": "CRITICAL: Service #2506 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2507,
         "title": "Scenario #2507: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2507.log",
         "solution_output": "CRITICAL: Service #2507 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2508,
         "title": "Scenario #2508: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2508.log",
         "solution_output": "CRITICAL: Service #2508 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2509,
         "title": "Scenario #2509: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2509.log",
         "solution_output": "CRITICAL: Service #2509 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2510,
         "title": "Scenario #2510: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2510.log",
         "solution_output": "CRITICAL: Service #2510 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2511,
         "title": "Scenario #2511: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2511.log",
         "solution_output": "CRITICAL: Service #2511 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2512,
         "title": "Scenario #2512: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2512.log",
         "solution_output": "CRITICAL: Service #2512 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2513,
         "title": "Scenario #2513: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2513.log",
         "solution_output": "CRITICAL: Service #2513 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2514,
         "title": "Scenario #2514: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2514.log",
         "solution_output": "CRITICAL: Service #2514 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2515,
         "title": "Scenario #2515: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2515.log",
         "solution_output": "CRITICAL: Service #2515 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2516,
         "title": "Scenario #2516: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2516.log",
         "solution_output": "CRITICAL: Service #2516 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2517,
         "title": "Scenario #2517: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2517.log",
         "solution_output": "CRITICAL: Service #2517 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2518,
         "title": "Scenario #2518: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2518.log",
         "solution_output": "CRITICAL: Service #2518 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2519,
         "title": "Scenario #2519: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2519.log",
         "solution_output": "CRITICAL: Service #2519 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2520,
         "title": "Scenario #2520: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2520.log",
         "solution_output": "CRITICAL: Service #2520 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2521,
         "title": "Scenario #2521: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2521.log",
         "solution_output": "CRITICAL: Service #2521 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2522,
         "title": "Scenario #2522: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2522.log",
         "solution_output": "CRITICAL: Service #2522 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2523,
         "title": "Scenario #2523: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2523.log",
         "solution_output": "CRITICAL: Service #2523 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2524,
         "title": "Scenario #2524: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2524.log",
         "solution_output": "CRITICAL: Service #2524 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2525,
         "title": "Scenario #2525: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2525.log",
         "solution_output": "CRITICAL: Service #2525 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2526,
         "title": "Scenario #2526: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2526.log",
         "solution_output": "CRITICAL: Service #2526 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2527,
         "title": "Scenario #2527: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2527.log",
         "solution_output": "CRITICAL: Service #2527 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2528,
         "title": "Scenario #2528: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2528.log",
         "solution_output": "CRITICAL: Service #2528 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2529,
         "title": "Scenario #2529: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2529.log",
         "solution_output": "CRITICAL: Service #2529 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2530,
         "title": "Scenario #2530: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2530.log",
         "solution_output": "CRITICAL: Service #2530 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2531,
         "title": "Scenario #2531: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2531.log",
         "solution_output": "CRITICAL: Service #2531 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2532,
         "title": "Scenario #2532: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2532.log",
         "solution_output": "CRITICAL: Service #2532 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2533,
         "title": "Scenario #2533: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2533.log",
         "solution_output": "CRITICAL: Service #2533 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2534,
         "title": "Scenario #2534: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2534.log",
         "solution_output": "CRITICAL: Service #2534 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2535,
         "title": "Scenario #2535: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2535.log",
         "solution_output": "CRITICAL: Service #2535 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2536,
         "title": "Scenario #2536: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2536.log",
         "solution_output": "CRITICAL: Service #2536 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2537,
         "title": "Scenario #2537: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2537.log",
         "solution_output": "CRITICAL: Service #2537 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2538,
         "title": "Scenario #2538: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2538.log",
         "solution_output": "CRITICAL: Service #2538 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2539,
         "title": "Scenario #2539: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2539.log",
         "solution_output": "CRITICAL: Service #2539 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2540,
         "title": "Scenario #2540: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2540.log",
         "solution_output": "CRITICAL: Service #2540 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2541,
         "title": "Scenario #2541: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2541.log",
         "solution_output": "CRITICAL: Service #2541 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2542,
         "title": "Scenario #2542: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2542.log",
         "solution_output": "CRITICAL: Service #2542 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2543,
         "title": "Scenario #2543: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2543.log",
         "solution_output": "CRITICAL: Service #2543 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2544,
         "title": "Scenario #2544: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2544.log",
         "solution_output": "CRITICAL: Service #2544 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2545,
         "title": "Scenario #2545: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2545.log",
         "solution_output": "CRITICAL: Service #2545 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2546,
         "title": "Scenario #2546: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2546.log",
         "solution_output": "CRITICAL: Service #2546 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2547,
         "title": "Scenario #2547: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2547.log",
         "solution_output": "CRITICAL: Service #2547 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2548,
         "title": "Scenario #2548: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2548.log",
         "solution_output": "CRITICAL: Service #2548 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2549,
         "title": "Scenario #2549: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2549.log",
         "solution_output": "CRITICAL: Service #2549 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2550,
         "title": "Scenario #2550: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2550.log",
         "solution_output": "CRITICAL: Service #2550 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2551,
         "title": "Scenario #2551: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2551.log",
         "solution_output": "CRITICAL: Service #2551 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2552,
         "title": "Scenario #2552: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2552.log",
         "solution_output": "CRITICAL: Service #2552 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2553,
         "title": "Scenario #2553: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2553.log",
         "solution_output": "CRITICAL: Service #2553 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2554,
         "title": "Scenario #2554: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2554.log",
         "solution_output": "CRITICAL: Service #2554 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2555,
         "title": "Scenario #2555: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2555.log",
         "solution_output": "CRITICAL: Service #2555 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2556,
         "title": "Scenario #2556: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2556.log",
         "solution_output": "CRITICAL: Service #2556 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2557,
         "title": "Scenario #2557: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2557.log",
         "solution_output": "CRITICAL: Service #2557 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2558,
         "title": "Scenario #2558: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2558.log",
         "solution_output": "CRITICAL: Service #2558 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2559,
         "title": "Scenario #2559: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2559.log",
         "solution_output": "CRITICAL: Service #2559 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2560,
         "title": "Scenario #2560: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2560.log",
         "solution_output": "CRITICAL: Service #2560 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2561,
         "title": "Scenario #2561: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2561.log",
         "solution_output": "CRITICAL: Service #2561 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2562,
         "title": "Scenario #2562: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2562.log",
         "solution_output": "CRITICAL: Service #2562 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2563,
         "title": "Scenario #2563: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2563.log",
         "solution_output": "CRITICAL: Service #2563 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2564,
         "title": "Scenario #2564: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2564.log",
         "solution_output": "CRITICAL: Service #2564 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2565,
         "title": "Scenario #2565: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2565.log",
         "solution_output": "CRITICAL: Service #2565 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2566,
         "title": "Scenario #2566: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2566.log",
         "solution_output": "CRITICAL: Service #2566 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2567,
         "title": "Scenario #2567: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2567.log",
         "solution_output": "CRITICAL: Service #2567 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2568,
         "title": "Scenario #2568: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2568.log",
         "solution_output": "CRITICAL: Service #2568 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2569,
         "title": "Scenario #2569: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2569.log",
         "solution_output": "CRITICAL: Service #2569 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2570,
         "title": "Scenario #2570: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2570.log",
         "solution_output": "CRITICAL: Service #2570 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2571,
         "title": "Scenario #2571: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2571.log",
         "solution_output": "CRITICAL: Service #2571 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2572,
         "title": "Scenario #2572: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2572.log",
         "solution_output": "CRITICAL: Service #2572 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2573,
         "title": "Scenario #2573: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2573.log",
         "solution_output": "CRITICAL: Service #2573 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2574,
         "title": "Scenario #2574: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2574.log",
         "solution_output": "CRITICAL: Service #2574 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2575,
         "title": "Scenario #2575: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2575.log",
         "solution_output": "CRITICAL: Service #2575 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2576,
         "title": "Scenario #2576: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2576.log",
         "solution_output": "CRITICAL: Service #2576 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2577,
         "title": "Scenario #2577: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2577.log",
         "solution_output": "CRITICAL: Service #2577 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2578,
         "title": "Scenario #2578: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2578.log",
         "solution_output": "CRITICAL: Service #2578 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2579,
         "title": "Scenario #2579: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2579.log",
         "solution_output": "CRITICAL: Service #2579 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2580,
         "title": "Scenario #2580: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2580.log",
         "solution_output": "CRITICAL: Service #2580 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2581,
         "title": "Scenario #2581: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2581.log",
         "solution_output": "CRITICAL: Service #2581 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2582,
         "title": "Scenario #2582: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2582.log",
         "solution_output": "CRITICAL: Service #2582 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2583,
         "title": "Scenario #2583: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2583.log",
         "solution_output": "CRITICAL: Service #2583 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2584,
         "title": "Scenario #2584: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2584.log",
         "solution_output": "CRITICAL: Service #2584 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2585,
         "title": "Scenario #2585: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2585.log",
         "solution_output": "CRITICAL: Service #2585 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2586,
         "title": "Scenario #2586: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2586.log",
         "solution_output": "CRITICAL: Service #2586 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2587,
         "title": "Scenario #2587: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2587.log",
         "solution_output": "CRITICAL: Service #2587 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2588,
         "title": "Scenario #2588: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2588.log",
         "solution_output": "CRITICAL: Service #2588 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2589,
         "title": "Scenario #2589: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2589.log",
         "solution_output": "CRITICAL: Service #2589 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2590,
         "title": "Scenario #2590: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2590.log",
         "solution_output": "CRITICAL: Service #2590 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2591,
         "title": "Scenario #2591: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2591.log",
         "solution_output": "CRITICAL: Service #2591 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2592,
         "title": "Scenario #2592: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2592.log",
         "solution_output": "CRITICAL: Service #2592 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2593,
         "title": "Scenario #2593: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2593.log",
         "solution_output": "CRITICAL: Service #2593 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2594,
         "title": "Scenario #2594: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2594.log",
         "solution_output": "CRITICAL: Service #2594 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2595,
         "title": "Scenario #2595: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2595.log",
         "solution_output": "CRITICAL: Service #2595 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2596,
         "title": "Scenario #2596: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2596.log",
         "solution_output": "CRITICAL: Service #2596 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2597,
         "title": "Scenario #2597: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2597.log",
         "solution_output": "CRITICAL: Service #2597 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2598,
         "title": "Scenario #2598: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2598.log",
         "solution_output": "CRITICAL: Service #2598 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2599,
         "title": "Scenario #2599: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2599.log",
         "solution_output": "CRITICAL: Service #2599 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2600,
         "title": "Scenario #2600: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2600.log",
         "solution_output": "CRITICAL: Service #2600 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2601,
         "title": "Scenario #2601: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2601.log",
         "solution_output": "CRITICAL: Service #2601 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2602,
         "title": "Scenario #2602: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2602.log",
         "solution_output": "CRITICAL: Service #2602 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2603,
         "title": "Scenario #2603: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2603.log",
         "solution_output": "CRITICAL: Service #2603 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2604,
         "title": "Scenario #2604: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2604.log",
         "solution_output": "CRITICAL: Service #2604 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2605,
         "title": "Scenario #2605: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2605.log",
         "solution_output": "CRITICAL: Service #2605 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2606,
         "title": "Scenario #2606: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2606.log",
         "solution_output": "CRITICAL: Service #2606 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2607,
         "title": "Scenario #2607: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2607.log",
         "solution_output": "CRITICAL: Service #2607 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2608,
         "title": "Scenario #2608: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2608.log",
         "solution_output": "CRITICAL: Service #2608 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2609,
         "title": "Scenario #2609: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2609.log",
         "solution_output": "CRITICAL: Service #2609 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2610,
         "title": "Scenario #2610: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2610.log",
         "solution_output": "CRITICAL: Service #2610 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2611,
         "title": "Scenario #2611: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2611.log",
         "solution_output": "CRITICAL: Service #2611 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2612,
         "title": "Scenario #2612: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2612.log",
         "solution_output": "CRITICAL: Service #2612 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2613,
         "title": "Scenario #2613: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2613.log",
         "solution_output": "CRITICAL: Service #2613 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2614,
         "title": "Scenario #2614: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2614.log",
         "solution_output": "CRITICAL: Service #2614 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2615,
         "title": "Scenario #2615: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2615.log",
         "solution_output": "CRITICAL: Service #2615 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2616,
         "title": "Scenario #2616: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2616.log",
         "solution_output": "CRITICAL: Service #2616 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2617,
         "title": "Scenario #2617: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2617.log",
         "solution_output": "CRITICAL: Service #2617 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2618,
         "title": "Scenario #2618: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2618.log",
         "solution_output": "CRITICAL: Service #2618 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2619,
         "title": "Scenario #2619: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2619.log",
         "solution_output": "CRITICAL: Service #2619 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2620,
         "title": "Scenario #2620: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2620.log",
         "solution_output": "CRITICAL: Service #2620 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2621,
         "title": "Scenario #2621: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2621.log",
         "solution_output": "CRITICAL: Service #2621 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2622,
         "title": "Scenario #2622: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2622.log",
         "solution_output": "CRITICAL: Service #2622 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2623,
         "title": "Scenario #2623: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2623.log",
         "solution_output": "CRITICAL: Service #2623 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2624,
         "title": "Scenario #2624: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2624.log",
         "solution_output": "CRITICAL: Service #2624 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2625,
         "title": "Scenario #2625: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2625.log",
         "solution_output": "CRITICAL: Service #2625 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2626,
         "title": "Scenario #2626: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2626.log",
         "solution_output": "CRITICAL: Service #2626 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2627,
         "title": "Scenario #2627: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2627.log",
         "solution_output": "CRITICAL: Service #2627 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2628,
         "title": "Scenario #2628: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2628.log",
         "solution_output": "CRITICAL: Service #2628 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2629,
         "title": "Scenario #2629: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2629.log",
         "solution_output": "CRITICAL: Service #2629 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2630,
         "title": "Scenario #2630: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2630.log",
         "solution_output": "CRITICAL: Service #2630 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2631,
         "title": "Scenario #2631: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2631.log",
         "solution_output": "CRITICAL: Service #2631 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2632,
         "title": "Scenario #2632: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2632.log",
         "solution_output": "CRITICAL: Service #2632 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2633,
         "title": "Scenario #2633: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2633.log",
         "solution_output": "CRITICAL: Service #2633 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2634,
         "title": "Scenario #2634: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2634.log",
         "solution_output": "CRITICAL: Service #2634 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2635,
         "title": "Scenario #2635: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2635.log",
         "solution_output": "CRITICAL: Service #2635 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2636,
         "title": "Scenario #2636: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2636.log",
         "solution_output": "CRITICAL: Service #2636 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2637,
         "title": "Scenario #2637: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2637.log",
         "solution_output": "CRITICAL: Service #2637 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2638,
         "title": "Scenario #2638: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2638.log",
         "solution_output": "CRITICAL: Service #2638 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2639,
         "title": "Scenario #2639: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2639.log",
         "solution_output": "CRITICAL: Service #2639 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2640,
         "title": "Scenario #2640: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2640.log",
         "solution_output": "CRITICAL: Service #2640 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2641,
         "title": "Scenario #2641: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2641.log",
         "solution_output": "CRITICAL: Service #2641 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2642,
         "title": "Scenario #2642: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2642.log",
         "solution_output": "CRITICAL: Service #2642 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2643,
         "title": "Scenario #2643: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2643.log",
         "solution_output": "CRITICAL: Service #2643 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2644,
         "title": "Scenario #2644: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2644.log",
         "solution_output": "CRITICAL: Service #2644 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2645,
         "title": "Scenario #2645: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2645.log",
         "solution_output": "CRITICAL: Service #2645 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2646,
         "title": "Scenario #2646: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2646.log",
         "solution_output": "CRITICAL: Service #2646 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2647,
         "title": "Scenario #2647: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2647.log",
         "solution_output": "CRITICAL: Service #2647 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2648,
         "title": "Scenario #2648: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2648.log",
         "solution_output": "CRITICAL: Service #2648 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2649,
         "title": "Scenario #2649: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2649.log",
         "solution_output": "CRITICAL: Service #2649 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2650,
         "title": "Scenario #2650: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2650.log",
         "solution_output": "CRITICAL: Service #2650 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2651,
         "title": "Scenario #2651: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2651.log",
         "solution_output": "CRITICAL: Service #2651 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2652,
         "title": "Scenario #2652: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2652.log",
         "solution_output": "CRITICAL: Service #2652 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2653,
         "title": "Scenario #2653: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2653.log",
         "solution_output": "CRITICAL: Service #2653 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2654,
         "title": "Scenario #2654: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2654.log",
         "solution_output": "CRITICAL: Service #2654 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2655,
         "title": "Scenario #2655: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2655.log",
         "solution_output": "CRITICAL: Service #2655 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2656,
         "title": "Scenario #2656: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2656.log",
         "solution_output": "CRITICAL: Service #2656 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2657,
         "title": "Scenario #2657: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2657.log",
         "solution_output": "CRITICAL: Service #2657 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2658,
         "title": "Scenario #2658: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2658.log",
         "solution_output": "CRITICAL: Service #2658 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2659,
         "title": "Scenario #2659: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2659.log",
         "solution_output": "CRITICAL: Service #2659 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2660,
         "title": "Scenario #2660: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2660.log",
         "solution_output": "CRITICAL: Service #2660 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2661,
         "title": "Scenario #2661: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2661.log",
         "solution_output": "CRITICAL: Service #2661 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2662,
         "title": "Scenario #2662: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2662.log",
         "solution_output": "CRITICAL: Service #2662 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2663,
         "title": "Scenario #2663: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2663.log",
         "solution_output": "CRITICAL: Service #2663 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2664,
         "title": "Scenario #2664: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2664.log",
         "solution_output": "CRITICAL: Service #2664 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2665,
         "title": "Scenario #2665: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2665.log",
         "solution_output": "CRITICAL: Service #2665 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2666,
         "title": "Scenario #2666: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2666.log",
         "solution_output": "CRITICAL: Service #2666 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2667,
         "title": "Scenario #2667: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2667.log",
         "solution_output": "CRITICAL: Service #2667 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2668,
         "title": "Scenario #2668: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2668.log",
         "solution_output": "CRITICAL: Service #2668 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2669,
         "title": "Scenario #2669: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2669.log",
         "solution_output": "CRITICAL: Service #2669 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2670,
         "title": "Scenario #2670: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2670.log",
         "solution_output": "CRITICAL: Service #2670 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2671,
         "title": "Scenario #2671: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2671.log",
         "solution_output": "CRITICAL: Service #2671 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2672,
         "title": "Scenario #2672: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2672.log",
         "solution_output": "CRITICAL: Service #2672 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2673,
         "title": "Scenario #2673: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2673.log",
         "solution_output": "CRITICAL: Service #2673 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2674,
         "title": "Scenario #2674: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2674.log",
         "solution_output": "CRITICAL: Service #2674 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2675,
         "title": "Scenario #2675: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2675.log",
         "solution_output": "CRITICAL: Service #2675 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2676,
         "title": "Scenario #2676: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2676.log",
         "solution_output": "CRITICAL: Service #2676 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2677,
         "title": "Scenario #2677: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2677.log",
         "solution_output": "CRITICAL: Service #2677 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2678,
         "title": "Scenario #2678: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2678.log",
         "solution_output": "CRITICAL: Service #2678 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2679,
         "title": "Scenario #2679: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2679.log",
         "solution_output": "CRITICAL: Service #2679 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2680,
         "title": "Scenario #2680: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2680.log",
         "solution_output": "CRITICAL: Service #2680 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2681,
         "title": "Scenario #2681: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2681.log",
         "solution_output": "CRITICAL: Service #2681 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2682,
         "title": "Scenario #2682: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2682.log",
         "solution_output": "CRITICAL: Service #2682 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2683,
         "title": "Scenario #2683: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2683.log",
         "solution_output": "CRITICAL: Service #2683 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2684,
         "title": "Scenario #2684: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2684.log",
         "solution_output": "CRITICAL: Service #2684 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2685,
         "title": "Scenario #2685: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2685.log",
         "solution_output": "CRITICAL: Service #2685 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2686,
         "title": "Scenario #2686: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2686.log",
         "solution_output": "CRITICAL: Service #2686 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2687,
         "title": "Scenario #2687: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2687.log",
         "solution_output": "CRITICAL: Service #2687 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2688,
         "title": "Scenario #2688: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2688.log",
         "solution_output": "CRITICAL: Service #2688 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2689,
         "title": "Scenario #2689: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2689.log",
         "solution_output": "CRITICAL: Service #2689 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2690,
         "title": "Scenario #2690: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2690.log",
         "solution_output": "CRITICAL: Service #2690 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2691,
         "title": "Scenario #2691: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2691.log",
         "solution_output": "CRITICAL: Service #2691 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2692,
         "title": "Scenario #2692: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2692.log",
         "solution_output": "CRITICAL: Service #2692 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2693,
         "title": "Scenario #2693: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2693.log",
         "solution_output": "CRITICAL: Service #2693 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2694,
         "title": "Scenario #2694: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2694.log",
         "solution_output": "CRITICAL: Service #2694 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2695,
         "title": "Scenario #2695: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2695.log",
         "solution_output": "CRITICAL: Service #2695 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2696,
         "title": "Scenario #2696: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2696.log",
         "solution_output": "CRITICAL: Service #2696 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2697,
         "title": "Scenario #2697: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2697.log",
         "solution_output": "CRITICAL: Service #2697 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2698,
         "title": "Scenario #2698: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2698.log",
         "solution_output": "CRITICAL: Service #2698 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2699,
         "title": "Scenario #2699: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2699.log",
         "solution_output": "CRITICAL: Service #2699 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2700,
         "title": "Scenario #2700: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2700.log",
         "solution_output": "CRITICAL: Service #2700 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2701,
         "title": "Scenario #2701: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2701.log",
         "solution_output": "CRITICAL: Service #2701 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2702,
         "title": "Scenario #2702: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2702.log",
         "solution_output": "CRITICAL: Service #2702 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2703,
         "title": "Scenario #2703: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2703.log",
         "solution_output": "CRITICAL: Service #2703 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2704,
         "title": "Scenario #2704: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2704.log",
         "solution_output": "CRITICAL: Service #2704 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2705,
         "title": "Scenario #2705: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2705.log",
         "solution_output": "CRITICAL: Service #2705 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2706,
         "title": "Scenario #2706: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2706.log",
         "solution_output": "CRITICAL: Service #2706 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2707,
         "title": "Scenario #2707: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2707.log",
         "solution_output": "CRITICAL: Service #2707 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2708,
         "title": "Scenario #2708: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2708.log",
         "solution_output": "CRITICAL: Service #2708 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2709,
         "title": "Scenario #2709: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2709.log",
         "solution_output": "CRITICAL: Service #2709 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2710,
         "title": "Scenario #2710: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2710.log",
         "solution_output": "CRITICAL: Service #2710 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2711,
         "title": "Scenario #2711: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2711.log",
         "solution_output": "CRITICAL: Service #2711 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2712,
         "title": "Scenario #2712: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2712.log",
         "solution_output": "CRITICAL: Service #2712 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2713,
         "title": "Scenario #2713: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2713.log",
         "solution_output": "CRITICAL: Service #2713 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2714,
         "title": "Scenario #2714: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2714.log",
         "solution_output": "CRITICAL: Service #2714 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2715,
         "title": "Scenario #2715: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2715.log",
         "solution_output": "CRITICAL: Service #2715 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2716,
         "title": "Scenario #2716: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2716.log",
         "solution_output": "CRITICAL: Service #2716 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2717,
         "title": "Scenario #2717: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2717.log",
         "solution_output": "CRITICAL: Service #2717 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2718,
         "title": "Scenario #2718: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2718.log",
         "solution_output": "CRITICAL: Service #2718 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2719,
         "title": "Scenario #2719: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2719.log",
         "solution_output": "CRITICAL: Service #2719 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2720,
         "title": "Scenario #2720: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2720.log",
         "solution_output": "CRITICAL: Service #2720 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2721,
         "title": "Scenario #2721: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2721.log",
         "solution_output": "CRITICAL: Service #2721 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2722,
         "title": "Scenario #2722: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2722.log",
         "solution_output": "CRITICAL: Service #2722 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2723,
         "title": "Scenario #2723: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2723.log",
         "solution_output": "CRITICAL: Service #2723 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2724,
         "title": "Scenario #2724: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2724.log",
         "solution_output": "CRITICAL: Service #2724 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2725,
         "title": "Scenario #2725: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2725.log",
         "solution_output": "CRITICAL: Service #2725 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2726,
         "title": "Scenario #2726: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2726.log",
         "solution_output": "CRITICAL: Service #2726 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2727,
         "title": "Scenario #2727: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2727.log",
         "solution_output": "CRITICAL: Service #2727 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2728,
         "title": "Scenario #2728: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2728.log",
         "solution_output": "CRITICAL: Service #2728 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2729,
         "title": "Scenario #2729: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2729.log",
         "solution_output": "CRITICAL: Service #2729 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2730,
         "title": "Scenario #2730: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2730.log",
         "solution_output": "CRITICAL: Service #2730 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2731,
         "title": "Scenario #2731: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2731.log",
         "solution_output": "CRITICAL: Service #2731 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2732,
         "title": "Scenario #2732: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2732.log",
         "solution_output": "CRITICAL: Service #2732 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2733,
         "title": "Scenario #2733: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2733.log",
         "solution_output": "CRITICAL: Service #2733 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2734,
         "title": "Scenario #2734: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2734.log",
         "solution_output": "CRITICAL: Service #2734 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2735,
         "title": "Scenario #2735: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2735.log",
         "solution_output": "CRITICAL: Service #2735 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2736,
         "title": "Scenario #2736: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2736.log",
         "solution_output": "CRITICAL: Service #2736 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2737,
         "title": "Scenario #2737: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2737.log",
         "solution_output": "CRITICAL: Service #2737 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2738,
         "title": "Scenario #2738: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2738.log",
         "solution_output": "CRITICAL: Service #2738 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2739,
         "title": "Scenario #2739: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2739.log",
         "solution_output": "CRITICAL: Service #2739 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2740,
         "title": "Scenario #2740: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2740.log",
         "solution_output": "CRITICAL: Service #2740 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2741,
         "title": "Scenario #2741: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2741.log",
         "solution_output": "CRITICAL: Service #2741 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2742,
         "title": "Scenario #2742: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2742.log",
         "solution_output": "CRITICAL: Service #2742 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2743,
         "title": "Scenario #2743: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2743.log",
         "solution_output": "CRITICAL: Service #2743 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2744,
         "title": "Scenario #2744: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2744.log",
         "solution_output": "CRITICAL: Service #2744 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2745,
         "title": "Scenario #2745: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2745.log",
         "solution_output": "CRITICAL: Service #2745 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2746,
         "title": "Scenario #2746: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2746.log",
         "solution_output": "CRITICAL: Service #2746 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2747,
         "title": "Scenario #2747: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2747.log",
         "solution_output": "CRITICAL: Service #2747 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2748,
         "title": "Scenario #2748: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2748.log",
         "solution_output": "CRITICAL: Service #2748 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2749,
         "title": "Scenario #2749: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2749.log",
         "solution_output": "CRITICAL: Service #2749 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2750,
         "title": "Scenario #2750: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2750.log",
         "solution_output": "CRITICAL: Service #2750 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2751,
         "title": "Scenario #2751: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2751.log",
         "solution_output": "CRITICAL: Service #2751 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2752,
         "title": "Scenario #2752: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2752.log",
         "solution_output": "CRITICAL: Service #2752 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2753,
         "title": "Scenario #2753: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2753.log",
         "solution_output": "CRITICAL: Service #2753 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2754,
         "title": "Scenario #2754: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2754.log",
         "solution_output": "CRITICAL: Service #2754 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2755,
         "title": "Scenario #2755: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2755.log",
         "solution_output": "CRITICAL: Service #2755 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2756,
         "title": "Scenario #2756: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2756.log",
         "solution_output": "CRITICAL: Service #2756 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2757,
         "title": "Scenario #2757: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2757.log",
         "solution_output": "CRITICAL: Service #2757 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2758,
         "title": "Scenario #2758: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2758.log",
         "solution_output": "CRITICAL: Service #2758 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2759,
         "title": "Scenario #2759: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2759.log",
         "solution_output": "CRITICAL: Service #2759 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2760,
         "title": "Scenario #2760: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2760.log",
         "solution_output": "CRITICAL: Service #2760 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2761,
         "title": "Scenario #2761: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2761.log",
         "solution_output": "CRITICAL: Service #2761 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2762,
         "title": "Scenario #2762: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2762.log",
         "solution_output": "CRITICAL: Service #2762 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2763,
         "title": "Scenario #2763: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2763.log",
         "solution_output": "CRITICAL: Service #2763 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2764,
         "title": "Scenario #2764: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2764.log",
         "solution_output": "CRITICAL: Service #2764 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2765,
         "title": "Scenario #2765: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2765.log",
         "solution_output": "CRITICAL: Service #2765 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2766,
         "title": "Scenario #2766: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2766.log",
         "solution_output": "CRITICAL: Service #2766 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2767,
         "title": "Scenario #2767: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2767.log",
         "solution_output": "CRITICAL: Service #2767 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2768,
         "title": "Scenario #2768: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2768.log",
         "solution_output": "CRITICAL: Service #2768 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2769,
         "title": "Scenario #2769: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2769.log",
         "solution_output": "CRITICAL: Service #2769 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2770,
         "title": "Scenario #2770: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2770.log",
         "solution_output": "CRITICAL: Service #2770 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2771,
         "title": "Scenario #2771: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2771.log",
         "solution_output": "CRITICAL: Service #2771 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2772,
         "title": "Scenario #2772: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2772.log",
         "solution_output": "CRITICAL: Service #2772 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2773,
         "title": "Scenario #2773: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2773.log",
         "solution_output": "CRITICAL: Service #2773 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2774,
         "title": "Scenario #2774: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2774.log",
         "solution_output": "CRITICAL: Service #2774 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2775,
         "title": "Scenario #2775: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2775.log",
         "solution_output": "CRITICAL: Service #2775 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2776,
         "title": "Scenario #2776: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2776.log",
         "solution_output": "CRITICAL: Service #2776 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2777,
         "title": "Scenario #2777: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2777.log",
         "solution_output": "CRITICAL: Service #2777 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2778,
         "title": "Scenario #2778: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2778.log",
         "solution_output": "CRITICAL: Service #2778 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2779,
         "title": "Scenario #2779: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2779.log",
         "solution_output": "CRITICAL: Service #2779 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2780,
         "title": "Scenario #2780: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2780.log",
         "solution_output": "CRITICAL: Service #2780 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2781,
         "title": "Scenario #2781: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2781.log",
         "solution_output": "CRITICAL: Service #2781 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2782,
         "title": "Scenario #2782: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2782.log",
         "solution_output": "CRITICAL: Service #2782 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2783,
         "title": "Scenario #2783: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2783.log",
         "solution_output": "CRITICAL: Service #2783 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2784,
         "title": "Scenario #2784: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2784.log",
         "solution_output": "CRITICAL: Service #2784 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2785,
         "title": "Scenario #2785: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2785.log",
         "solution_output": "CRITICAL: Service #2785 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2786,
         "title": "Scenario #2786: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2786.log",
         "solution_output": "CRITICAL: Service #2786 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2787,
         "title": "Scenario #2787: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2787.log",
         "solution_output": "CRITICAL: Service #2787 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2788,
         "title": "Scenario #2788: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2788.log",
         "solution_output": "CRITICAL: Service #2788 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2789,
         "title": "Scenario #2789: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2789.log",
         "solution_output": "CRITICAL: Service #2789 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2790,
         "title": "Scenario #2790: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2790.log",
         "solution_output": "CRITICAL: Service #2790 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2791,
         "title": "Scenario #2791: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2791.log",
         "solution_output": "CRITICAL: Service #2791 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2792,
         "title": "Scenario #2792: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2792.log",
         "solution_output": "CRITICAL: Service #2792 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2793,
         "title": "Scenario #2793: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2793.log",
         "solution_output": "CRITICAL: Service #2793 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2794,
         "title": "Scenario #2794: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2794.log",
         "solution_output": "CRITICAL: Service #2794 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2795,
         "title": "Scenario #2795: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2795.log",
         "solution_output": "CRITICAL: Service #2795 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2796,
         "title": "Scenario #2796: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2796.log",
         "solution_output": "CRITICAL: Service #2796 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2797,
         "title": "Scenario #2797: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2797.log",
         "solution_output": "CRITICAL: Service #2797 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2798,
         "title": "Scenario #2798: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2798.log",
         "solution_output": "CRITICAL: Service #2798 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2799,
         "title": "Scenario #2799: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_2799.log",
         "solution_output": "CRITICAL: Service #2799 failed to start.",
-        "difficulty": "Hard"
+        "difficulty": "Medium"
     },
     {
         "scenario_id": 2800,
@@ -24492,6 +24492,3506 @@ PYTHON_SCENARIOS = [
         "title": "Scenario #3499: Advanced System Diagnostic",
         "command": "grep -r 'ERROR' /var/log/scenario_3499.log",
         "solution_output": "CRITICAL: Service #3499 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3500,
+        "title": "Scenario #3500: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3500.log",
+        "solution_output": "CRITICAL: Service #3500 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3501,
+        "title": "Scenario #3501: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3501.log",
+        "solution_output": "CRITICAL: Service #3501 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3502,
+        "title": "Scenario #3502: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3502.log",
+        "solution_output": "CRITICAL: Service #3502 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3503,
+        "title": "Scenario #3503: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3503.log",
+        "solution_output": "CRITICAL: Service #3503 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3504,
+        "title": "Scenario #3504: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3504.log",
+        "solution_output": "CRITICAL: Service #3504 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3505,
+        "title": "Scenario #3505: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3505.log",
+        "solution_output": "CRITICAL: Service #3505 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3506,
+        "title": "Scenario #3506: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3506.log",
+        "solution_output": "CRITICAL: Service #3506 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3507,
+        "title": "Scenario #3507: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3507.log",
+        "solution_output": "CRITICAL: Service #3507 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3508,
+        "title": "Scenario #3508: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3508.log",
+        "solution_output": "CRITICAL: Service #3508 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3509,
+        "title": "Scenario #3509: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3509.log",
+        "solution_output": "CRITICAL: Service #3509 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3510,
+        "title": "Scenario #3510: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3510.log",
+        "solution_output": "CRITICAL: Service #3510 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3511,
+        "title": "Scenario #3511: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3511.log",
+        "solution_output": "CRITICAL: Service #3511 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3512,
+        "title": "Scenario #3512: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3512.log",
+        "solution_output": "CRITICAL: Service #3512 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3513,
+        "title": "Scenario #3513: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3513.log",
+        "solution_output": "CRITICAL: Service #3513 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3514,
+        "title": "Scenario #3514: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3514.log",
+        "solution_output": "CRITICAL: Service #3514 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3515,
+        "title": "Scenario #3515: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3515.log",
+        "solution_output": "CRITICAL: Service #3515 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3516,
+        "title": "Scenario #3516: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3516.log",
+        "solution_output": "CRITICAL: Service #3516 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3517,
+        "title": "Scenario #3517: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3517.log",
+        "solution_output": "CRITICAL: Service #3517 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3518,
+        "title": "Scenario #3518: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3518.log",
+        "solution_output": "CRITICAL: Service #3518 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3519,
+        "title": "Scenario #3519: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3519.log",
+        "solution_output": "CRITICAL: Service #3519 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3520,
+        "title": "Scenario #3520: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3520.log",
+        "solution_output": "CRITICAL: Service #3520 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3521,
+        "title": "Scenario #3521: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3521.log",
+        "solution_output": "CRITICAL: Service #3521 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3522,
+        "title": "Scenario #3522: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3522.log",
+        "solution_output": "CRITICAL: Service #3522 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3523,
+        "title": "Scenario #3523: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3523.log",
+        "solution_output": "CRITICAL: Service #3523 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3524,
+        "title": "Scenario #3524: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3524.log",
+        "solution_output": "CRITICAL: Service #3524 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3525,
+        "title": "Scenario #3525: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3525.log",
+        "solution_output": "CRITICAL: Service #3525 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3526,
+        "title": "Scenario #3526: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3526.log",
+        "solution_output": "CRITICAL: Service #3526 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3527,
+        "title": "Scenario #3527: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3527.log",
+        "solution_output": "CRITICAL: Service #3527 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3528,
+        "title": "Scenario #3528: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3528.log",
+        "solution_output": "CRITICAL: Service #3528 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3529,
+        "title": "Scenario #3529: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3529.log",
+        "solution_output": "CRITICAL: Service #3529 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3530,
+        "title": "Scenario #3530: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3530.log",
+        "solution_output": "CRITICAL: Service #3530 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3531,
+        "title": "Scenario #3531: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3531.log",
+        "solution_output": "CRITICAL: Service #3531 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3532,
+        "title": "Scenario #3532: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3532.log",
+        "solution_output": "CRITICAL: Service #3532 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3533,
+        "title": "Scenario #3533: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3533.log",
+        "solution_output": "CRITICAL: Service #3533 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3534,
+        "title": "Scenario #3534: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3534.log",
+        "solution_output": "CRITICAL: Service #3534 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3535,
+        "title": "Scenario #3535: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3535.log",
+        "solution_output": "CRITICAL: Service #3535 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3536,
+        "title": "Scenario #3536: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3536.log",
+        "solution_output": "CRITICAL: Service #3536 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3537,
+        "title": "Scenario #3537: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3537.log",
+        "solution_output": "CRITICAL: Service #3537 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3538,
+        "title": "Scenario #3538: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3538.log",
+        "solution_output": "CRITICAL: Service #3538 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3539,
+        "title": "Scenario #3539: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3539.log",
+        "solution_output": "CRITICAL: Service #3539 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3540,
+        "title": "Scenario #3540: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3540.log",
+        "solution_output": "CRITICAL: Service #3540 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3541,
+        "title": "Scenario #3541: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3541.log",
+        "solution_output": "CRITICAL: Service #3541 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3542,
+        "title": "Scenario #3542: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3542.log",
+        "solution_output": "CRITICAL: Service #3542 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3543,
+        "title": "Scenario #3543: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3543.log",
+        "solution_output": "CRITICAL: Service #3543 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3544,
+        "title": "Scenario #3544: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3544.log",
+        "solution_output": "CRITICAL: Service #3544 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3545,
+        "title": "Scenario #3545: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3545.log",
+        "solution_output": "CRITICAL: Service #3545 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3546,
+        "title": "Scenario #3546: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3546.log",
+        "solution_output": "CRITICAL: Service #3546 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3547,
+        "title": "Scenario #3547: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3547.log",
+        "solution_output": "CRITICAL: Service #3547 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3548,
+        "title": "Scenario #3548: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3548.log",
+        "solution_output": "CRITICAL: Service #3548 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3549,
+        "title": "Scenario #3549: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3549.log",
+        "solution_output": "CRITICAL: Service #3549 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3550,
+        "title": "Scenario #3550: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3550.log",
+        "solution_output": "CRITICAL: Service #3550 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3551,
+        "title": "Scenario #3551: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3551.log",
+        "solution_output": "CRITICAL: Service #3551 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3552,
+        "title": "Scenario #3552: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3552.log",
+        "solution_output": "CRITICAL: Service #3552 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3553,
+        "title": "Scenario #3553: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3553.log",
+        "solution_output": "CRITICAL: Service #3553 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3554,
+        "title": "Scenario #3554: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3554.log",
+        "solution_output": "CRITICAL: Service #3554 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3555,
+        "title": "Scenario #3555: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3555.log",
+        "solution_output": "CRITICAL: Service #3555 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3556,
+        "title": "Scenario #3556: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3556.log",
+        "solution_output": "CRITICAL: Service #3556 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3557,
+        "title": "Scenario #3557: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3557.log",
+        "solution_output": "CRITICAL: Service #3557 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3558,
+        "title": "Scenario #3558: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3558.log",
+        "solution_output": "CRITICAL: Service #3558 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3559,
+        "title": "Scenario #3559: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3559.log",
+        "solution_output": "CRITICAL: Service #3559 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3560,
+        "title": "Scenario #3560: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3560.log",
+        "solution_output": "CRITICAL: Service #3560 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3561,
+        "title": "Scenario #3561: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3561.log",
+        "solution_output": "CRITICAL: Service #3561 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3562,
+        "title": "Scenario #3562: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3562.log",
+        "solution_output": "CRITICAL: Service #3562 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3563,
+        "title": "Scenario #3563: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3563.log",
+        "solution_output": "CRITICAL: Service #3563 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3564,
+        "title": "Scenario #3564: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3564.log",
+        "solution_output": "CRITICAL: Service #3564 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3565,
+        "title": "Scenario #3565: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3565.log",
+        "solution_output": "CRITICAL: Service #3565 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3566,
+        "title": "Scenario #3566: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3566.log",
+        "solution_output": "CRITICAL: Service #3566 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3567,
+        "title": "Scenario #3567: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3567.log",
+        "solution_output": "CRITICAL: Service #3567 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3568,
+        "title": "Scenario #3568: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3568.log",
+        "solution_output": "CRITICAL: Service #3568 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3569,
+        "title": "Scenario #3569: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3569.log",
+        "solution_output": "CRITICAL: Service #3569 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3570,
+        "title": "Scenario #3570: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3570.log",
+        "solution_output": "CRITICAL: Service #3570 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3571,
+        "title": "Scenario #3571: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3571.log",
+        "solution_output": "CRITICAL: Service #3571 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3572,
+        "title": "Scenario #3572: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3572.log",
+        "solution_output": "CRITICAL: Service #3572 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3573,
+        "title": "Scenario #3573: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3573.log",
+        "solution_output": "CRITICAL: Service #3573 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3574,
+        "title": "Scenario #3574: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3574.log",
+        "solution_output": "CRITICAL: Service #3574 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3575,
+        "title": "Scenario #3575: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3575.log",
+        "solution_output": "CRITICAL: Service #3575 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3576,
+        "title": "Scenario #3576: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3576.log",
+        "solution_output": "CRITICAL: Service #3576 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3577,
+        "title": "Scenario #3577: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3577.log",
+        "solution_output": "CRITICAL: Service #3577 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3578,
+        "title": "Scenario #3578: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3578.log",
+        "solution_output": "CRITICAL: Service #3578 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3579,
+        "title": "Scenario #3579: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3579.log",
+        "solution_output": "CRITICAL: Service #3579 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3580,
+        "title": "Scenario #3580: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3580.log",
+        "solution_output": "CRITICAL: Service #3580 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3581,
+        "title": "Scenario #3581: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3581.log",
+        "solution_output": "CRITICAL: Service #3581 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3582,
+        "title": "Scenario #3582: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3582.log",
+        "solution_output": "CRITICAL: Service #3582 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3583,
+        "title": "Scenario #3583: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3583.log",
+        "solution_output": "CRITICAL: Service #3583 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3584,
+        "title": "Scenario #3584: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3584.log",
+        "solution_output": "CRITICAL: Service #3584 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3585,
+        "title": "Scenario #3585: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3585.log",
+        "solution_output": "CRITICAL: Service #3585 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3586,
+        "title": "Scenario #3586: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3586.log",
+        "solution_output": "CRITICAL: Service #3586 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3587,
+        "title": "Scenario #3587: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3587.log",
+        "solution_output": "CRITICAL: Service #3587 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3588,
+        "title": "Scenario #3588: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3588.log",
+        "solution_output": "CRITICAL: Service #3588 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3589,
+        "title": "Scenario #3589: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3589.log",
+        "solution_output": "CRITICAL: Service #3589 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3590,
+        "title": "Scenario #3590: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3590.log",
+        "solution_output": "CRITICAL: Service #3590 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3591,
+        "title": "Scenario #3591: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3591.log",
+        "solution_output": "CRITICAL: Service #3591 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3592,
+        "title": "Scenario #3592: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3592.log",
+        "solution_output": "CRITICAL: Service #3592 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3593,
+        "title": "Scenario #3593: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3593.log",
+        "solution_output": "CRITICAL: Service #3593 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3594,
+        "title": "Scenario #3594: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3594.log",
+        "solution_output": "CRITICAL: Service #3594 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3595,
+        "title": "Scenario #3595: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3595.log",
+        "solution_output": "CRITICAL: Service #3595 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3596,
+        "title": "Scenario #3596: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3596.log",
+        "solution_output": "CRITICAL: Service #3596 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3597,
+        "title": "Scenario #3597: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3597.log",
+        "solution_output": "CRITICAL: Service #3597 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3598,
+        "title": "Scenario #3598: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3598.log",
+        "solution_output": "CRITICAL: Service #3598 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3599,
+        "title": "Scenario #3599: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3599.log",
+        "solution_output": "CRITICAL: Service #3599 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3600,
+        "title": "Scenario #3600: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3600.log",
+        "solution_output": "CRITICAL: Service #3600 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3601,
+        "title": "Scenario #3601: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3601.log",
+        "solution_output": "CRITICAL: Service #3601 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3602,
+        "title": "Scenario #3602: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3602.log",
+        "solution_output": "CRITICAL: Service #3602 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3603,
+        "title": "Scenario #3603: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3603.log",
+        "solution_output": "CRITICAL: Service #3603 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3604,
+        "title": "Scenario #3604: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3604.log",
+        "solution_output": "CRITICAL: Service #3604 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3605,
+        "title": "Scenario #3605: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3605.log",
+        "solution_output": "CRITICAL: Service #3605 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3606,
+        "title": "Scenario #3606: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3606.log",
+        "solution_output": "CRITICAL: Service #3606 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3607,
+        "title": "Scenario #3607: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3607.log",
+        "solution_output": "CRITICAL: Service #3607 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3608,
+        "title": "Scenario #3608: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3608.log",
+        "solution_output": "CRITICAL: Service #3608 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3609,
+        "title": "Scenario #3609: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3609.log",
+        "solution_output": "CRITICAL: Service #3609 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3610,
+        "title": "Scenario #3610: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3610.log",
+        "solution_output": "CRITICAL: Service #3610 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3611,
+        "title": "Scenario #3611: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3611.log",
+        "solution_output": "CRITICAL: Service #3611 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3612,
+        "title": "Scenario #3612: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3612.log",
+        "solution_output": "CRITICAL: Service #3612 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3613,
+        "title": "Scenario #3613: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3613.log",
+        "solution_output": "CRITICAL: Service #3613 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3614,
+        "title": "Scenario #3614: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3614.log",
+        "solution_output": "CRITICAL: Service #3614 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3615,
+        "title": "Scenario #3615: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3615.log",
+        "solution_output": "CRITICAL: Service #3615 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3616,
+        "title": "Scenario #3616: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3616.log",
+        "solution_output": "CRITICAL: Service #3616 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3617,
+        "title": "Scenario #3617: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3617.log",
+        "solution_output": "CRITICAL: Service #3617 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3618,
+        "title": "Scenario #3618: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3618.log",
+        "solution_output": "CRITICAL: Service #3618 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3619,
+        "title": "Scenario #3619: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3619.log",
+        "solution_output": "CRITICAL: Service #3619 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3620,
+        "title": "Scenario #3620: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3620.log",
+        "solution_output": "CRITICAL: Service #3620 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3621,
+        "title": "Scenario #3621: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3621.log",
+        "solution_output": "CRITICAL: Service #3621 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3622,
+        "title": "Scenario #3622: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3622.log",
+        "solution_output": "CRITICAL: Service #3622 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3623,
+        "title": "Scenario #3623: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3623.log",
+        "solution_output": "CRITICAL: Service #3623 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3624,
+        "title": "Scenario #3624: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3624.log",
+        "solution_output": "CRITICAL: Service #3624 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3625,
+        "title": "Scenario #3625: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3625.log",
+        "solution_output": "CRITICAL: Service #3625 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3626,
+        "title": "Scenario #3626: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3626.log",
+        "solution_output": "CRITICAL: Service #3626 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3627,
+        "title": "Scenario #3627: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3627.log",
+        "solution_output": "CRITICAL: Service #3627 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3628,
+        "title": "Scenario #3628: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3628.log",
+        "solution_output": "CRITICAL: Service #3628 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3629,
+        "title": "Scenario #3629: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3629.log",
+        "solution_output": "CRITICAL: Service #3629 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3630,
+        "title": "Scenario #3630: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3630.log",
+        "solution_output": "CRITICAL: Service #3630 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3631,
+        "title": "Scenario #3631: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3631.log",
+        "solution_output": "CRITICAL: Service #3631 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3632,
+        "title": "Scenario #3632: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3632.log",
+        "solution_output": "CRITICAL: Service #3632 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3633,
+        "title": "Scenario #3633: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3633.log",
+        "solution_output": "CRITICAL: Service #3633 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3634,
+        "title": "Scenario #3634: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3634.log",
+        "solution_output": "CRITICAL: Service #3634 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3635,
+        "title": "Scenario #3635: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3635.log",
+        "solution_output": "CRITICAL: Service #3635 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3636,
+        "title": "Scenario #3636: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3636.log",
+        "solution_output": "CRITICAL: Service #3636 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3637,
+        "title": "Scenario #3637: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3637.log",
+        "solution_output": "CRITICAL: Service #3637 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3638,
+        "title": "Scenario #3638: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3638.log",
+        "solution_output": "CRITICAL: Service #3638 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3639,
+        "title": "Scenario #3639: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3639.log",
+        "solution_output": "CRITICAL: Service #3639 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3640,
+        "title": "Scenario #3640: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3640.log",
+        "solution_output": "CRITICAL: Service #3640 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3641,
+        "title": "Scenario #3641: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3641.log",
+        "solution_output": "CRITICAL: Service #3641 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3642,
+        "title": "Scenario #3642: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3642.log",
+        "solution_output": "CRITICAL: Service #3642 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3643,
+        "title": "Scenario #3643: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3643.log",
+        "solution_output": "CRITICAL: Service #3643 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3644,
+        "title": "Scenario #3644: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3644.log",
+        "solution_output": "CRITICAL: Service #3644 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3645,
+        "title": "Scenario #3645: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3645.log",
+        "solution_output": "CRITICAL: Service #3645 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3646,
+        "title": "Scenario #3646: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3646.log",
+        "solution_output": "CRITICAL: Service #3646 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3647,
+        "title": "Scenario #3647: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3647.log",
+        "solution_output": "CRITICAL: Service #3647 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3648,
+        "title": "Scenario #3648: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3648.log",
+        "solution_output": "CRITICAL: Service #3648 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3649,
+        "title": "Scenario #3649: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3649.log",
+        "solution_output": "CRITICAL: Service #3649 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3650,
+        "title": "Scenario #3650: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3650.log",
+        "solution_output": "CRITICAL: Service #3650 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3651,
+        "title": "Scenario #3651: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3651.log",
+        "solution_output": "CRITICAL: Service #3651 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3652,
+        "title": "Scenario #3652: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3652.log",
+        "solution_output": "CRITICAL: Service #3652 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3653,
+        "title": "Scenario #3653: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3653.log",
+        "solution_output": "CRITICAL: Service #3653 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3654,
+        "title": "Scenario #3654: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3654.log",
+        "solution_output": "CRITICAL: Service #3654 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3655,
+        "title": "Scenario #3655: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3655.log",
+        "solution_output": "CRITICAL: Service #3655 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3656,
+        "title": "Scenario #3656: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3656.log",
+        "solution_output": "CRITICAL: Service #3656 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3657,
+        "title": "Scenario #3657: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3657.log",
+        "solution_output": "CRITICAL: Service #3657 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3658,
+        "title": "Scenario #3658: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3658.log",
+        "solution_output": "CRITICAL: Service #3658 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3659,
+        "title": "Scenario #3659: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3659.log",
+        "solution_output": "CRITICAL: Service #3659 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3660,
+        "title": "Scenario #3660: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3660.log",
+        "solution_output": "CRITICAL: Service #3660 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3661,
+        "title": "Scenario #3661: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3661.log",
+        "solution_output": "CRITICAL: Service #3661 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3662,
+        "title": "Scenario #3662: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3662.log",
+        "solution_output": "CRITICAL: Service #3662 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3663,
+        "title": "Scenario #3663: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3663.log",
+        "solution_output": "CRITICAL: Service #3663 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3664,
+        "title": "Scenario #3664: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3664.log",
+        "solution_output": "CRITICAL: Service #3664 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3665,
+        "title": "Scenario #3665: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3665.log",
+        "solution_output": "CRITICAL: Service #3665 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3666,
+        "title": "Scenario #3666: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3666.log",
+        "solution_output": "CRITICAL: Service #3666 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3667,
+        "title": "Scenario #3667: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3667.log",
+        "solution_output": "CRITICAL: Service #3667 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3668,
+        "title": "Scenario #3668: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3668.log",
+        "solution_output": "CRITICAL: Service #3668 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3669,
+        "title": "Scenario #3669: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3669.log",
+        "solution_output": "CRITICAL: Service #3669 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3670,
+        "title": "Scenario #3670: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3670.log",
+        "solution_output": "CRITICAL: Service #3670 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3671,
+        "title": "Scenario #3671: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3671.log",
+        "solution_output": "CRITICAL: Service #3671 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3672,
+        "title": "Scenario #3672: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3672.log",
+        "solution_output": "CRITICAL: Service #3672 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3673,
+        "title": "Scenario #3673: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3673.log",
+        "solution_output": "CRITICAL: Service #3673 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3674,
+        "title": "Scenario #3674: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3674.log",
+        "solution_output": "CRITICAL: Service #3674 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3675,
+        "title": "Scenario #3675: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3675.log",
+        "solution_output": "CRITICAL: Service #3675 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3676,
+        "title": "Scenario #3676: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3676.log",
+        "solution_output": "CRITICAL: Service #3676 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3677,
+        "title": "Scenario #3677: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3677.log",
+        "solution_output": "CRITICAL: Service #3677 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3678,
+        "title": "Scenario #3678: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3678.log",
+        "solution_output": "CRITICAL: Service #3678 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3679,
+        "title": "Scenario #3679: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3679.log",
+        "solution_output": "CRITICAL: Service #3679 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3680,
+        "title": "Scenario #3680: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3680.log",
+        "solution_output": "CRITICAL: Service #3680 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3681,
+        "title": "Scenario #3681: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3681.log",
+        "solution_output": "CRITICAL: Service #3681 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3682,
+        "title": "Scenario #3682: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3682.log",
+        "solution_output": "CRITICAL: Service #3682 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3683,
+        "title": "Scenario #3683: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3683.log",
+        "solution_output": "CRITICAL: Service #3683 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3684,
+        "title": "Scenario #3684: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3684.log",
+        "solution_output": "CRITICAL: Service #3684 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3685,
+        "title": "Scenario #3685: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3685.log",
+        "solution_output": "CRITICAL: Service #3685 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3686,
+        "title": "Scenario #3686: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3686.log",
+        "solution_output": "CRITICAL: Service #3686 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3687,
+        "title": "Scenario #3687: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3687.log",
+        "solution_output": "CRITICAL: Service #3687 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3688,
+        "title": "Scenario #3688: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3688.log",
+        "solution_output": "CRITICAL: Service #3688 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3689,
+        "title": "Scenario #3689: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3689.log",
+        "solution_output": "CRITICAL: Service #3689 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3690,
+        "title": "Scenario #3690: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3690.log",
+        "solution_output": "CRITICAL: Service #3690 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3691,
+        "title": "Scenario #3691: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3691.log",
+        "solution_output": "CRITICAL: Service #3691 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3692,
+        "title": "Scenario #3692: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3692.log",
+        "solution_output": "CRITICAL: Service #3692 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3693,
+        "title": "Scenario #3693: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3693.log",
+        "solution_output": "CRITICAL: Service #3693 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3694,
+        "title": "Scenario #3694: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3694.log",
+        "solution_output": "CRITICAL: Service #3694 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3695,
+        "title": "Scenario #3695: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3695.log",
+        "solution_output": "CRITICAL: Service #3695 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3696,
+        "title": "Scenario #3696: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3696.log",
+        "solution_output": "CRITICAL: Service #3696 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3697,
+        "title": "Scenario #3697: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3697.log",
+        "solution_output": "CRITICAL: Service #3697 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3698,
+        "title": "Scenario #3698: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3698.log",
+        "solution_output": "CRITICAL: Service #3698 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3699,
+        "title": "Scenario #3699: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3699.log",
+        "solution_output": "CRITICAL: Service #3699 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3700,
+        "title": "Scenario #3700: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3700.log",
+        "solution_output": "CRITICAL: Service #3700 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3701,
+        "title": "Scenario #3701: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3701.log",
+        "solution_output": "CRITICAL: Service #3701 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3702,
+        "title": "Scenario #3702: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3702.log",
+        "solution_output": "CRITICAL: Service #3702 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3703,
+        "title": "Scenario #3703: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3703.log",
+        "solution_output": "CRITICAL: Service #3703 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3704,
+        "title": "Scenario #3704: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3704.log",
+        "solution_output": "CRITICAL: Service #3704 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3705,
+        "title": "Scenario #3705: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3705.log",
+        "solution_output": "CRITICAL: Service #3705 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3706,
+        "title": "Scenario #3706: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3706.log",
+        "solution_output": "CRITICAL: Service #3706 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3707,
+        "title": "Scenario #3707: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3707.log",
+        "solution_output": "CRITICAL: Service #3707 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3708,
+        "title": "Scenario #3708: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3708.log",
+        "solution_output": "CRITICAL: Service #3708 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3709,
+        "title": "Scenario #3709: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3709.log",
+        "solution_output": "CRITICAL: Service #3709 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3710,
+        "title": "Scenario #3710: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3710.log",
+        "solution_output": "CRITICAL: Service #3710 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3711,
+        "title": "Scenario #3711: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3711.log",
+        "solution_output": "CRITICAL: Service #3711 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3712,
+        "title": "Scenario #3712: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3712.log",
+        "solution_output": "CRITICAL: Service #3712 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3713,
+        "title": "Scenario #3713: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3713.log",
+        "solution_output": "CRITICAL: Service #3713 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3714,
+        "title": "Scenario #3714: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3714.log",
+        "solution_output": "CRITICAL: Service #3714 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3715,
+        "title": "Scenario #3715: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3715.log",
+        "solution_output": "CRITICAL: Service #3715 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3716,
+        "title": "Scenario #3716: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3716.log",
+        "solution_output": "CRITICAL: Service #3716 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3717,
+        "title": "Scenario #3717: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3717.log",
+        "solution_output": "CRITICAL: Service #3717 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3718,
+        "title": "Scenario #3718: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3718.log",
+        "solution_output": "CRITICAL: Service #3718 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3719,
+        "title": "Scenario #3719: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3719.log",
+        "solution_output": "CRITICAL: Service #3719 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3720,
+        "title": "Scenario #3720: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3720.log",
+        "solution_output": "CRITICAL: Service #3720 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3721,
+        "title": "Scenario #3721: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3721.log",
+        "solution_output": "CRITICAL: Service #3721 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3722,
+        "title": "Scenario #3722: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3722.log",
+        "solution_output": "CRITICAL: Service #3722 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3723,
+        "title": "Scenario #3723: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3723.log",
+        "solution_output": "CRITICAL: Service #3723 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3724,
+        "title": "Scenario #3724: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3724.log",
+        "solution_output": "CRITICAL: Service #3724 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3725,
+        "title": "Scenario #3725: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3725.log",
+        "solution_output": "CRITICAL: Service #3725 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3726,
+        "title": "Scenario #3726: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3726.log",
+        "solution_output": "CRITICAL: Service #3726 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3727,
+        "title": "Scenario #3727: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3727.log",
+        "solution_output": "CRITICAL: Service #3727 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3728,
+        "title": "Scenario #3728: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3728.log",
+        "solution_output": "CRITICAL: Service #3728 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3729,
+        "title": "Scenario #3729: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3729.log",
+        "solution_output": "CRITICAL: Service #3729 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3730,
+        "title": "Scenario #3730: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3730.log",
+        "solution_output": "CRITICAL: Service #3730 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3731,
+        "title": "Scenario #3731: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3731.log",
+        "solution_output": "CRITICAL: Service #3731 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3732,
+        "title": "Scenario #3732: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3732.log",
+        "solution_output": "CRITICAL: Service #3732 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3733,
+        "title": "Scenario #3733: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3733.log",
+        "solution_output": "CRITICAL: Service #3733 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3734,
+        "title": "Scenario #3734: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3734.log",
+        "solution_output": "CRITICAL: Service #3734 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3735,
+        "title": "Scenario #3735: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3735.log",
+        "solution_output": "CRITICAL: Service #3735 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3736,
+        "title": "Scenario #3736: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3736.log",
+        "solution_output": "CRITICAL: Service #3736 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3737,
+        "title": "Scenario #3737: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3737.log",
+        "solution_output": "CRITICAL: Service #3737 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3738,
+        "title": "Scenario #3738: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3738.log",
+        "solution_output": "CRITICAL: Service #3738 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3739,
+        "title": "Scenario #3739: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3739.log",
+        "solution_output": "CRITICAL: Service #3739 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3740,
+        "title": "Scenario #3740: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3740.log",
+        "solution_output": "CRITICAL: Service #3740 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3741,
+        "title": "Scenario #3741: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3741.log",
+        "solution_output": "CRITICAL: Service #3741 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3742,
+        "title": "Scenario #3742: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3742.log",
+        "solution_output": "CRITICAL: Service #3742 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3743,
+        "title": "Scenario #3743: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3743.log",
+        "solution_output": "CRITICAL: Service #3743 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3744,
+        "title": "Scenario #3744: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3744.log",
+        "solution_output": "CRITICAL: Service #3744 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3745,
+        "title": "Scenario #3745: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3745.log",
+        "solution_output": "CRITICAL: Service #3745 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3746,
+        "title": "Scenario #3746: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3746.log",
+        "solution_output": "CRITICAL: Service #3746 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3747,
+        "title": "Scenario #3747: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3747.log",
+        "solution_output": "CRITICAL: Service #3747 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3748,
+        "title": "Scenario #3748: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3748.log",
+        "solution_output": "CRITICAL: Service #3748 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3749,
+        "title": "Scenario #3749: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3749.log",
+        "solution_output": "CRITICAL: Service #3749 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3750,
+        "title": "Scenario #3750: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3750.log",
+        "solution_output": "CRITICAL: Service #3750 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3751,
+        "title": "Scenario #3751: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3751.log",
+        "solution_output": "CRITICAL: Service #3751 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3752,
+        "title": "Scenario #3752: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3752.log",
+        "solution_output": "CRITICAL: Service #3752 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3753,
+        "title": "Scenario #3753: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3753.log",
+        "solution_output": "CRITICAL: Service #3753 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3754,
+        "title": "Scenario #3754: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3754.log",
+        "solution_output": "CRITICAL: Service #3754 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3755,
+        "title": "Scenario #3755: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3755.log",
+        "solution_output": "CRITICAL: Service #3755 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3756,
+        "title": "Scenario #3756: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3756.log",
+        "solution_output": "CRITICAL: Service #3756 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3757,
+        "title": "Scenario #3757: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3757.log",
+        "solution_output": "CRITICAL: Service #3757 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3758,
+        "title": "Scenario #3758: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3758.log",
+        "solution_output": "CRITICAL: Service #3758 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3759,
+        "title": "Scenario #3759: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3759.log",
+        "solution_output": "CRITICAL: Service #3759 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3760,
+        "title": "Scenario #3760: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3760.log",
+        "solution_output": "CRITICAL: Service #3760 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3761,
+        "title": "Scenario #3761: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3761.log",
+        "solution_output": "CRITICAL: Service #3761 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3762,
+        "title": "Scenario #3762: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3762.log",
+        "solution_output": "CRITICAL: Service #3762 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3763,
+        "title": "Scenario #3763: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3763.log",
+        "solution_output": "CRITICAL: Service #3763 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3764,
+        "title": "Scenario #3764: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3764.log",
+        "solution_output": "CRITICAL: Service #3764 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3765,
+        "title": "Scenario #3765: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3765.log",
+        "solution_output": "CRITICAL: Service #3765 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3766,
+        "title": "Scenario #3766: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3766.log",
+        "solution_output": "CRITICAL: Service #3766 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3767,
+        "title": "Scenario #3767: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3767.log",
+        "solution_output": "CRITICAL: Service #3767 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3768,
+        "title": "Scenario #3768: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3768.log",
+        "solution_output": "CRITICAL: Service #3768 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3769,
+        "title": "Scenario #3769: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3769.log",
+        "solution_output": "CRITICAL: Service #3769 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3770,
+        "title": "Scenario #3770: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3770.log",
+        "solution_output": "CRITICAL: Service #3770 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3771,
+        "title": "Scenario #3771: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3771.log",
+        "solution_output": "CRITICAL: Service #3771 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3772,
+        "title": "Scenario #3772: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3772.log",
+        "solution_output": "CRITICAL: Service #3772 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3773,
+        "title": "Scenario #3773: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3773.log",
+        "solution_output": "CRITICAL: Service #3773 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3774,
+        "title": "Scenario #3774: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3774.log",
+        "solution_output": "CRITICAL: Service #3774 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3775,
+        "title": "Scenario #3775: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3775.log",
+        "solution_output": "CRITICAL: Service #3775 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3776,
+        "title": "Scenario #3776: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3776.log",
+        "solution_output": "CRITICAL: Service #3776 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3777,
+        "title": "Scenario #3777: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3777.log",
+        "solution_output": "CRITICAL: Service #3777 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3778,
+        "title": "Scenario #3778: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3778.log",
+        "solution_output": "CRITICAL: Service #3778 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3779,
+        "title": "Scenario #3779: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3779.log",
+        "solution_output": "CRITICAL: Service #3779 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3780,
+        "title": "Scenario #3780: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3780.log",
+        "solution_output": "CRITICAL: Service #3780 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3781,
+        "title": "Scenario #3781: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3781.log",
+        "solution_output": "CRITICAL: Service #3781 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3782,
+        "title": "Scenario #3782: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3782.log",
+        "solution_output": "CRITICAL: Service #3782 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3783,
+        "title": "Scenario #3783: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3783.log",
+        "solution_output": "CRITICAL: Service #3783 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3784,
+        "title": "Scenario #3784: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3784.log",
+        "solution_output": "CRITICAL: Service #3784 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3785,
+        "title": "Scenario #3785: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3785.log",
+        "solution_output": "CRITICAL: Service #3785 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3786,
+        "title": "Scenario #3786: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3786.log",
+        "solution_output": "CRITICAL: Service #3786 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3787,
+        "title": "Scenario #3787: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3787.log",
+        "solution_output": "CRITICAL: Service #3787 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3788,
+        "title": "Scenario #3788: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3788.log",
+        "solution_output": "CRITICAL: Service #3788 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3789,
+        "title": "Scenario #3789: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3789.log",
+        "solution_output": "CRITICAL: Service #3789 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3790,
+        "title": "Scenario #3790: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3790.log",
+        "solution_output": "CRITICAL: Service #3790 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3791,
+        "title": "Scenario #3791: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3791.log",
+        "solution_output": "CRITICAL: Service #3791 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3792,
+        "title": "Scenario #3792: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3792.log",
+        "solution_output": "CRITICAL: Service #3792 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3793,
+        "title": "Scenario #3793: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3793.log",
+        "solution_output": "CRITICAL: Service #3793 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3794,
+        "title": "Scenario #3794: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3794.log",
+        "solution_output": "CRITICAL: Service #3794 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3795,
+        "title": "Scenario #3795: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3795.log",
+        "solution_output": "CRITICAL: Service #3795 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3796,
+        "title": "Scenario #3796: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3796.log",
+        "solution_output": "CRITICAL: Service #3796 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3797,
+        "title": "Scenario #3797: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3797.log",
+        "solution_output": "CRITICAL: Service #3797 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3798,
+        "title": "Scenario #3798: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3798.log",
+        "solution_output": "CRITICAL: Service #3798 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3799,
+        "title": "Scenario #3799: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3799.log",
+        "solution_output": "CRITICAL: Service #3799 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3800,
+        "title": "Scenario #3800: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3800.log",
+        "solution_output": "CRITICAL: Service #3800 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3801,
+        "title": "Scenario #3801: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3801.log",
+        "solution_output": "CRITICAL: Service #3801 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3802,
+        "title": "Scenario #3802: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3802.log",
+        "solution_output": "CRITICAL: Service #3802 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3803,
+        "title": "Scenario #3803: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3803.log",
+        "solution_output": "CRITICAL: Service #3803 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3804,
+        "title": "Scenario #3804: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3804.log",
+        "solution_output": "CRITICAL: Service #3804 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3805,
+        "title": "Scenario #3805: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3805.log",
+        "solution_output": "CRITICAL: Service #3805 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3806,
+        "title": "Scenario #3806: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3806.log",
+        "solution_output": "CRITICAL: Service #3806 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3807,
+        "title": "Scenario #3807: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3807.log",
+        "solution_output": "CRITICAL: Service #3807 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3808,
+        "title": "Scenario #3808: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3808.log",
+        "solution_output": "CRITICAL: Service #3808 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3809,
+        "title": "Scenario #3809: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3809.log",
+        "solution_output": "CRITICAL: Service #3809 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3810,
+        "title": "Scenario #3810: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3810.log",
+        "solution_output": "CRITICAL: Service #3810 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3811,
+        "title": "Scenario #3811: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3811.log",
+        "solution_output": "CRITICAL: Service #3811 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3812,
+        "title": "Scenario #3812: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3812.log",
+        "solution_output": "CRITICAL: Service #3812 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3813,
+        "title": "Scenario #3813: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3813.log",
+        "solution_output": "CRITICAL: Service #3813 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3814,
+        "title": "Scenario #3814: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3814.log",
+        "solution_output": "CRITICAL: Service #3814 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3815,
+        "title": "Scenario #3815: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3815.log",
+        "solution_output": "CRITICAL: Service #3815 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3816,
+        "title": "Scenario #3816: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3816.log",
+        "solution_output": "CRITICAL: Service #3816 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3817,
+        "title": "Scenario #3817: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3817.log",
+        "solution_output": "CRITICAL: Service #3817 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3818,
+        "title": "Scenario #3818: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3818.log",
+        "solution_output": "CRITICAL: Service #3818 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3819,
+        "title": "Scenario #3819: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3819.log",
+        "solution_output": "CRITICAL: Service #3819 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3820,
+        "title": "Scenario #3820: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3820.log",
+        "solution_output": "CRITICAL: Service #3820 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3821,
+        "title": "Scenario #3821: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3821.log",
+        "solution_output": "CRITICAL: Service #3821 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3822,
+        "title": "Scenario #3822: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3822.log",
+        "solution_output": "CRITICAL: Service #3822 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3823,
+        "title": "Scenario #3823: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3823.log",
+        "solution_output": "CRITICAL: Service #3823 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3824,
+        "title": "Scenario #3824: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3824.log",
+        "solution_output": "CRITICAL: Service #3824 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3825,
+        "title": "Scenario #3825: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3825.log",
+        "solution_output": "CRITICAL: Service #3825 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3826,
+        "title": "Scenario #3826: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3826.log",
+        "solution_output": "CRITICAL: Service #3826 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3827,
+        "title": "Scenario #3827: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3827.log",
+        "solution_output": "CRITICAL: Service #3827 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3828,
+        "title": "Scenario #3828: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3828.log",
+        "solution_output": "CRITICAL: Service #3828 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3829,
+        "title": "Scenario #3829: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3829.log",
+        "solution_output": "CRITICAL: Service #3829 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3830,
+        "title": "Scenario #3830: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3830.log",
+        "solution_output": "CRITICAL: Service #3830 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3831,
+        "title": "Scenario #3831: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3831.log",
+        "solution_output": "CRITICAL: Service #3831 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3832,
+        "title": "Scenario #3832: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3832.log",
+        "solution_output": "CRITICAL: Service #3832 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3833,
+        "title": "Scenario #3833: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3833.log",
+        "solution_output": "CRITICAL: Service #3833 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3834,
+        "title": "Scenario #3834: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3834.log",
+        "solution_output": "CRITICAL: Service #3834 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3835,
+        "title": "Scenario #3835: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3835.log",
+        "solution_output": "CRITICAL: Service #3835 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3836,
+        "title": "Scenario #3836: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3836.log",
+        "solution_output": "CRITICAL: Service #3836 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3837,
+        "title": "Scenario #3837: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3837.log",
+        "solution_output": "CRITICAL: Service #3837 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3838,
+        "title": "Scenario #3838: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3838.log",
+        "solution_output": "CRITICAL: Service #3838 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3839,
+        "title": "Scenario #3839: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3839.log",
+        "solution_output": "CRITICAL: Service #3839 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3840,
+        "title": "Scenario #3840: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3840.log",
+        "solution_output": "CRITICAL: Service #3840 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3841,
+        "title": "Scenario #3841: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3841.log",
+        "solution_output": "CRITICAL: Service #3841 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3842,
+        "title": "Scenario #3842: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3842.log",
+        "solution_output": "CRITICAL: Service #3842 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3843,
+        "title": "Scenario #3843: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3843.log",
+        "solution_output": "CRITICAL: Service #3843 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3844,
+        "title": "Scenario #3844: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3844.log",
+        "solution_output": "CRITICAL: Service #3844 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3845,
+        "title": "Scenario #3845: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3845.log",
+        "solution_output": "CRITICAL: Service #3845 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3846,
+        "title": "Scenario #3846: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3846.log",
+        "solution_output": "CRITICAL: Service #3846 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3847,
+        "title": "Scenario #3847: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3847.log",
+        "solution_output": "CRITICAL: Service #3847 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3848,
+        "title": "Scenario #3848: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3848.log",
+        "solution_output": "CRITICAL: Service #3848 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3849,
+        "title": "Scenario #3849: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3849.log",
+        "solution_output": "CRITICAL: Service #3849 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3850,
+        "title": "Scenario #3850: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3850.log",
+        "solution_output": "CRITICAL: Service #3850 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3851,
+        "title": "Scenario #3851: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3851.log",
+        "solution_output": "CRITICAL: Service #3851 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3852,
+        "title": "Scenario #3852: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3852.log",
+        "solution_output": "CRITICAL: Service #3852 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3853,
+        "title": "Scenario #3853: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3853.log",
+        "solution_output": "CRITICAL: Service #3853 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3854,
+        "title": "Scenario #3854: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3854.log",
+        "solution_output": "CRITICAL: Service #3854 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3855,
+        "title": "Scenario #3855: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3855.log",
+        "solution_output": "CRITICAL: Service #3855 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3856,
+        "title": "Scenario #3856: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3856.log",
+        "solution_output": "CRITICAL: Service #3856 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3857,
+        "title": "Scenario #3857: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3857.log",
+        "solution_output": "CRITICAL: Service #3857 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3858,
+        "title": "Scenario #3858: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3858.log",
+        "solution_output": "CRITICAL: Service #3858 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3859,
+        "title": "Scenario #3859: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3859.log",
+        "solution_output": "CRITICAL: Service #3859 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3860,
+        "title": "Scenario #3860: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3860.log",
+        "solution_output": "CRITICAL: Service #3860 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3861,
+        "title": "Scenario #3861: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3861.log",
+        "solution_output": "CRITICAL: Service #3861 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3862,
+        "title": "Scenario #3862: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3862.log",
+        "solution_output": "CRITICAL: Service #3862 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3863,
+        "title": "Scenario #3863: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3863.log",
+        "solution_output": "CRITICAL: Service #3863 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3864,
+        "title": "Scenario #3864: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3864.log",
+        "solution_output": "CRITICAL: Service #3864 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3865,
+        "title": "Scenario #3865: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3865.log",
+        "solution_output": "CRITICAL: Service #3865 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3866,
+        "title": "Scenario #3866: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3866.log",
+        "solution_output": "CRITICAL: Service #3866 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3867,
+        "title": "Scenario #3867: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3867.log",
+        "solution_output": "CRITICAL: Service #3867 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3868,
+        "title": "Scenario #3868: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3868.log",
+        "solution_output": "CRITICAL: Service #3868 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3869,
+        "title": "Scenario #3869: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3869.log",
+        "solution_output": "CRITICAL: Service #3869 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3870,
+        "title": "Scenario #3870: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3870.log",
+        "solution_output": "CRITICAL: Service #3870 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3871,
+        "title": "Scenario #3871: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3871.log",
+        "solution_output": "CRITICAL: Service #3871 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3872,
+        "title": "Scenario #3872: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3872.log",
+        "solution_output": "CRITICAL: Service #3872 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3873,
+        "title": "Scenario #3873: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3873.log",
+        "solution_output": "CRITICAL: Service #3873 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3874,
+        "title": "Scenario #3874: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3874.log",
+        "solution_output": "CRITICAL: Service #3874 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3875,
+        "title": "Scenario #3875: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3875.log",
+        "solution_output": "CRITICAL: Service #3875 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3876,
+        "title": "Scenario #3876: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3876.log",
+        "solution_output": "CRITICAL: Service #3876 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3877,
+        "title": "Scenario #3877: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3877.log",
+        "solution_output": "CRITICAL: Service #3877 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3878,
+        "title": "Scenario #3878: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3878.log",
+        "solution_output": "CRITICAL: Service #3878 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3879,
+        "title": "Scenario #3879: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3879.log",
+        "solution_output": "CRITICAL: Service #3879 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3880,
+        "title": "Scenario #3880: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3880.log",
+        "solution_output": "CRITICAL: Service #3880 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3881,
+        "title": "Scenario #3881: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3881.log",
+        "solution_output": "CRITICAL: Service #3881 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3882,
+        "title": "Scenario #3882: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3882.log",
+        "solution_output": "CRITICAL: Service #3882 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3883,
+        "title": "Scenario #3883: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3883.log",
+        "solution_output": "CRITICAL: Service #3883 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3884,
+        "title": "Scenario #3884: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3884.log",
+        "solution_output": "CRITICAL: Service #3884 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3885,
+        "title": "Scenario #3885: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3885.log",
+        "solution_output": "CRITICAL: Service #3885 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3886,
+        "title": "Scenario #3886: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3886.log",
+        "solution_output": "CRITICAL: Service #3886 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3887,
+        "title": "Scenario #3887: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3887.log",
+        "solution_output": "CRITICAL: Service #3887 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3888,
+        "title": "Scenario #3888: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3888.log",
+        "solution_output": "CRITICAL: Service #3888 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3889,
+        "title": "Scenario #3889: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3889.log",
+        "solution_output": "CRITICAL: Service #3889 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3890,
+        "title": "Scenario #3890: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3890.log",
+        "solution_output": "CRITICAL: Service #3890 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3891,
+        "title": "Scenario #3891: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3891.log",
+        "solution_output": "CRITICAL: Service #3891 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3892,
+        "title": "Scenario #3892: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3892.log",
+        "solution_output": "CRITICAL: Service #3892 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3893,
+        "title": "Scenario #3893: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3893.log",
+        "solution_output": "CRITICAL: Service #3893 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3894,
+        "title": "Scenario #3894: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3894.log",
+        "solution_output": "CRITICAL: Service #3894 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3895,
+        "title": "Scenario #3895: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3895.log",
+        "solution_output": "CRITICAL: Service #3895 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3896,
+        "title": "Scenario #3896: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3896.log",
+        "solution_output": "CRITICAL: Service #3896 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3897,
+        "title": "Scenario #3897: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3897.log",
+        "solution_output": "CRITICAL: Service #3897 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3898,
+        "title": "Scenario #3898: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3898.log",
+        "solution_output": "CRITICAL: Service #3898 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3899,
+        "title": "Scenario #3899: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3899.log",
+        "solution_output": "CRITICAL: Service #3899 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3900,
+        "title": "Scenario #3900: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3900.log",
+        "solution_output": "CRITICAL: Service #3900 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3901,
+        "title": "Scenario #3901: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3901.log",
+        "solution_output": "CRITICAL: Service #3901 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3902,
+        "title": "Scenario #3902: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3902.log",
+        "solution_output": "CRITICAL: Service #3902 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3903,
+        "title": "Scenario #3903: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3903.log",
+        "solution_output": "CRITICAL: Service #3903 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3904,
+        "title": "Scenario #3904: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3904.log",
+        "solution_output": "CRITICAL: Service #3904 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3905,
+        "title": "Scenario #3905: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3905.log",
+        "solution_output": "CRITICAL: Service #3905 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3906,
+        "title": "Scenario #3906: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3906.log",
+        "solution_output": "CRITICAL: Service #3906 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3907,
+        "title": "Scenario #3907: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3907.log",
+        "solution_output": "CRITICAL: Service #3907 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3908,
+        "title": "Scenario #3908: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3908.log",
+        "solution_output": "CRITICAL: Service #3908 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3909,
+        "title": "Scenario #3909: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3909.log",
+        "solution_output": "CRITICAL: Service #3909 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3910,
+        "title": "Scenario #3910: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3910.log",
+        "solution_output": "CRITICAL: Service #3910 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3911,
+        "title": "Scenario #3911: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3911.log",
+        "solution_output": "CRITICAL: Service #3911 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3912,
+        "title": "Scenario #3912: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3912.log",
+        "solution_output": "CRITICAL: Service #3912 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3913,
+        "title": "Scenario #3913: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3913.log",
+        "solution_output": "CRITICAL: Service #3913 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3914,
+        "title": "Scenario #3914: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3914.log",
+        "solution_output": "CRITICAL: Service #3914 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3915,
+        "title": "Scenario #3915: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3915.log",
+        "solution_output": "CRITICAL: Service #3915 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3916,
+        "title": "Scenario #3916: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3916.log",
+        "solution_output": "CRITICAL: Service #3916 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3917,
+        "title": "Scenario #3917: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3917.log",
+        "solution_output": "CRITICAL: Service #3917 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3918,
+        "title": "Scenario #3918: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3918.log",
+        "solution_output": "CRITICAL: Service #3918 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3919,
+        "title": "Scenario #3919: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3919.log",
+        "solution_output": "CRITICAL: Service #3919 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3920,
+        "title": "Scenario #3920: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3920.log",
+        "solution_output": "CRITICAL: Service #3920 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3921,
+        "title": "Scenario #3921: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3921.log",
+        "solution_output": "CRITICAL: Service #3921 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3922,
+        "title": "Scenario #3922: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3922.log",
+        "solution_output": "CRITICAL: Service #3922 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3923,
+        "title": "Scenario #3923: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3923.log",
+        "solution_output": "CRITICAL: Service #3923 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3924,
+        "title": "Scenario #3924: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3924.log",
+        "solution_output": "CRITICAL: Service #3924 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3925,
+        "title": "Scenario #3925: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3925.log",
+        "solution_output": "CRITICAL: Service #3925 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3926,
+        "title": "Scenario #3926: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3926.log",
+        "solution_output": "CRITICAL: Service #3926 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3927,
+        "title": "Scenario #3927: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3927.log",
+        "solution_output": "CRITICAL: Service #3927 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3928,
+        "title": "Scenario #3928: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3928.log",
+        "solution_output": "CRITICAL: Service #3928 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3929,
+        "title": "Scenario #3929: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3929.log",
+        "solution_output": "CRITICAL: Service #3929 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3930,
+        "title": "Scenario #3930: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3930.log",
+        "solution_output": "CRITICAL: Service #3930 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3931,
+        "title": "Scenario #3931: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3931.log",
+        "solution_output": "CRITICAL: Service #3931 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3932,
+        "title": "Scenario #3932: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3932.log",
+        "solution_output": "CRITICAL: Service #3932 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3933,
+        "title": "Scenario #3933: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3933.log",
+        "solution_output": "CRITICAL: Service #3933 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3934,
+        "title": "Scenario #3934: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3934.log",
+        "solution_output": "CRITICAL: Service #3934 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3935,
+        "title": "Scenario #3935: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3935.log",
+        "solution_output": "CRITICAL: Service #3935 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3936,
+        "title": "Scenario #3936: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3936.log",
+        "solution_output": "CRITICAL: Service #3936 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3937,
+        "title": "Scenario #3937: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3937.log",
+        "solution_output": "CRITICAL: Service #3937 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3938,
+        "title": "Scenario #3938: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3938.log",
+        "solution_output": "CRITICAL: Service #3938 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3939,
+        "title": "Scenario #3939: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3939.log",
+        "solution_output": "CRITICAL: Service #3939 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3940,
+        "title": "Scenario #3940: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3940.log",
+        "solution_output": "CRITICAL: Service #3940 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3941,
+        "title": "Scenario #3941: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3941.log",
+        "solution_output": "CRITICAL: Service #3941 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3942,
+        "title": "Scenario #3942: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3942.log",
+        "solution_output": "CRITICAL: Service #3942 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3943,
+        "title": "Scenario #3943: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3943.log",
+        "solution_output": "CRITICAL: Service #3943 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3944,
+        "title": "Scenario #3944: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3944.log",
+        "solution_output": "CRITICAL: Service #3944 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3945,
+        "title": "Scenario #3945: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3945.log",
+        "solution_output": "CRITICAL: Service #3945 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3946,
+        "title": "Scenario #3946: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3946.log",
+        "solution_output": "CRITICAL: Service #3946 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3947,
+        "title": "Scenario #3947: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3947.log",
+        "solution_output": "CRITICAL: Service #3947 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3948,
+        "title": "Scenario #3948: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3948.log",
+        "solution_output": "CRITICAL: Service #3948 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3949,
+        "title": "Scenario #3949: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3949.log",
+        "solution_output": "CRITICAL: Service #3949 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3950,
+        "title": "Scenario #3950: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3950.log",
+        "solution_output": "CRITICAL: Service #3950 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3951,
+        "title": "Scenario #3951: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3951.log",
+        "solution_output": "CRITICAL: Service #3951 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3952,
+        "title": "Scenario #3952: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3952.log",
+        "solution_output": "CRITICAL: Service #3952 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3953,
+        "title": "Scenario #3953: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3953.log",
+        "solution_output": "CRITICAL: Service #3953 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3954,
+        "title": "Scenario #3954: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3954.log",
+        "solution_output": "CRITICAL: Service #3954 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3955,
+        "title": "Scenario #3955: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3955.log",
+        "solution_output": "CRITICAL: Service #3955 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3956,
+        "title": "Scenario #3956: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3956.log",
+        "solution_output": "CRITICAL: Service #3956 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3957,
+        "title": "Scenario #3957: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3957.log",
+        "solution_output": "CRITICAL: Service #3957 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3958,
+        "title": "Scenario #3958: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3958.log",
+        "solution_output": "CRITICAL: Service #3958 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3959,
+        "title": "Scenario #3959: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3959.log",
+        "solution_output": "CRITICAL: Service #3959 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3960,
+        "title": "Scenario #3960: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3960.log",
+        "solution_output": "CRITICAL: Service #3960 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3961,
+        "title": "Scenario #3961: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3961.log",
+        "solution_output": "CRITICAL: Service #3961 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3962,
+        "title": "Scenario #3962: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3962.log",
+        "solution_output": "CRITICAL: Service #3962 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3963,
+        "title": "Scenario #3963: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3963.log",
+        "solution_output": "CRITICAL: Service #3963 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3964,
+        "title": "Scenario #3964: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3964.log",
+        "solution_output": "CRITICAL: Service #3964 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3965,
+        "title": "Scenario #3965: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3965.log",
+        "solution_output": "CRITICAL: Service #3965 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3966,
+        "title": "Scenario #3966: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3966.log",
+        "solution_output": "CRITICAL: Service #3966 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3967,
+        "title": "Scenario #3967: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3967.log",
+        "solution_output": "CRITICAL: Service #3967 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3968,
+        "title": "Scenario #3968: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3968.log",
+        "solution_output": "CRITICAL: Service #3968 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3969,
+        "title": "Scenario #3969: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3969.log",
+        "solution_output": "CRITICAL: Service #3969 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3970,
+        "title": "Scenario #3970: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3970.log",
+        "solution_output": "CRITICAL: Service #3970 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3971,
+        "title": "Scenario #3971: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3971.log",
+        "solution_output": "CRITICAL: Service #3971 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3972,
+        "title": "Scenario #3972: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3972.log",
+        "solution_output": "CRITICAL: Service #3972 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3973,
+        "title": "Scenario #3973: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3973.log",
+        "solution_output": "CRITICAL: Service #3973 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3974,
+        "title": "Scenario #3974: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3974.log",
+        "solution_output": "CRITICAL: Service #3974 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3975,
+        "title": "Scenario #3975: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3975.log",
+        "solution_output": "CRITICAL: Service #3975 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3976,
+        "title": "Scenario #3976: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3976.log",
+        "solution_output": "CRITICAL: Service #3976 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3977,
+        "title": "Scenario #3977: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3977.log",
+        "solution_output": "CRITICAL: Service #3977 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3978,
+        "title": "Scenario #3978: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3978.log",
+        "solution_output": "CRITICAL: Service #3978 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3979,
+        "title": "Scenario #3979: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3979.log",
+        "solution_output": "CRITICAL: Service #3979 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3980,
+        "title": "Scenario #3980: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3980.log",
+        "solution_output": "CRITICAL: Service #3980 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3981,
+        "title": "Scenario #3981: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3981.log",
+        "solution_output": "CRITICAL: Service #3981 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3982,
+        "title": "Scenario #3982: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3982.log",
+        "solution_output": "CRITICAL: Service #3982 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3983,
+        "title": "Scenario #3983: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3983.log",
+        "solution_output": "CRITICAL: Service #3983 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3984,
+        "title": "Scenario #3984: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3984.log",
+        "solution_output": "CRITICAL: Service #3984 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3985,
+        "title": "Scenario #3985: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3985.log",
+        "solution_output": "CRITICAL: Service #3985 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3986,
+        "title": "Scenario #3986: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3986.log",
+        "solution_output": "CRITICAL: Service #3986 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3987,
+        "title": "Scenario #3987: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3987.log",
+        "solution_output": "CRITICAL: Service #3987 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3988,
+        "title": "Scenario #3988: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3988.log",
+        "solution_output": "CRITICAL: Service #3988 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3989,
+        "title": "Scenario #3989: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3989.log",
+        "solution_output": "CRITICAL: Service #3989 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3990,
+        "title": "Scenario #3990: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3990.log",
+        "solution_output": "CRITICAL: Service #3990 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3991,
+        "title": "Scenario #3991: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3991.log",
+        "solution_output": "CRITICAL: Service #3991 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3992,
+        "title": "Scenario #3992: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3992.log",
+        "solution_output": "CRITICAL: Service #3992 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3993,
+        "title": "Scenario #3993: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3993.log",
+        "solution_output": "CRITICAL: Service #3993 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3994,
+        "title": "Scenario #3994: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3994.log",
+        "solution_output": "CRITICAL: Service #3994 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3995,
+        "title": "Scenario #3995: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3995.log",
+        "solution_output": "CRITICAL: Service #3995 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3996,
+        "title": "Scenario #3996: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3996.log",
+        "solution_output": "CRITICAL: Service #3996 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3997,
+        "title": "Scenario #3997: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3997.log",
+        "solution_output": "CRITICAL: Service #3997 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3998,
+        "title": "Scenario #3998: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3998.log",
+        "solution_output": "CRITICAL: Service #3998 failed to start.",
+        "difficulty": "Hard"
+    },
+    {
+        "scenario_id": 3999,
+        "title": "Scenario #3999: Advanced System Diagnostic",
+        "command": "grep -r 'ERROR' /var/log/scenario_3999.log",
+        "solution_output": "CRITICAL: Service #3999 failed to start.",
         "difficulty": "Hard"
     },
 ]

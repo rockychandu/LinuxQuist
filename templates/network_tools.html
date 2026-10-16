@@ -1,0 +1,165 @@
+{% extends 'base.html' %}
+
+{% block title %}Network Diagnostics & CIDR Subnet Studio — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="margin-bottom: 2rem;">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+    <div>
+      <span class="badge" style="background: rgba(255,94,54,0.15); color: var(--neon-orange); border: 1px solid var(--neon-orange); padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.8rem; font-weight: bold;">
+        <i class="fas fa-network-wired"></i> SYSADMIN NETWORKING
+      </span>
+      <h1 style="font-family: var(--font-title); font-size: 2rem; color: #fff; margin: 0.5rem 0 0.25rem 0;">
+        Network Diagnostics & CIDR Subnet Studio
+      </h1>
+      <p style="color: var(--text-muted); font-size: 0.95rem;">
+        Calculate IPv4 subnets, inspect well-known ports, and run network diagnostics directly in the virtual terminal.
+      </p>
+    </div>
+  </div>
+</div>
+
+<div class="grid-2" style="grid-template-columns: 1fr 380px; gap: 1.5rem; align-items: start;">
+  <!-- LEFT: CIDR CALCULATOR & TERMINAL PROBES -->
+  <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+    <!-- CIDR INPUT CARD -->
+    <div class="card" style="border-left: 4px solid var(--neon-cyan);">
+      <h3 style="font-family: var(--font-title); font-size: 1.1rem; color: #fff; margin-bottom: 1rem;">
+        <i class="fas fa-calculator"></i> IPv4 CIDR Subnet Calculator
+      </h3>
+
+      <div style="display: grid; grid-template-columns: 2fr 1fr; gap: 1rem; margin-bottom: 1.25rem;">
+        <div>
+          <label style="font-size: 0.8rem; color: var(--text-muted); display: block; margin-bottom: 0.3rem;">IP Address:</label>
+          <input type="text" id="cidrIp" value="192.168.1.100" oninput="calculateSubnet()" style="width: 100%; background: #070a12; border: 1px solid var(--border-color); color: var(--neon-cyan); font-family: var(--font-code); padding: 0.6rem; border-radius: 6px; font-size: 1rem;">
+        </div>
+        <div>
+          <label style="font-size: 0.8rem; color: var(--text-muted); display: block; margin-bottom: 0.3rem;">Prefix / Mask:</label>
+          <select id="cidrPrefix" onchange="calculateSubnet()" style="width: 100%; background: #0f172a; border: 1px solid var(--border-color); color: #fff; font-family: var(--font-code); padding: 0.6rem; border-radius: 6px; font-size: 1rem;">
+            <option value="24" selected>/24 (255.255.255.0)</option>
+            <option value="25">/25 (255.255.255.128)</option>
+            <option value="26">/26 (255.255.255.192)</option>
+            <option value="27">/27 (255.255.255.224)</option>
+            <option value="28">/28 (255.255.255.240)</option>
+            <option value="16">/16 (255.255.0.0)</option>
+            <option value="8">/8 (255.0.0.0)</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- CALCULATED METRICS -->
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem; font-family: var(--font-code); font-size: 0.85rem;">
+        <div style="background: #0f172a; padding: 0.75rem; border-radius: 6px; border: 1px solid var(--border-color);">
+          <div style="font-size: 0.7rem; color: var(--text-muted);">NETWORK ADDRESS</div>
+          <div id="subNetAddr" style="color: var(--neon-green); font-weight: bold; margin-top: 2px;">192.168.1.0</div>
+        </div>
+        <div style="background: #0f172a; padding: 0.75rem; border-radius: 6px; border: 1px solid var(--border-color);">
+          <div style="font-size: 0.7rem; color: var(--text-muted);">BROADCAST ADDRESS</div>
+          <div id="subBcast" style="color: var(--neon-gold); font-weight: bold; margin-top: 2px;">192.168.1.255</div>
+        </div>
+        <div style="background: #0f172a; padding: 0.75rem; border-radius: 6px; border: 1px solid var(--border-color);">
+          <div style="font-size: 0.7rem; color: var(--text-muted);">USABLE HOSTS</div>
+          <div id="subHosts" style="color: var(--neon-cyan); font-weight: bold; margin-top: 2px;">254 Hosts</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- TERMINAL RUNNER -->
+    <div class="card">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+        <h3 style="font-family: var(--font-title); font-size: 1rem; color: #fff; margin: 0;">
+          <i class="fas fa-terminal"></i> Network Diagnostics Simulator
+        </h3>
+        <span style="font-size: 0.75rem; color: var(--text-muted);">Try: <code>ping 8.8.8.8</code> or <code>curl http://localhost</code></span>
+      </div>
+      <div id="netTerminalContainer"></div>
+    </div>
+  </div>
+
+  <!-- RIGHT: WELL-KNOWN PORTS & QUICK PROBES -->
+  <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+    <!-- COMMON PORTS -->
+    <div class="card">
+      <h3 style="font-family: var(--font-title); font-size: 1.1rem; color: var(--neon-orange); margin-bottom: 0.75rem;">
+        <i class="fas fa-plug"></i> Linux Port Directory
+      </h3>
+      <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+        <div style="display:flex; justify-content:space-between; align-items:center; background:#0f172a; padding:0.5rem; border-radius:4px; font-size:0.8rem;">
+          <div><strong style="color:var(--neon-green);">Port 22</strong> &mdash; SSH Daemon</div>
+          <button onclick="runProbe('ping 192.168.1.100')" class="btn btn-outline" style="padding:0.2rem 0.5rem; font-size:0.7rem;">Probe</button>
+        </div>
+        <div style="display:flex; justify-content:space-between; align-items:center; background:#0f172a; padding:0.5rem; border-radius:4px; font-size:0.8rem;">
+          <div><strong style="color:var(--neon-cyan);">Port 80</strong> &mdash; HTTP Web Server</div>
+          <button onclick="runProbe('curl -I http://localhost')" class="btn btn-outline" style="padding:0.2rem 0.5rem; font-size:0.7rem;">Probe</button>
+        </div>
+        <div style="display:flex; justify-content:space-between; align-items:center; background:#0f172a; padding:0.5rem; border-radius:4px; font-size:0.8rem;">
+          <div><strong style="color:var(--neon-gold);">Port 443</strong> &mdash; HTTPS TLS Gateway</div>
+          <button onclick="runProbe('curl https://linuxquest.dev')" class="btn btn-outline" style="padding:0.2rem 0.5rem; font-size:0.7rem;">Probe</button>
+        </div>
+        <div style="display:flex; justify-content:space-between; align-items:center; background:#0f172a; padding:0.5rem; border-radius:4px; font-size:0.8rem;">
+          <div><strong style="color:var(--neon-orange);">Port 53</strong> &mdash; DNS Resolver</div>
+          <button onclick="runProbe('cat /etc/resolv.conf')" class="btn btn-outline" style="padding:0.2rem 0.5rem; font-size:0.7rem;">Inspect</button>
+        </div>
+        <div style="display:flex; justify-content:space-between; align-items:center; background:#0f172a; padding:0.5rem; border-radius:4px; font-size:0.8rem;">
+          <div><strong style="color:#ff3366);">Port 3306</strong> &mdash; MySQL Database</div>
+          <button onclick="runProbe('ps aux | grep sql')" class="btn btn-outline" style="padding:0.2rem 0.5rem; font-size:0.7rem;">Status</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- SYSTEM NETWORK COMMANDS REFERENCE -->
+    <div class="card" style="font-size: 0.8rem;">
+      <h3 style="font-family: var(--font-title); font-size: 1rem; color: #fff; margin-bottom: 0.5rem;">
+        <i class="fas fa-satellite-dish text-cyan"></i> Diagnostic Commands
+      </h3>
+      <div style="display: flex; flex-direction: column; gap: 0.4rem; color: #cbd5e1; font-family: var(--font-code);">
+        <div><code style="color:var(--neon-green);">ip a</code> : View active IP interfaces</div>
+        <div><code style="color:var(--neon-cyan);">ss -tulpn</code> : Inspect listening sockets</div>
+        <div><code style="color:var(--neon-gold);">ping -c 3 host</code> : ICMP reachability test</div>
+        <div><code style="color:var(--neon-orange);">curl -I url</code> : Inspect HTTP headers</div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  function calculateSubnet() {
+    const ip = document.getElementById('cidrIp').value.trim() || '192.168.1.100';
+    const prefix = parseInt(document.getElementById('cidrPrefix').value, 10);
+
+    const parts = ip.split('.').map(Number);
+    if (parts.length === 4 && parts.every(p => !isNaN(p) && p >= 0 && p <= 255)) {
+      const hosts = Math.pow(2, 32 - prefix) - 2;
+      document.getElementById('subHosts').innerText = `${Math.max(hosts, 0)} Hosts`;
+
+      if (prefix === 24) {
+        document.getElementById('subNetAddr').innerText = `${parts[0]}.${parts[1]}.${parts[2]}.0`;
+        document.getElementById('subBcast').innerText = `${parts[0]}.${parts[1]}.${parts[2]}.255`;
+      } else if (prefix === 16) {
+        document.getElementById('subNetAddr').innerText = `${parts[0]}.${parts[1]}.0.0`;
+        document.getElementById('subBcast').innerText = `${parts[0]}.${parts[1]}.255.255`;
+      } else if (prefix === 8) {
+        document.getElementById('subNetAddr').innerText = `${parts[0]}.0.0.0`;
+        document.getElementById('subBcast').innerText = `${parts[0]}.255.255.255`;
+      } else {
+        document.getElementById('subNetAddr').innerText = `${parts[0]}.${parts[1]}.${parts[2]}.0`;
+        document.getElementById('subBcast').innerText = `${parts[0]}.${parts[1]}.${parts[2]}.${Math.pow(2, 32 - prefix) - 1}`;
+      }
+    }
+  }
+
+  function runProbe(cmd) {
+    if (window.netTerminal) {
+      window.netTerminal.writeLine(`${window.netTerminal.termPrompt.innerText} ${cmd}`, 'prompt-line');
+      window.netTerminal.executeCommand(cmd);
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    window.netTerminal = new TerminalSimulator('netTerminalContainer', null);
+    calculateSubnet();
+  });
+</script>
+{% endblock %}

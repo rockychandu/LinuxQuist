@@ -23993,4 +23993,4004 @@ PYTHON_CHEATSHEETS = [
         "explanation": "Grants rwx to owner and r-x to group/others.",
         "tags": ["chmod", "permissions", "security", "linux"]
     },
+    {
+        "id": "cheat_3000",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3000",
+        "command": "chmod 755 script_3000.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3001",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3001",
+        "command": "chmod 755 script_3001.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3002",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3002",
+        "command": "chmod 755 script_3002.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3003",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3003",
+        "command": "chmod 755 script_3003.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3004",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3004",
+        "command": "chmod 755 script_3004.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3005",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3005",
+        "command": "chmod 755 script_3005.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3006",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3006",
+        "command": "chmod 755 script_3006.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3007",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3007",
+        "command": "chmod 755 script_3007.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3008",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3008",
+        "command": "chmod 755 script_3008.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3009",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3009",
+        "command": "chmod 755 script_3009.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3010",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3010",
+        "command": "chmod 755 script_3010.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3011",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3011",
+        "command": "chmod 755 script_3011.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3012",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3012",
+        "command": "chmod 755 script_3012.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3013",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3013",
+        "command": "chmod 755 script_3013.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3014",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3014",
+        "command": "chmod 755 script_3014.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3015",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3015",
+        "command": "chmod 755 script_3015.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3016",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3016",
+        "command": "chmod 755 script_3016.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3017",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3017",
+        "command": "chmod 755 script_3017.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3018",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3018",
+        "command": "chmod 755 script_3018.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3019",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3019",
+        "command": "chmod 755 script_3019.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3020",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3020",
+        "command": "chmod 755 script_3020.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3021",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3021",
+        "command": "chmod 755 script_3021.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3022",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3022",
+        "command": "chmod 755 script_3022.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3023",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3023",
+        "command": "chmod 755 script_3023.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3024",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3024",
+        "command": "chmod 755 script_3024.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3025",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3025",
+        "command": "chmod 755 script_3025.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3026",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3026",
+        "command": "chmod 755 script_3026.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3027",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3027",
+        "command": "chmod 755 script_3027.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3028",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3028",
+        "command": "chmod 755 script_3028.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3029",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3029",
+        "command": "chmod 755 script_3029.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3030",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3030",
+        "command": "chmod 755 script_3030.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3031",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3031",
+        "command": "chmod 755 script_3031.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3032",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3032",
+        "command": "chmod 755 script_3032.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3033",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3033",
+        "command": "chmod 755 script_3033.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3034",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3034",
+        "command": "chmod 755 script_3034.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3035",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3035",
+        "command": "chmod 755 script_3035.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3036",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3036",
+        "command": "chmod 755 script_3036.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3037",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3037",
+        "command": "chmod 755 script_3037.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3038",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3038",
+        "command": "chmod 755 script_3038.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3039",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3039",
+        "command": "chmod 755 script_3039.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3040",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3040",
+        "command": "chmod 755 script_3040.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3041",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3041",
+        "command": "chmod 755 script_3041.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3042",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3042",
+        "command": "chmod 755 script_3042.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3043",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3043",
+        "command": "chmod 755 script_3043.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3044",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3044",
+        "command": "chmod 755 script_3044.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3045",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3045",
+        "command": "chmod 755 script_3045.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3046",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3046",
+        "command": "chmod 755 script_3046.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3047",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3047",
+        "command": "chmod 755 script_3047.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3048",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3048",
+        "command": "chmod 755 script_3048.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3049",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3049",
+        "command": "chmod 755 script_3049.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3050",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3050",
+        "command": "chmod 755 script_3050.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3051",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3051",
+        "command": "chmod 755 script_3051.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3052",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3052",
+        "command": "chmod 755 script_3052.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3053",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3053",
+        "command": "chmod 755 script_3053.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3054",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3054",
+        "command": "chmod 755 script_3054.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3055",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3055",
+        "command": "chmod 755 script_3055.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3056",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3056",
+        "command": "chmod 755 script_3056.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3057",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3057",
+        "command": "chmod 755 script_3057.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3058",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3058",
+        "command": "chmod 755 script_3058.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3059",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3059",
+        "command": "chmod 755 script_3059.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3060",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3060",
+        "command": "chmod 755 script_3060.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3061",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3061",
+        "command": "chmod 755 script_3061.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3062",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3062",
+        "command": "chmod 755 script_3062.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3063",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3063",
+        "command": "chmod 755 script_3063.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3064",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3064",
+        "command": "chmod 755 script_3064.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3065",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3065",
+        "command": "chmod 755 script_3065.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3066",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3066",
+        "command": "chmod 755 script_3066.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3067",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3067",
+        "command": "chmod 755 script_3067.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3068",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3068",
+        "command": "chmod 755 script_3068.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3069",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3069",
+        "command": "chmod 755 script_3069.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3070",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3070",
+        "command": "chmod 755 script_3070.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3071",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3071",
+        "command": "chmod 755 script_3071.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3072",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3072",
+        "command": "chmod 755 script_3072.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3073",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3073",
+        "command": "chmod 755 script_3073.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3074",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3074",
+        "command": "chmod 755 script_3074.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3075",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3075",
+        "command": "chmod 755 script_3075.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3076",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3076",
+        "command": "chmod 755 script_3076.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3077",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3077",
+        "command": "chmod 755 script_3077.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3078",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3078",
+        "command": "chmod 755 script_3078.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3079",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3079",
+        "command": "chmod 755 script_3079.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3080",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3080",
+        "command": "chmod 755 script_3080.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3081",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3081",
+        "command": "chmod 755 script_3081.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3082",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3082",
+        "command": "chmod 755 script_3082.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3083",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3083",
+        "command": "chmod 755 script_3083.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3084",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3084",
+        "command": "chmod 755 script_3084.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3085",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3085",
+        "command": "chmod 755 script_3085.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3086",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3086",
+        "command": "chmod 755 script_3086.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3087",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3087",
+        "command": "chmod 755 script_3087.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3088",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3088",
+        "command": "chmod 755 script_3088.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3089",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3089",
+        "command": "chmod 755 script_3089.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3090",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3090",
+        "command": "chmod 755 script_3090.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3091",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3091",
+        "command": "chmod 755 script_3091.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3092",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3092",
+        "command": "chmod 755 script_3092.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3093",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3093",
+        "command": "chmod 755 script_3093.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3094",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3094",
+        "command": "chmod 755 script_3094.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3095",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3095",
+        "command": "chmod 755 script_3095.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3096",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3096",
+        "command": "chmod 755 script_3096.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3097",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3097",
+        "command": "chmod 755 script_3097.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3098",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3098",
+        "command": "chmod 755 script_3098.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3099",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3099",
+        "command": "chmod 755 script_3099.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3100",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3100",
+        "command": "chmod 755 script_3100.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3101",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3101",
+        "command": "chmod 755 script_3101.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3102",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3102",
+        "command": "chmod 755 script_3102.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3103",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3103",
+        "command": "chmod 755 script_3103.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3104",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3104",
+        "command": "chmod 755 script_3104.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3105",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3105",
+        "command": "chmod 755 script_3105.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3106",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3106",
+        "command": "chmod 755 script_3106.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3107",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3107",
+        "command": "chmod 755 script_3107.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3108",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3108",
+        "command": "chmod 755 script_3108.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3109",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3109",
+        "command": "chmod 755 script_3109.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3110",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3110",
+        "command": "chmod 755 script_3110.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3111",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3111",
+        "command": "chmod 755 script_3111.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3112",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3112",
+        "command": "chmod 755 script_3112.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3113",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3113",
+        "command": "chmod 755 script_3113.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3114",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3114",
+        "command": "chmod 755 script_3114.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3115",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3115",
+        "command": "chmod 755 script_3115.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3116",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3116",
+        "command": "chmod 755 script_3116.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3117",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3117",
+        "command": "chmod 755 script_3117.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3118",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3118",
+        "command": "chmod 755 script_3118.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3119",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3119",
+        "command": "chmod 755 script_3119.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3120",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3120",
+        "command": "chmod 755 script_3120.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3121",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3121",
+        "command": "chmod 755 script_3121.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3122",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3122",
+        "command": "chmod 755 script_3122.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3123",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3123",
+        "command": "chmod 755 script_3123.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3124",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3124",
+        "command": "chmod 755 script_3124.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3125",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3125",
+        "command": "chmod 755 script_3125.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3126",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3126",
+        "command": "chmod 755 script_3126.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3127",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3127",
+        "command": "chmod 755 script_3127.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3128",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3128",
+        "command": "chmod 755 script_3128.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3129",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3129",
+        "command": "chmod 755 script_3129.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3130",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3130",
+        "command": "chmod 755 script_3130.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3131",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3131",
+        "command": "chmod 755 script_3131.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3132",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3132",
+        "command": "chmod 755 script_3132.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3133",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3133",
+        "command": "chmod 755 script_3133.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3134",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3134",
+        "command": "chmod 755 script_3134.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3135",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3135",
+        "command": "chmod 755 script_3135.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3136",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3136",
+        "command": "chmod 755 script_3136.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3137",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3137",
+        "command": "chmod 755 script_3137.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3138",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3138",
+        "command": "chmod 755 script_3138.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3139",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3139",
+        "command": "chmod 755 script_3139.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3140",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3140",
+        "command": "chmod 755 script_3140.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3141",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3141",
+        "command": "chmod 755 script_3141.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3142",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3142",
+        "command": "chmod 755 script_3142.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3143",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3143",
+        "command": "chmod 755 script_3143.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3144",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3144",
+        "command": "chmod 755 script_3144.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3145",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3145",
+        "command": "chmod 755 script_3145.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3146",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3146",
+        "command": "chmod 755 script_3146.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3147",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3147",
+        "command": "chmod 755 script_3147.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3148",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3148",
+        "command": "chmod 755 script_3148.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3149",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3149",
+        "command": "chmod 755 script_3149.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3150",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3150",
+        "command": "chmod 755 script_3150.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3151",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3151",
+        "command": "chmod 755 script_3151.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3152",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3152",
+        "command": "chmod 755 script_3152.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3153",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3153",
+        "command": "chmod 755 script_3153.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3154",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3154",
+        "command": "chmod 755 script_3154.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3155",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3155",
+        "command": "chmod 755 script_3155.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3156",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3156",
+        "command": "chmod 755 script_3156.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3157",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3157",
+        "command": "chmod 755 script_3157.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3158",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3158",
+        "command": "chmod 755 script_3158.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3159",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3159",
+        "command": "chmod 755 script_3159.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3160",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3160",
+        "command": "chmod 755 script_3160.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3161",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3161",
+        "command": "chmod 755 script_3161.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3162",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3162",
+        "command": "chmod 755 script_3162.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3163",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3163",
+        "command": "chmod 755 script_3163.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3164",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3164",
+        "command": "chmod 755 script_3164.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3165",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3165",
+        "command": "chmod 755 script_3165.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3166",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3166",
+        "command": "chmod 755 script_3166.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3167",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3167",
+        "command": "chmod 755 script_3167.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3168",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3168",
+        "command": "chmod 755 script_3168.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3169",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3169",
+        "command": "chmod 755 script_3169.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3170",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3170",
+        "command": "chmod 755 script_3170.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3171",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3171",
+        "command": "chmod 755 script_3171.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3172",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3172",
+        "command": "chmod 755 script_3172.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3173",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3173",
+        "command": "chmod 755 script_3173.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3174",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3174",
+        "command": "chmod 755 script_3174.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3175",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3175",
+        "command": "chmod 755 script_3175.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3176",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3176",
+        "command": "chmod 755 script_3176.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3177",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3177",
+        "command": "chmod 755 script_3177.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3178",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3178",
+        "command": "chmod 755 script_3178.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3179",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3179",
+        "command": "chmod 755 script_3179.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3180",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3180",
+        "command": "chmod 755 script_3180.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3181",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3181",
+        "command": "chmod 755 script_3181.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3182",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3182",
+        "command": "chmod 755 script_3182.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3183",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3183",
+        "command": "chmod 755 script_3183.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3184",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3184",
+        "command": "chmod 755 script_3184.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3185",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3185",
+        "command": "chmod 755 script_3185.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3186",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3186",
+        "command": "chmod 755 script_3186.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3187",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3187",
+        "command": "chmod 755 script_3187.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3188",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3188",
+        "command": "chmod 755 script_3188.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3189",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3189",
+        "command": "chmod 755 script_3189.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3190",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3190",
+        "command": "chmod 755 script_3190.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3191",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3191",
+        "command": "chmod 755 script_3191.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3192",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3192",
+        "command": "chmod 755 script_3192.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3193",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3193",
+        "command": "chmod 755 script_3193.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3194",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3194",
+        "command": "chmod 755 script_3194.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3195",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3195",
+        "command": "chmod 755 script_3195.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3196",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3196",
+        "command": "chmod 755 script_3196.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3197",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3197",
+        "command": "chmod 755 script_3197.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3198",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3198",
+        "command": "chmod 755 script_3198.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3199",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3199",
+        "command": "chmod 755 script_3199.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3200",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3200",
+        "command": "chmod 755 script_3200.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3201",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3201",
+        "command": "chmod 755 script_3201.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3202",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3202",
+        "command": "chmod 755 script_3202.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3203",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3203",
+        "command": "chmod 755 script_3203.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3204",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3204",
+        "command": "chmod 755 script_3204.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3205",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3205",
+        "command": "chmod 755 script_3205.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3206",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3206",
+        "command": "chmod 755 script_3206.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3207",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3207",
+        "command": "chmod 755 script_3207.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3208",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3208",
+        "command": "chmod 755 script_3208.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3209",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3209",
+        "command": "chmod 755 script_3209.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3210",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3210",
+        "command": "chmod 755 script_3210.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3211",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3211",
+        "command": "chmod 755 script_3211.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3212",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3212",
+        "command": "chmod 755 script_3212.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3213",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3213",
+        "command": "chmod 755 script_3213.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3214",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3214",
+        "command": "chmod 755 script_3214.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3215",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3215",
+        "command": "chmod 755 script_3215.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3216",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3216",
+        "command": "chmod 755 script_3216.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3217",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3217",
+        "command": "chmod 755 script_3217.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3218",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3218",
+        "command": "chmod 755 script_3218.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3219",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3219",
+        "command": "chmod 755 script_3219.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3220",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3220",
+        "command": "chmod 755 script_3220.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3221",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3221",
+        "command": "chmod 755 script_3221.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3222",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3222",
+        "command": "chmod 755 script_3222.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3223",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3223",
+        "command": "chmod 755 script_3223.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3224",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3224",
+        "command": "chmod 755 script_3224.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3225",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3225",
+        "command": "chmod 755 script_3225.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3226",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3226",
+        "command": "chmod 755 script_3226.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3227",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3227",
+        "command": "chmod 755 script_3227.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3228",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3228",
+        "command": "chmod 755 script_3228.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3229",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3229",
+        "command": "chmod 755 script_3229.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3230",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3230",
+        "command": "chmod 755 script_3230.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3231",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3231",
+        "command": "chmod 755 script_3231.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3232",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3232",
+        "command": "chmod 755 script_3232.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3233",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3233",
+        "command": "chmod 755 script_3233.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3234",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3234",
+        "command": "chmod 755 script_3234.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3235",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3235",
+        "command": "chmod 755 script_3235.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3236",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3236",
+        "command": "chmod 755 script_3236.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3237",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3237",
+        "command": "chmod 755 script_3237.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3238",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3238",
+        "command": "chmod 755 script_3238.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3239",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3239",
+        "command": "chmod 755 script_3239.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3240",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3240",
+        "command": "chmod 755 script_3240.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3241",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3241",
+        "command": "chmod 755 script_3241.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3242",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3242",
+        "command": "chmod 755 script_3242.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3243",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3243",
+        "command": "chmod 755 script_3243.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3244",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3244",
+        "command": "chmod 755 script_3244.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3245",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3245",
+        "command": "chmod 755 script_3245.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3246",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3246",
+        "command": "chmod 755 script_3246.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3247",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3247",
+        "command": "chmod 755 script_3247.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3248",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3248",
+        "command": "chmod 755 script_3248.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3249",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3249",
+        "command": "chmod 755 script_3249.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3250",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3250",
+        "command": "chmod 755 script_3250.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3251",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3251",
+        "command": "chmod 755 script_3251.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3252",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3252",
+        "command": "chmod 755 script_3252.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3253",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3253",
+        "command": "chmod 755 script_3253.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3254",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3254",
+        "command": "chmod 755 script_3254.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3255",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3255",
+        "command": "chmod 755 script_3255.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3256",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3256",
+        "command": "chmod 755 script_3256.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3257",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3257",
+        "command": "chmod 755 script_3257.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3258",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3258",
+        "command": "chmod 755 script_3258.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3259",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3259",
+        "command": "chmod 755 script_3259.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3260",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3260",
+        "command": "chmod 755 script_3260.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3261",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3261",
+        "command": "chmod 755 script_3261.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3262",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3262",
+        "command": "chmod 755 script_3262.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3263",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3263",
+        "command": "chmod 755 script_3263.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3264",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3264",
+        "command": "chmod 755 script_3264.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3265",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3265",
+        "command": "chmod 755 script_3265.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3266",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3266",
+        "command": "chmod 755 script_3266.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3267",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3267",
+        "command": "chmod 755 script_3267.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3268",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3268",
+        "command": "chmod 755 script_3268.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3269",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3269",
+        "command": "chmod 755 script_3269.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3270",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3270",
+        "command": "chmod 755 script_3270.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3271",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3271",
+        "command": "chmod 755 script_3271.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3272",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3272",
+        "command": "chmod 755 script_3272.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3273",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3273",
+        "command": "chmod 755 script_3273.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3274",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3274",
+        "command": "chmod 755 script_3274.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3275",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3275",
+        "command": "chmod 755 script_3275.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3276",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3276",
+        "command": "chmod 755 script_3276.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3277",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3277",
+        "command": "chmod 755 script_3277.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3278",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3278",
+        "command": "chmod 755 script_3278.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3279",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3279",
+        "command": "chmod 755 script_3279.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3280",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3280",
+        "command": "chmod 755 script_3280.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3281",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3281",
+        "command": "chmod 755 script_3281.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3282",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3282",
+        "command": "chmod 755 script_3282.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3283",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3283",
+        "command": "chmod 755 script_3283.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3284",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3284",
+        "command": "chmod 755 script_3284.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3285",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3285",
+        "command": "chmod 755 script_3285.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3286",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3286",
+        "command": "chmod 755 script_3286.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3287",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3287",
+        "command": "chmod 755 script_3287.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3288",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3288",
+        "command": "chmod 755 script_3288.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3289",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3289",
+        "command": "chmod 755 script_3289.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3290",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3290",
+        "command": "chmod 755 script_3290.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3291",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3291",
+        "command": "chmod 755 script_3291.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3292",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3292",
+        "command": "chmod 755 script_3292.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3293",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3293",
+        "command": "chmod 755 script_3293.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3294",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3294",
+        "command": "chmod 755 script_3294.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3295",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3295",
+        "command": "chmod 755 script_3295.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3296",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3296",
+        "command": "chmod 755 script_3296.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3297",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3297",
+        "command": "chmod 755 script_3297.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3298",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3298",
+        "command": "chmod 755 script_3298.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3299",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3299",
+        "command": "chmod 755 script_3299.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3300",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3300",
+        "command": "chmod 755 script_3300.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3301",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3301",
+        "command": "chmod 755 script_3301.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3302",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3302",
+        "command": "chmod 755 script_3302.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3303",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3303",
+        "command": "chmod 755 script_3303.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3304",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3304",
+        "command": "chmod 755 script_3304.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3305",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3305",
+        "command": "chmod 755 script_3305.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3306",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3306",
+        "command": "chmod 755 script_3306.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3307",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3307",
+        "command": "chmod 755 script_3307.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3308",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3308",
+        "command": "chmod 755 script_3308.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3309",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3309",
+        "command": "chmod 755 script_3309.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3310",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3310",
+        "command": "chmod 755 script_3310.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3311",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3311",
+        "command": "chmod 755 script_3311.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3312",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3312",
+        "command": "chmod 755 script_3312.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3313",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3313",
+        "command": "chmod 755 script_3313.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3314",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3314",
+        "command": "chmod 755 script_3314.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3315",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3315",
+        "command": "chmod 755 script_3315.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3316",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3316",
+        "command": "chmod 755 script_3316.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3317",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3317",
+        "command": "chmod 755 script_3317.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3318",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3318",
+        "command": "chmod 755 script_3318.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3319",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3319",
+        "command": "chmod 755 script_3319.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3320",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3320",
+        "command": "chmod 755 script_3320.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3321",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3321",
+        "command": "chmod 755 script_3321.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3322",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3322",
+        "command": "chmod 755 script_3322.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3323",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3323",
+        "command": "chmod 755 script_3323.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3324",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3324",
+        "command": "chmod 755 script_3324.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3325",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3325",
+        "command": "chmod 755 script_3325.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3326",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3326",
+        "command": "chmod 755 script_3326.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3327",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3327",
+        "command": "chmod 755 script_3327.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3328",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3328",
+        "command": "chmod 755 script_3328.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3329",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3329",
+        "command": "chmod 755 script_3329.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3330",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3330",
+        "command": "chmod 755 script_3330.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3331",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3331",
+        "command": "chmod 755 script_3331.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3332",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3332",
+        "command": "chmod 755 script_3332.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3333",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3333",
+        "command": "chmod 755 script_3333.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3334",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3334",
+        "command": "chmod 755 script_3334.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3335",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3335",
+        "command": "chmod 755 script_3335.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3336",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3336",
+        "command": "chmod 755 script_3336.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3337",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3337",
+        "command": "chmod 755 script_3337.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3338",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3338",
+        "command": "chmod 755 script_3338.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3339",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3339",
+        "command": "chmod 755 script_3339.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3340",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3340",
+        "command": "chmod 755 script_3340.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3341",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3341",
+        "command": "chmod 755 script_3341.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3342",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3342",
+        "command": "chmod 755 script_3342.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3343",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3343",
+        "command": "chmod 755 script_3343.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3344",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3344",
+        "command": "chmod 755 script_3344.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3345",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3345",
+        "command": "chmod 755 script_3345.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3346",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3346",
+        "command": "chmod 755 script_3346.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3347",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3347",
+        "command": "chmod 755 script_3347.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3348",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3348",
+        "command": "chmod 755 script_3348.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3349",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3349",
+        "command": "chmod 755 script_3349.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3350",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3350",
+        "command": "chmod 755 script_3350.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3351",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3351",
+        "command": "chmod 755 script_3351.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3352",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3352",
+        "command": "chmod 755 script_3352.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3353",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3353",
+        "command": "chmod 755 script_3353.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3354",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3354",
+        "command": "chmod 755 script_3354.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3355",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3355",
+        "command": "chmod 755 script_3355.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3356",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3356",
+        "command": "chmod 755 script_3356.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3357",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3357",
+        "command": "chmod 755 script_3357.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3358",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3358",
+        "command": "chmod 755 script_3358.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3359",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3359",
+        "command": "chmod 755 script_3359.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3360",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3360",
+        "command": "chmod 755 script_3360.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3361",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3361",
+        "command": "chmod 755 script_3361.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3362",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3362",
+        "command": "chmod 755 script_3362.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3363",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3363",
+        "command": "chmod 755 script_3363.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3364",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3364",
+        "command": "chmod 755 script_3364.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3365",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3365",
+        "command": "chmod 755 script_3365.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3366",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3366",
+        "command": "chmod 755 script_3366.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3367",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3367",
+        "command": "chmod 755 script_3367.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3368",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3368",
+        "command": "chmod 755 script_3368.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3369",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3369",
+        "command": "chmod 755 script_3369.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3370",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3370",
+        "command": "chmod 755 script_3370.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3371",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3371",
+        "command": "chmod 755 script_3371.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3372",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3372",
+        "command": "chmod 755 script_3372.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3373",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3373",
+        "command": "chmod 755 script_3373.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3374",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3374",
+        "command": "chmod 755 script_3374.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3375",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3375",
+        "command": "chmod 755 script_3375.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3376",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3376",
+        "command": "chmod 755 script_3376.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3377",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3377",
+        "command": "chmod 755 script_3377.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3378",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3378",
+        "command": "chmod 755 script_3378.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3379",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3379",
+        "command": "chmod 755 script_3379.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3380",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3380",
+        "command": "chmod 755 script_3380.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3381",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3381",
+        "command": "chmod 755 script_3381.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3382",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3382",
+        "command": "chmod 755 script_3382.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3383",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3383",
+        "command": "chmod 755 script_3383.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3384",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3384",
+        "command": "chmod 755 script_3384.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3385",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3385",
+        "command": "chmod 755 script_3385.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3386",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3386",
+        "command": "chmod 755 script_3386.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3387",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3387",
+        "command": "chmod 755 script_3387.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3388",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3388",
+        "command": "chmod 755 script_3388.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3389",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3389",
+        "command": "chmod 755 script_3389.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3390",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3390",
+        "command": "chmod 755 script_3390.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3391",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3391",
+        "command": "chmod 755 script_3391.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3392",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3392",
+        "command": "chmod 755 script_3392.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3393",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3393",
+        "command": "chmod 755 script_3393.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3394",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3394",
+        "command": "chmod 755 script_3394.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3395",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3395",
+        "command": "chmod 755 script_3395.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3396",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3396",
+        "command": "chmod 755 script_3396.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3397",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3397",
+        "command": "chmod 755 script_3397.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3398",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3398",
+        "command": "chmod 755 script_3398.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3399",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3399",
+        "command": "chmod 755 script_3399.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3400",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3400",
+        "command": "chmod 755 script_3400.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3401",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3401",
+        "command": "chmod 755 script_3401.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3402",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3402",
+        "command": "chmod 755 script_3402.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3403",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3403",
+        "command": "chmod 755 script_3403.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3404",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3404",
+        "command": "chmod 755 script_3404.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3405",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3405",
+        "command": "chmod 755 script_3405.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3406",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3406",
+        "command": "chmod 755 script_3406.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3407",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3407",
+        "command": "chmod 755 script_3407.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3408",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3408",
+        "command": "chmod 755 script_3408.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3409",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3409",
+        "command": "chmod 755 script_3409.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3410",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3410",
+        "command": "chmod 755 script_3410.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3411",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3411",
+        "command": "chmod 755 script_3411.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3412",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3412",
+        "command": "chmod 755 script_3412.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3413",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3413",
+        "command": "chmod 755 script_3413.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3414",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3414",
+        "command": "chmod 755 script_3414.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3415",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3415",
+        "command": "chmod 755 script_3415.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3416",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3416",
+        "command": "chmod 755 script_3416.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3417",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3417",
+        "command": "chmod 755 script_3417.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3418",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3418",
+        "command": "chmod 755 script_3418.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3419",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3419",
+        "command": "chmod 755 script_3419.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3420",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3420",
+        "command": "chmod 755 script_3420.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3421",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3421",
+        "command": "chmod 755 script_3421.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3422",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3422",
+        "command": "chmod 755 script_3422.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3423",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3423",
+        "command": "chmod 755 script_3423.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3424",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3424",
+        "command": "chmod 755 script_3424.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3425",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3425",
+        "command": "chmod 755 script_3425.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3426",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3426",
+        "command": "chmod 755 script_3426.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3427",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3427",
+        "command": "chmod 755 script_3427.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3428",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3428",
+        "command": "chmod 755 script_3428.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3429",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3429",
+        "command": "chmod 755 script_3429.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3430",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3430",
+        "command": "chmod 755 script_3430.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3431",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3431",
+        "command": "chmod 755 script_3431.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3432",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3432",
+        "command": "chmod 755 script_3432.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3433",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3433",
+        "command": "chmod 755 script_3433.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3434",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3434",
+        "command": "chmod 755 script_3434.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3435",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3435",
+        "command": "chmod 755 script_3435.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3436",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3436",
+        "command": "chmod 755 script_3436.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3437",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3437",
+        "command": "chmod 755 script_3437.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3438",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3438",
+        "command": "chmod 755 script_3438.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3439",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3439",
+        "command": "chmod 755 script_3439.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3440",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3440",
+        "command": "chmod 755 script_3440.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3441",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3441",
+        "command": "chmod 755 script_3441.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3442",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3442",
+        "command": "chmod 755 script_3442.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3443",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3443",
+        "command": "chmod 755 script_3443.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3444",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3444",
+        "command": "chmod 755 script_3444.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3445",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3445",
+        "command": "chmod 755 script_3445.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3446",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3446",
+        "command": "chmod 755 script_3446.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3447",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3447",
+        "command": "chmod 755 script_3447.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3448",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3448",
+        "command": "chmod 755 script_3448.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3449",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3449",
+        "command": "chmod 755 script_3449.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3450",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3450",
+        "command": "chmod 755 script_3450.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3451",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3451",
+        "command": "chmod 755 script_3451.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3452",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3452",
+        "command": "chmod 755 script_3452.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3453",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3453",
+        "command": "chmod 755 script_3453.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3454",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3454",
+        "command": "chmod 755 script_3454.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3455",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3455",
+        "command": "chmod 755 script_3455.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3456",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3456",
+        "command": "chmod 755 script_3456.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3457",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3457",
+        "command": "chmod 755 script_3457.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3458",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3458",
+        "command": "chmod 755 script_3458.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3459",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3459",
+        "command": "chmod 755 script_3459.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3460",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3460",
+        "command": "chmod 755 script_3460.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3461",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3461",
+        "command": "chmod 755 script_3461.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3462",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3462",
+        "command": "chmod 755 script_3462.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3463",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3463",
+        "command": "chmod 755 script_3463.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3464",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3464",
+        "command": "chmod 755 script_3464.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3465",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3465",
+        "command": "chmod 755 script_3465.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3466",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3466",
+        "command": "chmod 755 script_3466.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3467",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3467",
+        "command": "chmod 755 script_3467.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3468",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3468",
+        "command": "chmod 755 script_3468.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3469",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3469",
+        "command": "chmod 755 script_3469.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3470",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3470",
+        "command": "chmod 755 script_3470.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3471",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3471",
+        "command": "chmod 755 script_3471.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3472",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3472",
+        "command": "chmod 755 script_3472.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3473",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3473",
+        "command": "chmod 755 script_3473.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3474",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3474",
+        "command": "chmod 755 script_3474.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3475",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3475",
+        "command": "chmod 755 script_3475.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3476",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3476",
+        "command": "chmod 755 script_3476.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3477",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3477",
+        "command": "chmod 755 script_3477.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3478",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3478",
+        "command": "chmod 755 script_3478.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3479",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3479",
+        "command": "chmod 755 script_3479.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3480",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3480",
+        "command": "chmod 755 script_3480.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3481",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3481",
+        "command": "chmod 755 script_3481.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3482",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3482",
+        "command": "chmod 755 script_3482.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3483",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3483",
+        "command": "chmod 755 script_3483.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3484",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3484",
+        "command": "chmod 755 script_3484.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3485",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3485",
+        "command": "chmod 755 script_3485.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3486",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3486",
+        "command": "chmod 755 script_3486.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3487",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3487",
+        "command": "chmod 755 script_3487.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3488",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3488",
+        "command": "chmod 755 script_3488.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3489",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3489",
+        "command": "chmod 755 script_3489.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3490",
+        "category": "Category 1",
+        "title": "Linux Command Tip #3490",
+        "command": "chmod 755 script_3490.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3491",
+        "category": "Category 2",
+        "title": "Linux Command Tip #3491",
+        "command": "chmod 755 script_3491.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3492",
+        "category": "Category 3",
+        "title": "Linux Command Tip #3492",
+        "command": "chmod 755 script_3492.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3493",
+        "category": "Category 4",
+        "title": "Linux Command Tip #3493",
+        "command": "chmod 755 script_3493.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3494",
+        "category": "Category 5",
+        "title": "Linux Command Tip #3494",
+        "command": "chmod 755 script_3494.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3495",
+        "category": "Category 6",
+        "title": "Linux Command Tip #3495",
+        "command": "chmod 755 script_3495.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3496",
+        "category": "Category 7",
+        "title": "Linux Command Tip #3496",
+        "command": "chmod 755 script_3496.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3497",
+        "category": "Category 8",
+        "title": "Linux Command Tip #3497",
+        "command": "chmod 755 script_3497.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3498",
+        "category": "Category 9",
+        "title": "Linux Command Tip #3498",
+        "command": "chmod 755 script_3498.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
+    {
+        "id": "cheat_3499",
+        "category": "Category 10",
+        "title": "Linux Command Tip #3499",
+        "command": "chmod 755 script_3499.sh",
+        "explanation": "Grants rwx to owner and r-x to group/others.",
+        "tags": ["chmod", "permissions", "security", "linux"]
+    },
 ]

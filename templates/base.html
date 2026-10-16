@@ -19,7 +19,7 @@
 
     <ul class="top-nav-links">
       <li><a href="{{ url_for('quests_list') }}"><i class="fas fa-scroll"></i> Quests</a></li>
-      <li><a href="{{ url_for('quizzes_list') }}"><i class="fas fa-question-circle"></i> 10 Quiz Levels</a></li>
+      <li><a href="{{ url_for('quizzes_list') }}"><i class="fas fa-question-circle"></i> 20 Quiz Levels</a></li>
       <li><a href="{{ url_for('certificate') }}"><i class="fas fa-certificate text-gold"></i> Certificate</a></li>
     </ul>
 
@@ -54,11 +54,21 @@
   <div class="app-layout">
     <!-- LEFT SIDEBAR -->
     <aside class="sidebar">
+      <div class="sidebar-title">INTERACTIVE TOOLS</div>
+      <a href="{{ url_for('terminal') }}" class="sidebar-link"><i class="fas fa-terminal text-green"></i> Terminal Sandbox</a>
+      <a href="{{ url_for('script_builder') }}" class="sidebar-link"><i class="fas fa-magic text-cyan"></i> Script Studio</a>
+      <a href="{{ url_for('speedrun') }}" class="sidebar-link"><i class="fas fa-bolt text-orange"></i> Speedrun Arena</a>
+      <a href="{{ url_for('cheatsheet') }}" class="sidebar-link"><i class="fas fa-book text-gold"></i> Cheatsheet</a>
+      <a href="{{ url_for('regex_lab') }}" class="sidebar-link"><i class="fas fa-filter text-cyan"></i> Regex Lab</a>
+      <a href="{{ url_for('cron_generator') }}" class="sidebar-link"><i class="fas fa-clock text-gold"></i> Cron Studio</a>
+      <a href="{{ url_for('chmod_calculator') }}" class="sidebar-link"><i class="fas fa-key text-green"></i> Permissions Calc</a>
+      <a href="{{ url_for('network_tools') }}" class="sidebar-link"><i class="fas fa-network-wired text-orange"></i> Network Tools</a>
+
       <div class="sidebar-title">LEARNING HUB</div>
       <a href="{{ url_for('learn_list') }}" class="sidebar-link"><i class="fas fa-book-open"></i> Learn Linux (10)</a>
       <a href="{{ url_for('levels') }}" class="sidebar-link"><i class="fas fa-sitemap"></i> 20 Levels Roadmap</a>
       <a href="{{ url_for('quests_list') }}" class="sidebar-link"><i class="fas fa-scroll"></i> Written Quests</a>
-      <a href="{{ url_for('quizzes_list') }}" class="sidebar-link"><i class="fas fa-question-circle"></i> 10 Quiz Levels</a>
+      <a href="{{ url_for('quizzes_list') }}" class="sidebar-link"><i class="fas fa-question-circle"></i> 20 Quiz Levels</a>
 
       <div class="sidebar-title">ANALYTICS & SOCIAL</div>
       <a href="{{ url_for('performance') }}" class="sidebar-link"><i class="fas fa-chart-bar"></i> Performance</a>

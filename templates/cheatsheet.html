@@ -1,0 +1,287 @@
+{% extends 'base.html' %}
+
+{% block title %}Interactive Linux Cheatsheet & Command Reference — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="margin-bottom: 2rem;">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+    <div>
+      <span class="badge" style="background: rgba(255,190,11,0.15); color: var(--neon-gold); border: 1px solid var(--neon-gold); padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.8rem; font-weight: bold;">
+        <i class="fas fa-book"></i> ESSENTIAL REFERENCE
+      </span>
+      <h1 style="font-family: var(--font-title); font-size: 2rem; color: #fff; margin: 0.5rem 0 0.25rem 0;">
+        Interactive Linux Command Cheatsheet
+      </h1>
+      <p style="color: var(--text-muted); font-size: 0.95rem;">
+        Quickly discover command options, flags, and real-world one-liners. Filter by category or search instantly.
+      </p>
+    </div>
+
+    <!-- SEARCH BAR -->
+    <div style="width: 100%; max-width: 420px; position: relative;">
+      <i class="fas fa-search" style="position: absolute; left: 1rem; top: 50%; transform: translateY(-50%); color: var(--text-muted);"></i>
+      <input type="text" id="cheatsheetSearch" placeholder="Search commands, flags, keywords (e.g. grep, chmod, tar)..." oninput="filterCheatsheet()" style="width: 100%; padding: 0.75rem 1rem 0.75rem 2.5rem; background: #0f172a; border: 1px solid var(--border-color); border-radius: 8px; color: #fff; font-size: 0.95rem; outline: none; box-shadow: 0 4px 12px rgba(0,0,0,0.4);">
+    </div>
+  </div>
+</div>
+
+<!-- CATEGORY FILTER PILLS -->
+<div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 1.5rem;">
+  <button class="cat-pill active" onclick="setCategory('all')" style="background: var(--neon-cyan); color: #000; border: none; padding: 0.4rem 1rem; border-radius: 20px; font-size: 0.85rem; font-weight: bold; cursor: pointer;">All Commands</button>
+  <button class="cat-pill" onclick="setCategory('files')" style="background: #0f172a; color: #cbd5e1; border: 1px solid var(--border-color); padding: 0.4rem 1rem; border-radius: 20px; font-size: 0.85rem; cursor: pointer;">Filesystem & Nav</button>
+  <button class="cat-pill" onclick="setCategory('perm')" style="background: #0f172a; color: #cbd5e1; border: 1px solid var(--border-color); padding: 0.4rem 1rem; border-radius: 20px; font-size: 0.85rem; cursor: pointer;">Permissions & Access</button>
+  <button class="cat-pill" onclick="setCategory('proc')" style="background: #0f172a; color: #cbd5e1; border: 1px solid var(--border-color); padding: 0.4rem 1rem; border-radius: 20px; font-size: 0.85rem; cursor: pointer;">Process & Hardware</button>
+  <button class="cat-pill" onclick="setCategory('net')" style="background: #0f172a; color: #cbd5e1; border: 1px solid var(--border-color); padding: 0.4rem 1rem; border-radius: 20px; font-size: 0.85rem; cursor: pointer;">Networking</button>
+  <button class="cat-pill" onclick="setCategory('text')" style="background: #0f172a; color: #cbd5e1; border: 1px solid var(--border-color); padding: 0.4rem 1rem; border-radius: 20px; font-size: 0.85rem; cursor: pointer;">Text Processing</button>
+  <button class="cat-pill" onclick="setCategory('archive')" style="background: #0f172a; color: #cbd5e1; border: 1px solid var(--border-color); padding: 0.4rem 1rem; border-radius: 20px; font-size: 0.85rem; cursor: pointer;">Storage & Archives</button>
+</div>
+
+<!-- CHEATSHEET GRID + TERMINAL TEST DOCK -->
+<div class="grid-2" style="grid-template-columns: 1fr 400px; gap: 1.5rem; align-items: start;">
+  <!-- COMMAND CARDS LIST -->
+  <div id="commandCardsContainer" style="display: flex; flex-direction: column; gap: 1rem;">
+    <!-- Rendered dynamically via JS -->
+  </div>
+
+  <!-- DOCKED TERMINAL QUICK-TRY -->
+  <div style="position: sticky; top: 1rem;">
+    <div class="card" style="border-top: 3px solid var(--neon-cyan); padding: 1rem;">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+        <h3 style="font-family: var(--font-title); font-size: 1rem; color: #fff; margin: 0;">
+          <i class="fas fa-terminal"></i> Quick Try Terminal
+        </h3>
+        <span style="font-size: 0.75rem; color: var(--neon-green);">Live Sandbox</span>
+      </div>
+      <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.75rem;">
+        Click any "Try Command" button on a card to auto-populate and run it below!
+      </p>
+      <div id="dockedTerminalContainer"></div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  const CHEATS_DATA = [
+    {
+      cmd: "ls",
+      category: "files",
+      summary: "List directory contents and file metadata",
+      syntax: "ls [OPTIONS] [FILE]...",
+      flags: [
+        { flag: "-l", desc: "Long listing format (permissions, owner, size, timestamp)" },
+        { flag: "-a", desc: "Show all entries including hidden files starting with '.'" },
+        { flag: "-h", desc: "Human readable sizes (e.g., 4K, 25M, 2G)" },
+        { flag: "-t", desc: "Sort by modification time, newest first" }
+      ],
+      examples: ["ls -lah", "ls -l /var/log"]
+    },
+    {
+      cmd: "grep",
+      category: "text",
+      summary: "Print lines that match specified regular expression patterns",
+      syntax: "grep [OPTIONS] PATTERN [FILE]...",
+      flags: [
+        { flag: "-i", desc: "Ignore case distinctions in patterns" },
+        { flag: "-r", desc: "Read all files under each directory, recursively" },
+        { flag: "-n", desc: "Prefix each line of output with the 1-based line number" },
+        { flag: "-v", desc: "Invert match: select non-matching lines" }
+      ],
+      examples: ["grep -i 'error' /var/log/syslog", "grep -rn 'TODO' /home/hero"]
+    },
+    {
+      cmd: "chmod",
+      category: "perm",
+      summary: "Change file mode bits (read, write, execute permissions)",
+      syntax: "chmod [OPTIONS] MODE[,MODE]... FILE...",
+      flags: [
+        { flag: "+x", desc: "Grant execute permission to user, group, and others" },
+        { flag: "755", desc: "rwxr-xr-x: full for user, read/execute for others" },
+        { flag: "600", desc: "rw-------: private read/write for file owner only" },
+        { flag: "-R", desc: "Change files and directories recursively" }
+      ],
+      examples: ["chmod +x script.sh", "chmod 600 id_rsa"]
+    },
+    {
+      cmd: "ps",
+      category: "proc",
+      summary: "Report a snapshot of the current processes running on the system",
+      syntax: "ps [OPTIONS]",
+      flags: [
+        { flag: "aux", desc: "Display BSD style process table for all users" },
+        { flag: "-ef", desc: "Standard POSIX full format process listing" }
+      ],
+      examples: ["ps aux", "ps aux | grep worker"]
+    },
+    {
+      cmd: "kill",
+      category: "proc",
+      summary: "Send a termination signal to a process by its PID",
+      syntax: "kill [-SIGNAL] PID...",
+      flags: [
+        { flag: "-9", desc: "SIGKILL: forcefully kill process immediately" },
+        { flag: "-15", desc: "SIGTERM: graceful termination request (default)" }
+      ],
+      examples: ["kill 1337", "kill -9 2048"]
+    },
+    {
+      cmd: "tar",
+      category: "archive",
+      summary: "Archiving utility for combining and compressing files",
+      syntax: "tar [OPTIONS] [ARCHIVE_NAME] [FILES]...",
+      flags: [
+        { flag: "-c", desc: "Create a new archive" },
+        { flag: "-x", desc: "Extract files from an archive" },
+        { flag: "-z", desc: "Filter archive through gzip (.tar.gz)" },
+        { flag: "-v", desc: "Verbosely list files processed" },
+        { flag: "-f", desc: "Use given archive file" }
+      ],
+      examples: ["tar -czvf backup.tar.gz /home/hero", "tar -xzvf backup.tar.gz"]
+    },
+    {
+      cmd: "find",
+      category: "files",
+      summary: "Search for files in a directory hierarchy based on attributes",
+      syntax: "find [PATH] [EXPRESSION]",
+      flags: [
+        { flag: "-name", desc: "Base of file name matches shell pattern" },
+        { flag: "-type f", desc: "Filter strictly for regular files" },
+        { flag: "-type d", desc: "Filter strictly for directories" },
+        { flag: "-mtime -7", desc: "Files modified within the last 7 days" }
+      ],
+      examples: ["find /home/hero -name '*.sh'", "find /var/log -type f"]
+    },
+    {
+      cmd: "curl",
+      category: "net",
+      summary: "Transfer data to or from a network server using HTTP/S, FTP, etc.",
+      syntax: "curl [OPTIONS] [URL]",
+      flags: [
+        { flag: "-I", desc: "Fetch HTTP response headers only" },
+        { flag: "-s", desc: "Silent mode (don't show progress meter or error messages)" },
+        { flag: "-o", desc: "Write output to designated file instead of stdout" }
+      ],
+      examples: ["curl -I https://linuxquest.dev", "curl -o index.html https://example.com"]
+    },
+    {
+      cmd: "head / tail",
+      category: "text",
+      summary: "Output the first or last parts of files",
+      syntax: "head [-n LINES] [FILE]... | tail [-n LINES] [FILE]...",
+      flags: [
+        { flag: "-n", desc: "Specify number of lines (default is 10)" },
+        { flag: "-f", desc: "Follow: output appended data as the file grows (tail only)" }
+      ],
+      examples: ["head -n 5 /var/log/syslog", "tail -n 20 /var/log/auth.log"]
+    },
+    {
+      cmd: "nano",
+      category: "files",
+      summary: "User-friendly lightweight terminal text editor",
+      syntax: "nano [FILE]",
+      flags: [
+        { flag: "-m", desc: "Enable mouse support in compatible terminals" }
+      ],
+      examples: ["nano notes.txt", "nano /home/hero/deploy.sh"]
+    }
+  ];
+
+  let currentCategory = 'all';
+
+  function renderCheats(items) {
+    const container = document.getElementById('commandCardsContainer');
+    if (!items || items.length === 0) {
+      container.innerHTML = `<div class="card" style="text-align:center; padding:2rem; color:var(--text-muted);"><i class="fas fa-search" style="font-size:2rem; margin-bottom:0.5rem;"></i><p>No matching Linux commands found.</p></div>`;
+      return;
+    }
+
+    container.innerHTML = items.map(c => `
+      <div class="card" style="border-left: 4px solid var(--neon-cyan); transition: transform 0.2s;">
+        <div style="display: flex; justify-content: space-between; align-items: start; margin-bottom: 0.5rem;">
+          <div>
+            <h3 style="font-family: var(--font-code); font-size: 1.3rem; color: #fff; margin: 0; display: flex; align-items: center; gap: 0.5rem;">
+              <span style="color: var(--neon-cyan);">${c.cmd}</span>
+              <span style="font-size: 0.75rem; background: #0f172a; color: var(--text-muted); padding: 2px 8px; border-radius: 4px; font-weight: normal;">${c.category}</span>
+            </h3>
+            <p style="color: var(--text-muted); font-size: 0.85rem; margin-top: 0.25rem;">${c.summary}</p>
+          </div>
+          <button onclick="tryCommand('${c.examples[0]}')" class="btn btn-outline" style="padding: 0.35rem 0.75rem; font-size: 0.75rem; display: flex; align-items: center; gap: 0.3rem;">
+            <i class="fas fa-play text-green"></i> Try Command
+          </button>
+        </div>
+
+        <div style="background: #070a12; padding: 0.6rem 0.8rem; border-radius: 6px; font-family: var(--font-code); font-size: 0.85rem; color: var(--neon-gold); margin-bottom: 0.75rem;">
+          ${c.syntax}
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 0.35rem; margin-bottom: 0.75rem;">
+          ${c.flags.map(f => `
+            <div style="font-size: 0.8rem; display: flex; gap: 0.5rem;">
+              <code style="color: var(--neon-green); min-width: 60px;">${f.flag}</code>
+              <span style="color: #cbd5e1;">${f.desc}</span>
+            </div>
+          `).join('')}
+        </div>
+
+        <div style="border-top: 1px solid var(--border-subtle); padding-top: 0.5rem; display: flex; gap: 0.5rem; align-items: center; flex-wrap: wrap;">
+          <span style="font-size: 0.75rem; color: var(--text-muted);"><i class="fas fa-lightbulb text-gold"></i> Example:</span>
+          ${c.examples.map(ex => `
+            <span onclick="tryCommand('${ex}')" style="cursor: pointer; background: #0f172a; border: 1px solid var(--border-color); padding: 2px 8px; border-radius: 4px; font-family: var(--font-code); font-size: 0.8rem; color: #00f3ff;" title="Click to test in terminal">
+              ${ex}
+            </span>
+          `).join('')}
+        </div>
+      </div>
+    `).join('');
+  }
+
+  function setCategory(cat) {
+    currentCategory = cat;
+    document.querySelectorAll('.cat-pill').forEach(btn => {
+      btn.classList.remove('active');
+      btn.style.background = '#0f172a';
+      btn.style.color = '#cbd5e1';
+      btn.style.border = '1px solid var(--border-color)';
+    });
+    event.currentTarget.classList.add('active');
+    event.currentTarget.style.background = 'var(--neon-cyan)';
+    event.currentTarget.style.color = '#000';
+    event.currentTarget.style.border = 'none';
+
+    filterCheatsheet();
+  }
+
+  function filterCheatsheet() {
+    const q = document.getElementById('cheatsheetSearch').value.toLowerCase().trim();
+    let filtered = CHEATS_DATA;
+
+    if (currentCategory !== 'all') {
+      filtered = filtered.filter(c => c.category === currentCategory);
+    }
+
+    if (q) {
+      filtered = filtered.filter(c => 
+        c.cmd.toLowerCase().includes(q) ||
+        c.summary.toLowerCase().includes(q) ||
+        c.syntax.toLowerCase().includes(q) ||
+        c.flags.some(f => f.flag.toLowerCase().includes(q) || f.desc.toLowerCase().includes(q))
+      );
+    }
+
+    renderCheats(filtered);
+  }
+
+  function tryCommand(cmdStr) {
+    if (window.dockedTerminal) {
+      window.dockedTerminal.writeLine(`${window.dockedTerminal.termPrompt.innerText} ${cmdStr}`, 'prompt-line');
+      window.dockedTerminal.executeCommand(cmdStr);
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    window.dockedTerminal = new TerminalSimulator('dockedTerminalContainer', null);
+    renderCheats(CHEATS_DATA);
+  });
+</script>
+{% endblock %}

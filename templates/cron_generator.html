@@ -1,0 +1,200 @@
+{% extends 'base.html' %}
+
+{% block title %}Cron Schedule Generator & Crontab Studio — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="margin-bottom: 2rem;">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+    <div>
+      <span class="badge" style="background: rgba(255,190,11,0.15); color: var(--neon-gold); border: 1px solid var(--neon-gold); padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.8rem; font-weight: bold;">
+        <i class="fas fa-clock"></i> AUTOMATION & SCHEDULING
+      </span>
+      <h1 style="font-family: var(--font-title); font-size: 2rem; color: #fff; margin: 0.5rem 0 0.25rem 0;">
+        Cron Schedule Generator & Studio
+      </h1>
+      <p style="color: var(--text-muted); font-size: 0.95rem;">
+        Generate, decode, and validate crontab schedules visually. Install and test jobs in the virtual environment.
+      </p>
+    </div>
+    <div style="display: flex; gap: 0.75rem;">
+      <button onclick="installCrontab()" class="btn btn-primary" style="display: flex; align-items: center; gap: 0.5rem;">
+        <i class="fas fa-save"></i> Install into /etc/crontab
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="grid-2" style="grid-template-columns: 1fr 380px; gap: 1.5rem; align-items: start;">
+  <!-- LEFT: 5-FIELD VISUAL BUILDER -->
+  <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+    <!-- LIVE EXPRESSION DISPLAY -->
+    <div class="card" style="border-left: 4px solid var(--neon-gold); background: #070a12; text-align: center; padding: 1.5rem;">
+      <div style="font-size: 0.8rem; color: var(--text-muted); text-transform: uppercase; margin-bottom: 0.5rem;">CRON EXPRESSION</div>
+      <div id="cronExprDisplay" style="font-family: var(--font-code); font-size: 2.4rem; font-weight: bold; color: var(--neon-gold); letter-spacing: 4px; margin-bottom: 0.5rem;">
+        */15 * * * *
+      </div>
+      <div id="cronHumanReadable" style="font-size: 1.1rem; color: var(--neon-cyan); font-weight: 500;">
+        "At every 15th minute"
+      </div>
+    </div>
+
+    <!-- 5 TIME SLIDERS / INPUTS -->
+    <div class="card">
+      <h3 style="font-family: var(--font-title); font-size: 1.1rem; color: #fff; margin-bottom: 1rem;">
+        <i class="fas fa-sliders-h"></i> Schedule Directives
+      </h3>
+
+      <div style="display: grid; grid-template-columns: repeat(5, 1fr); gap: 1rem; text-align: center;">
+        <!-- MINUTE -->
+        <div>
+          <label style="font-size: 0.75rem; color: var(--text-muted); font-weight: bold; display: block; margin-bottom: 0.4rem;">MINUTE (0-59)</label>
+          <input type="text" id="inMinute" value="*/15" oninput="recalculateCron()" style="width: 100%; text-align: center; background: #0f172a; border: 1px solid var(--border-color); color: #fff; font-family: var(--font-code); padding: 0.6rem; border-radius: 6px; font-size: 1rem;">
+        </div>
+
+        <!-- HOUR -->
+        <div>
+          <label style="font-size: 0.75rem; color: var(--text-muted); font-weight: bold; display: block; margin-bottom: 0.4rem;">HOUR (0-23)</label>
+          <input type="text" id="inHour" value="*" oninput="recalculateCron()" style="width: 100%; text-align: center; background: #0f172a; border: 1px solid var(--border-color); color: #fff; font-family: var(--font-code); padding: 0.6rem; border-radius: 6px; font-size: 1rem;">
+        </div>
+
+        <!-- DAY OF MONTH -->
+        <div>
+          <label style="font-size: 0.75rem; color: var(--text-muted); font-weight: bold; display: block; margin-bottom: 0.4rem;">DOM (1-31)</label>
+          <input type="text" id="inDom" value="*" oninput="recalculateCron()" style="width: 100%; text-align: center; background: #0f172a; border: 1px solid var(--border-color); color: #fff; font-family: var(--font-code); padding: 0.6rem; border-radius: 6px; font-size: 1rem;">
+        </div>
+
+        <!-- MONTH -->
+        <div>
+          <label style="font-size: 0.75rem; color: var(--text-muted); font-weight: bold; display: block; margin-bottom: 0.4rem;">MONTH (1-12)</label>
+          <input type="text" id="inMonth" value="*" oninput="recalculateCron()" style="width: 100%; text-align: center; background: #0f172a; border: 1px solid var(--border-color); color: #fff; font-family: var(--font-code); padding: 0.6rem; border-radius: 6px; font-size: 1rem;">
+        </div>
+
+        <!-- DAY OF WEEK -->
+        <div>
+          <label style="font-size: 0.75rem; color: var(--text-muted); font-weight: bold; display: block; margin-bottom: 0.4rem;">DOW (0-6)</label>
+          <input type="text" id="inDow" value="*" oninput="recalculateCron()" style="width: 100%; text-align: center; background: #0f172a; border: 1px solid var(--border-color); color: #fff; font-family: var(--font-code); padding: 0.6rem; border-radius: 6px; font-size: 1rem;">
+        </div>
+      </div>
+
+      <!-- TARGET COMMAND LINE -->
+      <div style="margin-top: 1.25rem;">
+        <label style="font-size: 0.8rem; color: var(--text-muted); display: block; margin-bottom: 0.4rem;">Job Command To Execute:</label>
+        <input type="text" id="cronCmdInput" value="/home/hero/welcome.sh >> /var/log/cron_job.log 2>&1" oninput="recalculateCron()" style="width: 100%; background: #070a12; border: 1px solid var(--border-color); color: var(--neon-green); font-family: var(--font-code); padding: 0.75rem; border-radius: 6px; font-size: 0.95rem; outline: none;">
+      </div>
+    </div>
+
+    <!-- TERMINAL RUNNER -->
+    <div class="card">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+        <h3 style="font-family: var(--font-title); font-size: 1rem; color: #fff; margin: 0;">
+          <i class="fas fa-terminal"></i> Crontab Environment Simulator
+        </h3>
+        <span style="font-size: 0.75rem; color: var(--neon-cyan);">Type: <code>cat /etc/crontab</code></span>
+      </div>
+      <div id="cronTerminalContainer"></div>
+    </div>
+  </div>
+
+  <!-- RIGHT: PRESETS & REFERENCE -->
+  <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+    <!-- QUICK PRESETS -->
+    <div class="card">
+      <h3 style="font-family: var(--font-title); font-size: 1.1rem; color: var(--neon-gold); margin-bottom: 0.75rem;">
+        <i class="fas fa-history"></i> Common Presets
+      </h3>
+      <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+        <button class="btn btn-outline" onclick="applyPreset('*/5', '*', '*', '*', '*')" style="text-align: left; padding: 0.5rem; font-size: 0.8rem;">
+          <strong style="color: var(--neon-cyan);">Every 5 Minutes</strong>
+          <div style="font-size: 0.7rem; color: var(--text-muted); font-family: var(--font-code);">*/5 * * * *</div>
+        </button>
+        <button class="btn btn-outline" onclick="applyPreset('0', '*', '*', '*', '*')" style="text-align: left; padding: 0.5rem; font-size: 0.8rem;">
+          <strong style="color: var(--neon-green);">Hourly at Minute 0</strong>
+          <div style="font-size: 0.7rem; color: var(--text-muted); font-family: var(--font-code);">0 * * * *</div>
+        </button>
+        <button class="btn btn-outline" onclick="applyPreset('0', '0', '*', '*', '*')" style="text-align: left; padding: 0.5rem; font-size: 0.8rem;">
+          <strong style="color: var(--neon-gold);">Daily at Midnight (00:00)</strong>
+          <div style="font-size: 0.7rem; color: var(--text-muted); font-family: var(--font-code);">0 0 * * *</div>
+        </button>
+        <button class="btn btn-outline" onclick="applyPreset('30', '3', '*', '*', '0')" style="text-align: left; padding: 0.5rem; font-size: 0.8rem;">
+          <strong style="color: var(--neon-orange);">Weekly Sunday at 03:30 AM</strong>
+          <div style="font-size: 0.7rem; color: var(--text-muted); font-family: var(--font-code);">30 3 * * 0</div>
+        </button>
+        <button class="btn btn-outline" onclick="applyPreset('0', '4', '1', '*', '*')" style="text-align: left; padding: 0.5rem; font-size: 0.8rem;">
+          <strong style="color: #ff3366);">Monthly on 1st at 04:00 AM</strong>
+          <div style="font-size: 0.7rem; color: var(--text-muted); font-family: var(--font-code);">0 4 1 * *</div>
+        </button>
+      </div>
+    </div>
+
+    <!-- SYNTAX QUICK REFERENCE -->
+    <div class="card" style="font-size: 0.8rem;">
+      <h3 style="font-family: var(--font-title); font-size: 1rem; color: #fff; margin-bottom: 0.5rem;">
+        <i class="fas fa-info-circle text-cyan"></i> Wildcard Operators
+      </h3>
+      <div style="display: flex; flex-direction: column; gap: 0.4rem; color: #cbd5e1;">
+        <div><code style="color:var(--neon-green);">*</code> : Any / Every value</div>
+        <div><code style="color:var(--neon-cyan);">,</code> : Value list separator (e.g. <code>1,15,30</code>)</div>
+        <div><code style="color:var(--neon-gold);">-</code> : Range of values (e.g. <code>1-5</code> for Mon-Fri)</div>
+        <div><code style="color:var(--neon-orange);">/</code> : Step values (e.g. <code>*/10</code> for every 10)</div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  function applyPreset(m, h, dom, mon, dow) {
+    document.getElementById('inMinute').value = m;
+    document.getElementById('inHour').value = h;
+    document.getElementById('inDom').value = dom;
+    document.getElementById('inMonth').value = mon;
+    document.getElementById('inDow').value = dow;
+    recalculateCron();
+  }
+
+  function recalculateCron() {
+    const m = document.getElementById('inMinute').value.trim() || '*';
+    const h = document.getElementById('inHour').value.trim() || '*';
+    const dom = document.getElementById('inDom').value.trim() || '*';
+    const mon = document.getElementById('inMonth').value.trim() || '*';
+    const dow = document.getElementById('inDow').value.trim() || '*';
+
+    const expr = `${m} ${h} ${dom} ${mon} ${dow}`;
+    document.getElementById('cronExprDisplay').innerText = expr;
+
+    let human = "Runs: ";
+    if (m.startsWith('*/')) human += `every ${m.replace('*/', '')} minutes`;
+    else if (m === '*') human += "every minute";
+    else human += `at minute ${m}`;
+
+    if (h !== '*') human += `, at hour ${h}`;
+    if (dom !== '*') human += `, on day of month ${dom}`;
+    if (mon !== '*') human += `, in month ${mon}`;
+    if (dow !== '*') human += `, on day of week ${dow}`;
+
+    document.getElementById('cronHumanReadable').innerText = human;
+  }
+
+  function installCrontab() {
+    const expr = document.getElementById('cronExprDisplay').innerText;
+    const cmd = document.getElementById('cronCmdInput').value.trim();
+    const crontabLine = `${expr} hero ${cmd}`;
+
+    if (window.cronTerminal) {
+      const vfs = window.cronTerminal.vfs;
+      const existing = vfs.getNode('/etc/crontab') ? vfs.getNode('/etc/crontab').content + '\n' : '# /etc/crontab: LinuxQuest Scheduled Jobs\n';
+      vfs.createFile('/etc/crontab', existing + crontabLine, 'rw-r--r--', '/etc');
+      window.cronTerminal.updateVFSInspector();
+
+      window.cronTerminal.writeLine(`[Installed crontab entry: "${crontabLine}"]`, 'text-green');
+      window.cronTerminal.executeCommand('cat /etc/crontab');
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    window.cronTerminal = new TerminalSimulator('cronTerminalContainer', null);
+    recalculateCron();
+  });
+</script>
+{% endblock %}

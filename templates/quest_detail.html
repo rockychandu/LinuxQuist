@@ -43,7 +43,7 @@
 
 {% block extra_js %}
 <script>
-  let activeQuest = { id: {{ quest.id }}, initial_vfs_json: '{{ quest.initial_vfs_json | safe }}' };
+  let activeQuest = { id: {{ quest.id }}, initial_vfs_json: {{ quest.initial_vfs_json | tojson }} };
 
   document.addEventListener('DOMContentLoaded', () => {
     window.terminalInstance = new TerminalSimulator('questTerminalContainer', activeQuest);

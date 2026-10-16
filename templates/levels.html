@@ -49,7 +49,7 @@
           <a href="{{ url_for('quests_list') }}" class="btn btn-primary" style="padding: 0.45rem 1rem; font-size: 0.85rem;">
             <i class="fas fa-edit"></i> Write Command Test
           </a>
-          <a href="{{ url_for('quizzes_list') }}" class="btn btn-sunset" style="padding: 0.45rem 1rem; font-size: 0.85rem;">
+          <a href="{{ url_for('quiz_play', quiz_level_number=lvl.level_number) }}" class="btn btn-sunset" style="padding: 0.45rem 1rem; font-size: 0.85rem;">
             <i class="fas fa-question-circle"></i> Take Quiz
           </a>
           <a href="{{ url_for('learn_list') }}" class="btn btn-outline" style="padding: 0.45rem 1rem; font-size: 0.85rem;">

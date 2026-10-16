@@ -35993,6 +35993,4006 @@ PYTHON_MAN_PAGES = {
         "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
         "examples": ["man_cmd_4499 --help", "man_cmd_4499 -v /var/log"]
     },
+    "man_cmd_4500": {
+        "name": "man_cmd_4500",
+        "summary": "POSIX System Utility #4500 Python Documentation Engine",
+        "synopsis": "man_cmd_4500 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4500.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4500 --help", "man_cmd_4500 -v /var/log"]
+    },
+    "man_cmd_4501": {
+        "name": "man_cmd_4501",
+        "summary": "POSIX System Utility #4501 Python Documentation Engine",
+        "synopsis": "man_cmd_4501 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4501.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4501 --help", "man_cmd_4501 -v /var/log"]
+    },
+    "man_cmd_4502": {
+        "name": "man_cmd_4502",
+        "summary": "POSIX System Utility #4502 Python Documentation Engine",
+        "synopsis": "man_cmd_4502 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4502.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4502 --help", "man_cmd_4502 -v /var/log"]
+    },
+    "man_cmd_4503": {
+        "name": "man_cmd_4503",
+        "summary": "POSIX System Utility #4503 Python Documentation Engine",
+        "synopsis": "man_cmd_4503 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4503.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4503 --help", "man_cmd_4503 -v /var/log"]
+    },
+    "man_cmd_4504": {
+        "name": "man_cmd_4504",
+        "summary": "POSIX System Utility #4504 Python Documentation Engine",
+        "synopsis": "man_cmd_4504 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4504.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4504 --help", "man_cmd_4504 -v /var/log"]
+    },
+    "man_cmd_4505": {
+        "name": "man_cmd_4505",
+        "summary": "POSIX System Utility #4505 Python Documentation Engine",
+        "synopsis": "man_cmd_4505 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4505.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4505 --help", "man_cmd_4505 -v /var/log"]
+    },
+    "man_cmd_4506": {
+        "name": "man_cmd_4506",
+        "summary": "POSIX System Utility #4506 Python Documentation Engine",
+        "synopsis": "man_cmd_4506 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4506.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4506 --help", "man_cmd_4506 -v /var/log"]
+    },
+    "man_cmd_4507": {
+        "name": "man_cmd_4507",
+        "summary": "POSIX System Utility #4507 Python Documentation Engine",
+        "synopsis": "man_cmd_4507 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4507.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4507 --help", "man_cmd_4507 -v /var/log"]
+    },
+    "man_cmd_4508": {
+        "name": "man_cmd_4508",
+        "summary": "POSIX System Utility #4508 Python Documentation Engine",
+        "synopsis": "man_cmd_4508 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4508.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4508 --help", "man_cmd_4508 -v /var/log"]
+    },
+    "man_cmd_4509": {
+        "name": "man_cmd_4509",
+        "summary": "POSIX System Utility #4509 Python Documentation Engine",
+        "synopsis": "man_cmd_4509 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4509.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4509 --help", "man_cmd_4509 -v /var/log"]
+    },
+    "man_cmd_4510": {
+        "name": "man_cmd_4510",
+        "summary": "POSIX System Utility #4510 Python Documentation Engine",
+        "synopsis": "man_cmd_4510 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4510.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4510 --help", "man_cmd_4510 -v /var/log"]
+    },
+    "man_cmd_4511": {
+        "name": "man_cmd_4511",
+        "summary": "POSIX System Utility #4511 Python Documentation Engine",
+        "synopsis": "man_cmd_4511 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4511.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4511 --help", "man_cmd_4511 -v /var/log"]
+    },
+    "man_cmd_4512": {
+        "name": "man_cmd_4512",
+        "summary": "POSIX System Utility #4512 Python Documentation Engine",
+        "synopsis": "man_cmd_4512 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4512.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4512 --help", "man_cmd_4512 -v /var/log"]
+    },
+    "man_cmd_4513": {
+        "name": "man_cmd_4513",
+        "summary": "POSIX System Utility #4513 Python Documentation Engine",
+        "synopsis": "man_cmd_4513 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4513.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4513 --help", "man_cmd_4513 -v /var/log"]
+    },
+    "man_cmd_4514": {
+        "name": "man_cmd_4514",
+        "summary": "POSIX System Utility #4514 Python Documentation Engine",
+        "synopsis": "man_cmd_4514 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4514.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4514 --help", "man_cmd_4514 -v /var/log"]
+    },
+    "man_cmd_4515": {
+        "name": "man_cmd_4515",
+        "summary": "POSIX System Utility #4515 Python Documentation Engine",
+        "synopsis": "man_cmd_4515 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4515.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4515 --help", "man_cmd_4515 -v /var/log"]
+    },
+    "man_cmd_4516": {
+        "name": "man_cmd_4516",
+        "summary": "POSIX System Utility #4516 Python Documentation Engine",
+        "synopsis": "man_cmd_4516 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4516.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4516 --help", "man_cmd_4516 -v /var/log"]
+    },
+    "man_cmd_4517": {
+        "name": "man_cmd_4517",
+        "summary": "POSIX System Utility #4517 Python Documentation Engine",
+        "synopsis": "man_cmd_4517 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4517.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4517 --help", "man_cmd_4517 -v /var/log"]
+    },
+    "man_cmd_4518": {
+        "name": "man_cmd_4518",
+        "summary": "POSIX System Utility #4518 Python Documentation Engine",
+        "synopsis": "man_cmd_4518 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4518.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4518 --help", "man_cmd_4518 -v /var/log"]
+    },
+    "man_cmd_4519": {
+        "name": "man_cmd_4519",
+        "summary": "POSIX System Utility #4519 Python Documentation Engine",
+        "synopsis": "man_cmd_4519 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4519.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4519 --help", "man_cmd_4519 -v /var/log"]
+    },
+    "man_cmd_4520": {
+        "name": "man_cmd_4520",
+        "summary": "POSIX System Utility #4520 Python Documentation Engine",
+        "synopsis": "man_cmd_4520 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4520.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4520 --help", "man_cmd_4520 -v /var/log"]
+    },
+    "man_cmd_4521": {
+        "name": "man_cmd_4521",
+        "summary": "POSIX System Utility #4521 Python Documentation Engine",
+        "synopsis": "man_cmd_4521 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4521.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4521 --help", "man_cmd_4521 -v /var/log"]
+    },
+    "man_cmd_4522": {
+        "name": "man_cmd_4522",
+        "summary": "POSIX System Utility #4522 Python Documentation Engine",
+        "synopsis": "man_cmd_4522 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4522.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4522 --help", "man_cmd_4522 -v /var/log"]
+    },
+    "man_cmd_4523": {
+        "name": "man_cmd_4523",
+        "summary": "POSIX System Utility #4523 Python Documentation Engine",
+        "synopsis": "man_cmd_4523 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4523.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4523 --help", "man_cmd_4523 -v /var/log"]
+    },
+    "man_cmd_4524": {
+        "name": "man_cmd_4524",
+        "summary": "POSIX System Utility #4524 Python Documentation Engine",
+        "synopsis": "man_cmd_4524 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4524.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4524 --help", "man_cmd_4524 -v /var/log"]
+    },
+    "man_cmd_4525": {
+        "name": "man_cmd_4525",
+        "summary": "POSIX System Utility #4525 Python Documentation Engine",
+        "synopsis": "man_cmd_4525 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4525.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4525 --help", "man_cmd_4525 -v /var/log"]
+    },
+    "man_cmd_4526": {
+        "name": "man_cmd_4526",
+        "summary": "POSIX System Utility #4526 Python Documentation Engine",
+        "synopsis": "man_cmd_4526 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4526.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4526 --help", "man_cmd_4526 -v /var/log"]
+    },
+    "man_cmd_4527": {
+        "name": "man_cmd_4527",
+        "summary": "POSIX System Utility #4527 Python Documentation Engine",
+        "synopsis": "man_cmd_4527 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4527.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4527 --help", "man_cmd_4527 -v /var/log"]
+    },
+    "man_cmd_4528": {
+        "name": "man_cmd_4528",
+        "summary": "POSIX System Utility #4528 Python Documentation Engine",
+        "synopsis": "man_cmd_4528 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4528.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4528 --help", "man_cmd_4528 -v /var/log"]
+    },
+    "man_cmd_4529": {
+        "name": "man_cmd_4529",
+        "summary": "POSIX System Utility #4529 Python Documentation Engine",
+        "synopsis": "man_cmd_4529 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4529.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4529 --help", "man_cmd_4529 -v /var/log"]
+    },
+    "man_cmd_4530": {
+        "name": "man_cmd_4530",
+        "summary": "POSIX System Utility #4530 Python Documentation Engine",
+        "synopsis": "man_cmd_4530 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4530.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4530 --help", "man_cmd_4530 -v /var/log"]
+    },
+    "man_cmd_4531": {
+        "name": "man_cmd_4531",
+        "summary": "POSIX System Utility #4531 Python Documentation Engine",
+        "synopsis": "man_cmd_4531 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4531.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4531 --help", "man_cmd_4531 -v /var/log"]
+    },
+    "man_cmd_4532": {
+        "name": "man_cmd_4532",
+        "summary": "POSIX System Utility #4532 Python Documentation Engine",
+        "synopsis": "man_cmd_4532 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4532.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4532 --help", "man_cmd_4532 -v /var/log"]
+    },
+    "man_cmd_4533": {
+        "name": "man_cmd_4533",
+        "summary": "POSIX System Utility #4533 Python Documentation Engine",
+        "synopsis": "man_cmd_4533 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4533.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4533 --help", "man_cmd_4533 -v /var/log"]
+    },
+    "man_cmd_4534": {
+        "name": "man_cmd_4534",
+        "summary": "POSIX System Utility #4534 Python Documentation Engine",
+        "synopsis": "man_cmd_4534 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4534.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4534 --help", "man_cmd_4534 -v /var/log"]
+    },
+    "man_cmd_4535": {
+        "name": "man_cmd_4535",
+        "summary": "POSIX System Utility #4535 Python Documentation Engine",
+        "synopsis": "man_cmd_4535 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4535.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4535 --help", "man_cmd_4535 -v /var/log"]
+    },
+    "man_cmd_4536": {
+        "name": "man_cmd_4536",
+        "summary": "POSIX System Utility #4536 Python Documentation Engine",
+        "synopsis": "man_cmd_4536 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4536.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4536 --help", "man_cmd_4536 -v /var/log"]
+    },
+    "man_cmd_4537": {
+        "name": "man_cmd_4537",
+        "summary": "POSIX System Utility #4537 Python Documentation Engine",
+        "synopsis": "man_cmd_4537 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4537.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4537 --help", "man_cmd_4537 -v /var/log"]
+    },
+    "man_cmd_4538": {
+        "name": "man_cmd_4538",
+        "summary": "POSIX System Utility #4538 Python Documentation Engine",
+        "synopsis": "man_cmd_4538 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4538.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4538 --help", "man_cmd_4538 -v /var/log"]
+    },
+    "man_cmd_4539": {
+        "name": "man_cmd_4539",
+        "summary": "POSIX System Utility #4539 Python Documentation Engine",
+        "synopsis": "man_cmd_4539 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4539.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4539 --help", "man_cmd_4539 -v /var/log"]
+    },
+    "man_cmd_4540": {
+        "name": "man_cmd_4540",
+        "summary": "POSIX System Utility #4540 Python Documentation Engine",
+        "synopsis": "man_cmd_4540 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4540.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4540 --help", "man_cmd_4540 -v /var/log"]
+    },
+    "man_cmd_4541": {
+        "name": "man_cmd_4541",
+        "summary": "POSIX System Utility #4541 Python Documentation Engine",
+        "synopsis": "man_cmd_4541 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4541.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4541 --help", "man_cmd_4541 -v /var/log"]
+    },
+    "man_cmd_4542": {
+        "name": "man_cmd_4542",
+        "summary": "POSIX System Utility #4542 Python Documentation Engine",
+        "synopsis": "man_cmd_4542 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4542.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4542 --help", "man_cmd_4542 -v /var/log"]
+    },
+    "man_cmd_4543": {
+        "name": "man_cmd_4543",
+        "summary": "POSIX System Utility #4543 Python Documentation Engine",
+        "synopsis": "man_cmd_4543 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4543.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4543 --help", "man_cmd_4543 -v /var/log"]
+    },
+    "man_cmd_4544": {
+        "name": "man_cmd_4544",
+        "summary": "POSIX System Utility #4544 Python Documentation Engine",
+        "synopsis": "man_cmd_4544 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4544.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4544 --help", "man_cmd_4544 -v /var/log"]
+    },
+    "man_cmd_4545": {
+        "name": "man_cmd_4545",
+        "summary": "POSIX System Utility #4545 Python Documentation Engine",
+        "synopsis": "man_cmd_4545 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4545.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4545 --help", "man_cmd_4545 -v /var/log"]
+    },
+    "man_cmd_4546": {
+        "name": "man_cmd_4546",
+        "summary": "POSIX System Utility #4546 Python Documentation Engine",
+        "synopsis": "man_cmd_4546 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4546.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4546 --help", "man_cmd_4546 -v /var/log"]
+    },
+    "man_cmd_4547": {
+        "name": "man_cmd_4547",
+        "summary": "POSIX System Utility #4547 Python Documentation Engine",
+        "synopsis": "man_cmd_4547 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4547.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4547 --help", "man_cmd_4547 -v /var/log"]
+    },
+    "man_cmd_4548": {
+        "name": "man_cmd_4548",
+        "summary": "POSIX System Utility #4548 Python Documentation Engine",
+        "synopsis": "man_cmd_4548 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4548.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4548 --help", "man_cmd_4548 -v /var/log"]
+    },
+    "man_cmd_4549": {
+        "name": "man_cmd_4549",
+        "summary": "POSIX System Utility #4549 Python Documentation Engine",
+        "synopsis": "man_cmd_4549 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4549.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4549 --help", "man_cmd_4549 -v /var/log"]
+    },
+    "man_cmd_4550": {
+        "name": "man_cmd_4550",
+        "summary": "POSIX System Utility #4550 Python Documentation Engine",
+        "synopsis": "man_cmd_4550 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4550.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4550 --help", "man_cmd_4550 -v /var/log"]
+    },
+    "man_cmd_4551": {
+        "name": "man_cmd_4551",
+        "summary": "POSIX System Utility #4551 Python Documentation Engine",
+        "synopsis": "man_cmd_4551 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4551.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4551 --help", "man_cmd_4551 -v /var/log"]
+    },
+    "man_cmd_4552": {
+        "name": "man_cmd_4552",
+        "summary": "POSIX System Utility #4552 Python Documentation Engine",
+        "synopsis": "man_cmd_4552 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4552.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4552 --help", "man_cmd_4552 -v /var/log"]
+    },
+    "man_cmd_4553": {
+        "name": "man_cmd_4553",
+        "summary": "POSIX System Utility #4553 Python Documentation Engine",
+        "synopsis": "man_cmd_4553 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4553.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4553 --help", "man_cmd_4553 -v /var/log"]
+    },
+    "man_cmd_4554": {
+        "name": "man_cmd_4554",
+        "summary": "POSIX System Utility #4554 Python Documentation Engine",
+        "synopsis": "man_cmd_4554 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4554.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4554 --help", "man_cmd_4554 -v /var/log"]
+    },
+    "man_cmd_4555": {
+        "name": "man_cmd_4555",
+        "summary": "POSIX System Utility #4555 Python Documentation Engine",
+        "synopsis": "man_cmd_4555 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4555.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4555 --help", "man_cmd_4555 -v /var/log"]
+    },
+    "man_cmd_4556": {
+        "name": "man_cmd_4556",
+        "summary": "POSIX System Utility #4556 Python Documentation Engine",
+        "synopsis": "man_cmd_4556 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4556.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4556 --help", "man_cmd_4556 -v /var/log"]
+    },
+    "man_cmd_4557": {
+        "name": "man_cmd_4557",
+        "summary": "POSIX System Utility #4557 Python Documentation Engine",
+        "synopsis": "man_cmd_4557 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4557.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4557 --help", "man_cmd_4557 -v /var/log"]
+    },
+    "man_cmd_4558": {
+        "name": "man_cmd_4558",
+        "summary": "POSIX System Utility #4558 Python Documentation Engine",
+        "synopsis": "man_cmd_4558 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4558.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4558 --help", "man_cmd_4558 -v /var/log"]
+    },
+    "man_cmd_4559": {
+        "name": "man_cmd_4559",
+        "summary": "POSIX System Utility #4559 Python Documentation Engine",
+        "synopsis": "man_cmd_4559 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4559.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4559 --help", "man_cmd_4559 -v /var/log"]
+    },
+    "man_cmd_4560": {
+        "name": "man_cmd_4560",
+        "summary": "POSIX System Utility #4560 Python Documentation Engine",
+        "synopsis": "man_cmd_4560 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4560.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4560 --help", "man_cmd_4560 -v /var/log"]
+    },
+    "man_cmd_4561": {
+        "name": "man_cmd_4561",
+        "summary": "POSIX System Utility #4561 Python Documentation Engine",
+        "synopsis": "man_cmd_4561 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4561.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4561 --help", "man_cmd_4561 -v /var/log"]
+    },
+    "man_cmd_4562": {
+        "name": "man_cmd_4562",
+        "summary": "POSIX System Utility #4562 Python Documentation Engine",
+        "synopsis": "man_cmd_4562 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4562.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4562 --help", "man_cmd_4562 -v /var/log"]
+    },
+    "man_cmd_4563": {
+        "name": "man_cmd_4563",
+        "summary": "POSIX System Utility #4563 Python Documentation Engine",
+        "synopsis": "man_cmd_4563 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4563.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4563 --help", "man_cmd_4563 -v /var/log"]
+    },
+    "man_cmd_4564": {
+        "name": "man_cmd_4564",
+        "summary": "POSIX System Utility #4564 Python Documentation Engine",
+        "synopsis": "man_cmd_4564 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4564.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4564 --help", "man_cmd_4564 -v /var/log"]
+    },
+    "man_cmd_4565": {
+        "name": "man_cmd_4565",
+        "summary": "POSIX System Utility #4565 Python Documentation Engine",
+        "synopsis": "man_cmd_4565 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4565.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4565 --help", "man_cmd_4565 -v /var/log"]
+    },
+    "man_cmd_4566": {
+        "name": "man_cmd_4566",
+        "summary": "POSIX System Utility #4566 Python Documentation Engine",
+        "synopsis": "man_cmd_4566 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4566.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4566 --help", "man_cmd_4566 -v /var/log"]
+    },
+    "man_cmd_4567": {
+        "name": "man_cmd_4567",
+        "summary": "POSIX System Utility #4567 Python Documentation Engine",
+        "synopsis": "man_cmd_4567 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4567.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4567 --help", "man_cmd_4567 -v /var/log"]
+    },
+    "man_cmd_4568": {
+        "name": "man_cmd_4568",
+        "summary": "POSIX System Utility #4568 Python Documentation Engine",
+        "synopsis": "man_cmd_4568 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4568.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4568 --help", "man_cmd_4568 -v /var/log"]
+    },
+    "man_cmd_4569": {
+        "name": "man_cmd_4569",
+        "summary": "POSIX System Utility #4569 Python Documentation Engine",
+        "synopsis": "man_cmd_4569 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4569.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4569 --help", "man_cmd_4569 -v /var/log"]
+    },
+    "man_cmd_4570": {
+        "name": "man_cmd_4570",
+        "summary": "POSIX System Utility #4570 Python Documentation Engine",
+        "synopsis": "man_cmd_4570 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4570.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4570 --help", "man_cmd_4570 -v /var/log"]
+    },
+    "man_cmd_4571": {
+        "name": "man_cmd_4571",
+        "summary": "POSIX System Utility #4571 Python Documentation Engine",
+        "synopsis": "man_cmd_4571 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4571.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4571 --help", "man_cmd_4571 -v /var/log"]
+    },
+    "man_cmd_4572": {
+        "name": "man_cmd_4572",
+        "summary": "POSIX System Utility #4572 Python Documentation Engine",
+        "synopsis": "man_cmd_4572 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4572.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4572 --help", "man_cmd_4572 -v /var/log"]
+    },
+    "man_cmd_4573": {
+        "name": "man_cmd_4573",
+        "summary": "POSIX System Utility #4573 Python Documentation Engine",
+        "synopsis": "man_cmd_4573 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4573.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4573 --help", "man_cmd_4573 -v /var/log"]
+    },
+    "man_cmd_4574": {
+        "name": "man_cmd_4574",
+        "summary": "POSIX System Utility #4574 Python Documentation Engine",
+        "synopsis": "man_cmd_4574 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4574.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4574 --help", "man_cmd_4574 -v /var/log"]
+    },
+    "man_cmd_4575": {
+        "name": "man_cmd_4575",
+        "summary": "POSIX System Utility #4575 Python Documentation Engine",
+        "synopsis": "man_cmd_4575 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4575.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4575 --help", "man_cmd_4575 -v /var/log"]
+    },
+    "man_cmd_4576": {
+        "name": "man_cmd_4576",
+        "summary": "POSIX System Utility #4576 Python Documentation Engine",
+        "synopsis": "man_cmd_4576 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4576.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4576 --help", "man_cmd_4576 -v /var/log"]
+    },
+    "man_cmd_4577": {
+        "name": "man_cmd_4577",
+        "summary": "POSIX System Utility #4577 Python Documentation Engine",
+        "synopsis": "man_cmd_4577 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4577.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4577 --help", "man_cmd_4577 -v /var/log"]
+    },
+    "man_cmd_4578": {
+        "name": "man_cmd_4578",
+        "summary": "POSIX System Utility #4578 Python Documentation Engine",
+        "synopsis": "man_cmd_4578 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4578.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4578 --help", "man_cmd_4578 -v /var/log"]
+    },
+    "man_cmd_4579": {
+        "name": "man_cmd_4579",
+        "summary": "POSIX System Utility #4579 Python Documentation Engine",
+        "synopsis": "man_cmd_4579 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4579.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4579 --help", "man_cmd_4579 -v /var/log"]
+    },
+    "man_cmd_4580": {
+        "name": "man_cmd_4580",
+        "summary": "POSIX System Utility #4580 Python Documentation Engine",
+        "synopsis": "man_cmd_4580 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4580.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4580 --help", "man_cmd_4580 -v /var/log"]
+    },
+    "man_cmd_4581": {
+        "name": "man_cmd_4581",
+        "summary": "POSIX System Utility #4581 Python Documentation Engine",
+        "synopsis": "man_cmd_4581 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4581.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4581 --help", "man_cmd_4581 -v /var/log"]
+    },
+    "man_cmd_4582": {
+        "name": "man_cmd_4582",
+        "summary": "POSIX System Utility #4582 Python Documentation Engine",
+        "synopsis": "man_cmd_4582 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4582.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4582 --help", "man_cmd_4582 -v /var/log"]
+    },
+    "man_cmd_4583": {
+        "name": "man_cmd_4583",
+        "summary": "POSIX System Utility #4583 Python Documentation Engine",
+        "synopsis": "man_cmd_4583 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4583.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4583 --help", "man_cmd_4583 -v /var/log"]
+    },
+    "man_cmd_4584": {
+        "name": "man_cmd_4584",
+        "summary": "POSIX System Utility #4584 Python Documentation Engine",
+        "synopsis": "man_cmd_4584 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4584.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4584 --help", "man_cmd_4584 -v /var/log"]
+    },
+    "man_cmd_4585": {
+        "name": "man_cmd_4585",
+        "summary": "POSIX System Utility #4585 Python Documentation Engine",
+        "synopsis": "man_cmd_4585 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4585.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4585 --help", "man_cmd_4585 -v /var/log"]
+    },
+    "man_cmd_4586": {
+        "name": "man_cmd_4586",
+        "summary": "POSIX System Utility #4586 Python Documentation Engine",
+        "synopsis": "man_cmd_4586 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4586.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4586 --help", "man_cmd_4586 -v /var/log"]
+    },
+    "man_cmd_4587": {
+        "name": "man_cmd_4587",
+        "summary": "POSIX System Utility #4587 Python Documentation Engine",
+        "synopsis": "man_cmd_4587 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4587.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4587 --help", "man_cmd_4587 -v /var/log"]
+    },
+    "man_cmd_4588": {
+        "name": "man_cmd_4588",
+        "summary": "POSIX System Utility #4588 Python Documentation Engine",
+        "synopsis": "man_cmd_4588 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4588.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4588 --help", "man_cmd_4588 -v /var/log"]
+    },
+    "man_cmd_4589": {
+        "name": "man_cmd_4589",
+        "summary": "POSIX System Utility #4589 Python Documentation Engine",
+        "synopsis": "man_cmd_4589 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4589.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4589 --help", "man_cmd_4589 -v /var/log"]
+    },
+    "man_cmd_4590": {
+        "name": "man_cmd_4590",
+        "summary": "POSIX System Utility #4590 Python Documentation Engine",
+        "synopsis": "man_cmd_4590 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4590.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4590 --help", "man_cmd_4590 -v /var/log"]
+    },
+    "man_cmd_4591": {
+        "name": "man_cmd_4591",
+        "summary": "POSIX System Utility #4591 Python Documentation Engine",
+        "synopsis": "man_cmd_4591 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4591.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4591 --help", "man_cmd_4591 -v /var/log"]
+    },
+    "man_cmd_4592": {
+        "name": "man_cmd_4592",
+        "summary": "POSIX System Utility #4592 Python Documentation Engine",
+        "synopsis": "man_cmd_4592 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4592.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4592 --help", "man_cmd_4592 -v /var/log"]
+    },
+    "man_cmd_4593": {
+        "name": "man_cmd_4593",
+        "summary": "POSIX System Utility #4593 Python Documentation Engine",
+        "synopsis": "man_cmd_4593 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4593.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4593 --help", "man_cmd_4593 -v /var/log"]
+    },
+    "man_cmd_4594": {
+        "name": "man_cmd_4594",
+        "summary": "POSIX System Utility #4594 Python Documentation Engine",
+        "synopsis": "man_cmd_4594 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4594.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4594 --help", "man_cmd_4594 -v /var/log"]
+    },
+    "man_cmd_4595": {
+        "name": "man_cmd_4595",
+        "summary": "POSIX System Utility #4595 Python Documentation Engine",
+        "synopsis": "man_cmd_4595 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4595.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4595 --help", "man_cmd_4595 -v /var/log"]
+    },
+    "man_cmd_4596": {
+        "name": "man_cmd_4596",
+        "summary": "POSIX System Utility #4596 Python Documentation Engine",
+        "synopsis": "man_cmd_4596 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4596.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4596 --help", "man_cmd_4596 -v /var/log"]
+    },
+    "man_cmd_4597": {
+        "name": "man_cmd_4597",
+        "summary": "POSIX System Utility #4597 Python Documentation Engine",
+        "synopsis": "man_cmd_4597 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4597.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4597 --help", "man_cmd_4597 -v /var/log"]
+    },
+    "man_cmd_4598": {
+        "name": "man_cmd_4598",
+        "summary": "POSIX System Utility #4598 Python Documentation Engine",
+        "synopsis": "man_cmd_4598 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4598.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4598 --help", "man_cmd_4598 -v /var/log"]
+    },
+    "man_cmd_4599": {
+        "name": "man_cmd_4599",
+        "summary": "POSIX System Utility #4599 Python Documentation Engine",
+        "synopsis": "man_cmd_4599 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4599.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4599 --help", "man_cmd_4599 -v /var/log"]
+    },
+    "man_cmd_4600": {
+        "name": "man_cmd_4600",
+        "summary": "POSIX System Utility #4600 Python Documentation Engine",
+        "synopsis": "man_cmd_4600 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4600.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4600 --help", "man_cmd_4600 -v /var/log"]
+    },
+    "man_cmd_4601": {
+        "name": "man_cmd_4601",
+        "summary": "POSIX System Utility #4601 Python Documentation Engine",
+        "synopsis": "man_cmd_4601 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4601.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4601 --help", "man_cmd_4601 -v /var/log"]
+    },
+    "man_cmd_4602": {
+        "name": "man_cmd_4602",
+        "summary": "POSIX System Utility #4602 Python Documentation Engine",
+        "synopsis": "man_cmd_4602 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4602.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4602 --help", "man_cmd_4602 -v /var/log"]
+    },
+    "man_cmd_4603": {
+        "name": "man_cmd_4603",
+        "summary": "POSIX System Utility #4603 Python Documentation Engine",
+        "synopsis": "man_cmd_4603 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4603.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4603 --help", "man_cmd_4603 -v /var/log"]
+    },
+    "man_cmd_4604": {
+        "name": "man_cmd_4604",
+        "summary": "POSIX System Utility #4604 Python Documentation Engine",
+        "synopsis": "man_cmd_4604 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4604.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4604 --help", "man_cmd_4604 -v /var/log"]
+    },
+    "man_cmd_4605": {
+        "name": "man_cmd_4605",
+        "summary": "POSIX System Utility #4605 Python Documentation Engine",
+        "synopsis": "man_cmd_4605 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4605.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4605 --help", "man_cmd_4605 -v /var/log"]
+    },
+    "man_cmd_4606": {
+        "name": "man_cmd_4606",
+        "summary": "POSIX System Utility #4606 Python Documentation Engine",
+        "synopsis": "man_cmd_4606 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4606.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4606 --help", "man_cmd_4606 -v /var/log"]
+    },
+    "man_cmd_4607": {
+        "name": "man_cmd_4607",
+        "summary": "POSIX System Utility #4607 Python Documentation Engine",
+        "synopsis": "man_cmd_4607 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4607.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4607 --help", "man_cmd_4607 -v /var/log"]
+    },
+    "man_cmd_4608": {
+        "name": "man_cmd_4608",
+        "summary": "POSIX System Utility #4608 Python Documentation Engine",
+        "synopsis": "man_cmd_4608 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4608.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4608 --help", "man_cmd_4608 -v /var/log"]
+    },
+    "man_cmd_4609": {
+        "name": "man_cmd_4609",
+        "summary": "POSIX System Utility #4609 Python Documentation Engine",
+        "synopsis": "man_cmd_4609 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4609.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4609 --help", "man_cmd_4609 -v /var/log"]
+    },
+    "man_cmd_4610": {
+        "name": "man_cmd_4610",
+        "summary": "POSIX System Utility #4610 Python Documentation Engine",
+        "synopsis": "man_cmd_4610 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4610.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4610 --help", "man_cmd_4610 -v /var/log"]
+    },
+    "man_cmd_4611": {
+        "name": "man_cmd_4611",
+        "summary": "POSIX System Utility #4611 Python Documentation Engine",
+        "synopsis": "man_cmd_4611 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4611.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4611 --help", "man_cmd_4611 -v /var/log"]
+    },
+    "man_cmd_4612": {
+        "name": "man_cmd_4612",
+        "summary": "POSIX System Utility #4612 Python Documentation Engine",
+        "synopsis": "man_cmd_4612 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4612.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4612 --help", "man_cmd_4612 -v /var/log"]
+    },
+    "man_cmd_4613": {
+        "name": "man_cmd_4613",
+        "summary": "POSIX System Utility #4613 Python Documentation Engine",
+        "synopsis": "man_cmd_4613 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4613.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4613 --help", "man_cmd_4613 -v /var/log"]
+    },
+    "man_cmd_4614": {
+        "name": "man_cmd_4614",
+        "summary": "POSIX System Utility #4614 Python Documentation Engine",
+        "synopsis": "man_cmd_4614 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4614.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4614 --help", "man_cmd_4614 -v /var/log"]
+    },
+    "man_cmd_4615": {
+        "name": "man_cmd_4615",
+        "summary": "POSIX System Utility #4615 Python Documentation Engine",
+        "synopsis": "man_cmd_4615 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4615.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4615 --help", "man_cmd_4615 -v /var/log"]
+    },
+    "man_cmd_4616": {
+        "name": "man_cmd_4616",
+        "summary": "POSIX System Utility #4616 Python Documentation Engine",
+        "synopsis": "man_cmd_4616 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4616.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4616 --help", "man_cmd_4616 -v /var/log"]
+    },
+    "man_cmd_4617": {
+        "name": "man_cmd_4617",
+        "summary": "POSIX System Utility #4617 Python Documentation Engine",
+        "synopsis": "man_cmd_4617 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4617.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4617 --help", "man_cmd_4617 -v /var/log"]
+    },
+    "man_cmd_4618": {
+        "name": "man_cmd_4618",
+        "summary": "POSIX System Utility #4618 Python Documentation Engine",
+        "synopsis": "man_cmd_4618 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4618.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4618 --help", "man_cmd_4618 -v /var/log"]
+    },
+    "man_cmd_4619": {
+        "name": "man_cmd_4619",
+        "summary": "POSIX System Utility #4619 Python Documentation Engine",
+        "synopsis": "man_cmd_4619 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4619.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4619 --help", "man_cmd_4619 -v /var/log"]
+    },
+    "man_cmd_4620": {
+        "name": "man_cmd_4620",
+        "summary": "POSIX System Utility #4620 Python Documentation Engine",
+        "synopsis": "man_cmd_4620 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4620.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4620 --help", "man_cmd_4620 -v /var/log"]
+    },
+    "man_cmd_4621": {
+        "name": "man_cmd_4621",
+        "summary": "POSIX System Utility #4621 Python Documentation Engine",
+        "synopsis": "man_cmd_4621 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4621.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4621 --help", "man_cmd_4621 -v /var/log"]
+    },
+    "man_cmd_4622": {
+        "name": "man_cmd_4622",
+        "summary": "POSIX System Utility #4622 Python Documentation Engine",
+        "synopsis": "man_cmd_4622 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4622.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4622 --help", "man_cmd_4622 -v /var/log"]
+    },
+    "man_cmd_4623": {
+        "name": "man_cmd_4623",
+        "summary": "POSIX System Utility #4623 Python Documentation Engine",
+        "synopsis": "man_cmd_4623 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4623.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4623 --help", "man_cmd_4623 -v /var/log"]
+    },
+    "man_cmd_4624": {
+        "name": "man_cmd_4624",
+        "summary": "POSIX System Utility #4624 Python Documentation Engine",
+        "synopsis": "man_cmd_4624 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4624.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4624 --help", "man_cmd_4624 -v /var/log"]
+    },
+    "man_cmd_4625": {
+        "name": "man_cmd_4625",
+        "summary": "POSIX System Utility #4625 Python Documentation Engine",
+        "synopsis": "man_cmd_4625 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4625.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4625 --help", "man_cmd_4625 -v /var/log"]
+    },
+    "man_cmd_4626": {
+        "name": "man_cmd_4626",
+        "summary": "POSIX System Utility #4626 Python Documentation Engine",
+        "synopsis": "man_cmd_4626 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4626.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4626 --help", "man_cmd_4626 -v /var/log"]
+    },
+    "man_cmd_4627": {
+        "name": "man_cmd_4627",
+        "summary": "POSIX System Utility #4627 Python Documentation Engine",
+        "synopsis": "man_cmd_4627 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4627.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4627 --help", "man_cmd_4627 -v /var/log"]
+    },
+    "man_cmd_4628": {
+        "name": "man_cmd_4628",
+        "summary": "POSIX System Utility #4628 Python Documentation Engine",
+        "synopsis": "man_cmd_4628 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4628.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4628 --help", "man_cmd_4628 -v /var/log"]
+    },
+    "man_cmd_4629": {
+        "name": "man_cmd_4629",
+        "summary": "POSIX System Utility #4629 Python Documentation Engine",
+        "synopsis": "man_cmd_4629 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4629.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4629 --help", "man_cmd_4629 -v /var/log"]
+    },
+    "man_cmd_4630": {
+        "name": "man_cmd_4630",
+        "summary": "POSIX System Utility #4630 Python Documentation Engine",
+        "synopsis": "man_cmd_4630 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4630.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4630 --help", "man_cmd_4630 -v /var/log"]
+    },
+    "man_cmd_4631": {
+        "name": "man_cmd_4631",
+        "summary": "POSIX System Utility #4631 Python Documentation Engine",
+        "synopsis": "man_cmd_4631 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4631.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4631 --help", "man_cmd_4631 -v /var/log"]
+    },
+    "man_cmd_4632": {
+        "name": "man_cmd_4632",
+        "summary": "POSIX System Utility #4632 Python Documentation Engine",
+        "synopsis": "man_cmd_4632 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4632.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4632 --help", "man_cmd_4632 -v /var/log"]
+    },
+    "man_cmd_4633": {
+        "name": "man_cmd_4633",
+        "summary": "POSIX System Utility #4633 Python Documentation Engine",
+        "synopsis": "man_cmd_4633 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4633.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4633 --help", "man_cmd_4633 -v /var/log"]
+    },
+    "man_cmd_4634": {
+        "name": "man_cmd_4634",
+        "summary": "POSIX System Utility #4634 Python Documentation Engine",
+        "synopsis": "man_cmd_4634 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4634.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4634 --help", "man_cmd_4634 -v /var/log"]
+    },
+    "man_cmd_4635": {
+        "name": "man_cmd_4635",
+        "summary": "POSIX System Utility #4635 Python Documentation Engine",
+        "synopsis": "man_cmd_4635 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4635.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4635 --help", "man_cmd_4635 -v /var/log"]
+    },
+    "man_cmd_4636": {
+        "name": "man_cmd_4636",
+        "summary": "POSIX System Utility #4636 Python Documentation Engine",
+        "synopsis": "man_cmd_4636 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4636.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4636 --help", "man_cmd_4636 -v /var/log"]
+    },
+    "man_cmd_4637": {
+        "name": "man_cmd_4637",
+        "summary": "POSIX System Utility #4637 Python Documentation Engine",
+        "synopsis": "man_cmd_4637 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4637.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4637 --help", "man_cmd_4637 -v /var/log"]
+    },
+    "man_cmd_4638": {
+        "name": "man_cmd_4638",
+        "summary": "POSIX System Utility #4638 Python Documentation Engine",
+        "synopsis": "man_cmd_4638 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4638.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4638 --help", "man_cmd_4638 -v /var/log"]
+    },
+    "man_cmd_4639": {
+        "name": "man_cmd_4639",
+        "summary": "POSIX System Utility #4639 Python Documentation Engine",
+        "synopsis": "man_cmd_4639 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4639.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4639 --help", "man_cmd_4639 -v /var/log"]
+    },
+    "man_cmd_4640": {
+        "name": "man_cmd_4640",
+        "summary": "POSIX System Utility #4640 Python Documentation Engine",
+        "synopsis": "man_cmd_4640 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4640.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4640 --help", "man_cmd_4640 -v /var/log"]
+    },
+    "man_cmd_4641": {
+        "name": "man_cmd_4641",
+        "summary": "POSIX System Utility #4641 Python Documentation Engine",
+        "synopsis": "man_cmd_4641 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4641.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4641 --help", "man_cmd_4641 -v /var/log"]
+    },
+    "man_cmd_4642": {
+        "name": "man_cmd_4642",
+        "summary": "POSIX System Utility #4642 Python Documentation Engine",
+        "synopsis": "man_cmd_4642 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4642.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4642 --help", "man_cmd_4642 -v /var/log"]
+    },
+    "man_cmd_4643": {
+        "name": "man_cmd_4643",
+        "summary": "POSIX System Utility #4643 Python Documentation Engine",
+        "synopsis": "man_cmd_4643 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4643.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4643 --help", "man_cmd_4643 -v /var/log"]
+    },
+    "man_cmd_4644": {
+        "name": "man_cmd_4644",
+        "summary": "POSIX System Utility #4644 Python Documentation Engine",
+        "synopsis": "man_cmd_4644 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4644.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4644 --help", "man_cmd_4644 -v /var/log"]
+    },
+    "man_cmd_4645": {
+        "name": "man_cmd_4645",
+        "summary": "POSIX System Utility #4645 Python Documentation Engine",
+        "synopsis": "man_cmd_4645 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4645.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4645 --help", "man_cmd_4645 -v /var/log"]
+    },
+    "man_cmd_4646": {
+        "name": "man_cmd_4646",
+        "summary": "POSIX System Utility #4646 Python Documentation Engine",
+        "synopsis": "man_cmd_4646 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4646.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4646 --help", "man_cmd_4646 -v /var/log"]
+    },
+    "man_cmd_4647": {
+        "name": "man_cmd_4647",
+        "summary": "POSIX System Utility #4647 Python Documentation Engine",
+        "synopsis": "man_cmd_4647 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4647.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4647 --help", "man_cmd_4647 -v /var/log"]
+    },
+    "man_cmd_4648": {
+        "name": "man_cmd_4648",
+        "summary": "POSIX System Utility #4648 Python Documentation Engine",
+        "synopsis": "man_cmd_4648 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4648.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4648 --help", "man_cmd_4648 -v /var/log"]
+    },
+    "man_cmd_4649": {
+        "name": "man_cmd_4649",
+        "summary": "POSIX System Utility #4649 Python Documentation Engine",
+        "synopsis": "man_cmd_4649 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4649.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4649 --help", "man_cmd_4649 -v /var/log"]
+    },
+    "man_cmd_4650": {
+        "name": "man_cmd_4650",
+        "summary": "POSIX System Utility #4650 Python Documentation Engine",
+        "synopsis": "man_cmd_4650 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4650.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4650 --help", "man_cmd_4650 -v /var/log"]
+    },
+    "man_cmd_4651": {
+        "name": "man_cmd_4651",
+        "summary": "POSIX System Utility #4651 Python Documentation Engine",
+        "synopsis": "man_cmd_4651 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4651.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4651 --help", "man_cmd_4651 -v /var/log"]
+    },
+    "man_cmd_4652": {
+        "name": "man_cmd_4652",
+        "summary": "POSIX System Utility #4652 Python Documentation Engine",
+        "synopsis": "man_cmd_4652 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4652.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4652 --help", "man_cmd_4652 -v /var/log"]
+    },
+    "man_cmd_4653": {
+        "name": "man_cmd_4653",
+        "summary": "POSIX System Utility #4653 Python Documentation Engine",
+        "synopsis": "man_cmd_4653 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4653.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4653 --help", "man_cmd_4653 -v /var/log"]
+    },
+    "man_cmd_4654": {
+        "name": "man_cmd_4654",
+        "summary": "POSIX System Utility #4654 Python Documentation Engine",
+        "synopsis": "man_cmd_4654 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4654.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4654 --help", "man_cmd_4654 -v /var/log"]
+    },
+    "man_cmd_4655": {
+        "name": "man_cmd_4655",
+        "summary": "POSIX System Utility #4655 Python Documentation Engine",
+        "synopsis": "man_cmd_4655 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4655.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4655 --help", "man_cmd_4655 -v /var/log"]
+    },
+    "man_cmd_4656": {
+        "name": "man_cmd_4656",
+        "summary": "POSIX System Utility #4656 Python Documentation Engine",
+        "synopsis": "man_cmd_4656 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4656.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4656 --help", "man_cmd_4656 -v /var/log"]
+    },
+    "man_cmd_4657": {
+        "name": "man_cmd_4657",
+        "summary": "POSIX System Utility #4657 Python Documentation Engine",
+        "synopsis": "man_cmd_4657 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4657.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4657 --help", "man_cmd_4657 -v /var/log"]
+    },
+    "man_cmd_4658": {
+        "name": "man_cmd_4658",
+        "summary": "POSIX System Utility #4658 Python Documentation Engine",
+        "synopsis": "man_cmd_4658 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4658.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4658 --help", "man_cmd_4658 -v /var/log"]
+    },
+    "man_cmd_4659": {
+        "name": "man_cmd_4659",
+        "summary": "POSIX System Utility #4659 Python Documentation Engine",
+        "synopsis": "man_cmd_4659 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4659.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4659 --help", "man_cmd_4659 -v /var/log"]
+    },
+    "man_cmd_4660": {
+        "name": "man_cmd_4660",
+        "summary": "POSIX System Utility #4660 Python Documentation Engine",
+        "synopsis": "man_cmd_4660 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4660.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4660 --help", "man_cmd_4660 -v /var/log"]
+    },
+    "man_cmd_4661": {
+        "name": "man_cmd_4661",
+        "summary": "POSIX System Utility #4661 Python Documentation Engine",
+        "synopsis": "man_cmd_4661 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4661.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4661 --help", "man_cmd_4661 -v /var/log"]
+    },
+    "man_cmd_4662": {
+        "name": "man_cmd_4662",
+        "summary": "POSIX System Utility #4662 Python Documentation Engine",
+        "synopsis": "man_cmd_4662 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4662.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4662 --help", "man_cmd_4662 -v /var/log"]
+    },
+    "man_cmd_4663": {
+        "name": "man_cmd_4663",
+        "summary": "POSIX System Utility #4663 Python Documentation Engine",
+        "synopsis": "man_cmd_4663 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4663.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4663 --help", "man_cmd_4663 -v /var/log"]
+    },
+    "man_cmd_4664": {
+        "name": "man_cmd_4664",
+        "summary": "POSIX System Utility #4664 Python Documentation Engine",
+        "synopsis": "man_cmd_4664 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4664.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4664 --help", "man_cmd_4664 -v /var/log"]
+    },
+    "man_cmd_4665": {
+        "name": "man_cmd_4665",
+        "summary": "POSIX System Utility #4665 Python Documentation Engine",
+        "synopsis": "man_cmd_4665 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4665.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4665 --help", "man_cmd_4665 -v /var/log"]
+    },
+    "man_cmd_4666": {
+        "name": "man_cmd_4666",
+        "summary": "POSIX System Utility #4666 Python Documentation Engine",
+        "synopsis": "man_cmd_4666 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4666.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4666 --help", "man_cmd_4666 -v /var/log"]
+    },
+    "man_cmd_4667": {
+        "name": "man_cmd_4667",
+        "summary": "POSIX System Utility #4667 Python Documentation Engine",
+        "synopsis": "man_cmd_4667 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4667.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4667 --help", "man_cmd_4667 -v /var/log"]
+    },
+    "man_cmd_4668": {
+        "name": "man_cmd_4668",
+        "summary": "POSIX System Utility #4668 Python Documentation Engine",
+        "synopsis": "man_cmd_4668 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4668.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4668 --help", "man_cmd_4668 -v /var/log"]
+    },
+    "man_cmd_4669": {
+        "name": "man_cmd_4669",
+        "summary": "POSIX System Utility #4669 Python Documentation Engine",
+        "synopsis": "man_cmd_4669 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4669.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4669 --help", "man_cmd_4669 -v /var/log"]
+    },
+    "man_cmd_4670": {
+        "name": "man_cmd_4670",
+        "summary": "POSIX System Utility #4670 Python Documentation Engine",
+        "synopsis": "man_cmd_4670 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4670.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4670 --help", "man_cmd_4670 -v /var/log"]
+    },
+    "man_cmd_4671": {
+        "name": "man_cmd_4671",
+        "summary": "POSIX System Utility #4671 Python Documentation Engine",
+        "synopsis": "man_cmd_4671 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4671.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4671 --help", "man_cmd_4671 -v /var/log"]
+    },
+    "man_cmd_4672": {
+        "name": "man_cmd_4672",
+        "summary": "POSIX System Utility #4672 Python Documentation Engine",
+        "synopsis": "man_cmd_4672 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4672.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4672 --help", "man_cmd_4672 -v /var/log"]
+    },
+    "man_cmd_4673": {
+        "name": "man_cmd_4673",
+        "summary": "POSIX System Utility #4673 Python Documentation Engine",
+        "synopsis": "man_cmd_4673 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4673.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4673 --help", "man_cmd_4673 -v /var/log"]
+    },
+    "man_cmd_4674": {
+        "name": "man_cmd_4674",
+        "summary": "POSIX System Utility #4674 Python Documentation Engine",
+        "synopsis": "man_cmd_4674 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4674.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4674 --help", "man_cmd_4674 -v /var/log"]
+    },
+    "man_cmd_4675": {
+        "name": "man_cmd_4675",
+        "summary": "POSIX System Utility #4675 Python Documentation Engine",
+        "synopsis": "man_cmd_4675 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4675.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4675 --help", "man_cmd_4675 -v /var/log"]
+    },
+    "man_cmd_4676": {
+        "name": "man_cmd_4676",
+        "summary": "POSIX System Utility #4676 Python Documentation Engine",
+        "synopsis": "man_cmd_4676 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4676.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4676 --help", "man_cmd_4676 -v /var/log"]
+    },
+    "man_cmd_4677": {
+        "name": "man_cmd_4677",
+        "summary": "POSIX System Utility #4677 Python Documentation Engine",
+        "synopsis": "man_cmd_4677 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4677.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4677 --help", "man_cmd_4677 -v /var/log"]
+    },
+    "man_cmd_4678": {
+        "name": "man_cmd_4678",
+        "summary": "POSIX System Utility #4678 Python Documentation Engine",
+        "synopsis": "man_cmd_4678 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4678.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4678 --help", "man_cmd_4678 -v /var/log"]
+    },
+    "man_cmd_4679": {
+        "name": "man_cmd_4679",
+        "summary": "POSIX System Utility #4679 Python Documentation Engine",
+        "synopsis": "man_cmd_4679 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4679.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4679 --help", "man_cmd_4679 -v /var/log"]
+    },
+    "man_cmd_4680": {
+        "name": "man_cmd_4680",
+        "summary": "POSIX System Utility #4680 Python Documentation Engine",
+        "synopsis": "man_cmd_4680 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4680.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4680 --help", "man_cmd_4680 -v /var/log"]
+    },
+    "man_cmd_4681": {
+        "name": "man_cmd_4681",
+        "summary": "POSIX System Utility #4681 Python Documentation Engine",
+        "synopsis": "man_cmd_4681 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4681.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4681 --help", "man_cmd_4681 -v /var/log"]
+    },
+    "man_cmd_4682": {
+        "name": "man_cmd_4682",
+        "summary": "POSIX System Utility #4682 Python Documentation Engine",
+        "synopsis": "man_cmd_4682 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4682.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4682 --help", "man_cmd_4682 -v /var/log"]
+    },
+    "man_cmd_4683": {
+        "name": "man_cmd_4683",
+        "summary": "POSIX System Utility #4683 Python Documentation Engine",
+        "synopsis": "man_cmd_4683 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4683.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4683 --help", "man_cmd_4683 -v /var/log"]
+    },
+    "man_cmd_4684": {
+        "name": "man_cmd_4684",
+        "summary": "POSIX System Utility #4684 Python Documentation Engine",
+        "synopsis": "man_cmd_4684 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4684.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4684 --help", "man_cmd_4684 -v /var/log"]
+    },
+    "man_cmd_4685": {
+        "name": "man_cmd_4685",
+        "summary": "POSIX System Utility #4685 Python Documentation Engine",
+        "synopsis": "man_cmd_4685 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4685.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4685 --help", "man_cmd_4685 -v /var/log"]
+    },
+    "man_cmd_4686": {
+        "name": "man_cmd_4686",
+        "summary": "POSIX System Utility #4686 Python Documentation Engine",
+        "synopsis": "man_cmd_4686 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4686.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4686 --help", "man_cmd_4686 -v /var/log"]
+    },
+    "man_cmd_4687": {
+        "name": "man_cmd_4687",
+        "summary": "POSIX System Utility #4687 Python Documentation Engine",
+        "synopsis": "man_cmd_4687 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4687.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4687 --help", "man_cmd_4687 -v /var/log"]
+    },
+    "man_cmd_4688": {
+        "name": "man_cmd_4688",
+        "summary": "POSIX System Utility #4688 Python Documentation Engine",
+        "synopsis": "man_cmd_4688 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4688.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4688 --help", "man_cmd_4688 -v /var/log"]
+    },
+    "man_cmd_4689": {
+        "name": "man_cmd_4689",
+        "summary": "POSIX System Utility #4689 Python Documentation Engine",
+        "synopsis": "man_cmd_4689 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4689.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4689 --help", "man_cmd_4689 -v /var/log"]
+    },
+    "man_cmd_4690": {
+        "name": "man_cmd_4690",
+        "summary": "POSIX System Utility #4690 Python Documentation Engine",
+        "synopsis": "man_cmd_4690 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4690.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4690 --help", "man_cmd_4690 -v /var/log"]
+    },
+    "man_cmd_4691": {
+        "name": "man_cmd_4691",
+        "summary": "POSIX System Utility #4691 Python Documentation Engine",
+        "synopsis": "man_cmd_4691 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4691.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4691 --help", "man_cmd_4691 -v /var/log"]
+    },
+    "man_cmd_4692": {
+        "name": "man_cmd_4692",
+        "summary": "POSIX System Utility #4692 Python Documentation Engine",
+        "synopsis": "man_cmd_4692 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4692.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4692 --help", "man_cmd_4692 -v /var/log"]
+    },
+    "man_cmd_4693": {
+        "name": "man_cmd_4693",
+        "summary": "POSIX System Utility #4693 Python Documentation Engine",
+        "synopsis": "man_cmd_4693 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4693.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4693 --help", "man_cmd_4693 -v /var/log"]
+    },
+    "man_cmd_4694": {
+        "name": "man_cmd_4694",
+        "summary": "POSIX System Utility #4694 Python Documentation Engine",
+        "synopsis": "man_cmd_4694 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4694.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4694 --help", "man_cmd_4694 -v /var/log"]
+    },
+    "man_cmd_4695": {
+        "name": "man_cmd_4695",
+        "summary": "POSIX System Utility #4695 Python Documentation Engine",
+        "synopsis": "man_cmd_4695 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4695.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4695 --help", "man_cmd_4695 -v /var/log"]
+    },
+    "man_cmd_4696": {
+        "name": "man_cmd_4696",
+        "summary": "POSIX System Utility #4696 Python Documentation Engine",
+        "synopsis": "man_cmd_4696 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4696.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4696 --help", "man_cmd_4696 -v /var/log"]
+    },
+    "man_cmd_4697": {
+        "name": "man_cmd_4697",
+        "summary": "POSIX System Utility #4697 Python Documentation Engine",
+        "synopsis": "man_cmd_4697 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4697.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4697 --help", "man_cmd_4697 -v /var/log"]
+    },
+    "man_cmd_4698": {
+        "name": "man_cmd_4698",
+        "summary": "POSIX System Utility #4698 Python Documentation Engine",
+        "synopsis": "man_cmd_4698 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4698.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4698 --help", "man_cmd_4698 -v /var/log"]
+    },
+    "man_cmd_4699": {
+        "name": "man_cmd_4699",
+        "summary": "POSIX System Utility #4699 Python Documentation Engine",
+        "synopsis": "man_cmd_4699 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4699.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4699 --help", "man_cmd_4699 -v /var/log"]
+    },
+    "man_cmd_4700": {
+        "name": "man_cmd_4700",
+        "summary": "POSIX System Utility #4700 Python Documentation Engine",
+        "synopsis": "man_cmd_4700 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4700.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4700 --help", "man_cmd_4700 -v /var/log"]
+    },
+    "man_cmd_4701": {
+        "name": "man_cmd_4701",
+        "summary": "POSIX System Utility #4701 Python Documentation Engine",
+        "synopsis": "man_cmd_4701 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4701.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4701 --help", "man_cmd_4701 -v /var/log"]
+    },
+    "man_cmd_4702": {
+        "name": "man_cmd_4702",
+        "summary": "POSIX System Utility #4702 Python Documentation Engine",
+        "synopsis": "man_cmd_4702 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4702.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4702 --help", "man_cmd_4702 -v /var/log"]
+    },
+    "man_cmd_4703": {
+        "name": "man_cmd_4703",
+        "summary": "POSIX System Utility #4703 Python Documentation Engine",
+        "synopsis": "man_cmd_4703 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4703.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4703 --help", "man_cmd_4703 -v /var/log"]
+    },
+    "man_cmd_4704": {
+        "name": "man_cmd_4704",
+        "summary": "POSIX System Utility #4704 Python Documentation Engine",
+        "synopsis": "man_cmd_4704 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4704.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4704 --help", "man_cmd_4704 -v /var/log"]
+    },
+    "man_cmd_4705": {
+        "name": "man_cmd_4705",
+        "summary": "POSIX System Utility #4705 Python Documentation Engine",
+        "synopsis": "man_cmd_4705 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4705.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4705 --help", "man_cmd_4705 -v /var/log"]
+    },
+    "man_cmd_4706": {
+        "name": "man_cmd_4706",
+        "summary": "POSIX System Utility #4706 Python Documentation Engine",
+        "synopsis": "man_cmd_4706 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4706.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4706 --help", "man_cmd_4706 -v /var/log"]
+    },
+    "man_cmd_4707": {
+        "name": "man_cmd_4707",
+        "summary": "POSIX System Utility #4707 Python Documentation Engine",
+        "synopsis": "man_cmd_4707 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4707.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4707 --help", "man_cmd_4707 -v /var/log"]
+    },
+    "man_cmd_4708": {
+        "name": "man_cmd_4708",
+        "summary": "POSIX System Utility #4708 Python Documentation Engine",
+        "synopsis": "man_cmd_4708 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4708.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4708 --help", "man_cmd_4708 -v /var/log"]
+    },
+    "man_cmd_4709": {
+        "name": "man_cmd_4709",
+        "summary": "POSIX System Utility #4709 Python Documentation Engine",
+        "synopsis": "man_cmd_4709 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4709.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4709 --help", "man_cmd_4709 -v /var/log"]
+    },
+    "man_cmd_4710": {
+        "name": "man_cmd_4710",
+        "summary": "POSIX System Utility #4710 Python Documentation Engine",
+        "synopsis": "man_cmd_4710 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4710.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4710 --help", "man_cmd_4710 -v /var/log"]
+    },
+    "man_cmd_4711": {
+        "name": "man_cmd_4711",
+        "summary": "POSIX System Utility #4711 Python Documentation Engine",
+        "synopsis": "man_cmd_4711 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4711.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4711 --help", "man_cmd_4711 -v /var/log"]
+    },
+    "man_cmd_4712": {
+        "name": "man_cmd_4712",
+        "summary": "POSIX System Utility #4712 Python Documentation Engine",
+        "synopsis": "man_cmd_4712 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4712.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4712 --help", "man_cmd_4712 -v /var/log"]
+    },
+    "man_cmd_4713": {
+        "name": "man_cmd_4713",
+        "summary": "POSIX System Utility #4713 Python Documentation Engine",
+        "synopsis": "man_cmd_4713 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4713.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4713 --help", "man_cmd_4713 -v /var/log"]
+    },
+    "man_cmd_4714": {
+        "name": "man_cmd_4714",
+        "summary": "POSIX System Utility #4714 Python Documentation Engine",
+        "synopsis": "man_cmd_4714 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4714.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4714 --help", "man_cmd_4714 -v /var/log"]
+    },
+    "man_cmd_4715": {
+        "name": "man_cmd_4715",
+        "summary": "POSIX System Utility #4715 Python Documentation Engine",
+        "synopsis": "man_cmd_4715 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4715.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4715 --help", "man_cmd_4715 -v /var/log"]
+    },
+    "man_cmd_4716": {
+        "name": "man_cmd_4716",
+        "summary": "POSIX System Utility #4716 Python Documentation Engine",
+        "synopsis": "man_cmd_4716 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4716.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4716 --help", "man_cmd_4716 -v /var/log"]
+    },
+    "man_cmd_4717": {
+        "name": "man_cmd_4717",
+        "summary": "POSIX System Utility #4717 Python Documentation Engine",
+        "synopsis": "man_cmd_4717 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4717.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4717 --help", "man_cmd_4717 -v /var/log"]
+    },
+    "man_cmd_4718": {
+        "name": "man_cmd_4718",
+        "summary": "POSIX System Utility #4718 Python Documentation Engine",
+        "synopsis": "man_cmd_4718 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4718.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4718 --help", "man_cmd_4718 -v /var/log"]
+    },
+    "man_cmd_4719": {
+        "name": "man_cmd_4719",
+        "summary": "POSIX System Utility #4719 Python Documentation Engine",
+        "synopsis": "man_cmd_4719 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4719.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4719 --help", "man_cmd_4719 -v /var/log"]
+    },
+    "man_cmd_4720": {
+        "name": "man_cmd_4720",
+        "summary": "POSIX System Utility #4720 Python Documentation Engine",
+        "synopsis": "man_cmd_4720 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4720.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4720 --help", "man_cmd_4720 -v /var/log"]
+    },
+    "man_cmd_4721": {
+        "name": "man_cmd_4721",
+        "summary": "POSIX System Utility #4721 Python Documentation Engine",
+        "synopsis": "man_cmd_4721 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4721.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4721 --help", "man_cmd_4721 -v /var/log"]
+    },
+    "man_cmd_4722": {
+        "name": "man_cmd_4722",
+        "summary": "POSIX System Utility #4722 Python Documentation Engine",
+        "synopsis": "man_cmd_4722 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4722.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4722 --help", "man_cmd_4722 -v /var/log"]
+    },
+    "man_cmd_4723": {
+        "name": "man_cmd_4723",
+        "summary": "POSIX System Utility #4723 Python Documentation Engine",
+        "synopsis": "man_cmd_4723 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4723.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4723 --help", "man_cmd_4723 -v /var/log"]
+    },
+    "man_cmd_4724": {
+        "name": "man_cmd_4724",
+        "summary": "POSIX System Utility #4724 Python Documentation Engine",
+        "synopsis": "man_cmd_4724 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4724.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4724 --help", "man_cmd_4724 -v /var/log"]
+    },
+    "man_cmd_4725": {
+        "name": "man_cmd_4725",
+        "summary": "POSIX System Utility #4725 Python Documentation Engine",
+        "synopsis": "man_cmd_4725 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4725.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4725 --help", "man_cmd_4725 -v /var/log"]
+    },
+    "man_cmd_4726": {
+        "name": "man_cmd_4726",
+        "summary": "POSIX System Utility #4726 Python Documentation Engine",
+        "synopsis": "man_cmd_4726 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4726.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4726 --help", "man_cmd_4726 -v /var/log"]
+    },
+    "man_cmd_4727": {
+        "name": "man_cmd_4727",
+        "summary": "POSIX System Utility #4727 Python Documentation Engine",
+        "synopsis": "man_cmd_4727 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4727.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4727 --help", "man_cmd_4727 -v /var/log"]
+    },
+    "man_cmd_4728": {
+        "name": "man_cmd_4728",
+        "summary": "POSIX System Utility #4728 Python Documentation Engine",
+        "synopsis": "man_cmd_4728 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4728.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4728 --help", "man_cmd_4728 -v /var/log"]
+    },
+    "man_cmd_4729": {
+        "name": "man_cmd_4729",
+        "summary": "POSIX System Utility #4729 Python Documentation Engine",
+        "synopsis": "man_cmd_4729 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4729.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4729 --help", "man_cmd_4729 -v /var/log"]
+    },
+    "man_cmd_4730": {
+        "name": "man_cmd_4730",
+        "summary": "POSIX System Utility #4730 Python Documentation Engine",
+        "synopsis": "man_cmd_4730 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4730.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4730 --help", "man_cmd_4730 -v /var/log"]
+    },
+    "man_cmd_4731": {
+        "name": "man_cmd_4731",
+        "summary": "POSIX System Utility #4731 Python Documentation Engine",
+        "synopsis": "man_cmd_4731 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4731.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4731 --help", "man_cmd_4731 -v /var/log"]
+    },
+    "man_cmd_4732": {
+        "name": "man_cmd_4732",
+        "summary": "POSIX System Utility #4732 Python Documentation Engine",
+        "synopsis": "man_cmd_4732 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4732.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4732 --help", "man_cmd_4732 -v /var/log"]
+    },
+    "man_cmd_4733": {
+        "name": "man_cmd_4733",
+        "summary": "POSIX System Utility #4733 Python Documentation Engine",
+        "synopsis": "man_cmd_4733 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4733.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4733 --help", "man_cmd_4733 -v /var/log"]
+    },
+    "man_cmd_4734": {
+        "name": "man_cmd_4734",
+        "summary": "POSIX System Utility #4734 Python Documentation Engine",
+        "synopsis": "man_cmd_4734 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4734.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4734 --help", "man_cmd_4734 -v /var/log"]
+    },
+    "man_cmd_4735": {
+        "name": "man_cmd_4735",
+        "summary": "POSIX System Utility #4735 Python Documentation Engine",
+        "synopsis": "man_cmd_4735 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4735.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4735 --help", "man_cmd_4735 -v /var/log"]
+    },
+    "man_cmd_4736": {
+        "name": "man_cmd_4736",
+        "summary": "POSIX System Utility #4736 Python Documentation Engine",
+        "synopsis": "man_cmd_4736 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4736.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4736 --help", "man_cmd_4736 -v /var/log"]
+    },
+    "man_cmd_4737": {
+        "name": "man_cmd_4737",
+        "summary": "POSIX System Utility #4737 Python Documentation Engine",
+        "synopsis": "man_cmd_4737 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4737.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4737 --help", "man_cmd_4737 -v /var/log"]
+    },
+    "man_cmd_4738": {
+        "name": "man_cmd_4738",
+        "summary": "POSIX System Utility #4738 Python Documentation Engine",
+        "synopsis": "man_cmd_4738 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4738.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4738 --help", "man_cmd_4738 -v /var/log"]
+    },
+    "man_cmd_4739": {
+        "name": "man_cmd_4739",
+        "summary": "POSIX System Utility #4739 Python Documentation Engine",
+        "synopsis": "man_cmd_4739 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4739.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4739 --help", "man_cmd_4739 -v /var/log"]
+    },
+    "man_cmd_4740": {
+        "name": "man_cmd_4740",
+        "summary": "POSIX System Utility #4740 Python Documentation Engine",
+        "synopsis": "man_cmd_4740 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4740.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4740 --help", "man_cmd_4740 -v /var/log"]
+    },
+    "man_cmd_4741": {
+        "name": "man_cmd_4741",
+        "summary": "POSIX System Utility #4741 Python Documentation Engine",
+        "synopsis": "man_cmd_4741 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4741.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4741 --help", "man_cmd_4741 -v /var/log"]
+    },
+    "man_cmd_4742": {
+        "name": "man_cmd_4742",
+        "summary": "POSIX System Utility #4742 Python Documentation Engine",
+        "synopsis": "man_cmd_4742 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4742.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4742 --help", "man_cmd_4742 -v /var/log"]
+    },
+    "man_cmd_4743": {
+        "name": "man_cmd_4743",
+        "summary": "POSIX System Utility #4743 Python Documentation Engine",
+        "synopsis": "man_cmd_4743 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4743.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4743 --help", "man_cmd_4743 -v /var/log"]
+    },
+    "man_cmd_4744": {
+        "name": "man_cmd_4744",
+        "summary": "POSIX System Utility #4744 Python Documentation Engine",
+        "synopsis": "man_cmd_4744 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4744.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4744 --help", "man_cmd_4744 -v /var/log"]
+    },
+    "man_cmd_4745": {
+        "name": "man_cmd_4745",
+        "summary": "POSIX System Utility #4745 Python Documentation Engine",
+        "synopsis": "man_cmd_4745 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4745.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4745 --help", "man_cmd_4745 -v /var/log"]
+    },
+    "man_cmd_4746": {
+        "name": "man_cmd_4746",
+        "summary": "POSIX System Utility #4746 Python Documentation Engine",
+        "synopsis": "man_cmd_4746 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4746.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4746 --help", "man_cmd_4746 -v /var/log"]
+    },
+    "man_cmd_4747": {
+        "name": "man_cmd_4747",
+        "summary": "POSIX System Utility #4747 Python Documentation Engine",
+        "synopsis": "man_cmd_4747 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4747.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4747 --help", "man_cmd_4747 -v /var/log"]
+    },
+    "man_cmd_4748": {
+        "name": "man_cmd_4748",
+        "summary": "POSIX System Utility #4748 Python Documentation Engine",
+        "synopsis": "man_cmd_4748 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4748.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4748 --help", "man_cmd_4748 -v /var/log"]
+    },
+    "man_cmd_4749": {
+        "name": "man_cmd_4749",
+        "summary": "POSIX System Utility #4749 Python Documentation Engine",
+        "synopsis": "man_cmd_4749 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4749.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4749 --help", "man_cmd_4749 -v /var/log"]
+    },
+    "man_cmd_4750": {
+        "name": "man_cmd_4750",
+        "summary": "POSIX System Utility #4750 Python Documentation Engine",
+        "synopsis": "man_cmd_4750 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4750.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4750 --help", "man_cmd_4750 -v /var/log"]
+    },
+    "man_cmd_4751": {
+        "name": "man_cmd_4751",
+        "summary": "POSIX System Utility #4751 Python Documentation Engine",
+        "synopsis": "man_cmd_4751 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4751.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4751 --help", "man_cmd_4751 -v /var/log"]
+    },
+    "man_cmd_4752": {
+        "name": "man_cmd_4752",
+        "summary": "POSIX System Utility #4752 Python Documentation Engine",
+        "synopsis": "man_cmd_4752 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4752.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4752 --help", "man_cmd_4752 -v /var/log"]
+    },
+    "man_cmd_4753": {
+        "name": "man_cmd_4753",
+        "summary": "POSIX System Utility #4753 Python Documentation Engine",
+        "synopsis": "man_cmd_4753 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4753.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4753 --help", "man_cmd_4753 -v /var/log"]
+    },
+    "man_cmd_4754": {
+        "name": "man_cmd_4754",
+        "summary": "POSIX System Utility #4754 Python Documentation Engine",
+        "synopsis": "man_cmd_4754 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4754.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4754 --help", "man_cmd_4754 -v /var/log"]
+    },
+    "man_cmd_4755": {
+        "name": "man_cmd_4755",
+        "summary": "POSIX System Utility #4755 Python Documentation Engine",
+        "synopsis": "man_cmd_4755 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4755.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4755 --help", "man_cmd_4755 -v /var/log"]
+    },
+    "man_cmd_4756": {
+        "name": "man_cmd_4756",
+        "summary": "POSIX System Utility #4756 Python Documentation Engine",
+        "synopsis": "man_cmd_4756 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4756.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4756 --help", "man_cmd_4756 -v /var/log"]
+    },
+    "man_cmd_4757": {
+        "name": "man_cmd_4757",
+        "summary": "POSIX System Utility #4757 Python Documentation Engine",
+        "synopsis": "man_cmd_4757 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4757.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4757 --help", "man_cmd_4757 -v /var/log"]
+    },
+    "man_cmd_4758": {
+        "name": "man_cmd_4758",
+        "summary": "POSIX System Utility #4758 Python Documentation Engine",
+        "synopsis": "man_cmd_4758 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4758.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4758 --help", "man_cmd_4758 -v /var/log"]
+    },
+    "man_cmd_4759": {
+        "name": "man_cmd_4759",
+        "summary": "POSIX System Utility #4759 Python Documentation Engine",
+        "synopsis": "man_cmd_4759 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4759.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4759 --help", "man_cmd_4759 -v /var/log"]
+    },
+    "man_cmd_4760": {
+        "name": "man_cmd_4760",
+        "summary": "POSIX System Utility #4760 Python Documentation Engine",
+        "synopsis": "man_cmd_4760 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4760.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4760 --help", "man_cmd_4760 -v /var/log"]
+    },
+    "man_cmd_4761": {
+        "name": "man_cmd_4761",
+        "summary": "POSIX System Utility #4761 Python Documentation Engine",
+        "synopsis": "man_cmd_4761 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4761.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4761 --help", "man_cmd_4761 -v /var/log"]
+    },
+    "man_cmd_4762": {
+        "name": "man_cmd_4762",
+        "summary": "POSIX System Utility #4762 Python Documentation Engine",
+        "synopsis": "man_cmd_4762 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4762.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4762 --help", "man_cmd_4762 -v /var/log"]
+    },
+    "man_cmd_4763": {
+        "name": "man_cmd_4763",
+        "summary": "POSIX System Utility #4763 Python Documentation Engine",
+        "synopsis": "man_cmd_4763 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4763.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4763 --help", "man_cmd_4763 -v /var/log"]
+    },
+    "man_cmd_4764": {
+        "name": "man_cmd_4764",
+        "summary": "POSIX System Utility #4764 Python Documentation Engine",
+        "synopsis": "man_cmd_4764 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4764.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4764 --help", "man_cmd_4764 -v /var/log"]
+    },
+    "man_cmd_4765": {
+        "name": "man_cmd_4765",
+        "summary": "POSIX System Utility #4765 Python Documentation Engine",
+        "synopsis": "man_cmd_4765 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4765.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4765 --help", "man_cmd_4765 -v /var/log"]
+    },
+    "man_cmd_4766": {
+        "name": "man_cmd_4766",
+        "summary": "POSIX System Utility #4766 Python Documentation Engine",
+        "synopsis": "man_cmd_4766 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4766.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4766 --help", "man_cmd_4766 -v /var/log"]
+    },
+    "man_cmd_4767": {
+        "name": "man_cmd_4767",
+        "summary": "POSIX System Utility #4767 Python Documentation Engine",
+        "synopsis": "man_cmd_4767 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4767.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4767 --help", "man_cmd_4767 -v /var/log"]
+    },
+    "man_cmd_4768": {
+        "name": "man_cmd_4768",
+        "summary": "POSIX System Utility #4768 Python Documentation Engine",
+        "synopsis": "man_cmd_4768 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4768.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4768 --help", "man_cmd_4768 -v /var/log"]
+    },
+    "man_cmd_4769": {
+        "name": "man_cmd_4769",
+        "summary": "POSIX System Utility #4769 Python Documentation Engine",
+        "synopsis": "man_cmd_4769 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4769.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4769 --help", "man_cmd_4769 -v /var/log"]
+    },
+    "man_cmd_4770": {
+        "name": "man_cmd_4770",
+        "summary": "POSIX System Utility #4770 Python Documentation Engine",
+        "synopsis": "man_cmd_4770 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4770.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4770 --help", "man_cmd_4770 -v /var/log"]
+    },
+    "man_cmd_4771": {
+        "name": "man_cmd_4771",
+        "summary": "POSIX System Utility #4771 Python Documentation Engine",
+        "synopsis": "man_cmd_4771 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4771.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4771 --help", "man_cmd_4771 -v /var/log"]
+    },
+    "man_cmd_4772": {
+        "name": "man_cmd_4772",
+        "summary": "POSIX System Utility #4772 Python Documentation Engine",
+        "synopsis": "man_cmd_4772 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4772.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4772 --help", "man_cmd_4772 -v /var/log"]
+    },
+    "man_cmd_4773": {
+        "name": "man_cmd_4773",
+        "summary": "POSIX System Utility #4773 Python Documentation Engine",
+        "synopsis": "man_cmd_4773 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4773.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4773 --help", "man_cmd_4773 -v /var/log"]
+    },
+    "man_cmd_4774": {
+        "name": "man_cmd_4774",
+        "summary": "POSIX System Utility #4774 Python Documentation Engine",
+        "synopsis": "man_cmd_4774 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4774.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4774 --help", "man_cmd_4774 -v /var/log"]
+    },
+    "man_cmd_4775": {
+        "name": "man_cmd_4775",
+        "summary": "POSIX System Utility #4775 Python Documentation Engine",
+        "synopsis": "man_cmd_4775 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4775.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4775 --help", "man_cmd_4775 -v /var/log"]
+    },
+    "man_cmd_4776": {
+        "name": "man_cmd_4776",
+        "summary": "POSIX System Utility #4776 Python Documentation Engine",
+        "synopsis": "man_cmd_4776 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4776.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4776 --help", "man_cmd_4776 -v /var/log"]
+    },
+    "man_cmd_4777": {
+        "name": "man_cmd_4777",
+        "summary": "POSIX System Utility #4777 Python Documentation Engine",
+        "synopsis": "man_cmd_4777 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4777.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4777 --help", "man_cmd_4777 -v /var/log"]
+    },
+    "man_cmd_4778": {
+        "name": "man_cmd_4778",
+        "summary": "POSIX System Utility #4778 Python Documentation Engine",
+        "synopsis": "man_cmd_4778 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4778.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4778 --help", "man_cmd_4778 -v /var/log"]
+    },
+    "man_cmd_4779": {
+        "name": "man_cmd_4779",
+        "summary": "POSIX System Utility #4779 Python Documentation Engine",
+        "synopsis": "man_cmd_4779 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4779.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4779 --help", "man_cmd_4779 -v /var/log"]
+    },
+    "man_cmd_4780": {
+        "name": "man_cmd_4780",
+        "summary": "POSIX System Utility #4780 Python Documentation Engine",
+        "synopsis": "man_cmd_4780 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4780.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4780 --help", "man_cmd_4780 -v /var/log"]
+    },
+    "man_cmd_4781": {
+        "name": "man_cmd_4781",
+        "summary": "POSIX System Utility #4781 Python Documentation Engine",
+        "synopsis": "man_cmd_4781 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4781.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4781 --help", "man_cmd_4781 -v /var/log"]
+    },
+    "man_cmd_4782": {
+        "name": "man_cmd_4782",
+        "summary": "POSIX System Utility #4782 Python Documentation Engine",
+        "synopsis": "man_cmd_4782 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4782.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4782 --help", "man_cmd_4782 -v /var/log"]
+    },
+    "man_cmd_4783": {
+        "name": "man_cmd_4783",
+        "summary": "POSIX System Utility #4783 Python Documentation Engine",
+        "synopsis": "man_cmd_4783 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4783.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4783 --help", "man_cmd_4783 -v /var/log"]
+    },
+    "man_cmd_4784": {
+        "name": "man_cmd_4784",
+        "summary": "POSIX System Utility #4784 Python Documentation Engine",
+        "synopsis": "man_cmd_4784 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4784.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4784 --help", "man_cmd_4784 -v /var/log"]
+    },
+    "man_cmd_4785": {
+        "name": "man_cmd_4785",
+        "summary": "POSIX System Utility #4785 Python Documentation Engine",
+        "synopsis": "man_cmd_4785 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4785.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4785 --help", "man_cmd_4785 -v /var/log"]
+    },
+    "man_cmd_4786": {
+        "name": "man_cmd_4786",
+        "summary": "POSIX System Utility #4786 Python Documentation Engine",
+        "synopsis": "man_cmd_4786 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4786.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4786 --help", "man_cmd_4786 -v /var/log"]
+    },
+    "man_cmd_4787": {
+        "name": "man_cmd_4787",
+        "summary": "POSIX System Utility #4787 Python Documentation Engine",
+        "synopsis": "man_cmd_4787 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4787.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4787 --help", "man_cmd_4787 -v /var/log"]
+    },
+    "man_cmd_4788": {
+        "name": "man_cmd_4788",
+        "summary": "POSIX System Utility #4788 Python Documentation Engine",
+        "synopsis": "man_cmd_4788 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4788.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4788 --help", "man_cmd_4788 -v /var/log"]
+    },
+    "man_cmd_4789": {
+        "name": "man_cmd_4789",
+        "summary": "POSIX System Utility #4789 Python Documentation Engine",
+        "synopsis": "man_cmd_4789 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4789.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4789 --help", "man_cmd_4789 -v /var/log"]
+    },
+    "man_cmd_4790": {
+        "name": "man_cmd_4790",
+        "summary": "POSIX System Utility #4790 Python Documentation Engine",
+        "synopsis": "man_cmd_4790 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4790.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4790 --help", "man_cmd_4790 -v /var/log"]
+    },
+    "man_cmd_4791": {
+        "name": "man_cmd_4791",
+        "summary": "POSIX System Utility #4791 Python Documentation Engine",
+        "synopsis": "man_cmd_4791 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4791.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4791 --help", "man_cmd_4791 -v /var/log"]
+    },
+    "man_cmd_4792": {
+        "name": "man_cmd_4792",
+        "summary": "POSIX System Utility #4792 Python Documentation Engine",
+        "synopsis": "man_cmd_4792 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4792.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4792 --help", "man_cmd_4792 -v /var/log"]
+    },
+    "man_cmd_4793": {
+        "name": "man_cmd_4793",
+        "summary": "POSIX System Utility #4793 Python Documentation Engine",
+        "synopsis": "man_cmd_4793 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4793.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4793 --help", "man_cmd_4793 -v /var/log"]
+    },
+    "man_cmd_4794": {
+        "name": "man_cmd_4794",
+        "summary": "POSIX System Utility #4794 Python Documentation Engine",
+        "synopsis": "man_cmd_4794 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4794.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4794 --help", "man_cmd_4794 -v /var/log"]
+    },
+    "man_cmd_4795": {
+        "name": "man_cmd_4795",
+        "summary": "POSIX System Utility #4795 Python Documentation Engine",
+        "synopsis": "man_cmd_4795 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4795.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4795 --help", "man_cmd_4795 -v /var/log"]
+    },
+    "man_cmd_4796": {
+        "name": "man_cmd_4796",
+        "summary": "POSIX System Utility #4796 Python Documentation Engine",
+        "synopsis": "man_cmd_4796 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4796.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4796 --help", "man_cmd_4796 -v /var/log"]
+    },
+    "man_cmd_4797": {
+        "name": "man_cmd_4797",
+        "summary": "POSIX System Utility #4797 Python Documentation Engine",
+        "synopsis": "man_cmd_4797 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4797.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4797 --help", "man_cmd_4797 -v /var/log"]
+    },
+    "man_cmd_4798": {
+        "name": "man_cmd_4798",
+        "summary": "POSIX System Utility #4798 Python Documentation Engine",
+        "synopsis": "man_cmd_4798 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4798.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4798 --help", "man_cmd_4798 -v /var/log"]
+    },
+    "man_cmd_4799": {
+        "name": "man_cmd_4799",
+        "summary": "POSIX System Utility #4799 Python Documentation Engine",
+        "synopsis": "man_cmd_4799 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4799.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4799 --help", "man_cmd_4799 -v /var/log"]
+    },
+    "man_cmd_4800": {
+        "name": "man_cmd_4800",
+        "summary": "POSIX System Utility #4800 Python Documentation Engine",
+        "synopsis": "man_cmd_4800 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4800.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4800 --help", "man_cmd_4800 -v /var/log"]
+    },
+    "man_cmd_4801": {
+        "name": "man_cmd_4801",
+        "summary": "POSIX System Utility #4801 Python Documentation Engine",
+        "synopsis": "man_cmd_4801 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4801.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4801 --help", "man_cmd_4801 -v /var/log"]
+    },
+    "man_cmd_4802": {
+        "name": "man_cmd_4802",
+        "summary": "POSIX System Utility #4802 Python Documentation Engine",
+        "synopsis": "man_cmd_4802 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4802.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4802 --help", "man_cmd_4802 -v /var/log"]
+    },
+    "man_cmd_4803": {
+        "name": "man_cmd_4803",
+        "summary": "POSIX System Utility #4803 Python Documentation Engine",
+        "synopsis": "man_cmd_4803 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4803.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4803 --help", "man_cmd_4803 -v /var/log"]
+    },
+    "man_cmd_4804": {
+        "name": "man_cmd_4804",
+        "summary": "POSIX System Utility #4804 Python Documentation Engine",
+        "synopsis": "man_cmd_4804 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4804.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4804 --help", "man_cmd_4804 -v /var/log"]
+    },
+    "man_cmd_4805": {
+        "name": "man_cmd_4805",
+        "summary": "POSIX System Utility #4805 Python Documentation Engine",
+        "synopsis": "man_cmd_4805 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4805.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4805 --help", "man_cmd_4805 -v /var/log"]
+    },
+    "man_cmd_4806": {
+        "name": "man_cmd_4806",
+        "summary": "POSIX System Utility #4806 Python Documentation Engine",
+        "synopsis": "man_cmd_4806 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4806.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4806 --help", "man_cmd_4806 -v /var/log"]
+    },
+    "man_cmd_4807": {
+        "name": "man_cmd_4807",
+        "summary": "POSIX System Utility #4807 Python Documentation Engine",
+        "synopsis": "man_cmd_4807 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4807.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4807 --help", "man_cmd_4807 -v /var/log"]
+    },
+    "man_cmd_4808": {
+        "name": "man_cmd_4808",
+        "summary": "POSIX System Utility #4808 Python Documentation Engine",
+        "synopsis": "man_cmd_4808 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4808.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4808 --help", "man_cmd_4808 -v /var/log"]
+    },
+    "man_cmd_4809": {
+        "name": "man_cmd_4809",
+        "summary": "POSIX System Utility #4809 Python Documentation Engine",
+        "synopsis": "man_cmd_4809 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4809.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4809 --help", "man_cmd_4809 -v /var/log"]
+    },
+    "man_cmd_4810": {
+        "name": "man_cmd_4810",
+        "summary": "POSIX System Utility #4810 Python Documentation Engine",
+        "synopsis": "man_cmd_4810 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4810.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4810 --help", "man_cmd_4810 -v /var/log"]
+    },
+    "man_cmd_4811": {
+        "name": "man_cmd_4811",
+        "summary": "POSIX System Utility #4811 Python Documentation Engine",
+        "synopsis": "man_cmd_4811 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4811.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4811 --help", "man_cmd_4811 -v /var/log"]
+    },
+    "man_cmd_4812": {
+        "name": "man_cmd_4812",
+        "summary": "POSIX System Utility #4812 Python Documentation Engine",
+        "synopsis": "man_cmd_4812 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4812.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4812 --help", "man_cmd_4812 -v /var/log"]
+    },
+    "man_cmd_4813": {
+        "name": "man_cmd_4813",
+        "summary": "POSIX System Utility #4813 Python Documentation Engine",
+        "synopsis": "man_cmd_4813 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4813.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4813 --help", "man_cmd_4813 -v /var/log"]
+    },
+    "man_cmd_4814": {
+        "name": "man_cmd_4814",
+        "summary": "POSIX System Utility #4814 Python Documentation Engine",
+        "synopsis": "man_cmd_4814 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4814.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4814 --help", "man_cmd_4814 -v /var/log"]
+    },
+    "man_cmd_4815": {
+        "name": "man_cmd_4815",
+        "summary": "POSIX System Utility #4815 Python Documentation Engine",
+        "synopsis": "man_cmd_4815 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4815.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4815 --help", "man_cmd_4815 -v /var/log"]
+    },
+    "man_cmd_4816": {
+        "name": "man_cmd_4816",
+        "summary": "POSIX System Utility #4816 Python Documentation Engine",
+        "synopsis": "man_cmd_4816 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4816.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4816 --help", "man_cmd_4816 -v /var/log"]
+    },
+    "man_cmd_4817": {
+        "name": "man_cmd_4817",
+        "summary": "POSIX System Utility #4817 Python Documentation Engine",
+        "synopsis": "man_cmd_4817 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4817.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4817 --help", "man_cmd_4817 -v /var/log"]
+    },
+    "man_cmd_4818": {
+        "name": "man_cmd_4818",
+        "summary": "POSIX System Utility #4818 Python Documentation Engine",
+        "synopsis": "man_cmd_4818 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4818.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4818 --help", "man_cmd_4818 -v /var/log"]
+    },
+    "man_cmd_4819": {
+        "name": "man_cmd_4819",
+        "summary": "POSIX System Utility #4819 Python Documentation Engine",
+        "synopsis": "man_cmd_4819 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4819.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4819 --help", "man_cmd_4819 -v /var/log"]
+    },
+    "man_cmd_4820": {
+        "name": "man_cmd_4820",
+        "summary": "POSIX System Utility #4820 Python Documentation Engine",
+        "synopsis": "man_cmd_4820 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4820.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4820 --help", "man_cmd_4820 -v /var/log"]
+    },
+    "man_cmd_4821": {
+        "name": "man_cmd_4821",
+        "summary": "POSIX System Utility #4821 Python Documentation Engine",
+        "synopsis": "man_cmd_4821 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4821.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4821 --help", "man_cmd_4821 -v /var/log"]
+    },
+    "man_cmd_4822": {
+        "name": "man_cmd_4822",
+        "summary": "POSIX System Utility #4822 Python Documentation Engine",
+        "synopsis": "man_cmd_4822 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4822.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4822 --help", "man_cmd_4822 -v /var/log"]
+    },
+    "man_cmd_4823": {
+        "name": "man_cmd_4823",
+        "summary": "POSIX System Utility #4823 Python Documentation Engine",
+        "synopsis": "man_cmd_4823 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4823.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4823 --help", "man_cmd_4823 -v /var/log"]
+    },
+    "man_cmd_4824": {
+        "name": "man_cmd_4824",
+        "summary": "POSIX System Utility #4824 Python Documentation Engine",
+        "synopsis": "man_cmd_4824 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4824.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4824 --help", "man_cmd_4824 -v /var/log"]
+    },
+    "man_cmd_4825": {
+        "name": "man_cmd_4825",
+        "summary": "POSIX System Utility #4825 Python Documentation Engine",
+        "synopsis": "man_cmd_4825 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4825.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4825 --help", "man_cmd_4825 -v /var/log"]
+    },
+    "man_cmd_4826": {
+        "name": "man_cmd_4826",
+        "summary": "POSIX System Utility #4826 Python Documentation Engine",
+        "synopsis": "man_cmd_4826 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4826.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4826 --help", "man_cmd_4826 -v /var/log"]
+    },
+    "man_cmd_4827": {
+        "name": "man_cmd_4827",
+        "summary": "POSIX System Utility #4827 Python Documentation Engine",
+        "synopsis": "man_cmd_4827 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4827.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4827 --help", "man_cmd_4827 -v /var/log"]
+    },
+    "man_cmd_4828": {
+        "name": "man_cmd_4828",
+        "summary": "POSIX System Utility #4828 Python Documentation Engine",
+        "synopsis": "man_cmd_4828 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4828.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4828 --help", "man_cmd_4828 -v /var/log"]
+    },
+    "man_cmd_4829": {
+        "name": "man_cmd_4829",
+        "summary": "POSIX System Utility #4829 Python Documentation Engine",
+        "synopsis": "man_cmd_4829 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4829.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4829 --help", "man_cmd_4829 -v /var/log"]
+    },
+    "man_cmd_4830": {
+        "name": "man_cmd_4830",
+        "summary": "POSIX System Utility #4830 Python Documentation Engine",
+        "synopsis": "man_cmd_4830 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4830.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4830 --help", "man_cmd_4830 -v /var/log"]
+    },
+    "man_cmd_4831": {
+        "name": "man_cmd_4831",
+        "summary": "POSIX System Utility #4831 Python Documentation Engine",
+        "synopsis": "man_cmd_4831 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4831.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4831 --help", "man_cmd_4831 -v /var/log"]
+    },
+    "man_cmd_4832": {
+        "name": "man_cmd_4832",
+        "summary": "POSIX System Utility #4832 Python Documentation Engine",
+        "synopsis": "man_cmd_4832 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4832.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4832 --help", "man_cmd_4832 -v /var/log"]
+    },
+    "man_cmd_4833": {
+        "name": "man_cmd_4833",
+        "summary": "POSIX System Utility #4833 Python Documentation Engine",
+        "synopsis": "man_cmd_4833 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4833.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4833 --help", "man_cmd_4833 -v /var/log"]
+    },
+    "man_cmd_4834": {
+        "name": "man_cmd_4834",
+        "summary": "POSIX System Utility #4834 Python Documentation Engine",
+        "synopsis": "man_cmd_4834 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4834.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4834 --help", "man_cmd_4834 -v /var/log"]
+    },
+    "man_cmd_4835": {
+        "name": "man_cmd_4835",
+        "summary": "POSIX System Utility #4835 Python Documentation Engine",
+        "synopsis": "man_cmd_4835 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4835.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4835 --help", "man_cmd_4835 -v /var/log"]
+    },
+    "man_cmd_4836": {
+        "name": "man_cmd_4836",
+        "summary": "POSIX System Utility #4836 Python Documentation Engine",
+        "synopsis": "man_cmd_4836 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4836.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4836 --help", "man_cmd_4836 -v /var/log"]
+    },
+    "man_cmd_4837": {
+        "name": "man_cmd_4837",
+        "summary": "POSIX System Utility #4837 Python Documentation Engine",
+        "synopsis": "man_cmd_4837 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4837.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4837 --help", "man_cmd_4837 -v /var/log"]
+    },
+    "man_cmd_4838": {
+        "name": "man_cmd_4838",
+        "summary": "POSIX System Utility #4838 Python Documentation Engine",
+        "synopsis": "man_cmd_4838 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4838.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4838 --help", "man_cmd_4838 -v /var/log"]
+    },
+    "man_cmd_4839": {
+        "name": "man_cmd_4839",
+        "summary": "POSIX System Utility #4839 Python Documentation Engine",
+        "synopsis": "man_cmd_4839 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4839.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4839 --help", "man_cmd_4839 -v /var/log"]
+    },
+    "man_cmd_4840": {
+        "name": "man_cmd_4840",
+        "summary": "POSIX System Utility #4840 Python Documentation Engine",
+        "synopsis": "man_cmd_4840 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4840.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4840 --help", "man_cmd_4840 -v /var/log"]
+    },
+    "man_cmd_4841": {
+        "name": "man_cmd_4841",
+        "summary": "POSIX System Utility #4841 Python Documentation Engine",
+        "synopsis": "man_cmd_4841 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4841.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4841 --help", "man_cmd_4841 -v /var/log"]
+    },
+    "man_cmd_4842": {
+        "name": "man_cmd_4842",
+        "summary": "POSIX System Utility #4842 Python Documentation Engine",
+        "synopsis": "man_cmd_4842 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4842.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4842 --help", "man_cmd_4842 -v /var/log"]
+    },
+    "man_cmd_4843": {
+        "name": "man_cmd_4843",
+        "summary": "POSIX System Utility #4843 Python Documentation Engine",
+        "synopsis": "man_cmd_4843 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4843.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4843 --help", "man_cmd_4843 -v /var/log"]
+    },
+    "man_cmd_4844": {
+        "name": "man_cmd_4844",
+        "summary": "POSIX System Utility #4844 Python Documentation Engine",
+        "synopsis": "man_cmd_4844 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4844.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4844 --help", "man_cmd_4844 -v /var/log"]
+    },
+    "man_cmd_4845": {
+        "name": "man_cmd_4845",
+        "summary": "POSIX System Utility #4845 Python Documentation Engine",
+        "synopsis": "man_cmd_4845 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4845.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4845 --help", "man_cmd_4845 -v /var/log"]
+    },
+    "man_cmd_4846": {
+        "name": "man_cmd_4846",
+        "summary": "POSIX System Utility #4846 Python Documentation Engine",
+        "synopsis": "man_cmd_4846 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4846.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4846 --help", "man_cmd_4846 -v /var/log"]
+    },
+    "man_cmd_4847": {
+        "name": "man_cmd_4847",
+        "summary": "POSIX System Utility #4847 Python Documentation Engine",
+        "synopsis": "man_cmd_4847 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4847.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4847 --help", "man_cmd_4847 -v /var/log"]
+    },
+    "man_cmd_4848": {
+        "name": "man_cmd_4848",
+        "summary": "POSIX System Utility #4848 Python Documentation Engine",
+        "synopsis": "man_cmd_4848 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4848.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4848 --help", "man_cmd_4848 -v /var/log"]
+    },
+    "man_cmd_4849": {
+        "name": "man_cmd_4849",
+        "summary": "POSIX System Utility #4849 Python Documentation Engine",
+        "synopsis": "man_cmd_4849 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4849.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4849 --help", "man_cmd_4849 -v /var/log"]
+    },
+    "man_cmd_4850": {
+        "name": "man_cmd_4850",
+        "summary": "POSIX System Utility #4850 Python Documentation Engine",
+        "synopsis": "man_cmd_4850 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4850.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4850 --help", "man_cmd_4850 -v /var/log"]
+    },
+    "man_cmd_4851": {
+        "name": "man_cmd_4851",
+        "summary": "POSIX System Utility #4851 Python Documentation Engine",
+        "synopsis": "man_cmd_4851 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4851.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4851 --help", "man_cmd_4851 -v /var/log"]
+    },
+    "man_cmd_4852": {
+        "name": "man_cmd_4852",
+        "summary": "POSIX System Utility #4852 Python Documentation Engine",
+        "synopsis": "man_cmd_4852 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4852.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4852 --help", "man_cmd_4852 -v /var/log"]
+    },
+    "man_cmd_4853": {
+        "name": "man_cmd_4853",
+        "summary": "POSIX System Utility #4853 Python Documentation Engine",
+        "synopsis": "man_cmd_4853 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4853.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4853 --help", "man_cmd_4853 -v /var/log"]
+    },
+    "man_cmd_4854": {
+        "name": "man_cmd_4854",
+        "summary": "POSIX System Utility #4854 Python Documentation Engine",
+        "synopsis": "man_cmd_4854 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4854.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4854 --help", "man_cmd_4854 -v /var/log"]
+    },
+    "man_cmd_4855": {
+        "name": "man_cmd_4855",
+        "summary": "POSIX System Utility #4855 Python Documentation Engine",
+        "synopsis": "man_cmd_4855 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4855.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4855 --help", "man_cmd_4855 -v /var/log"]
+    },
+    "man_cmd_4856": {
+        "name": "man_cmd_4856",
+        "summary": "POSIX System Utility #4856 Python Documentation Engine",
+        "synopsis": "man_cmd_4856 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4856.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4856 --help", "man_cmd_4856 -v /var/log"]
+    },
+    "man_cmd_4857": {
+        "name": "man_cmd_4857",
+        "summary": "POSIX System Utility #4857 Python Documentation Engine",
+        "synopsis": "man_cmd_4857 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4857.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4857 --help", "man_cmd_4857 -v /var/log"]
+    },
+    "man_cmd_4858": {
+        "name": "man_cmd_4858",
+        "summary": "POSIX System Utility #4858 Python Documentation Engine",
+        "synopsis": "man_cmd_4858 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4858.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4858 --help", "man_cmd_4858 -v /var/log"]
+    },
+    "man_cmd_4859": {
+        "name": "man_cmd_4859",
+        "summary": "POSIX System Utility #4859 Python Documentation Engine",
+        "synopsis": "man_cmd_4859 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4859.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4859 --help", "man_cmd_4859 -v /var/log"]
+    },
+    "man_cmd_4860": {
+        "name": "man_cmd_4860",
+        "summary": "POSIX System Utility #4860 Python Documentation Engine",
+        "synopsis": "man_cmd_4860 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4860.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4860 --help", "man_cmd_4860 -v /var/log"]
+    },
+    "man_cmd_4861": {
+        "name": "man_cmd_4861",
+        "summary": "POSIX System Utility #4861 Python Documentation Engine",
+        "synopsis": "man_cmd_4861 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4861.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4861 --help", "man_cmd_4861 -v /var/log"]
+    },
+    "man_cmd_4862": {
+        "name": "man_cmd_4862",
+        "summary": "POSIX System Utility #4862 Python Documentation Engine",
+        "synopsis": "man_cmd_4862 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4862.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4862 --help", "man_cmd_4862 -v /var/log"]
+    },
+    "man_cmd_4863": {
+        "name": "man_cmd_4863",
+        "summary": "POSIX System Utility #4863 Python Documentation Engine",
+        "synopsis": "man_cmd_4863 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4863.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4863 --help", "man_cmd_4863 -v /var/log"]
+    },
+    "man_cmd_4864": {
+        "name": "man_cmd_4864",
+        "summary": "POSIX System Utility #4864 Python Documentation Engine",
+        "synopsis": "man_cmd_4864 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4864.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4864 --help", "man_cmd_4864 -v /var/log"]
+    },
+    "man_cmd_4865": {
+        "name": "man_cmd_4865",
+        "summary": "POSIX System Utility #4865 Python Documentation Engine",
+        "synopsis": "man_cmd_4865 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4865.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4865 --help", "man_cmd_4865 -v /var/log"]
+    },
+    "man_cmd_4866": {
+        "name": "man_cmd_4866",
+        "summary": "POSIX System Utility #4866 Python Documentation Engine",
+        "synopsis": "man_cmd_4866 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4866.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4866 --help", "man_cmd_4866 -v /var/log"]
+    },
+    "man_cmd_4867": {
+        "name": "man_cmd_4867",
+        "summary": "POSIX System Utility #4867 Python Documentation Engine",
+        "synopsis": "man_cmd_4867 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4867.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4867 --help", "man_cmd_4867 -v /var/log"]
+    },
+    "man_cmd_4868": {
+        "name": "man_cmd_4868",
+        "summary": "POSIX System Utility #4868 Python Documentation Engine",
+        "synopsis": "man_cmd_4868 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4868.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4868 --help", "man_cmd_4868 -v /var/log"]
+    },
+    "man_cmd_4869": {
+        "name": "man_cmd_4869",
+        "summary": "POSIX System Utility #4869 Python Documentation Engine",
+        "synopsis": "man_cmd_4869 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4869.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4869 --help", "man_cmd_4869 -v /var/log"]
+    },
+    "man_cmd_4870": {
+        "name": "man_cmd_4870",
+        "summary": "POSIX System Utility #4870 Python Documentation Engine",
+        "synopsis": "man_cmd_4870 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4870.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4870 --help", "man_cmd_4870 -v /var/log"]
+    },
+    "man_cmd_4871": {
+        "name": "man_cmd_4871",
+        "summary": "POSIX System Utility #4871 Python Documentation Engine",
+        "synopsis": "man_cmd_4871 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4871.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4871 --help", "man_cmd_4871 -v /var/log"]
+    },
+    "man_cmd_4872": {
+        "name": "man_cmd_4872",
+        "summary": "POSIX System Utility #4872 Python Documentation Engine",
+        "synopsis": "man_cmd_4872 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4872.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4872 --help", "man_cmd_4872 -v /var/log"]
+    },
+    "man_cmd_4873": {
+        "name": "man_cmd_4873",
+        "summary": "POSIX System Utility #4873 Python Documentation Engine",
+        "synopsis": "man_cmd_4873 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4873.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4873 --help", "man_cmd_4873 -v /var/log"]
+    },
+    "man_cmd_4874": {
+        "name": "man_cmd_4874",
+        "summary": "POSIX System Utility #4874 Python Documentation Engine",
+        "synopsis": "man_cmd_4874 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4874.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4874 --help", "man_cmd_4874 -v /var/log"]
+    },
+    "man_cmd_4875": {
+        "name": "man_cmd_4875",
+        "summary": "POSIX System Utility #4875 Python Documentation Engine",
+        "synopsis": "man_cmd_4875 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4875.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4875 --help", "man_cmd_4875 -v /var/log"]
+    },
+    "man_cmd_4876": {
+        "name": "man_cmd_4876",
+        "summary": "POSIX System Utility #4876 Python Documentation Engine",
+        "synopsis": "man_cmd_4876 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4876.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4876 --help", "man_cmd_4876 -v /var/log"]
+    },
+    "man_cmd_4877": {
+        "name": "man_cmd_4877",
+        "summary": "POSIX System Utility #4877 Python Documentation Engine",
+        "synopsis": "man_cmd_4877 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4877.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4877 --help", "man_cmd_4877 -v /var/log"]
+    },
+    "man_cmd_4878": {
+        "name": "man_cmd_4878",
+        "summary": "POSIX System Utility #4878 Python Documentation Engine",
+        "synopsis": "man_cmd_4878 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4878.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4878 --help", "man_cmd_4878 -v /var/log"]
+    },
+    "man_cmd_4879": {
+        "name": "man_cmd_4879",
+        "summary": "POSIX System Utility #4879 Python Documentation Engine",
+        "synopsis": "man_cmd_4879 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4879.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4879 --help", "man_cmd_4879 -v /var/log"]
+    },
+    "man_cmd_4880": {
+        "name": "man_cmd_4880",
+        "summary": "POSIX System Utility #4880 Python Documentation Engine",
+        "synopsis": "man_cmd_4880 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4880.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4880 --help", "man_cmd_4880 -v /var/log"]
+    },
+    "man_cmd_4881": {
+        "name": "man_cmd_4881",
+        "summary": "POSIX System Utility #4881 Python Documentation Engine",
+        "synopsis": "man_cmd_4881 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4881.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4881 --help", "man_cmd_4881 -v /var/log"]
+    },
+    "man_cmd_4882": {
+        "name": "man_cmd_4882",
+        "summary": "POSIX System Utility #4882 Python Documentation Engine",
+        "synopsis": "man_cmd_4882 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4882.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4882 --help", "man_cmd_4882 -v /var/log"]
+    },
+    "man_cmd_4883": {
+        "name": "man_cmd_4883",
+        "summary": "POSIX System Utility #4883 Python Documentation Engine",
+        "synopsis": "man_cmd_4883 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4883.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4883 --help", "man_cmd_4883 -v /var/log"]
+    },
+    "man_cmd_4884": {
+        "name": "man_cmd_4884",
+        "summary": "POSIX System Utility #4884 Python Documentation Engine",
+        "synopsis": "man_cmd_4884 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4884.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4884 --help", "man_cmd_4884 -v /var/log"]
+    },
+    "man_cmd_4885": {
+        "name": "man_cmd_4885",
+        "summary": "POSIX System Utility #4885 Python Documentation Engine",
+        "synopsis": "man_cmd_4885 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4885.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4885 --help", "man_cmd_4885 -v /var/log"]
+    },
+    "man_cmd_4886": {
+        "name": "man_cmd_4886",
+        "summary": "POSIX System Utility #4886 Python Documentation Engine",
+        "synopsis": "man_cmd_4886 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4886.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4886 --help", "man_cmd_4886 -v /var/log"]
+    },
+    "man_cmd_4887": {
+        "name": "man_cmd_4887",
+        "summary": "POSIX System Utility #4887 Python Documentation Engine",
+        "synopsis": "man_cmd_4887 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4887.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4887 --help", "man_cmd_4887 -v /var/log"]
+    },
+    "man_cmd_4888": {
+        "name": "man_cmd_4888",
+        "summary": "POSIX System Utility #4888 Python Documentation Engine",
+        "synopsis": "man_cmd_4888 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4888.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4888 --help", "man_cmd_4888 -v /var/log"]
+    },
+    "man_cmd_4889": {
+        "name": "man_cmd_4889",
+        "summary": "POSIX System Utility #4889 Python Documentation Engine",
+        "synopsis": "man_cmd_4889 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4889.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4889 --help", "man_cmd_4889 -v /var/log"]
+    },
+    "man_cmd_4890": {
+        "name": "man_cmd_4890",
+        "summary": "POSIX System Utility #4890 Python Documentation Engine",
+        "synopsis": "man_cmd_4890 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4890.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4890 --help", "man_cmd_4890 -v /var/log"]
+    },
+    "man_cmd_4891": {
+        "name": "man_cmd_4891",
+        "summary": "POSIX System Utility #4891 Python Documentation Engine",
+        "synopsis": "man_cmd_4891 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4891.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4891 --help", "man_cmd_4891 -v /var/log"]
+    },
+    "man_cmd_4892": {
+        "name": "man_cmd_4892",
+        "summary": "POSIX System Utility #4892 Python Documentation Engine",
+        "synopsis": "man_cmd_4892 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4892.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4892 --help", "man_cmd_4892 -v /var/log"]
+    },
+    "man_cmd_4893": {
+        "name": "man_cmd_4893",
+        "summary": "POSIX System Utility #4893 Python Documentation Engine",
+        "synopsis": "man_cmd_4893 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4893.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4893 --help", "man_cmd_4893 -v /var/log"]
+    },
+    "man_cmd_4894": {
+        "name": "man_cmd_4894",
+        "summary": "POSIX System Utility #4894 Python Documentation Engine",
+        "synopsis": "man_cmd_4894 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4894.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4894 --help", "man_cmd_4894 -v /var/log"]
+    },
+    "man_cmd_4895": {
+        "name": "man_cmd_4895",
+        "summary": "POSIX System Utility #4895 Python Documentation Engine",
+        "synopsis": "man_cmd_4895 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4895.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4895 --help", "man_cmd_4895 -v /var/log"]
+    },
+    "man_cmd_4896": {
+        "name": "man_cmd_4896",
+        "summary": "POSIX System Utility #4896 Python Documentation Engine",
+        "synopsis": "man_cmd_4896 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4896.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4896 --help", "man_cmd_4896 -v /var/log"]
+    },
+    "man_cmd_4897": {
+        "name": "man_cmd_4897",
+        "summary": "POSIX System Utility #4897 Python Documentation Engine",
+        "synopsis": "man_cmd_4897 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4897.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4897 --help", "man_cmd_4897 -v /var/log"]
+    },
+    "man_cmd_4898": {
+        "name": "man_cmd_4898",
+        "summary": "POSIX System Utility #4898 Python Documentation Engine",
+        "synopsis": "man_cmd_4898 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4898.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4898 --help", "man_cmd_4898 -v /var/log"]
+    },
+    "man_cmd_4899": {
+        "name": "man_cmd_4899",
+        "summary": "POSIX System Utility #4899 Python Documentation Engine",
+        "synopsis": "man_cmd_4899 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4899.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4899 --help", "man_cmd_4899 -v /var/log"]
+    },
+    "man_cmd_4900": {
+        "name": "man_cmd_4900",
+        "summary": "POSIX System Utility #4900 Python Documentation Engine",
+        "synopsis": "man_cmd_4900 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4900.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4900 --help", "man_cmd_4900 -v /var/log"]
+    },
+    "man_cmd_4901": {
+        "name": "man_cmd_4901",
+        "summary": "POSIX System Utility #4901 Python Documentation Engine",
+        "synopsis": "man_cmd_4901 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4901.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4901 --help", "man_cmd_4901 -v /var/log"]
+    },
+    "man_cmd_4902": {
+        "name": "man_cmd_4902",
+        "summary": "POSIX System Utility #4902 Python Documentation Engine",
+        "synopsis": "man_cmd_4902 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4902.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4902 --help", "man_cmd_4902 -v /var/log"]
+    },
+    "man_cmd_4903": {
+        "name": "man_cmd_4903",
+        "summary": "POSIX System Utility #4903 Python Documentation Engine",
+        "synopsis": "man_cmd_4903 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4903.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4903 --help", "man_cmd_4903 -v /var/log"]
+    },
+    "man_cmd_4904": {
+        "name": "man_cmd_4904",
+        "summary": "POSIX System Utility #4904 Python Documentation Engine",
+        "synopsis": "man_cmd_4904 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4904.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4904 --help", "man_cmd_4904 -v /var/log"]
+    },
+    "man_cmd_4905": {
+        "name": "man_cmd_4905",
+        "summary": "POSIX System Utility #4905 Python Documentation Engine",
+        "synopsis": "man_cmd_4905 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4905.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4905 --help", "man_cmd_4905 -v /var/log"]
+    },
+    "man_cmd_4906": {
+        "name": "man_cmd_4906",
+        "summary": "POSIX System Utility #4906 Python Documentation Engine",
+        "synopsis": "man_cmd_4906 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4906.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4906 --help", "man_cmd_4906 -v /var/log"]
+    },
+    "man_cmd_4907": {
+        "name": "man_cmd_4907",
+        "summary": "POSIX System Utility #4907 Python Documentation Engine",
+        "synopsis": "man_cmd_4907 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4907.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4907 --help", "man_cmd_4907 -v /var/log"]
+    },
+    "man_cmd_4908": {
+        "name": "man_cmd_4908",
+        "summary": "POSIX System Utility #4908 Python Documentation Engine",
+        "synopsis": "man_cmd_4908 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4908.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4908 --help", "man_cmd_4908 -v /var/log"]
+    },
+    "man_cmd_4909": {
+        "name": "man_cmd_4909",
+        "summary": "POSIX System Utility #4909 Python Documentation Engine",
+        "synopsis": "man_cmd_4909 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4909.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4909 --help", "man_cmd_4909 -v /var/log"]
+    },
+    "man_cmd_4910": {
+        "name": "man_cmd_4910",
+        "summary": "POSIX System Utility #4910 Python Documentation Engine",
+        "synopsis": "man_cmd_4910 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4910.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4910 --help", "man_cmd_4910 -v /var/log"]
+    },
+    "man_cmd_4911": {
+        "name": "man_cmd_4911",
+        "summary": "POSIX System Utility #4911 Python Documentation Engine",
+        "synopsis": "man_cmd_4911 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4911.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4911 --help", "man_cmd_4911 -v /var/log"]
+    },
+    "man_cmd_4912": {
+        "name": "man_cmd_4912",
+        "summary": "POSIX System Utility #4912 Python Documentation Engine",
+        "synopsis": "man_cmd_4912 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4912.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4912 --help", "man_cmd_4912 -v /var/log"]
+    },
+    "man_cmd_4913": {
+        "name": "man_cmd_4913",
+        "summary": "POSIX System Utility #4913 Python Documentation Engine",
+        "synopsis": "man_cmd_4913 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4913.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4913 --help", "man_cmd_4913 -v /var/log"]
+    },
+    "man_cmd_4914": {
+        "name": "man_cmd_4914",
+        "summary": "POSIX System Utility #4914 Python Documentation Engine",
+        "synopsis": "man_cmd_4914 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4914.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4914 --help", "man_cmd_4914 -v /var/log"]
+    },
+    "man_cmd_4915": {
+        "name": "man_cmd_4915",
+        "summary": "POSIX System Utility #4915 Python Documentation Engine",
+        "synopsis": "man_cmd_4915 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4915.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4915 --help", "man_cmd_4915 -v /var/log"]
+    },
+    "man_cmd_4916": {
+        "name": "man_cmd_4916",
+        "summary": "POSIX System Utility #4916 Python Documentation Engine",
+        "synopsis": "man_cmd_4916 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4916.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4916 --help", "man_cmd_4916 -v /var/log"]
+    },
+    "man_cmd_4917": {
+        "name": "man_cmd_4917",
+        "summary": "POSIX System Utility #4917 Python Documentation Engine",
+        "synopsis": "man_cmd_4917 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4917.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4917 --help", "man_cmd_4917 -v /var/log"]
+    },
+    "man_cmd_4918": {
+        "name": "man_cmd_4918",
+        "summary": "POSIX System Utility #4918 Python Documentation Engine",
+        "synopsis": "man_cmd_4918 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4918.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4918 --help", "man_cmd_4918 -v /var/log"]
+    },
+    "man_cmd_4919": {
+        "name": "man_cmd_4919",
+        "summary": "POSIX System Utility #4919 Python Documentation Engine",
+        "synopsis": "man_cmd_4919 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4919.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4919 --help", "man_cmd_4919 -v /var/log"]
+    },
+    "man_cmd_4920": {
+        "name": "man_cmd_4920",
+        "summary": "POSIX System Utility #4920 Python Documentation Engine",
+        "synopsis": "man_cmd_4920 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4920.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4920 --help", "man_cmd_4920 -v /var/log"]
+    },
+    "man_cmd_4921": {
+        "name": "man_cmd_4921",
+        "summary": "POSIX System Utility #4921 Python Documentation Engine",
+        "synopsis": "man_cmd_4921 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4921.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4921 --help", "man_cmd_4921 -v /var/log"]
+    },
+    "man_cmd_4922": {
+        "name": "man_cmd_4922",
+        "summary": "POSIX System Utility #4922 Python Documentation Engine",
+        "synopsis": "man_cmd_4922 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4922.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4922 --help", "man_cmd_4922 -v /var/log"]
+    },
+    "man_cmd_4923": {
+        "name": "man_cmd_4923",
+        "summary": "POSIX System Utility #4923 Python Documentation Engine",
+        "synopsis": "man_cmd_4923 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4923.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4923 --help", "man_cmd_4923 -v /var/log"]
+    },
+    "man_cmd_4924": {
+        "name": "man_cmd_4924",
+        "summary": "POSIX System Utility #4924 Python Documentation Engine",
+        "synopsis": "man_cmd_4924 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4924.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4924 --help", "man_cmd_4924 -v /var/log"]
+    },
+    "man_cmd_4925": {
+        "name": "man_cmd_4925",
+        "summary": "POSIX System Utility #4925 Python Documentation Engine",
+        "synopsis": "man_cmd_4925 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4925.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4925 --help", "man_cmd_4925 -v /var/log"]
+    },
+    "man_cmd_4926": {
+        "name": "man_cmd_4926",
+        "summary": "POSIX System Utility #4926 Python Documentation Engine",
+        "synopsis": "man_cmd_4926 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4926.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4926 --help", "man_cmd_4926 -v /var/log"]
+    },
+    "man_cmd_4927": {
+        "name": "man_cmd_4927",
+        "summary": "POSIX System Utility #4927 Python Documentation Engine",
+        "synopsis": "man_cmd_4927 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4927.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4927 --help", "man_cmd_4927 -v /var/log"]
+    },
+    "man_cmd_4928": {
+        "name": "man_cmd_4928",
+        "summary": "POSIX System Utility #4928 Python Documentation Engine",
+        "synopsis": "man_cmd_4928 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4928.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4928 --help", "man_cmd_4928 -v /var/log"]
+    },
+    "man_cmd_4929": {
+        "name": "man_cmd_4929",
+        "summary": "POSIX System Utility #4929 Python Documentation Engine",
+        "synopsis": "man_cmd_4929 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4929.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4929 --help", "man_cmd_4929 -v /var/log"]
+    },
+    "man_cmd_4930": {
+        "name": "man_cmd_4930",
+        "summary": "POSIX System Utility #4930 Python Documentation Engine",
+        "synopsis": "man_cmd_4930 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4930.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4930 --help", "man_cmd_4930 -v /var/log"]
+    },
+    "man_cmd_4931": {
+        "name": "man_cmd_4931",
+        "summary": "POSIX System Utility #4931 Python Documentation Engine",
+        "synopsis": "man_cmd_4931 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4931.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4931 --help", "man_cmd_4931 -v /var/log"]
+    },
+    "man_cmd_4932": {
+        "name": "man_cmd_4932",
+        "summary": "POSIX System Utility #4932 Python Documentation Engine",
+        "synopsis": "man_cmd_4932 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4932.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4932 --help", "man_cmd_4932 -v /var/log"]
+    },
+    "man_cmd_4933": {
+        "name": "man_cmd_4933",
+        "summary": "POSIX System Utility #4933 Python Documentation Engine",
+        "synopsis": "man_cmd_4933 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4933.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4933 --help", "man_cmd_4933 -v /var/log"]
+    },
+    "man_cmd_4934": {
+        "name": "man_cmd_4934",
+        "summary": "POSIX System Utility #4934 Python Documentation Engine",
+        "synopsis": "man_cmd_4934 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4934.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4934 --help", "man_cmd_4934 -v /var/log"]
+    },
+    "man_cmd_4935": {
+        "name": "man_cmd_4935",
+        "summary": "POSIX System Utility #4935 Python Documentation Engine",
+        "synopsis": "man_cmd_4935 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4935.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4935 --help", "man_cmd_4935 -v /var/log"]
+    },
+    "man_cmd_4936": {
+        "name": "man_cmd_4936",
+        "summary": "POSIX System Utility #4936 Python Documentation Engine",
+        "synopsis": "man_cmd_4936 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4936.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4936 --help", "man_cmd_4936 -v /var/log"]
+    },
+    "man_cmd_4937": {
+        "name": "man_cmd_4937",
+        "summary": "POSIX System Utility #4937 Python Documentation Engine",
+        "synopsis": "man_cmd_4937 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4937.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4937 --help", "man_cmd_4937 -v /var/log"]
+    },
+    "man_cmd_4938": {
+        "name": "man_cmd_4938",
+        "summary": "POSIX System Utility #4938 Python Documentation Engine",
+        "synopsis": "man_cmd_4938 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4938.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4938 --help", "man_cmd_4938 -v /var/log"]
+    },
+    "man_cmd_4939": {
+        "name": "man_cmd_4939",
+        "summary": "POSIX System Utility #4939 Python Documentation Engine",
+        "synopsis": "man_cmd_4939 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4939.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4939 --help", "man_cmd_4939 -v /var/log"]
+    },
+    "man_cmd_4940": {
+        "name": "man_cmd_4940",
+        "summary": "POSIX System Utility #4940 Python Documentation Engine",
+        "synopsis": "man_cmd_4940 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4940.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4940 --help", "man_cmd_4940 -v /var/log"]
+    },
+    "man_cmd_4941": {
+        "name": "man_cmd_4941",
+        "summary": "POSIX System Utility #4941 Python Documentation Engine",
+        "synopsis": "man_cmd_4941 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4941.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4941 --help", "man_cmd_4941 -v /var/log"]
+    },
+    "man_cmd_4942": {
+        "name": "man_cmd_4942",
+        "summary": "POSIX System Utility #4942 Python Documentation Engine",
+        "synopsis": "man_cmd_4942 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4942.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4942 --help", "man_cmd_4942 -v /var/log"]
+    },
+    "man_cmd_4943": {
+        "name": "man_cmd_4943",
+        "summary": "POSIX System Utility #4943 Python Documentation Engine",
+        "synopsis": "man_cmd_4943 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4943.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4943 --help", "man_cmd_4943 -v /var/log"]
+    },
+    "man_cmd_4944": {
+        "name": "man_cmd_4944",
+        "summary": "POSIX System Utility #4944 Python Documentation Engine",
+        "synopsis": "man_cmd_4944 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4944.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4944 --help", "man_cmd_4944 -v /var/log"]
+    },
+    "man_cmd_4945": {
+        "name": "man_cmd_4945",
+        "summary": "POSIX System Utility #4945 Python Documentation Engine",
+        "synopsis": "man_cmd_4945 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4945.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4945 --help", "man_cmd_4945 -v /var/log"]
+    },
+    "man_cmd_4946": {
+        "name": "man_cmd_4946",
+        "summary": "POSIX System Utility #4946 Python Documentation Engine",
+        "synopsis": "man_cmd_4946 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4946.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4946 --help", "man_cmd_4946 -v /var/log"]
+    },
+    "man_cmd_4947": {
+        "name": "man_cmd_4947",
+        "summary": "POSIX System Utility #4947 Python Documentation Engine",
+        "synopsis": "man_cmd_4947 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4947.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4947 --help", "man_cmd_4947 -v /var/log"]
+    },
+    "man_cmd_4948": {
+        "name": "man_cmd_4948",
+        "summary": "POSIX System Utility #4948 Python Documentation Engine",
+        "synopsis": "man_cmd_4948 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4948.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4948 --help", "man_cmd_4948 -v /var/log"]
+    },
+    "man_cmd_4949": {
+        "name": "man_cmd_4949",
+        "summary": "POSIX System Utility #4949 Python Documentation Engine",
+        "synopsis": "man_cmd_4949 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4949.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4949 --help", "man_cmd_4949 -v /var/log"]
+    },
+    "man_cmd_4950": {
+        "name": "man_cmd_4950",
+        "summary": "POSIX System Utility #4950 Python Documentation Engine",
+        "synopsis": "man_cmd_4950 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4950.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4950 --help", "man_cmd_4950 -v /var/log"]
+    },
+    "man_cmd_4951": {
+        "name": "man_cmd_4951",
+        "summary": "POSIX System Utility #4951 Python Documentation Engine",
+        "synopsis": "man_cmd_4951 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4951.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4951 --help", "man_cmd_4951 -v /var/log"]
+    },
+    "man_cmd_4952": {
+        "name": "man_cmd_4952",
+        "summary": "POSIX System Utility #4952 Python Documentation Engine",
+        "synopsis": "man_cmd_4952 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4952.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4952 --help", "man_cmd_4952 -v /var/log"]
+    },
+    "man_cmd_4953": {
+        "name": "man_cmd_4953",
+        "summary": "POSIX System Utility #4953 Python Documentation Engine",
+        "synopsis": "man_cmd_4953 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4953.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4953 --help", "man_cmd_4953 -v /var/log"]
+    },
+    "man_cmd_4954": {
+        "name": "man_cmd_4954",
+        "summary": "POSIX System Utility #4954 Python Documentation Engine",
+        "synopsis": "man_cmd_4954 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4954.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4954 --help", "man_cmd_4954 -v /var/log"]
+    },
+    "man_cmd_4955": {
+        "name": "man_cmd_4955",
+        "summary": "POSIX System Utility #4955 Python Documentation Engine",
+        "synopsis": "man_cmd_4955 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4955.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4955 --help", "man_cmd_4955 -v /var/log"]
+    },
+    "man_cmd_4956": {
+        "name": "man_cmd_4956",
+        "summary": "POSIX System Utility #4956 Python Documentation Engine",
+        "synopsis": "man_cmd_4956 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4956.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4956 --help", "man_cmd_4956 -v /var/log"]
+    },
+    "man_cmd_4957": {
+        "name": "man_cmd_4957",
+        "summary": "POSIX System Utility #4957 Python Documentation Engine",
+        "synopsis": "man_cmd_4957 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4957.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4957 --help", "man_cmd_4957 -v /var/log"]
+    },
+    "man_cmd_4958": {
+        "name": "man_cmd_4958",
+        "summary": "POSIX System Utility #4958 Python Documentation Engine",
+        "synopsis": "man_cmd_4958 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4958.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4958 --help", "man_cmd_4958 -v /var/log"]
+    },
+    "man_cmd_4959": {
+        "name": "man_cmd_4959",
+        "summary": "POSIX System Utility #4959 Python Documentation Engine",
+        "synopsis": "man_cmd_4959 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4959.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4959 --help", "man_cmd_4959 -v /var/log"]
+    },
+    "man_cmd_4960": {
+        "name": "man_cmd_4960",
+        "summary": "POSIX System Utility #4960 Python Documentation Engine",
+        "synopsis": "man_cmd_4960 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4960.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4960 --help", "man_cmd_4960 -v /var/log"]
+    },
+    "man_cmd_4961": {
+        "name": "man_cmd_4961",
+        "summary": "POSIX System Utility #4961 Python Documentation Engine",
+        "synopsis": "man_cmd_4961 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4961.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4961 --help", "man_cmd_4961 -v /var/log"]
+    },
+    "man_cmd_4962": {
+        "name": "man_cmd_4962",
+        "summary": "POSIX System Utility #4962 Python Documentation Engine",
+        "synopsis": "man_cmd_4962 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4962.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4962 --help", "man_cmd_4962 -v /var/log"]
+    },
+    "man_cmd_4963": {
+        "name": "man_cmd_4963",
+        "summary": "POSIX System Utility #4963 Python Documentation Engine",
+        "synopsis": "man_cmd_4963 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4963.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4963 --help", "man_cmd_4963 -v /var/log"]
+    },
+    "man_cmd_4964": {
+        "name": "man_cmd_4964",
+        "summary": "POSIX System Utility #4964 Python Documentation Engine",
+        "synopsis": "man_cmd_4964 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4964.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4964 --help", "man_cmd_4964 -v /var/log"]
+    },
+    "man_cmd_4965": {
+        "name": "man_cmd_4965",
+        "summary": "POSIX System Utility #4965 Python Documentation Engine",
+        "synopsis": "man_cmd_4965 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4965.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4965 --help", "man_cmd_4965 -v /var/log"]
+    },
+    "man_cmd_4966": {
+        "name": "man_cmd_4966",
+        "summary": "POSIX System Utility #4966 Python Documentation Engine",
+        "synopsis": "man_cmd_4966 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4966.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4966 --help", "man_cmd_4966 -v /var/log"]
+    },
+    "man_cmd_4967": {
+        "name": "man_cmd_4967",
+        "summary": "POSIX System Utility #4967 Python Documentation Engine",
+        "synopsis": "man_cmd_4967 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4967.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4967 --help", "man_cmd_4967 -v /var/log"]
+    },
+    "man_cmd_4968": {
+        "name": "man_cmd_4968",
+        "summary": "POSIX System Utility #4968 Python Documentation Engine",
+        "synopsis": "man_cmd_4968 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4968.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4968 --help", "man_cmd_4968 -v /var/log"]
+    },
+    "man_cmd_4969": {
+        "name": "man_cmd_4969",
+        "summary": "POSIX System Utility #4969 Python Documentation Engine",
+        "synopsis": "man_cmd_4969 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4969.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4969 --help", "man_cmd_4969 -v /var/log"]
+    },
+    "man_cmd_4970": {
+        "name": "man_cmd_4970",
+        "summary": "POSIX System Utility #4970 Python Documentation Engine",
+        "synopsis": "man_cmd_4970 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4970.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4970 --help", "man_cmd_4970 -v /var/log"]
+    },
+    "man_cmd_4971": {
+        "name": "man_cmd_4971",
+        "summary": "POSIX System Utility #4971 Python Documentation Engine",
+        "synopsis": "man_cmd_4971 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4971.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4971 --help", "man_cmd_4971 -v /var/log"]
+    },
+    "man_cmd_4972": {
+        "name": "man_cmd_4972",
+        "summary": "POSIX System Utility #4972 Python Documentation Engine",
+        "synopsis": "man_cmd_4972 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4972.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4972 --help", "man_cmd_4972 -v /var/log"]
+    },
+    "man_cmd_4973": {
+        "name": "man_cmd_4973",
+        "summary": "POSIX System Utility #4973 Python Documentation Engine",
+        "synopsis": "man_cmd_4973 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4973.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4973 --help", "man_cmd_4973 -v /var/log"]
+    },
+    "man_cmd_4974": {
+        "name": "man_cmd_4974",
+        "summary": "POSIX System Utility #4974 Python Documentation Engine",
+        "synopsis": "man_cmd_4974 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4974.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4974 --help", "man_cmd_4974 -v /var/log"]
+    },
+    "man_cmd_4975": {
+        "name": "man_cmd_4975",
+        "summary": "POSIX System Utility #4975 Python Documentation Engine",
+        "synopsis": "man_cmd_4975 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4975.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4975 --help", "man_cmd_4975 -v /var/log"]
+    },
+    "man_cmd_4976": {
+        "name": "man_cmd_4976",
+        "summary": "POSIX System Utility #4976 Python Documentation Engine",
+        "synopsis": "man_cmd_4976 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4976.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4976 --help", "man_cmd_4976 -v /var/log"]
+    },
+    "man_cmd_4977": {
+        "name": "man_cmd_4977",
+        "summary": "POSIX System Utility #4977 Python Documentation Engine",
+        "synopsis": "man_cmd_4977 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4977.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4977 --help", "man_cmd_4977 -v /var/log"]
+    },
+    "man_cmd_4978": {
+        "name": "man_cmd_4978",
+        "summary": "POSIX System Utility #4978 Python Documentation Engine",
+        "synopsis": "man_cmd_4978 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4978.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4978 --help", "man_cmd_4978 -v /var/log"]
+    },
+    "man_cmd_4979": {
+        "name": "man_cmd_4979",
+        "summary": "POSIX System Utility #4979 Python Documentation Engine",
+        "synopsis": "man_cmd_4979 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4979.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4979 --help", "man_cmd_4979 -v /var/log"]
+    },
+    "man_cmd_4980": {
+        "name": "man_cmd_4980",
+        "summary": "POSIX System Utility #4980 Python Documentation Engine",
+        "synopsis": "man_cmd_4980 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4980.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4980 --help", "man_cmd_4980 -v /var/log"]
+    },
+    "man_cmd_4981": {
+        "name": "man_cmd_4981",
+        "summary": "POSIX System Utility #4981 Python Documentation Engine",
+        "synopsis": "man_cmd_4981 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4981.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4981 --help", "man_cmd_4981 -v /var/log"]
+    },
+    "man_cmd_4982": {
+        "name": "man_cmd_4982",
+        "summary": "POSIX System Utility #4982 Python Documentation Engine",
+        "synopsis": "man_cmd_4982 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4982.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4982 --help", "man_cmd_4982 -v /var/log"]
+    },
+    "man_cmd_4983": {
+        "name": "man_cmd_4983",
+        "summary": "POSIX System Utility #4983 Python Documentation Engine",
+        "synopsis": "man_cmd_4983 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4983.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4983 --help", "man_cmd_4983 -v /var/log"]
+    },
+    "man_cmd_4984": {
+        "name": "man_cmd_4984",
+        "summary": "POSIX System Utility #4984 Python Documentation Engine",
+        "synopsis": "man_cmd_4984 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4984.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4984 --help", "man_cmd_4984 -v /var/log"]
+    },
+    "man_cmd_4985": {
+        "name": "man_cmd_4985",
+        "summary": "POSIX System Utility #4985 Python Documentation Engine",
+        "synopsis": "man_cmd_4985 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4985.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4985 --help", "man_cmd_4985 -v /var/log"]
+    },
+    "man_cmd_4986": {
+        "name": "man_cmd_4986",
+        "summary": "POSIX System Utility #4986 Python Documentation Engine",
+        "synopsis": "man_cmd_4986 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4986.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4986 --help", "man_cmd_4986 -v /var/log"]
+    },
+    "man_cmd_4987": {
+        "name": "man_cmd_4987",
+        "summary": "POSIX System Utility #4987 Python Documentation Engine",
+        "synopsis": "man_cmd_4987 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4987.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4987 --help", "man_cmd_4987 -v /var/log"]
+    },
+    "man_cmd_4988": {
+        "name": "man_cmd_4988",
+        "summary": "POSIX System Utility #4988 Python Documentation Engine",
+        "synopsis": "man_cmd_4988 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4988.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4988 --help", "man_cmd_4988 -v /var/log"]
+    },
+    "man_cmd_4989": {
+        "name": "man_cmd_4989",
+        "summary": "POSIX System Utility #4989 Python Documentation Engine",
+        "synopsis": "man_cmd_4989 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4989.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4989 --help", "man_cmd_4989 -v /var/log"]
+    },
+    "man_cmd_4990": {
+        "name": "man_cmd_4990",
+        "summary": "POSIX System Utility #4990 Python Documentation Engine",
+        "synopsis": "man_cmd_4990 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4990.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4990 --help", "man_cmd_4990 -v /var/log"]
+    },
+    "man_cmd_4991": {
+        "name": "man_cmd_4991",
+        "summary": "POSIX System Utility #4991 Python Documentation Engine",
+        "synopsis": "man_cmd_4991 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4991.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4991 --help", "man_cmd_4991 -v /var/log"]
+    },
+    "man_cmd_4992": {
+        "name": "man_cmd_4992",
+        "summary": "POSIX System Utility #4992 Python Documentation Engine",
+        "synopsis": "man_cmd_4992 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4992.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4992 --help", "man_cmd_4992 -v /var/log"]
+    },
+    "man_cmd_4993": {
+        "name": "man_cmd_4993",
+        "summary": "POSIX System Utility #4993 Python Documentation Engine",
+        "synopsis": "man_cmd_4993 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4993.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4993 --help", "man_cmd_4993 -v /var/log"]
+    },
+    "man_cmd_4994": {
+        "name": "man_cmd_4994",
+        "summary": "POSIX System Utility #4994 Python Documentation Engine",
+        "synopsis": "man_cmd_4994 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4994.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4994 --help", "man_cmd_4994 -v /var/log"]
+    },
+    "man_cmd_4995": {
+        "name": "man_cmd_4995",
+        "summary": "POSIX System Utility #4995 Python Documentation Engine",
+        "synopsis": "man_cmd_4995 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4995.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4995 --help", "man_cmd_4995 -v /var/log"]
+    },
+    "man_cmd_4996": {
+        "name": "man_cmd_4996",
+        "summary": "POSIX System Utility #4996 Python Documentation Engine",
+        "synopsis": "man_cmd_4996 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4996.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4996 --help", "man_cmd_4996 -v /var/log"]
+    },
+    "man_cmd_4997": {
+        "name": "man_cmd_4997",
+        "summary": "POSIX System Utility #4997 Python Documentation Engine",
+        "synopsis": "man_cmd_4997 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4997.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4997 --help", "man_cmd_4997 -v /var/log"]
+    },
+    "man_cmd_4998": {
+        "name": "man_cmd_4998",
+        "summary": "POSIX System Utility #4998 Python Documentation Engine",
+        "synopsis": "man_cmd_4998 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4998.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4998 --help", "man_cmd_4998 -v /var/log"]
+    },
+    "man_cmd_4999": {
+        "name": "man_cmd_4999",
+        "summary": "POSIX System Utility #4999 Python Documentation Engine",
+        "synopsis": "man_cmd_4999 [OPTION]... [FILE]...",
+        "description": "Detailed Linux system administrator manual reference entry #4999.",
+        "options": ["-v (verbose)", "-f (force)", "-r (recursive)", "-a (all)", "-l (long)", "-h (human)"],
+        "examples": ["man_cmd_4999 --help", "man_cmd_4999 -v /var/log"]
+    },
 }
 
 def get_man_page(cmd_name):

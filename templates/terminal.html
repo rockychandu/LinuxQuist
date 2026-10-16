@@ -1,15 +1,15 @@
 {% extends 'base.html' %}
 
-{% block title %}Quest Terminal — {{ quest.title if quest else 'Linux Shell' }}{% endblock %}
+{% block title %}LinuxQuest Terminal — {{ quest.title if quest else 'Full Linux Shell Sandbox' }}{% endblock %}
 
 {% block content %}
 <div id="questSuccessBanner" style="display: none; margin-bottom: 1.5rem;"></div>
 
-<div class="grid-2" style="grid-template-columns: 360px 1fr; align-items: start;">
-  <!-- LEFT SIDEBAR: QUEST OBJECTIVES & VFS INSPECTOR -->
+<div class="grid-2" style="grid-template-columns: 360px 1fr; gap: 1.5rem; align-items: start;">
+  <!-- LEFT SIDEBAR: QUEST OBJECTIVES OR SANDBOX TOOLS -->
   <div style="display: flex; flex-direction: column; gap: 1.5rem;">
-    <!-- QUEST OBJECTIVE CARD -->
     {% if quest %}
+      <!-- QUEST OBJECTIVE CARD -->
       <div class="card" style="border-left: 4px solid var(--neon-cyan);">
         <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
           <span style="font-size: 0.8rem; color: var(--neon-cyan); font-weight: bold; text-transform: uppercase;">ACTIVE QUEST</span>
@@ -31,6 +31,28 @@
           <i class="fas fa-info-circle"></i> {{ quest.hint }}
         </div>
       </div>
+    {% else %}
+      <!-- SANDBOX HUB CARD -->
+      <div class="card" style="border-left: 4px solid var(--neon-green);">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+          <span style="font-size: 0.8rem; color: var(--neon-green); font-weight: bold; text-transform: uppercase;">TERMINAL SANDBOX</span>
+          <span class="badge" style="background: rgba(0,255,157,0.15); color: var(--neon-green); font-size: 0.75rem; padding: 2px 6px; border-radius: 3px;">Full VFS Access</span>
+        </div>
+        <h2 style="font-family: var(--font-title); font-size: 1.3rem; color: #fff; margin-bottom: 0.5rem;">Interactive Terminal Sandbox</h2>
+        <p style="color: var(--text-muted); font-size: 0.85rem; line-height: 1.4; margin-bottom: 1rem;">
+          Unrestricted in-browser Linux shell environment with POSIX file tree, Nano editor, processes, and network commands.
+        </p>
+
+        <div style="font-size: 0.8rem; color: #8a99ad; margin-bottom: 0.5rem; font-weight: bold;">Quick Command Injections:</div>
+        <div style="display: flex; flex-wrap: wrap; gap: 0.4rem;">
+          <button onclick="injectCommand('ls -lah')" class="btn btn-outline" style="padding: 0.25rem 0.6rem; font-size: 0.75rem; font-family: var(--font-code);">ls -lah</button>
+          <button onclick="injectCommand('cat /var/log/syslog')" class="btn btn-outline" style="padding: 0.25rem 0.6rem; font-size: 0.75rem; font-family: var(--font-code);">cat syslog</button>
+          <button onclick="injectCommand('ps aux')" class="btn btn-outline" style="padding: 0.25rem 0.6rem; font-size: 0.75rem; font-family: var(--font-code);">ps aux</button>
+          <button onclick="injectCommand('uptime')" class="btn btn-outline" style="padding: 0.25rem 0.6rem; font-size: 0.75rem; font-family: var(--font-code);">uptime</button>
+          <button onclick="injectCommand('nano welcome.sh')" class="btn btn-outline" style="padding: 0.25rem 0.6rem; font-size: 0.75rem; font-family: var(--font-code); color:var(--neon-gold);">nano editor</button>
+          <button onclick="injectCommand('bash welcome.sh')" class="btn btn-outline" style="padding: 0.25rem 0.6rem; font-size: 0.75rem; font-family: var(--font-code); color:var(--neon-cyan);">bash run</button>
+        </div>
+      </div>
     {% endif %}
 
     <!-- VISUAL VFS TREE INSPECTOR -->
@@ -47,7 +69,8 @@
     <!-- QUEST SELECTOR -->
     <div class="card">
       <h4 style="font-family: var(--font-title); color: #fff; margin-bottom: 0.75rem; font-size: 1rem;"><i class="fas fa-list"></i> Select Quest:</h4>
-      <select onchange="window.location.href='/quest/' + this.value" style="width: 100%; background: var(--bg-input); border: 1px solid var(--border-color); color: #fff; padding: 0.6rem; border-radius: 6px; outline: none; font-size: 0.9rem;">
+      <select onchange="if(this.value) window.location.href='/quest/' + this.value" style="width: 100%; background: var(--bg-input); border: 1px solid var(--border-color); color: #fff; padding: 0.6rem; border-radius: 6px; outline: none; font-size: 0.9rem;">
+        <option value="" {% if not quest %}selected{% endif %}>-- Sandbox Mode (No Quest) --</option>
         {% for q in all_quests %}
           <option value="{{ q.slug }}" {% if quest and q.id == quest.id %}selected{% endif %}>
             {{ q.title }} (+{{ q.xp_reward }} XP)
@@ -66,8 +89,7 @@
 
 {% block extra_js %}
 <script>
-  let questData = {% if quest %} {{ quest.initial_vfs_json | safe }} {% else %} null {% endif %};
-  let activeQuest = {% if quest %} { id: {{ quest.id }}, initial_vfs_json: '{{ quest.initial_vfs_json | safe }}' } {% else %} null {% endif %};
+  let activeQuest = {% if quest %} { id: {{ quest.id }}, initial_vfs_json: {{ quest.initial_vfs_json | tojson }} } {% else %} null {% endif %};
 
   document.addEventListener('DOMContentLoaded', () => {
     window.terminalInstance = new TerminalSimulator('questTerminalContainer', activeQuest);
@@ -77,6 +99,13 @@
     const hint = document.getElementById('hintBox');
     if (hint) {
       hint.style.display = hint.style.display === 'none' ? 'block' : 'none';
+    }
+  }
+
+  function injectCommand(cmd) {
+    if (window.terminalInstance) {
+      window.terminalInstance.writeLine(`${window.terminalInstance.termPrompt.innerText} ${cmd}`, 'prompt-line');
+      window.terminalInstance.executeCommand(cmd);
     }
   }
 </script>

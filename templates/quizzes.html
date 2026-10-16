@@ -1,14 +1,14 @@
 {% extends 'base.html' %}
 
-{% block title %}10 Quiz Levels — LinuxQuest{% endblock %}
+{% block title %}20 Quiz Levels — LinuxQuest{% endblock %}
 
 {% block content %}
 <div style="text-align: center; margin-bottom: 2.5rem;">
   <h1 style="font-family: var(--font-title); font-size: 2.6rem; color: #fff;">
-    <i class="fas fa-question-circle text-orange"></i> 10 Quiz Levels (Daily Shuffled)
+    <i class="fas fa-question-circle text-orange"></i> 20 Topic Quiz Levels
   </h1>
-  <p style="color: var(--text-muted); max-width: 600px; margin: 0.5rem auto 0 auto;">
-    Test your knowledge across 10 evaluation levels. Each level contains 5 randomized questions that shuffle daily!
+  <p style="color: var(--text-muted); max-width: 650px; margin: 0.5rem auto 0 auto;">
+    Test your knowledge across 20 roadmap levels. Each level contains 5 unique, topic-specific Linux questions!
   </p>
 </div>
 
@@ -16,12 +16,12 @@
   {% for ql in quiz_levels %}
     <div class="card">
       <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
-        <span style="font-family: var(--font-code); color: var(--neon-orange); font-weight: bold;">QUIZ LEVEL {{ ql.quiz_level_number }} / 10</span>
+        <span style="font-family: var(--font-code); color: var(--neon-orange); font-weight: bold;">QUIZ LEVEL {{ ql.quiz_level_number }} / 20</span>
         <span class="stat-chip xp"><i class="fas fa-star"></i> +{{ ql.xp_reward }} XP</span>
       </div>
 
       <h3 style="font-family: var(--font-title); font-size: 1.25rem; color: #fff; margin-bottom: 0.5rem;">{{ ql.title }}</h3>
-      <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.25rem;">Contains 5 daily-shuffled evaluation questions.</p>
+      <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.25rem;">{{ ql.description }}</p>
 
       <a href="{{ url_for('quiz_play', quiz_level_number=ql.quiz_level_number) }}" class="btn btn-primary" style="width: 100%; padding: 0.5rem;">
         <i class="fas fa-play"></i> Start Quiz Level {{ ql.quiz_level_number }} (5 Questions)

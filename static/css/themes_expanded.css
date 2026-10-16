@@ -23093,3 +23093,2103 @@
   font-family: var(--font-main);
 }
 
+.theme-variant-3300 {
+  --primary-color-hue-3300: 60deg;
+  --bg-gradient-start-3300: rgba(150, 60, 225, 0.95);
+  --border-neon-glow-3300: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3301 {
+  --primary-color-hue-3301: 61deg;
+  --bg-gradient-start-3301: rgba(157, 73, 244, 0.95);
+  --border-neon-glow-3301: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3302 {
+  --primary-color-hue-3302: 62deg;
+  --bg-gradient-start-3302: rgba(164, 86, 8, 0.95);
+  --border-neon-glow-3302: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3303 {
+  --primary-color-hue-3303: 63deg;
+  --bg-gradient-start-3303: rgba(171, 99, 27, 0.95);
+  --border-neon-glow-3303: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3304 {
+  --primary-color-hue-3304: 64deg;
+  --bg-gradient-start-3304: rgba(178, 112, 46, 0.95);
+  --border-neon-glow-3304: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3305 {
+  --primary-color-hue-3305: 65deg;
+  --bg-gradient-start-3305: rgba(185, 125, 65, 0.95);
+  --border-neon-glow-3305: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3306 {
+  --primary-color-hue-3306: 66deg;
+  --bg-gradient-start-3306: rgba(192, 138, 84, 0.95);
+  --border-neon-glow-3306: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3307 {
+  --primary-color-hue-3307: 67deg;
+  --bg-gradient-start-3307: rgba(199, 151, 103, 0.95);
+  --border-neon-glow-3307: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3308 {
+  --primary-color-hue-3308: 68deg;
+  --bg-gradient-start-3308: rgba(206, 164, 122, 0.95);
+  --border-neon-glow-3308: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3309 {
+  --primary-color-hue-3309: 69deg;
+  --bg-gradient-start-3309: rgba(213, 177, 141, 0.95);
+  --border-neon-glow-3309: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3310 {
+  --primary-color-hue-3310: 70deg;
+  --bg-gradient-start-3310: rgba(220, 190, 160, 0.95);
+  --border-neon-glow-3310: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3311 {
+  --primary-color-hue-3311: 71deg;
+  --bg-gradient-start-3311: rgba(227, 203, 179, 0.95);
+  --border-neon-glow-3311: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3312 {
+  --primary-color-hue-3312: 72deg;
+  --bg-gradient-start-3312: rgba(234, 216, 198, 0.95);
+  --border-neon-glow-3312: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3313 {
+  --primary-color-hue-3313: 73deg;
+  --bg-gradient-start-3313: rgba(241, 229, 217, 0.95);
+  --border-neon-glow-3313: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3314 {
+  --primary-color-hue-3314: 74deg;
+  --bg-gradient-start-3314: rgba(248, 242, 236, 0.95);
+  --border-neon-glow-3314: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3315 {
+  --primary-color-hue-3315: 75deg;
+  --bg-gradient-start-3315: rgba(0, 0, 0, 0.95);
+  --border-neon-glow-3315: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3316 {
+  --primary-color-hue-3316: 76deg;
+  --bg-gradient-start-3316: rgba(7, 13, 19, 0.95);
+  --border-neon-glow-3316: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3317 {
+  --primary-color-hue-3317: 77deg;
+  --bg-gradient-start-3317: rgba(14, 26, 38, 0.95);
+  --border-neon-glow-3317: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3318 {
+  --primary-color-hue-3318: 78deg;
+  --bg-gradient-start-3318: rgba(21, 39, 57, 0.95);
+  --border-neon-glow-3318: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3319 {
+  --primary-color-hue-3319: 79deg;
+  --bg-gradient-start-3319: rgba(28, 52, 76, 0.95);
+  --border-neon-glow-3319: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3320 {
+  --primary-color-hue-3320: 80deg;
+  --bg-gradient-start-3320: rgba(35, 65, 95, 0.95);
+  --border-neon-glow-3320: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3321 {
+  --primary-color-hue-3321: 81deg;
+  --bg-gradient-start-3321: rgba(42, 78, 114, 0.95);
+  --border-neon-glow-3321: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3322 {
+  --primary-color-hue-3322: 82deg;
+  --bg-gradient-start-3322: rgba(49, 91, 133, 0.95);
+  --border-neon-glow-3322: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3323 {
+  --primary-color-hue-3323: 83deg;
+  --bg-gradient-start-3323: rgba(56, 104, 152, 0.95);
+  --border-neon-glow-3323: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3324 {
+  --primary-color-hue-3324: 84deg;
+  --bg-gradient-start-3324: rgba(63, 117, 171, 0.95);
+  --border-neon-glow-3324: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3325 {
+  --primary-color-hue-3325: 85deg;
+  --bg-gradient-start-3325: rgba(70, 130, 190, 0.95);
+  --border-neon-glow-3325: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3326 {
+  --primary-color-hue-3326: 86deg;
+  --bg-gradient-start-3326: rgba(77, 143, 209, 0.95);
+  --border-neon-glow-3326: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3327 {
+  --primary-color-hue-3327: 87deg;
+  --bg-gradient-start-3327: rgba(84, 156, 228, 0.95);
+  --border-neon-glow-3327: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3328 {
+  --primary-color-hue-3328: 88deg;
+  --bg-gradient-start-3328: rgba(91, 169, 247, 0.95);
+  --border-neon-glow-3328: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3329 {
+  --primary-color-hue-3329: 89deg;
+  --bg-gradient-start-3329: rgba(98, 182, 11, 0.95);
+  --border-neon-glow-3329: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3330 {
+  --primary-color-hue-3330: 90deg;
+  --bg-gradient-start-3330: rgba(105, 195, 30, 0.95);
+  --border-neon-glow-3330: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3331 {
+  --primary-color-hue-3331: 91deg;
+  --bg-gradient-start-3331: rgba(112, 208, 49, 0.95);
+  --border-neon-glow-3331: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3332 {
+  --primary-color-hue-3332: 92deg;
+  --bg-gradient-start-3332: rgba(119, 221, 68, 0.95);
+  --border-neon-glow-3332: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3333 {
+  --primary-color-hue-3333: 93deg;
+  --bg-gradient-start-3333: rgba(126, 234, 87, 0.95);
+  --border-neon-glow-3333: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3334 {
+  --primary-color-hue-3334: 94deg;
+  --bg-gradient-start-3334: rgba(133, 247, 106, 0.95);
+  --border-neon-glow-3334: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3335 {
+  --primary-color-hue-3335: 95deg;
+  --bg-gradient-start-3335: rgba(140, 5, 125, 0.95);
+  --border-neon-glow-3335: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3336 {
+  --primary-color-hue-3336: 96deg;
+  --bg-gradient-start-3336: rgba(147, 18, 144, 0.95);
+  --border-neon-glow-3336: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3337 {
+  --primary-color-hue-3337: 97deg;
+  --bg-gradient-start-3337: rgba(154, 31, 163, 0.95);
+  --border-neon-glow-3337: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3338 {
+  --primary-color-hue-3338: 98deg;
+  --bg-gradient-start-3338: rgba(161, 44, 182, 0.95);
+  --border-neon-glow-3338: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3339 {
+  --primary-color-hue-3339: 99deg;
+  --bg-gradient-start-3339: rgba(168, 57, 201, 0.95);
+  --border-neon-glow-3339: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3340 {
+  --primary-color-hue-3340: 100deg;
+  --bg-gradient-start-3340: rgba(175, 70, 220, 0.95);
+  --border-neon-glow-3340: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3341 {
+  --primary-color-hue-3341: 101deg;
+  --bg-gradient-start-3341: rgba(182, 83, 239, 0.95);
+  --border-neon-glow-3341: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3342 {
+  --primary-color-hue-3342: 102deg;
+  --bg-gradient-start-3342: rgba(189, 96, 3, 0.95);
+  --border-neon-glow-3342: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3343 {
+  --primary-color-hue-3343: 103deg;
+  --bg-gradient-start-3343: rgba(196, 109, 22, 0.95);
+  --border-neon-glow-3343: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3344 {
+  --primary-color-hue-3344: 104deg;
+  --bg-gradient-start-3344: rgba(203, 122, 41, 0.95);
+  --border-neon-glow-3344: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3345 {
+  --primary-color-hue-3345: 105deg;
+  --bg-gradient-start-3345: rgba(210, 135, 60, 0.95);
+  --border-neon-glow-3345: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3346 {
+  --primary-color-hue-3346: 106deg;
+  --bg-gradient-start-3346: rgba(217, 148, 79, 0.95);
+  --border-neon-glow-3346: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3347 {
+  --primary-color-hue-3347: 107deg;
+  --bg-gradient-start-3347: rgba(224, 161, 98, 0.95);
+  --border-neon-glow-3347: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3348 {
+  --primary-color-hue-3348: 108deg;
+  --bg-gradient-start-3348: rgba(231, 174, 117, 0.95);
+  --border-neon-glow-3348: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3349 {
+  --primary-color-hue-3349: 109deg;
+  --bg-gradient-start-3349: rgba(238, 187, 136, 0.95);
+  --border-neon-glow-3349: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3350 {
+  --primary-color-hue-3350: 110deg;
+  --bg-gradient-start-3350: rgba(245, 200, 155, 0.95);
+  --border-neon-glow-3350: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3351 {
+  --primary-color-hue-3351: 111deg;
+  --bg-gradient-start-3351: rgba(252, 213, 174, 0.95);
+  --border-neon-glow-3351: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3352 {
+  --primary-color-hue-3352: 112deg;
+  --bg-gradient-start-3352: rgba(4, 226, 193, 0.95);
+  --border-neon-glow-3352: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3353 {
+  --primary-color-hue-3353: 113deg;
+  --bg-gradient-start-3353: rgba(11, 239, 212, 0.95);
+  --border-neon-glow-3353: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3354 {
+  --primary-color-hue-3354: 114deg;
+  --bg-gradient-start-3354: rgba(18, 252, 231, 0.95);
+  --border-neon-glow-3354: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3355 {
+  --primary-color-hue-3355: 115deg;
+  --bg-gradient-start-3355: rgba(25, 10, 250, 0.95);
+  --border-neon-glow-3355: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3356 {
+  --primary-color-hue-3356: 116deg;
+  --bg-gradient-start-3356: rgba(32, 23, 14, 0.95);
+  --border-neon-glow-3356: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3357 {
+  --primary-color-hue-3357: 117deg;
+  --bg-gradient-start-3357: rgba(39, 36, 33, 0.95);
+  --border-neon-glow-3357: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3358 {
+  --primary-color-hue-3358: 118deg;
+  --bg-gradient-start-3358: rgba(46, 49, 52, 0.95);
+  --border-neon-glow-3358: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3359 {
+  --primary-color-hue-3359: 119deg;
+  --bg-gradient-start-3359: rgba(53, 62, 71, 0.95);
+  --border-neon-glow-3359: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3360 {
+  --primary-color-hue-3360: 120deg;
+  --bg-gradient-start-3360: rgba(60, 75, 90, 0.95);
+  --border-neon-glow-3360: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3361 {
+  --primary-color-hue-3361: 121deg;
+  --bg-gradient-start-3361: rgba(67, 88, 109, 0.95);
+  --border-neon-glow-3361: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3362 {
+  --primary-color-hue-3362: 122deg;
+  --bg-gradient-start-3362: rgba(74, 101, 128, 0.95);
+  --border-neon-glow-3362: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3363 {
+  --primary-color-hue-3363: 123deg;
+  --bg-gradient-start-3363: rgba(81, 114, 147, 0.95);
+  --border-neon-glow-3363: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3364 {
+  --primary-color-hue-3364: 124deg;
+  --bg-gradient-start-3364: rgba(88, 127, 166, 0.95);
+  --border-neon-glow-3364: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3365 {
+  --primary-color-hue-3365: 125deg;
+  --bg-gradient-start-3365: rgba(95, 140, 185, 0.95);
+  --border-neon-glow-3365: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3366 {
+  --primary-color-hue-3366: 126deg;
+  --bg-gradient-start-3366: rgba(102, 153, 204, 0.95);
+  --border-neon-glow-3366: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3367 {
+  --primary-color-hue-3367: 127deg;
+  --bg-gradient-start-3367: rgba(109, 166, 223, 0.95);
+  --border-neon-glow-3367: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3368 {
+  --primary-color-hue-3368: 128deg;
+  --bg-gradient-start-3368: rgba(116, 179, 242, 0.95);
+  --border-neon-glow-3368: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3369 {
+  --primary-color-hue-3369: 129deg;
+  --bg-gradient-start-3369: rgba(123, 192, 6, 0.95);
+  --border-neon-glow-3369: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3370 {
+  --primary-color-hue-3370: 130deg;
+  --bg-gradient-start-3370: rgba(130, 205, 25, 0.95);
+  --border-neon-glow-3370: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3371 {
+  --primary-color-hue-3371: 131deg;
+  --bg-gradient-start-3371: rgba(137, 218, 44, 0.95);
+  --border-neon-glow-3371: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3372 {
+  --primary-color-hue-3372: 132deg;
+  --bg-gradient-start-3372: rgba(144, 231, 63, 0.95);
+  --border-neon-glow-3372: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3373 {
+  --primary-color-hue-3373: 133deg;
+  --bg-gradient-start-3373: rgba(151, 244, 82, 0.95);
+  --border-neon-glow-3373: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3374 {
+  --primary-color-hue-3374: 134deg;
+  --bg-gradient-start-3374: rgba(158, 2, 101, 0.95);
+  --border-neon-glow-3374: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3375 {
+  --primary-color-hue-3375: 135deg;
+  --bg-gradient-start-3375: rgba(165, 15, 120, 0.95);
+  --border-neon-glow-3375: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3376 {
+  --primary-color-hue-3376: 136deg;
+  --bg-gradient-start-3376: rgba(172, 28, 139, 0.95);
+  --border-neon-glow-3376: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3377 {
+  --primary-color-hue-3377: 137deg;
+  --bg-gradient-start-3377: rgba(179, 41, 158, 0.95);
+  --border-neon-glow-3377: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3378 {
+  --primary-color-hue-3378: 138deg;
+  --bg-gradient-start-3378: rgba(186, 54, 177, 0.95);
+  --border-neon-glow-3378: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3379 {
+  --primary-color-hue-3379: 139deg;
+  --bg-gradient-start-3379: rgba(193, 67, 196, 0.95);
+  --border-neon-glow-3379: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3380 {
+  --primary-color-hue-3380: 140deg;
+  --bg-gradient-start-3380: rgba(200, 80, 215, 0.95);
+  --border-neon-glow-3380: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3381 {
+  --primary-color-hue-3381: 141deg;
+  --bg-gradient-start-3381: rgba(207, 93, 234, 0.95);
+  --border-neon-glow-3381: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3382 {
+  --primary-color-hue-3382: 142deg;
+  --bg-gradient-start-3382: rgba(214, 106, 253, 0.95);
+  --border-neon-glow-3382: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3383 {
+  --primary-color-hue-3383: 143deg;
+  --bg-gradient-start-3383: rgba(221, 119, 17, 0.95);
+  --border-neon-glow-3383: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3384 {
+  --primary-color-hue-3384: 144deg;
+  --bg-gradient-start-3384: rgba(228, 132, 36, 0.95);
+  --border-neon-glow-3384: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3385 {
+  --primary-color-hue-3385: 145deg;
+  --bg-gradient-start-3385: rgba(235, 145, 55, 0.95);
+  --border-neon-glow-3385: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3386 {
+  --primary-color-hue-3386: 146deg;
+  --bg-gradient-start-3386: rgba(242, 158, 74, 0.95);
+  --border-neon-glow-3386: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3387 {
+  --primary-color-hue-3387: 147deg;
+  --bg-gradient-start-3387: rgba(249, 171, 93, 0.95);
+  --border-neon-glow-3387: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3388 {
+  --primary-color-hue-3388: 148deg;
+  --bg-gradient-start-3388: rgba(1, 184, 112, 0.95);
+  --border-neon-glow-3388: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3389 {
+  --primary-color-hue-3389: 149deg;
+  --bg-gradient-start-3389: rgba(8, 197, 131, 0.95);
+  --border-neon-glow-3389: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3390 {
+  --primary-color-hue-3390: 150deg;
+  --bg-gradient-start-3390: rgba(15, 210, 150, 0.95);
+  --border-neon-glow-3390: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3391 {
+  --primary-color-hue-3391: 151deg;
+  --bg-gradient-start-3391: rgba(22, 223, 169, 0.95);
+  --border-neon-glow-3391: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3392 {
+  --primary-color-hue-3392: 152deg;
+  --bg-gradient-start-3392: rgba(29, 236, 188, 0.95);
+  --border-neon-glow-3392: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3393 {
+  --primary-color-hue-3393: 153deg;
+  --bg-gradient-start-3393: rgba(36, 249, 207, 0.95);
+  --border-neon-glow-3393: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3394 {
+  --primary-color-hue-3394: 154deg;
+  --bg-gradient-start-3394: rgba(43, 7, 226, 0.95);
+  --border-neon-glow-3394: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3395 {
+  --primary-color-hue-3395: 155deg;
+  --bg-gradient-start-3395: rgba(50, 20, 245, 0.95);
+  --border-neon-glow-3395: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3396 {
+  --primary-color-hue-3396: 156deg;
+  --bg-gradient-start-3396: rgba(57, 33, 9, 0.95);
+  --border-neon-glow-3396: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3397 {
+  --primary-color-hue-3397: 157deg;
+  --bg-gradient-start-3397: rgba(64, 46, 28, 0.95);
+  --border-neon-glow-3397: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3398 {
+  --primary-color-hue-3398: 158deg;
+  --bg-gradient-start-3398: rgba(71, 59, 47, 0.95);
+  --border-neon-glow-3398: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3399 {
+  --primary-color-hue-3399: 159deg;
+  --bg-gradient-start-3399: rgba(78, 72, 66, 0.95);
+  --border-neon-glow-3399: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3400 {
+  --primary-color-hue-3400: 160deg;
+  --bg-gradient-start-3400: rgba(85, 85, 85, 0.95);
+  --border-neon-glow-3400: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3401 {
+  --primary-color-hue-3401: 161deg;
+  --bg-gradient-start-3401: rgba(92, 98, 104, 0.95);
+  --border-neon-glow-3401: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3402 {
+  --primary-color-hue-3402: 162deg;
+  --bg-gradient-start-3402: rgba(99, 111, 123, 0.95);
+  --border-neon-glow-3402: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3403 {
+  --primary-color-hue-3403: 163deg;
+  --bg-gradient-start-3403: rgba(106, 124, 142, 0.95);
+  --border-neon-glow-3403: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3404 {
+  --primary-color-hue-3404: 164deg;
+  --bg-gradient-start-3404: rgba(113, 137, 161, 0.95);
+  --border-neon-glow-3404: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3405 {
+  --primary-color-hue-3405: 165deg;
+  --bg-gradient-start-3405: rgba(120, 150, 180, 0.95);
+  --border-neon-glow-3405: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3406 {
+  --primary-color-hue-3406: 166deg;
+  --bg-gradient-start-3406: rgba(127, 163, 199, 0.95);
+  --border-neon-glow-3406: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3407 {
+  --primary-color-hue-3407: 167deg;
+  --bg-gradient-start-3407: rgba(134, 176, 218, 0.95);
+  --border-neon-glow-3407: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3408 {
+  --primary-color-hue-3408: 168deg;
+  --bg-gradient-start-3408: rgba(141, 189, 237, 0.95);
+  --border-neon-glow-3408: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3409 {
+  --primary-color-hue-3409: 169deg;
+  --bg-gradient-start-3409: rgba(148, 202, 1, 0.95);
+  --border-neon-glow-3409: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3410 {
+  --primary-color-hue-3410: 170deg;
+  --bg-gradient-start-3410: rgba(155, 215, 20, 0.95);
+  --border-neon-glow-3410: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3411 {
+  --primary-color-hue-3411: 171deg;
+  --bg-gradient-start-3411: rgba(162, 228, 39, 0.95);
+  --border-neon-glow-3411: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3412 {
+  --primary-color-hue-3412: 172deg;
+  --bg-gradient-start-3412: rgba(169, 241, 58, 0.95);
+  --border-neon-glow-3412: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3413 {
+  --primary-color-hue-3413: 173deg;
+  --bg-gradient-start-3413: rgba(176, 254, 77, 0.95);
+  --border-neon-glow-3413: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3414 {
+  --primary-color-hue-3414: 174deg;
+  --bg-gradient-start-3414: rgba(183, 12, 96, 0.95);
+  --border-neon-glow-3414: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3415 {
+  --primary-color-hue-3415: 175deg;
+  --bg-gradient-start-3415: rgba(190, 25, 115, 0.95);
+  --border-neon-glow-3415: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3416 {
+  --primary-color-hue-3416: 176deg;
+  --bg-gradient-start-3416: rgba(197, 38, 134, 0.95);
+  --border-neon-glow-3416: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3417 {
+  --primary-color-hue-3417: 177deg;
+  --bg-gradient-start-3417: rgba(204, 51, 153, 0.95);
+  --border-neon-glow-3417: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3418 {
+  --primary-color-hue-3418: 178deg;
+  --bg-gradient-start-3418: rgba(211, 64, 172, 0.95);
+  --border-neon-glow-3418: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3419 {
+  --primary-color-hue-3419: 179deg;
+  --bg-gradient-start-3419: rgba(218, 77, 191, 0.95);
+  --border-neon-glow-3419: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3420 {
+  --primary-color-hue-3420: 180deg;
+  --bg-gradient-start-3420: rgba(225, 90, 210, 0.95);
+  --border-neon-glow-3420: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3421 {
+  --primary-color-hue-3421: 181deg;
+  --bg-gradient-start-3421: rgba(232, 103, 229, 0.95);
+  --border-neon-glow-3421: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3422 {
+  --primary-color-hue-3422: 182deg;
+  --bg-gradient-start-3422: rgba(239, 116, 248, 0.95);
+  --border-neon-glow-3422: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3423 {
+  --primary-color-hue-3423: 183deg;
+  --bg-gradient-start-3423: rgba(246, 129, 12, 0.95);
+  --border-neon-glow-3423: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3424 {
+  --primary-color-hue-3424: 184deg;
+  --bg-gradient-start-3424: rgba(253, 142, 31, 0.95);
+  --border-neon-glow-3424: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3425 {
+  --primary-color-hue-3425: 185deg;
+  --bg-gradient-start-3425: rgba(5, 155, 50, 0.95);
+  --border-neon-glow-3425: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3426 {
+  --primary-color-hue-3426: 186deg;
+  --bg-gradient-start-3426: rgba(12, 168, 69, 0.95);
+  --border-neon-glow-3426: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3427 {
+  --primary-color-hue-3427: 187deg;
+  --bg-gradient-start-3427: rgba(19, 181, 88, 0.95);
+  --border-neon-glow-3427: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3428 {
+  --primary-color-hue-3428: 188deg;
+  --bg-gradient-start-3428: rgba(26, 194, 107, 0.95);
+  --border-neon-glow-3428: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3429 {
+  --primary-color-hue-3429: 189deg;
+  --bg-gradient-start-3429: rgba(33, 207, 126, 0.95);
+  --border-neon-glow-3429: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3430 {
+  --primary-color-hue-3430: 190deg;
+  --bg-gradient-start-3430: rgba(40, 220, 145, 0.95);
+  --border-neon-glow-3430: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3431 {
+  --primary-color-hue-3431: 191deg;
+  --bg-gradient-start-3431: rgba(47, 233, 164, 0.95);
+  --border-neon-glow-3431: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3432 {
+  --primary-color-hue-3432: 192deg;
+  --bg-gradient-start-3432: rgba(54, 246, 183, 0.95);
+  --border-neon-glow-3432: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3433 {
+  --primary-color-hue-3433: 193deg;
+  --bg-gradient-start-3433: rgba(61, 4, 202, 0.95);
+  --border-neon-glow-3433: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3434 {
+  --primary-color-hue-3434: 194deg;
+  --bg-gradient-start-3434: rgba(68, 17, 221, 0.95);
+  --border-neon-glow-3434: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3435 {
+  --primary-color-hue-3435: 195deg;
+  --bg-gradient-start-3435: rgba(75, 30, 240, 0.95);
+  --border-neon-glow-3435: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3436 {
+  --primary-color-hue-3436: 196deg;
+  --bg-gradient-start-3436: rgba(82, 43, 4, 0.95);
+  --border-neon-glow-3436: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3437 {
+  --primary-color-hue-3437: 197deg;
+  --bg-gradient-start-3437: rgba(89, 56, 23, 0.95);
+  --border-neon-glow-3437: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3438 {
+  --primary-color-hue-3438: 198deg;
+  --bg-gradient-start-3438: rgba(96, 69, 42, 0.95);
+  --border-neon-glow-3438: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3439 {
+  --primary-color-hue-3439: 199deg;
+  --bg-gradient-start-3439: rgba(103, 82, 61, 0.95);
+  --border-neon-glow-3439: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3440 {
+  --primary-color-hue-3440: 200deg;
+  --bg-gradient-start-3440: rgba(110, 95, 80, 0.95);
+  --border-neon-glow-3440: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3441 {
+  --primary-color-hue-3441: 201deg;
+  --bg-gradient-start-3441: rgba(117, 108, 99, 0.95);
+  --border-neon-glow-3441: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3442 {
+  --primary-color-hue-3442: 202deg;
+  --bg-gradient-start-3442: rgba(124, 121, 118, 0.95);
+  --border-neon-glow-3442: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3443 {
+  --primary-color-hue-3443: 203deg;
+  --bg-gradient-start-3443: rgba(131, 134, 137, 0.95);
+  --border-neon-glow-3443: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3444 {
+  --primary-color-hue-3444: 204deg;
+  --bg-gradient-start-3444: rgba(138, 147, 156, 0.95);
+  --border-neon-glow-3444: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3445 {
+  --primary-color-hue-3445: 205deg;
+  --bg-gradient-start-3445: rgba(145, 160, 175, 0.95);
+  --border-neon-glow-3445: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3446 {
+  --primary-color-hue-3446: 206deg;
+  --bg-gradient-start-3446: rgba(152, 173, 194, 0.95);
+  --border-neon-glow-3446: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3447 {
+  --primary-color-hue-3447: 207deg;
+  --bg-gradient-start-3447: rgba(159, 186, 213, 0.95);
+  --border-neon-glow-3447: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3448 {
+  --primary-color-hue-3448: 208deg;
+  --bg-gradient-start-3448: rgba(166, 199, 232, 0.95);
+  --border-neon-glow-3448: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3449 {
+  --primary-color-hue-3449: 209deg;
+  --bg-gradient-start-3449: rgba(173, 212, 251, 0.95);
+  --border-neon-glow-3449: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3450 {
+  --primary-color-hue-3450: 210deg;
+  --bg-gradient-start-3450: rgba(180, 225, 15, 0.95);
+  --border-neon-glow-3450: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3451 {
+  --primary-color-hue-3451: 211deg;
+  --bg-gradient-start-3451: rgba(187, 238, 34, 0.95);
+  --border-neon-glow-3451: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3452 {
+  --primary-color-hue-3452: 212deg;
+  --bg-gradient-start-3452: rgba(194, 251, 53, 0.95);
+  --border-neon-glow-3452: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3453 {
+  --primary-color-hue-3453: 213deg;
+  --bg-gradient-start-3453: rgba(201, 9, 72, 0.95);
+  --border-neon-glow-3453: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3454 {
+  --primary-color-hue-3454: 214deg;
+  --bg-gradient-start-3454: rgba(208, 22, 91, 0.95);
+  --border-neon-glow-3454: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3455 {
+  --primary-color-hue-3455: 215deg;
+  --bg-gradient-start-3455: rgba(215, 35, 110, 0.95);
+  --border-neon-glow-3455: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3456 {
+  --primary-color-hue-3456: 216deg;
+  --bg-gradient-start-3456: rgba(222, 48, 129, 0.95);
+  --border-neon-glow-3456: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3457 {
+  --primary-color-hue-3457: 217deg;
+  --bg-gradient-start-3457: rgba(229, 61, 148, 0.95);
+  --border-neon-glow-3457: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3458 {
+  --primary-color-hue-3458: 218deg;
+  --bg-gradient-start-3458: rgba(236, 74, 167, 0.95);
+  --border-neon-glow-3458: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3459 {
+  --primary-color-hue-3459: 219deg;
+  --bg-gradient-start-3459: rgba(243, 87, 186, 0.95);
+  --border-neon-glow-3459: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3460 {
+  --primary-color-hue-3460: 220deg;
+  --bg-gradient-start-3460: rgba(250, 100, 205, 0.95);
+  --border-neon-glow-3460: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3461 {
+  --primary-color-hue-3461: 221deg;
+  --bg-gradient-start-3461: rgba(2, 113, 224, 0.95);
+  --border-neon-glow-3461: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3462 {
+  --primary-color-hue-3462: 222deg;
+  --bg-gradient-start-3462: rgba(9, 126, 243, 0.95);
+  --border-neon-glow-3462: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3463 {
+  --primary-color-hue-3463: 223deg;
+  --bg-gradient-start-3463: rgba(16, 139, 7, 0.95);
+  --border-neon-glow-3463: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3464 {
+  --primary-color-hue-3464: 224deg;
+  --bg-gradient-start-3464: rgba(23, 152, 26, 0.95);
+  --border-neon-glow-3464: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3465 {
+  --primary-color-hue-3465: 225deg;
+  --bg-gradient-start-3465: rgba(30, 165, 45, 0.95);
+  --border-neon-glow-3465: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3466 {
+  --primary-color-hue-3466: 226deg;
+  --bg-gradient-start-3466: rgba(37, 178, 64, 0.95);
+  --border-neon-glow-3466: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3467 {
+  --primary-color-hue-3467: 227deg;
+  --bg-gradient-start-3467: rgba(44, 191, 83, 0.95);
+  --border-neon-glow-3467: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3468 {
+  --primary-color-hue-3468: 228deg;
+  --bg-gradient-start-3468: rgba(51, 204, 102, 0.95);
+  --border-neon-glow-3468: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3469 {
+  --primary-color-hue-3469: 229deg;
+  --bg-gradient-start-3469: rgba(58, 217, 121, 0.95);
+  --border-neon-glow-3469: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3470 {
+  --primary-color-hue-3470: 230deg;
+  --bg-gradient-start-3470: rgba(65, 230, 140, 0.95);
+  --border-neon-glow-3470: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3471 {
+  --primary-color-hue-3471: 231deg;
+  --bg-gradient-start-3471: rgba(72, 243, 159, 0.95);
+  --border-neon-glow-3471: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3472 {
+  --primary-color-hue-3472: 232deg;
+  --bg-gradient-start-3472: rgba(79, 1, 178, 0.95);
+  --border-neon-glow-3472: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3473 {
+  --primary-color-hue-3473: 233deg;
+  --bg-gradient-start-3473: rgba(86, 14, 197, 0.95);
+  --border-neon-glow-3473: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3474 {
+  --primary-color-hue-3474: 234deg;
+  --bg-gradient-start-3474: rgba(93, 27, 216, 0.95);
+  --border-neon-glow-3474: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3475 {
+  --primary-color-hue-3475: 235deg;
+  --bg-gradient-start-3475: rgba(100, 40, 235, 0.95);
+  --border-neon-glow-3475: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3476 {
+  --primary-color-hue-3476: 236deg;
+  --bg-gradient-start-3476: rgba(107, 53, 254, 0.95);
+  --border-neon-glow-3476: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3477 {
+  --primary-color-hue-3477: 237deg;
+  --bg-gradient-start-3477: rgba(114, 66, 18, 0.95);
+  --border-neon-glow-3477: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3478 {
+  --primary-color-hue-3478: 238deg;
+  --bg-gradient-start-3478: rgba(121, 79, 37, 0.95);
+  --border-neon-glow-3478: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3479 {
+  --primary-color-hue-3479: 239deg;
+  --bg-gradient-start-3479: rgba(128, 92, 56, 0.95);
+  --border-neon-glow-3479: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3480 {
+  --primary-color-hue-3480: 240deg;
+  --bg-gradient-start-3480: rgba(135, 105, 75, 0.95);
+  --border-neon-glow-3480: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3481 {
+  --primary-color-hue-3481: 241deg;
+  --bg-gradient-start-3481: rgba(142, 118, 94, 0.95);
+  --border-neon-glow-3481: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3482 {
+  --primary-color-hue-3482: 242deg;
+  --bg-gradient-start-3482: rgba(149, 131, 113, 0.95);
+  --border-neon-glow-3482: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3483 {
+  --primary-color-hue-3483: 243deg;
+  --bg-gradient-start-3483: rgba(156, 144, 132, 0.95);
+  --border-neon-glow-3483: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3484 {
+  --primary-color-hue-3484: 244deg;
+  --bg-gradient-start-3484: rgba(163, 157, 151, 0.95);
+  --border-neon-glow-3484: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3485 {
+  --primary-color-hue-3485: 245deg;
+  --bg-gradient-start-3485: rgba(170, 170, 170, 0.95);
+  --border-neon-glow-3485: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3486 {
+  --primary-color-hue-3486: 246deg;
+  --bg-gradient-start-3486: rgba(177, 183, 189, 0.95);
+  --border-neon-glow-3486: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3487 {
+  --primary-color-hue-3487: 247deg;
+  --bg-gradient-start-3487: rgba(184, 196, 208, 0.95);
+  --border-neon-glow-3487: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3488 {
+  --primary-color-hue-3488: 248deg;
+  --bg-gradient-start-3488: rgba(191, 209, 227, 0.95);
+  --border-neon-glow-3488: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3489 {
+  --primary-color-hue-3489: 249deg;
+  --bg-gradient-start-3489: rgba(198, 222, 246, 0.95);
+  --border-neon-glow-3489: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3490 {
+  --primary-color-hue-3490: 250deg;
+  --bg-gradient-start-3490: rgba(205, 235, 10, 0.95);
+  --border-neon-glow-3490: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3491 {
+  --primary-color-hue-3491: 251deg;
+  --bg-gradient-start-3491: rgba(212, 248, 29, 0.95);
+  --border-neon-glow-3491: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3492 {
+  --primary-color-hue-3492: 252deg;
+  --bg-gradient-start-3492: rgba(219, 6, 48, 0.95);
+  --border-neon-glow-3492: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3493 {
+  --primary-color-hue-3493: 253deg;
+  --bg-gradient-start-3493: rgba(226, 19, 67, 0.95);
+  --border-neon-glow-3493: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3494 {
+  --primary-color-hue-3494: 254deg;
+  --bg-gradient-start-3494: rgba(233, 32, 86, 0.95);
+  --border-neon-glow-3494: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3495 {
+  --primary-color-hue-3495: 255deg;
+  --bg-gradient-start-3495: rgba(240, 45, 105, 0.95);
+  --border-neon-glow-3495: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3496 {
+  --primary-color-hue-3496: 256deg;
+  --bg-gradient-start-3496: rgba(247, 58, 124, 0.95);
+  --border-neon-glow-3496: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3497 {
+  --primary-color-hue-3497: 257deg;
+  --bg-gradient-start-3497: rgba(254, 71, 143, 0.95);
+  --border-neon-glow-3497: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3498 {
+  --primary-color-hue-3498: 258deg;
+  --bg-gradient-start-3498: rgba(6, 84, 162, 0.95);
+  --border-neon-glow-3498: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3499 {
+  --primary-color-hue-3499: 259deg;
+  --bg-gradient-start-3499: rgba(13, 97, 181, 0.95);
+  --border-neon-glow-3499: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3500 {
+  --primary-color-hue-3500: 260deg;
+  --bg-gradient-start-3500: rgba(20, 110, 200, 0.95);
+  --border-neon-glow-3500: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3501 {
+  --primary-color-hue-3501: 261deg;
+  --bg-gradient-start-3501: rgba(27, 123, 219, 0.95);
+  --border-neon-glow-3501: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3502 {
+  --primary-color-hue-3502: 262deg;
+  --bg-gradient-start-3502: rgba(34, 136, 238, 0.95);
+  --border-neon-glow-3502: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3503 {
+  --primary-color-hue-3503: 263deg;
+  --bg-gradient-start-3503: rgba(41, 149, 2, 0.95);
+  --border-neon-glow-3503: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3504 {
+  --primary-color-hue-3504: 264deg;
+  --bg-gradient-start-3504: rgba(48, 162, 21, 0.95);
+  --border-neon-glow-3504: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3505 {
+  --primary-color-hue-3505: 265deg;
+  --bg-gradient-start-3505: rgba(55, 175, 40, 0.95);
+  --border-neon-glow-3505: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3506 {
+  --primary-color-hue-3506: 266deg;
+  --bg-gradient-start-3506: rgba(62, 188, 59, 0.95);
+  --border-neon-glow-3506: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3507 {
+  --primary-color-hue-3507: 267deg;
+  --bg-gradient-start-3507: rgba(69, 201, 78, 0.95);
+  --border-neon-glow-3507: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3508 {
+  --primary-color-hue-3508: 268deg;
+  --bg-gradient-start-3508: rgba(76, 214, 97, 0.95);
+  --border-neon-glow-3508: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3509 {
+  --primary-color-hue-3509: 269deg;
+  --bg-gradient-start-3509: rgba(83, 227, 116, 0.95);
+  --border-neon-glow-3509: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3510 {
+  --primary-color-hue-3510: 270deg;
+  --bg-gradient-start-3510: rgba(90, 240, 135, 0.95);
+  --border-neon-glow-3510: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3511 {
+  --primary-color-hue-3511: 271deg;
+  --bg-gradient-start-3511: rgba(97, 253, 154, 0.95);
+  --border-neon-glow-3511: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3512 {
+  --primary-color-hue-3512: 272deg;
+  --bg-gradient-start-3512: rgba(104, 11, 173, 0.95);
+  --border-neon-glow-3512: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3513 {
+  --primary-color-hue-3513: 273deg;
+  --bg-gradient-start-3513: rgba(111, 24, 192, 0.95);
+  --border-neon-glow-3513: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3514 {
+  --primary-color-hue-3514: 274deg;
+  --bg-gradient-start-3514: rgba(118, 37, 211, 0.95);
+  --border-neon-glow-3514: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3515 {
+  --primary-color-hue-3515: 275deg;
+  --bg-gradient-start-3515: rgba(125, 50, 230, 0.95);
+  --border-neon-glow-3515: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3516 {
+  --primary-color-hue-3516: 276deg;
+  --bg-gradient-start-3516: rgba(132, 63, 249, 0.95);
+  --border-neon-glow-3516: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3517 {
+  --primary-color-hue-3517: 277deg;
+  --bg-gradient-start-3517: rgba(139, 76, 13, 0.95);
+  --border-neon-glow-3517: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3518 {
+  --primary-color-hue-3518: 278deg;
+  --bg-gradient-start-3518: rgba(146, 89, 32, 0.95);
+  --border-neon-glow-3518: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3519 {
+  --primary-color-hue-3519: 279deg;
+  --bg-gradient-start-3519: rgba(153, 102, 51, 0.95);
+  --border-neon-glow-3519: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3520 {
+  --primary-color-hue-3520: 280deg;
+  --bg-gradient-start-3520: rgba(160, 115, 70, 0.95);
+  --border-neon-glow-3520: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3521 {
+  --primary-color-hue-3521: 281deg;
+  --bg-gradient-start-3521: rgba(167, 128, 89, 0.95);
+  --border-neon-glow-3521: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3522 {
+  --primary-color-hue-3522: 282deg;
+  --bg-gradient-start-3522: rgba(174, 141, 108, 0.95);
+  --border-neon-glow-3522: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3523 {
+  --primary-color-hue-3523: 283deg;
+  --bg-gradient-start-3523: rgba(181, 154, 127, 0.95);
+  --border-neon-glow-3523: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3524 {
+  --primary-color-hue-3524: 284deg;
+  --bg-gradient-start-3524: rgba(188, 167, 146, 0.95);
+  --border-neon-glow-3524: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3525 {
+  --primary-color-hue-3525: 285deg;
+  --bg-gradient-start-3525: rgba(195, 180, 165, 0.95);
+  --border-neon-glow-3525: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3526 {
+  --primary-color-hue-3526: 286deg;
+  --bg-gradient-start-3526: rgba(202, 193, 184, 0.95);
+  --border-neon-glow-3526: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3527 {
+  --primary-color-hue-3527: 287deg;
+  --bg-gradient-start-3527: rgba(209, 206, 203, 0.95);
+  --border-neon-glow-3527: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3528 {
+  --primary-color-hue-3528: 288deg;
+  --bg-gradient-start-3528: rgba(216, 219, 222, 0.95);
+  --border-neon-glow-3528: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3529 {
+  --primary-color-hue-3529: 289deg;
+  --bg-gradient-start-3529: rgba(223, 232, 241, 0.95);
+  --border-neon-glow-3529: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3530 {
+  --primary-color-hue-3530: 290deg;
+  --bg-gradient-start-3530: rgba(230, 245, 5, 0.95);
+  --border-neon-glow-3530: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3531 {
+  --primary-color-hue-3531: 291deg;
+  --bg-gradient-start-3531: rgba(237, 3, 24, 0.95);
+  --border-neon-glow-3531: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3532 {
+  --primary-color-hue-3532: 292deg;
+  --bg-gradient-start-3532: rgba(244, 16, 43, 0.95);
+  --border-neon-glow-3532: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3533 {
+  --primary-color-hue-3533: 293deg;
+  --bg-gradient-start-3533: rgba(251, 29, 62, 0.95);
+  --border-neon-glow-3533: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3534 {
+  --primary-color-hue-3534: 294deg;
+  --bg-gradient-start-3534: rgba(3, 42, 81, 0.95);
+  --border-neon-glow-3534: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3535 {
+  --primary-color-hue-3535: 295deg;
+  --bg-gradient-start-3535: rgba(10, 55, 100, 0.95);
+  --border-neon-glow-3535: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3536 {
+  --primary-color-hue-3536: 296deg;
+  --bg-gradient-start-3536: rgba(17, 68, 119, 0.95);
+  --border-neon-glow-3536: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3537 {
+  --primary-color-hue-3537: 297deg;
+  --bg-gradient-start-3537: rgba(24, 81, 138, 0.95);
+  --border-neon-glow-3537: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3538 {
+  --primary-color-hue-3538: 298deg;
+  --bg-gradient-start-3538: rgba(31, 94, 157, 0.95);
+  --border-neon-glow-3538: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3539 {
+  --primary-color-hue-3539: 299deg;
+  --bg-gradient-start-3539: rgba(38, 107, 176, 0.95);
+  --border-neon-glow-3539: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3540 {
+  --primary-color-hue-3540: 300deg;
+  --bg-gradient-start-3540: rgba(45, 120, 195, 0.95);
+  --border-neon-glow-3540: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3541 {
+  --primary-color-hue-3541: 301deg;
+  --bg-gradient-start-3541: rgba(52, 133, 214, 0.95);
+  --border-neon-glow-3541: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3542 {
+  --primary-color-hue-3542: 302deg;
+  --bg-gradient-start-3542: rgba(59, 146, 233, 0.95);
+  --border-neon-glow-3542: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3543 {
+  --primary-color-hue-3543: 303deg;
+  --bg-gradient-start-3543: rgba(66, 159, 252, 0.95);
+  --border-neon-glow-3543: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3544 {
+  --primary-color-hue-3544: 304deg;
+  --bg-gradient-start-3544: rgba(73, 172, 16, 0.95);
+  --border-neon-glow-3544: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3545 {
+  --primary-color-hue-3545: 305deg;
+  --bg-gradient-start-3545: rgba(80, 185, 35, 0.95);
+  --border-neon-glow-3545: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3546 {
+  --primary-color-hue-3546: 306deg;
+  --bg-gradient-start-3546: rgba(87, 198, 54, 0.95);
+  --border-neon-glow-3546: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3547 {
+  --primary-color-hue-3547: 307deg;
+  --bg-gradient-start-3547: rgba(94, 211, 73, 0.95);
+  --border-neon-glow-3547: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3548 {
+  --primary-color-hue-3548: 308deg;
+  --bg-gradient-start-3548: rgba(101, 224, 92, 0.95);
+  --border-neon-glow-3548: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3549 {
+  --primary-color-hue-3549: 309deg;
+  --bg-gradient-start-3549: rgba(108, 237, 111, 0.95);
+  --border-neon-glow-3549: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3550 {
+  --primary-color-hue-3550: 310deg;
+  --bg-gradient-start-3550: rgba(115, 250, 130, 0.95);
+  --border-neon-glow-3550: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3551 {
+  --primary-color-hue-3551: 311deg;
+  --bg-gradient-start-3551: rgba(122, 8, 149, 0.95);
+  --border-neon-glow-3551: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3552 {
+  --primary-color-hue-3552: 312deg;
+  --bg-gradient-start-3552: rgba(129, 21, 168, 0.95);
+  --border-neon-glow-3552: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3553 {
+  --primary-color-hue-3553: 313deg;
+  --bg-gradient-start-3553: rgba(136, 34, 187, 0.95);
+  --border-neon-glow-3553: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3554 {
+  --primary-color-hue-3554: 314deg;
+  --bg-gradient-start-3554: rgba(143, 47, 206, 0.95);
+  --border-neon-glow-3554: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3555 {
+  --primary-color-hue-3555: 315deg;
+  --bg-gradient-start-3555: rgba(150, 60, 225, 0.95);
+  --border-neon-glow-3555: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3556 {
+  --primary-color-hue-3556: 316deg;
+  --bg-gradient-start-3556: rgba(157, 73, 244, 0.95);
+  --border-neon-glow-3556: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3557 {
+  --primary-color-hue-3557: 317deg;
+  --bg-gradient-start-3557: rgba(164, 86, 8, 0.95);
+  --border-neon-glow-3557: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3558 {
+  --primary-color-hue-3558: 318deg;
+  --bg-gradient-start-3558: rgba(171, 99, 27, 0.95);
+  --border-neon-glow-3558: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3559 {
+  --primary-color-hue-3559: 319deg;
+  --bg-gradient-start-3559: rgba(178, 112, 46, 0.95);
+  --border-neon-glow-3559: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3560 {
+  --primary-color-hue-3560: 320deg;
+  --bg-gradient-start-3560: rgba(185, 125, 65, 0.95);
+  --border-neon-glow-3560: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3561 {
+  --primary-color-hue-3561: 321deg;
+  --bg-gradient-start-3561: rgba(192, 138, 84, 0.95);
+  --border-neon-glow-3561: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3562 {
+  --primary-color-hue-3562: 322deg;
+  --bg-gradient-start-3562: rgba(199, 151, 103, 0.95);
+  --border-neon-glow-3562: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3563 {
+  --primary-color-hue-3563: 323deg;
+  --bg-gradient-start-3563: rgba(206, 164, 122, 0.95);
+  --border-neon-glow-3563: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3564 {
+  --primary-color-hue-3564: 324deg;
+  --bg-gradient-start-3564: rgba(213, 177, 141, 0.95);
+  --border-neon-glow-3564: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3565 {
+  --primary-color-hue-3565: 325deg;
+  --bg-gradient-start-3565: rgba(220, 190, 160, 0.95);
+  --border-neon-glow-3565: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3566 {
+  --primary-color-hue-3566: 326deg;
+  --bg-gradient-start-3566: rgba(227, 203, 179, 0.95);
+  --border-neon-glow-3566: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3567 {
+  --primary-color-hue-3567: 327deg;
+  --bg-gradient-start-3567: rgba(234, 216, 198, 0.95);
+  --border-neon-glow-3567: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3568 {
+  --primary-color-hue-3568: 328deg;
+  --bg-gradient-start-3568: rgba(241, 229, 217, 0.95);
+  --border-neon-glow-3568: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3569 {
+  --primary-color-hue-3569: 329deg;
+  --bg-gradient-start-3569: rgba(248, 242, 236, 0.95);
+  --border-neon-glow-3569: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3570 {
+  --primary-color-hue-3570: 330deg;
+  --bg-gradient-start-3570: rgba(0, 0, 0, 0.95);
+  --border-neon-glow-3570: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3571 {
+  --primary-color-hue-3571: 331deg;
+  --bg-gradient-start-3571: rgba(7, 13, 19, 0.95);
+  --border-neon-glow-3571: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3572 {
+  --primary-color-hue-3572: 332deg;
+  --bg-gradient-start-3572: rgba(14, 26, 38, 0.95);
+  --border-neon-glow-3572: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3573 {
+  --primary-color-hue-3573: 333deg;
+  --bg-gradient-start-3573: rgba(21, 39, 57, 0.95);
+  --border-neon-glow-3573: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3574 {
+  --primary-color-hue-3574: 334deg;
+  --bg-gradient-start-3574: rgba(28, 52, 76, 0.95);
+  --border-neon-glow-3574: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3575 {
+  --primary-color-hue-3575: 335deg;
+  --bg-gradient-start-3575: rgba(35, 65, 95, 0.95);
+  --border-neon-glow-3575: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3576 {
+  --primary-color-hue-3576: 336deg;
+  --bg-gradient-start-3576: rgba(42, 78, 114, 0.95);
+  --border-neon-glow-3576: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3577 {
+  --primary-color-hue-3577: 337deg;
+  --bg-gradient-start-3577: rgba(49, 91, 133, 0.95);
+  --border-neon-glow-3577: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3578 {
+  --primary-color-hue-3578: 338deg;
+  --bg-gradient-start-3578: rgba(56, 104, 152, 0.95);
+  --border-neon-glow-3578: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3579 {
+  --primary-color-hue-3579: 339deg;
+  --bg-gradient-start-3579: rgba(63, 117, 171, 0.95);
+  --border-neon-glow-3579: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3580 {
+  --primary-color-hue-3580: 340deg;
+  --bg-gradient-start-3580: rgba(70, 130, 190, 0.95);
+  --border-neon-glow-3580: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3581 {
+  --primary-color-hue-3581: 341deg;
+  --bg-gradient-start-3581: rgba(77, 143, 209, 0.95);
+  --border-neon-glow-3581: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3582 {
+  --primary-color-hue-3582: 342deg;
+  --bg-gradient-start-3582: rgba(84, 156, 228, 0.95);
+  --border-neon-glow-3582: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3583 {
+  --primary-color-hue-3583: 343deg;
+  --bg-gradient-start-3583: rgba(91, 169, 247, 0.95);
+  --border-neon-glow-3583: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3584 {
+  --primary-color-hue-3584: 344deg;
+  --bg-gradient-start-3584: rgba(98, 182, 11, 0.95);
+  --border-neon-glow-3584: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3585 {
+  --primary-color-hue-3585: 345deg;
+  --bg-gradient-start-3585: rgba(105, 195, 30, 0.95);
+  --border-neon-glow-3585: 0 0 5px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3586 {
+  --primary-color-hue-3586: 346deg;
+  --bg-gradient-start-3586: rgba(112, 208, 49, 0.95);
+  --border-neon-glow-3586: 0 0 6px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3587 {
+  --primary-color-hue-3587: 347deg;
+  --bg-gradient-start-3587: rgba(119, 221, 68, 0.95);
+  --border-neon-glow-3587: 0 0 7px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3588 {
+  --primary-color-hue-3588: 348deg;
+  --bg-gradient-start-3588: rgba(126, 234, 87, 0.95);
+  --border-neon-glow-3588: 0 0 8px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3589 {
+  --primary-color-hue-3589: 349deg;
+  --bg-gradient-start-3589: rgba(133, 247, 106, 0.95);
+  --border-neon-glow-3589: 0 0 9px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3590 {
+  --primary-color-hue-3590: 350deg;
+  --bg-gradient-start-3590: rgba(140, 5, 125, 0.95);
+  --border-neon-glow-3590: 0 0 10px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3591 {
+  --primary-color-hue-3591: 351deg;
+  --bg-gradient-start-3591: rgba(147, 18, 144, 0.95);
+  --border-neon-glow-3591: 0 0 11px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3592 {
+  --primary-color-hue-3592: 352deg;
+  --bg-gradient-start-3592: rgba(154, 31, 163, 0.95);
+  --border-neon-glow-3592: 0 0 12px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3593 {
+  --primary-color-hue-3593: 353deg;
+  --bg-gradient-start-3593: rgba(161, 44, 182, 0.95);
+  --border-neon-glow-3593: 0 0 13px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3594 {
+  --primary-color-hue-3594: 354deg;
+  --bg-gradient-start-3594: rgba(168, 57, 201, 0.95);
+  --border-neon-glow-3594: 0 0 14px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3595 {
+  --primary-color-hue-3595: 355deg;
+  --bg-gradient-start-3595: rgba(175, 70, 220, 0.95);
+  --border-neon-glow-3595: 0 0 15px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3596 {
+  --primary-color-hue-3596: 356deg;
+  --bg-gradient-start-3596: rgba(182, 83, 239, 0.95);
+  --border-neon-glow-3596: 0 0 16px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3597 {
+  --primary-color-hue-3597: 357deg;
+  --bg-gradient-start-3597: rgba(189, 96, 3, 0.95);
+  --border-neon-glow-3597: 0 0 17px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3598 {
+  --primary-color-hue-3598: 358deg;
+  --bg-gradient-start-3598: rgba(196, 109, 22, 0.95);
+  --border-neon-glow-3598: 0 0 18px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+
+.theme-variant-3599 {
+  --primary-color-hue-3599: 359deg;
+  --bg-gradient-start-3599: rgba(203, 122, 41, 0.95);
+  --border-neon-glow-3599: 0 0 19px rgba(0, 243, 255, 0.4);
+  font-family: var(--font-main);
+}
+

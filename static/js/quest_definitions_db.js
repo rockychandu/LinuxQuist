@@ -14991,4 +14991,1004 @@ window.LINUXQUEST_QUEST_DB = [
     hint: "Use touch completed_1499.txt",
     xp_reward: 290
   },
+  {
+    id: 1500,
+    slug: "quest-scenario-1500",
+    title: "Linux Quest Mission #1500",
+    objective: "Execute required command line sequence for challenge #1500",
+    initial_vfs: { files: { "/home/hero/file_1500.txt": "sample 1500" } },
+    expected_state: { required_file: "/home/hero/completed_1500.txt" },
+    hint: "Use touch completed_1500.txt",
+    xp_reward: 100
+  },
+  {
+    id: 1501,
+    slug: "quest-scenario-1501",
+    title: "Linux Quest Mission #1501",
+    objective: "Execute required command line sequence for challenge #1501",
+    initial_vfs: { files: { "/home/hero/file_1501.txt": "sample 1501" } },
+    expected_state: { required_file: "/home/hero/completed_1501.txt" },
+    hint: "Use touch completed_1501.txt",
+    xp_reward: 110
+  },
+  {
+    id: 1502,
+    slug: "quest-scenario-1502",
+    title: "Linux Quest Mission #1502",
+    objective: "Execute required command line sequence for challenge #1502",
+    initial_vfs: { files: { "/home/hero/file_1502.txt": "sample 1502" } },
+    expected_state: { required_file: "/home/hero/completed_1502.txt" },
+    hint: "Use touch completed_1502.txt",
+    xp_reward: 120
+  },
+  {
+    id: 1503,
+    slug: "quest-scenario-1503",
+    title: "Linux Quest Mission #1503",
+    objective: "Execute required command line sequence for challenge #1503",
+    initial_vfs: { files: { "/home/hero/file_1503.txt": "sample 1503" } },
+    expected_state: { required_file: "/home/hero/completed_1503.txt" },
+    hint: "Use touch completed_1503.txt",
+    xp_reward: 130
+  },
+  {
+    id: 1504,
+    slug: "quest-scenario-1504",
+    title: "Linux Quest Mission #1504",
+    objective: "Execute required command line sequence for challenge #1504",
+    initial_vfs: { files: { "/home/hero/file_1504.txt": "sample 1504" } },
+    expected_state: { required_file: "/home/hero/completed_1504.txt" },
+    hint: "Use touch completed_1504.txt",
+    xp_reward: 140
+  },
+  {
+    id: 1505,
+    slug: "quest-scenario-1505",
+    title: "Linux Quest Mission #1505",
+    objective: "Execute required command line sequence for challenge #1505",
+    initial_vfs: { files: { "/home/hero/file_1505.txt": "sample 1505" } },
+    expected_state: { required_file: "/home/hero/completed_1505.txt" },
+    hint: "Use touch completed_1505.txt",
+    xp_reward: 150
+  },
+  {
+    id: 1506,
+    slug: "quest-scenario-1506",
+    title: "Linux Quest Mission #1506",
+    objective: "Execute required command line sequence for challenge #1506",
+    initial_vfs: { files: { "/home/hero/file_1506.txt": "sample 1506" } },
+    expected_state: { required_file: "/home/hero/completed_1506.txt" },
+    hint: "Use touch completed_1506.txt",
+    xp_reward: 160
+  },
+  {
+    id: 1507,
+    slug: "quest-scenario-1507",
+    title: "Linux Quest Mission #1507",
+    objective: "Execute required command line sequence for challenge #1507",
+    initial_vfs: { files: { "/home/hero/file_1507.txt": "sample 1507" } },
+    expected_state: { required_file: "/home/hero/completed_1507.txt" },
+    hint: "Use touch completed_1507.txt",
+    xp_reward: 170
+  },
+  {
+    id: 1508,
+    slug: "quest-scenario-1508",
+    title: "Linux Quest Mission #1508",
+    objective: "Execute required command line sequence for challenge #1508",
+    initial_vfs: { files: { "/home/hero/file_1508.txt": "sample 1508" } },
+    expected_state: { required_file: "/home/hero/completed_1508.txt" },
+    hint: "Use touch completed_1508.txt",
+    xp_reward: 180
+  },
+  {
+    id: 1509,
+    slug: "quest-scenario-1509",
+    title: "Linux Quest Mission #1509",
+    objective: "Execute required command line sequence for challenge #1509",
+    initial_vfs: { files: { "/home/hero/file_1509.txt": "sample 1509" } },
+    expected_state: { required_file: "/home/hero/completed_1509.txt" },
+    hint: "Use touch completed_1509.txt",
+    xp_reward: 190
+  },
+  {
+    id: 1510,
+    slug: "quest-scenario-1510",
+    title: "Linux Quest Mission #1510",
+    objective: "Execute required command line sequence for challenge #1510",
+    initial_vfs: { files: { "/home/hero/file_1510.txt": "sample 1510" } },
+    expected_state: { required_file: "/home/hero/completed_1510.txt" },
+    hint: "Use touch completed_1510.txt",
+    xp_reward: 200
+  },
+  {
+    id: 1511,
+    slug: "quest-scenario-1511",
+    title: "Linux Quest Mission #1511",
+    objective: "Execute required command line sequence for challenge #1511",
+    initial_vfs: { files: { "/home/hero/file_1511.txt": "sample 1511" } },
+    expected_state: { required_file: "/home/hero/completed_1511.txt" },
+    hint: "Use touch completed_1511.txt",
+    xp_reward: 210
+  },
+  {
+    id: 1512,
+    slug: "quest-scenario-1512",
+    title: "Linux Quest Mission #1512",
+    objective: "Execute required command line sequence for challenge #1512",
+    initial_vfs: { files: { "/home/hero/file_1512.txt": "sample 1512" } },
+    expected_state: { required_file: "/home/hero/completed_1512.txt" },
+    hint: "Use touch completed_1512.txt",
+    xp_reward: 220
+  },
+  {
+    id: 1513,
+    slug: "quest-scenario-1513",
+    title: "Linux Quest Mission #1513",
+    objective: "Execute required command line sequence for challenge #1513",
+    initial_vfs: { files: { "/home/hero/file_1513.txt": "sample 1513" } },
+    expected_state: { required_file: "/home/hero/completed_1513.txt" },
+    hint: "Use touch completed_1513.txt",
+    xp_reward: 230
+  },
+  {
+    id: 1514,
+    slug: "quest-scenario-1514",
+    title: "Linux Quest Mission #1514",
+    objective: "Execute required command line sequence for challenge #1514",
+    initial_vfs: { files: { "/home/hero/file_1514.txt": "sample 1514" } },
+    expected_state: { required_file: "/home/hero/completed_1514.txt" },
+    hint: "Use touch completed_1514.txt",
+    xp_reward: 240
+  },
+  {
+    id: 1515,
+    slug: "quest-scenario-1515",
+    title: "Linux Quest Mission #1515",
+    objective: "Execute required command line sequence for challenge #1515",
+    initial_vfs: { files: { "/home/hero/file_1515.txt": "sample 1515" } },
+    expected_state: { required_file: "/home/hero/completed_1515.txt" },
+    hint: "Use touch completed_1515.txt",
+    xp_reward: 250
+  },
+  {
+    id: 1516,
+    slug: "quest-scenario-1516",
+    title: "Linux Quest Mission #1516",
+    objective: "Execute required command line sequence for challenge #1516",
+    initial_vfs: { files: { "/home/hero/file_1516.txt": "sample 1516" } },
+    expected_state: { required_file: "/home/hero/completed_1516.txt" },
+    hint: "Use touch completed_1516.txt",
+    xp_reward: 260
+  },
+  {
+    id: 1517,
+    slug: "quest-scenario-1517",
+    title: "Linux Quest Mission #1517",
+    objective: "Execute required command line sequence for challenge #1517",
+    initial_vfs: { files: { "/home/hero/file_1517.txt": "sample 1517" } },
+    expected_state: { required_file: "/home/hero/completed_1517.txt" },
+    hint: "Use touch completed_1517.txt",
+    xp_reward: 270
+  },
+  {
+    id: 1518,
+    slug: "quest-scenario-1518",
+    title: "Linux Quest Mission #1518",
+    objective: "Execute required command line sequence for challenge #1518",
+    initial_vfs: { files: { "/home/hero/file_1518.txt": "sample 1518" } },
+    expected_state: { required_file: "/home/hero/completed_1518.txt" },
+    hint: "Use touch completed_1518.txt",
+    xp_reward: 280
+  },
+  {
+    id: 1519,
+    slug: "quest-scenario-1519",
+    title: "Linux Quest Mission #1519",
+    objective: "Execute required command line sequence for challenge #1519",
+    initial_vfs: { files: { "/home/hero/file_1519.txt": "sample 1519" } },
+    expected_state: { required_file: "/home/hero/completed_1519.txt" },
+    hint: "Use touch completed_1519.txt",
+    xp_reward: 290
+  },
+  {
+    id: 1520,
+    slug: "quest-scenario-1520",
+    title: "Linux Quest Mission #1520",
+    objective: "Execute required command line sequence for challenge #1520",
+    initial_vfs: { files: { "/home/hero/file_1520.txt": "sample 1520" } },
+    expected_state: { required_file: "/home/hero/completed_1520.txt" },
+    hint: "Use touch completed_1520.txt",
+    xp_reward: 100
+  },
+  {
+    id: 1521,
+    slug: "quest-scenario-1521",
+    title: "Linux Quest Mission #1521",
+    objective: "Execute required command line sequence for challenge #1521",
+    initial_vfs: { files: { "/home/hero/file_1521.txt": "sample 1521" } },
+    expected_state: { required_file: "/home/hero/completed_1521.txt" },
+    hint: "Use touch completed_1521.txt",
+    xp_reward: 110
+  },
+  {
+    id: 1522,
+    slug: "quest-scenario-1522",
+    title: "Linux Quest Mission #1522",
+    objective: "Execute required command line sequence for challenge #1522",
+    initial_vfs: { files: { "/home/hero/file_1522.txt": "sample 1522" } },
+    expected_state: { required_file: "/home/hero/completed_1522.txt" },
+    hint: "Use touch completed_1522.txt",
+    xp_reward: 120
+  },
+  {
+    id: 1523,
+    slug: "quest-scenario-1523",
+    title: "Linux Quest Mission #1523",
+    objective: "Execute required command line sequence for challenge #1523",
+    initial_vfs: { files: { "/home/hero/file_1523.txt": "sample 1523" } },
+    expected_state: { required_file: "/home/hero/completed_1523.txt" },
+    hint: "Use touch completed_1523.txt",
+    xp_reward: 130
+  },
+  {
+    id: 1524,
+    slug: "quest-scenario-1524",
+    title: "Linux Quest Mission #1524",
+    objective: "Execute required command line sequence for challenge #1524",
+    initial_vfs: { files: { "/home/hero/file_1524.txt": "sample 1524" } },
+    expected_state: { required_file: "/home/hero/completed_1524.txt" },
+    hint: "Use touch completed_1524.txt",
+    xp_reward: 140
+  },
+  {
+    id: 1525,
+    slug: "quest-scenario-1525",
+    title: "Linux Quest Mission #1525",
+    objective: "Execute required command line sequence for challenge #1525",
+    initial_vfs: { files: { "/home/hero/file_1525.txt": "sample 1525" } },
+    expected_state: { required_file: "/home/hero/completed_1525.txt" },
+    hint: "Use touch completed_1525.txt",
+    xp_reward: 150
+  },
+  {
+    id: 1526,
+    slug: "quest-scenario-1526",
+    title: "Linux Quest Mission #1526",
+    objective: "Execute required command line sequence for challenge #1526",
+    initial_vfs: { files: { "/home/hero/file_1526.txt": "sample 1526" } },
+    expected_state: { required_file: "/home/hero/completed_1526.txt" },
+    hint: "Use touch completed_1526.txt",
+    xp_reward: 160
+  },
+  {
+    id: 1527,
+    slug: "quest-scenario-1527",
+    title: "Linux Quest Mission #1527",
+    objective: "Execute required command line sequence for challenge #1527",
+    initial_vfs: { files: { "/home/hero/file_1527.txt": "sample 1527" } },
+    expected_state: { required_file: "/home/hero/completed_1527.txt" },
+    hint: "Use touch completed_1527.txt",
+    xp_reward: 170
+  },
+  {
+    id: 1528,
+    slug: "quest-scenario-1528",
+    title: "Linux Quest Mission #1528",
+    objective: "Execute required command line sequence for challenge #1528",
+    initial_vfs: { files: { "/home/hero/file_1528.txt": "sample 1528" } },
+    expected_state: { required_file: "/home/hero/completed_1528.txt" },
+    hint: "Use touch completed_1528.txt",
+    xp_reward: 180
+  },
+  {
+    id: 1529,
+    slug: "quest-scenario-1529",
+    title: "Linux Quest Mission #1529",
+    objective: "Execute required command line sequence for challenge #1529",
+    initial_vfs: { files: { "/home/hero/file_1529.txt": "sample 1529" } },
+    expected_state: { required_file: "/home/hero/completed_1529.txt" },
+    hint: "Use touch completed_1529.txt",
+    xp_reward: 190
+  },
+  {
+    id: 1530,
+    slug: "quest-scenario-1530",
+    title: "Linux Quest Mission #1530",
+    objective: "Execute required command line sequence for challenge #1530",
+    initial_vfs: { files: { "/home/hero/file_1530.txt": "sample 1530" } },
+    expected_state: { required_file: "/home/hero/completed_1530.txt" },
+    hint: "Use touch completed_1530.txt",
+    xp_reward: 200
+  },
+  {
+    id: 1531,
+    slug: "quest-scenario-1531",
+    title: "Linux Quest Mission #1531",
+    objective: "Execute required command line sequence for challenge #1531",
+    initial_vfs: { files: { "/home/hero/file_1531.txt": "sample 1531" } },
+    expected_state: { required_file: "/home/hero/completed_1531.txt" },
+    hint: "Use touch completed_1531.txt",
+    xp_reward: 210
+  },
+  {
+    id: 1532,
+    slug: "quest-scenario-1532",
+    title: "Linux Quest Mission #1532",
+    objective: "Execute required command line sequence for challenge #1532",
+    initial_vfs: { files: { "/home/hero/file_1532.txt": "sample 1532" } },
+    expected_state: { required_file: "/home/hero/completed_1532.txt" },
+    hint: "Use touch completed_1532.txt",
+    xp_reward: 220
+  },
+  {
+    id: 1533,
+    slug: "quest-scenario-1533",
+    title: "Linux Quest Mission #1533",
+    objective: "Execute required command line sequence for challenge #1533",
+    initial_vfs: { files: { "/home/hero/file_1533.txt": "sample 1533" } },
+    expected_state: { required_file: "/home/hero/completed_1533.txt" },
+    hint: "Use touch completed_1533.txt",
+    xp_reward: 230
+  },
+  {
+    id: 1534,
+    slug: "quest-scenario-1534",
+    title: "Linux Quest Mission #1534",
+    objective: "Execute required command line sequence for challenge #1534",
+    initial_vfs: { files: { "/home/hero/file_1534.txt": "sample 1534" } },
+    expected_state: { required_file: "/home/hero/completed_1534.txt" },
+    hint: "Use touch completed_1534.txt",
+    xp_reward: 240
+  },
+  {
+    id: 1535,
+    slug: "quest-scenario-1535",
+    title: "Linux Quest Mission #1535",
+    objective: "Execute required command line sequence for challenge #1535",
+    initial_vfs: { files: { "/home/hero/file_1535.txt": "sample 1535" } },
+    expected_state: { required_file: "/home/hero/completed_1535.txt" },
+    hint: "Use touch completed_1535.txt",
+    xp_reward: 250
+  },
+  {
+    id: 1536,
+    slug: "quest-scenario-1536",
+    title: "Linux Quest Mission #1536",
+    objective: "Execute required command line sequence for challenge #1536",
+    initial_vfs: { files: { "/home/hero/file_1536.txt": "sample 1536" } },
+    expected_state: { required_file: "/home/hero/completed_1536.txt" },
+    hint: "Use touch completed_1536.txt",
+    xp_reward: 260
+  },
+  {
+    id: 1537,
+    slug: "quest-scenario-1537",
+    title: "Linux Quest Mission #1537",
+    objective: "Execute required command line sequence for challenge #1537",
+    initial_vfs: { files: { "/home/hero/file_1537.txt": "sample 1537" } },
+    expected_state: { required_file: "/home/hero/completed_1537.txt" },
+    hint: "Use touch completed_1537.txt",
+    xp_reward: 270
+  },
+  {
+    id: 1538,
+    slug: "quest-scenario-1538",
+    title: "Linux Quest Mission #1538",
+    objective: "Execute required command line sequence for challenge #1538",
+    initial_vfs: { files: { "/home/hero/file_1538.txt": "sample 1538" } },
+    expected_state: { required_file: "/home/hero/completed_1538.txt" },
+    hint: "Use touch completed_1538.txt",
+    xp_reward: 280
+  },
+  {
+    id: 1539,
+    slug: "quest-scenario-1539",
+    title: "Linux Quest Mission #1539",
+    objective: "Execute required command line sequence for challenge #1539",
+    initial_vfs: { files: { "/home/hero/file_1539.txt": "sample 1539" } },
+    expected_state: { required_file: "/home/hero/completed_1539.txt" },
+    hint: "Use touch completed_1539.txt",
+    xp_reward: 290
+  },
+  {
+    id: 1540,
+    slug: "quest-scenario-1540",
+    title: "Linux Quest Mission #1540",
+    objective: "Execute required command line sequence for challenge #1540",
+    initial_vfs: { files: { "/home/hero/file_1540.txt": "sample 1540" } },
+    expected_state: { required_file: "/home/hero/completed_1540.txt" },
+    hint: "Use touch completed_1540.txt",
+    xp_reward: 100
+  },
+  {
+    id: 1541,
+    slug: "quest-scenario-1541",
+    title: "Linux Quest Mission #1541",
+    objective: "Execute required command line sequence for challenge #1541",
+    initial_vfs: { files: { "/home/hero/file_1541.txt": "sample 1541" } },
+    expected_state: { required_file: "/home/hero/completed_1541.txt" },
+    hint: "Use touch completed_1541.txt",
+    xp_reward: 110
+  },
+  {
+    id: 1542,
+    slug: "quest-scenario-1542",
+    title: "Linux Quest Mission #1542",
+    objective: "Execute required command line sequence for challenge #1542",
+    initial_vfs: { files: { "/home/hero/file_1542.txt": "sample 1542" } },
+    expected_state: { required_file: "/home/hero/completed_1542.txt" },
+    hint: "Use touch completed_1542.txt",
+    xp_reward: 120
+  },
+  {
+    id: 1543,
+    slug: "quest-scenario-1543",
+    title: "Linux Quest Mission #1543",
+    objective: "Execute required command line sequence for challenge #1543",
+    initial_vfs: { files: { "/home/hero/file_1543.txt": "sample 1543" } },
+    expected_state: { required_file: "/home/hero/completed_1543.txt" },
+    hint: "Use touch completed_1543.txt",
+    xp_reward: 130
+  },
+  {
+    id: 1544,
+    slug: "quest-scenario-1544",
+    title: "Linux Quest Mission #1544",
+    objective: "Execute required command line sequence for challenge #1544",
+    initial_vfs: { files: { "/home/hero/file_1544.txt": "sample 1544" } },
+    expected_state: { required_file: "/home/hero/completed_1544.txt" },
+    hint: "Use touch completed_1544.txt",
+    xp_reward: 140
+  },
+  {
+    id: 1545,
+    slug: "quest-scenario-1545",
+    title: "Linux Quest Mission #1545",
+    objective: "Execute required command line sequence for challenge #1545",
+    initial_vfs: { files: { "/home/hero/file_1545.txt": "sample 1545" } },
+    expected_state: { required_file: "/home/hero/completed_1545.txt" },
+    hint: "Use touch completed_1545.txt",
+    xp_reward: 150
+  },
+  {
+    id: 1546,
+    slug: "quest-scenario-1546",
+    title: "Linux Quest Mission #1546",
+    objective: "Execute required command line sequence for challenge #1546",
+    initial_vfs: { files: { "/home/hero/file_1546.txt": "sample 1546" } },
+    expected_state: { required_file: "/home/hero/completed_1546.txt" },
+    hint: "Use touch completed_1546.txt",
+    xp_reward: 160
+  },
+  {
+    id: 1547,
+    slug: "quest-scenario-1547",
+    title: "Linux Quest Mission #1547",
+    objective: "Execute required command line sequence for challenge #1547",
+    initial_vfs: { files: { "/home/hero/file_1547.txt": "sample 1547" } },
+    expected_state: { required_file: "/home/hero/completed_1547.txt" },
+    hint: "Use touch completed_1547.txt",
+    xp_reward: 170
+  },
+  {
+    id: 1548,
+    slug: "quest-scenario-1548",
+    title: "Linux Quest Mission #1548",
+    objective: "Execute required command line sequence for challenge #1548",
+    initial_vfs: { files: { "/home/hero/file_1548.txt": "sample 1548" } },
+    expected_state: { required_file: "/home/hero/completed_1548.txt" },
+    hint: "Use touch completed_1548.txt",
+    xp_reward: 180
+  },
+  {
+    id: 1549,
+    slug: "quest-scenario-1549",
+    title: "Linux Quest Mission #1549",
+    objective: "Execute required command line sequence for challenge #1549",
+    initial_vfs: { files: { "/home/hero/file_1549.txt": "sample 1549" } },
+    expected_state: { required_file: "/home/hero/completed_1549.txt" },
+    hint: "Use touch completed_1549.txt",
+    xp_reward: 190
+  },
+  {
+    id: 1550,
+    slug: "quest-scenario-1550",
+    title: "Linux Quest Mission #1550",
+    objective: "Execute required command line sequence for challenge #1550",
+    initial_vfs: { files: { "/home/hero/file_1550.txt": "sample 1550" } },
+    expected_state: { required_file: "/home/hero/completed_1550.txt" },
+    hint: "Use touch completed_1550.txt",
+    xp_reward: 200
+  },
+  {
+    id: 1551,
+    slug: "quest-scenario-1551",
+    title: "Linux Quest Mission #1551",
+    objective: "Execute required command line sequence for challenge #1551",
+    initial_vfs: { files: { "/home/hero/file_1551.txt": "sample 1551" } },
+    expected_state: { required_file: "/home/hero/completed_1551.txt" },
+    hint: "Use touch completed_1551.txt",
+    xp_reward: 210
+  },
+  {
+    id: 1552,
+    slug: "quest-scenario-1552",
+    title: "Linux Quest Mission #1552",
+    objective: "Execute required command line sequence for challenge #1552",
+    initial_vfs: { files: { "/home/hero/file_1552.txt": "sample 1552" } },
+    expected_state: { required_file: "/home/hero/completed_1552.txt" },
+    hint: "Use touch completed_1552.txt",
+    xp_reward: 220
+  },
+  {
+    id: 1553,
+    slug: "quest-scenario-1553",
+    title: "Linux Quest Mission #1553",
+    objective: "Execute required command line sequence for challenge #1553",
+    initial_vfs: { files: { "/home/hero/file_1553.txt": "sample 1553" } },
+    expected_state: { required_file: "/home/hero/completed_1553.txt" },
+    hint: "Use touch completed_1553.txt",
+    xp_reward: 230
+  },
+  {
+    id: 1554,
+    slug: "quest-scenario-1554",
+    title: "Linux Quest Mission #1554",
+    objective: "Execute required command line sequence for challenge #1554",
+    initial_vfs: { files: { "/home/hero/file_1554.txt": "sample 1554" } },
+    expected_state: { required_file: "/home/hero/completed_1554.txt" },
+    hint: "Use touch completed_1554.txt",
+    xp_reward: 240
+  },
+  {
+    id: 1555,
+    slug: "quest-scenario-1555",
+    title: "Linux Quest Mission #1555",
+    objective: "Execute required command line sequence for challenge #1555",
+    initial_vfs: { files: { "/home/hero/file_1555.txt": "sample 1555" } },
+    expected_state: { required_file: "/home/hero/completed_1555.txt" },
+    hint: "Use touch completed_1555.txt",
+    xp_reward: 250
+  },
+  {
+    id: 1556,
+    slug: "quest-scenario-1556",
+    title: "Linux Quest Mission #1556",
+    objective: "Execute required command line sequence for challenge #1556",
+    initial_vfs: { files: { "/home/hero/file_1556.txt": "sample 1556" } },
+    expected_state: { required_file: "/home/hero/completed_1556.txt" },
+    hint: "Use touch completed_1556.txt",
+    xp_reward: 260
+  },
+  {
+    id: 1557,
+    slug: "quest-scenario-1557",
+    title: "Linux Quest Mission #1557",
+    objective: "Execute required command line sequence for challenge #1557",
+    initial_vfs: { files: { "/home/hero/file_1557.txt": "sample 1557" } },
+    expected_state: { required_file: "/home/hero/completed_1557.txt" },
+    hint: "Use touch completed_1557.txt",
+    xp_reward: 270
+  },
+  {
+    id: 1558,
+    slug: "quest-scenario-1558",
+    title: "Linux Quest Mission #1558",
+    objective: "Execute required command line sequence for challenge #1558",
+    initial_vfs: { files: { "/home/hero/file_1558.txt": "sample 1558" } },
+    expected_state: { required_file: "/home/hero/completed_1558.txt" },
+    hint: "Use touch completed_1558.txt",
+    xp_reward: 280
+  },
+  {
+    id: 1559,
+    slug: "quest-scenario-1559",
+    title: "Linux Quest Mission #1559",
+    objective: "Execute required command line sequence for challenge #1559",
+    initial_vfs: { files: { "/home/hero/file_1559.txt": "sample 1559" } },
+    expected_state: { required_file: "/home/hero/completed_1559.txt" },
+    hint: "Use touch completed_1559.txt",
+    xp_reward: 290
+  },
+  {
+    id: 1560,
+    slug: "quest-scenario-1560",
+    title: "Linux Quest Mission #1560",
+    objective: "Execute required command line sequence for challenge #1560",
+    initial_vfs: { files: { "/home/hero/file_1560.txt": "sample 1560" } },
+    expected_state: { required_file: "/home/hero/completed_1560.txt" },
+    hint: "Use touch completed_1560.txt",
+    xp_reward: 100
+  },
+  {
+    id: 1561,
+    slug: "quest-scenario-1561",
+    title: "Linux Quest Mission #1561",
+    objective: "Execute required command line sequence for challenge #1561",
+    initial_vfs: { files: { "/home/hero/file_1561.txt": "sample 1561" } },
+    expected_state: { required_file: "/home/hero/completed_1561.txt" },
+    hint: "Use touch completed_1561.txt",
+    xp_reward: 110
+  },
+  {
+    id: 1562,
+    slug: "quest-scenario-1562",
+    title: "Linux Quest Mission #1562",
+    objective: "Execute required command line sequence for challenge #1562",
+    initial_vfs: { files: { "/home/hero/file_1562.txt": "sample 1562" } },
+    expected_state: { required_file: "/home/hero/completed_1562.txt" },
+    hint: "Use touch completed_1562.txt",
+    xp_reward: 120
+  },
+  {
+    id: 1563,
+    slug: "quest-scenario-1563",
+    title: "Linux Quest Mission #1563",
+    objective: "Execute required command line sequence for challenge #1563",
+    initial_vfs: { files: { "/home/hero/file_1563.txt": "sample 1563" } },
+    expected_state: { required_file: "/home/hero/completed_1563.txt" },
+    hint: "Use touch completed_1563.txt",
+    xp_reward: 130
+  },
+  {
+    id: 1564,
+    slug: "quest-scenario-1564",
+    title: "Linux Quest Mission #1564",
+    objective: "Execute required command line sequence for challenge #1564",
+    initial_vfs: { files: { "/home/hero/file_1564.txt": "sample 1564" } },
+    expected_state: { required_file: "/home/hero/completed_1564.txt" },
+    hint: "Use touch completed_1564.txt",
+    xp_reward: 140
+  },
+  {
+    id: 1565,
+    slug: "quest-scenario-1565",
+    title: "Linux Quest Mission #1565",
+    objective: "Execute required command line sequence for challenge #1565",
+    initial_vfs: { files: { "/home/hero/file_1565.txt": "sample 1565" } },
+    expected_state: { required_file: "/home/hero/completed_1565.txt" },
+    hint: "Use touch completed_1565.txt",
+    xp_reward: 150
+  },
+  {
+    id: 1566,
+    slug: "quest-scenario-1566",
+    title: "Linux Quest Mission #1566",
+    objective: "Execute required command line sequence for challenge #1566",
+    initial_vfs: { files: { "/home/hero/file_1566.txt": "sample 1566" } },
+    expected_state: { required_file: "/home/hero/completed_1566.txt" },
+    hint: "Use touch completed_1566.txt",
+    xp_reward: 160
+  },
+  {
+    id: 1567,
+    slug: "quest-scenario-1567",
+    title: "Linux Quest Mission #1567",
+    objective: "Execute required command line sequence for challenge #1567",
+    initial_vfs: { files: { "/home/hero/file_1567.txt": "sample 1567" } },
+    expected_state: { required_file: "/home/hero/completed_1567.txt" },
+    hint: "Use touch completed_1567.txt",
+    xp_reward: 170
+  },
+  {
+    id: 1568,
+    slug: "quest-scenario-1568",
+    title: "Linux Quest Mission #1568",
+    objective: "Execute required command line sequence for challenge #1568",
+    initial_vfs: { files: { "/home/hero/file_1568.txt": "sample 1568" } },
+    expected_state: { required_file: "/home/hero/completed_1568.txt" },
+    hint: "Use touch completed_1568.txt",
+    xp_reward: 180
+  },
+  {
+    id: 1569,
+    slug: "quest-scenario-1569",
+    title: "Linux Quest Mission #1569",
+    objective: "Execute required command line sequence for challenge #1569",
+    initial_vfs: { files: { "/home/hero/file_1569.txt": "sample 1569" } },
+    expected_state: { required_file: "/home/hero/completed_1569.txt" },
+    hint: "Use touch completed_1569.txt",
+    xp_reward: 190
+  },
+  {
+    id: 1570,
+    slug: "quest-scenario-1570",
+    title: "Linux Quest Mission #1570",
+    objective: "Execute required command line sequence for challenge #1570",
+    initial_vfs: { files: { "/home/hero/file_1570.txt": "sample 1570" } },
+    expected_state: { required_file: "/home/hero/completed_1570.txt" },
+    hint: "Use touch completed_1570.txt",
+    xp_reward: 200
+  },
+  {
+    id: 1571,
+    slug: "quest-scenario-1571",
+    title: "Linux Quest Mission #1571",
+    objective: "Execute required command line sequence for challenge #1571",
+    initial_vfs: { files: { "/home/hero/file_1571.txt": "sample 1571" } },
+    expected_state: { required_file: "/home/hero/completed_1571.txt" },
+    hint: "Use touch completed_1571.txt",
+    xp_reward: 210
+  },
+  {
+    id: 1572,
+    slug: "quest-scenario-1572",
+    title: "Linux Quest Mission #1572",
+    objective: "Execute required command line sequence for challenge #1572",
+    initial_vfs: { files: { "/home/hero/file_1572.txt": "sample 1572" } },
+    expected_state: { required_file: "/home/hero/completed_1572.txt" },
+    hint: "Use touch completed_1572.txt",
+    xp_reward: 220
+  },
+  {
+    id: 1573,
+    slug: "quest-scenario-1573",
+    title: "Linux Quest Mission #1573",
+    objective: "Execute required command line sequence for challenge #1573",
+    initial_vfs: { files: { "/home/hero/file_1573.txt": "sample 1573" } },
+    expected_state: { required_file: "/home/hero/completed_1573.txt" },
+    hint: "Use touch completed_1573.txt",
+    xp_reward: 230
+  },
+  {
+    id: 1574,
+    slug: "quest-scenario-1574",
+    title: "Linux Quest Mission #1574",
+    objective: "Execute required command line sequence for challenge #1574",
+    initial_vfs: { files: { "/home/hero/file_1574.txt": "sample 1574" } },
+    expected_state: { required_file: "/home/hero/completed_1574.txt" },
+    hint: "Use touch completed_1574.txt",
+    xp_reward: 240
+  },
+  {
+    id: 1575,
+    slug: "quest-scenario-1575",
+    title: "Linux Quest Mission #1575",
+    objective: "Execute required command line sequence for challenge #1575",
+    initial_vfs: { files: { "/home/hero/file_1575.txt": "sample 1575" } },
+    expected_state: { required_file: "/home/hero/completed_1575.txt" },
+    hint: "Use touch completed_1575.txt",
+    xp_reward: 250
+  },
+  {
+    id: 1576,
+    slug: "quest-scenario-1576",
+    title: "Linux Quest Mission #1576",
+    objective: "Execute required command line sequence for challenge #1576",
+    initial_vfs: { files: { "/home/hero/file_1576.txt": "sample 1576" } },
+    expected_state: { required_file: "/home/hero/completed_1576.txt" },
+    hint: "Use touch completed_1576.txt",
+    xp_reward: 260
+  },
+  {
+    id: 1577,
+    slug: "quest-scenario-1577",
+    title: "Linux Quest Mission #1577",
+    objective: "Execute required command line sequence for challenge #1577",
+    initial_vfs: { files: { "/home/hero/file_1577.txt": "sample 1577" } },
+    expected_state: { required_file: "/home/hero/completed_1577.txt" },
+    hint: "Use touch completed_1577.txt",
+    xp_reward: 270
+  },
+  {
+    id: 1578,
+    slug: "quest-scenario-1578",
+    title: "Linux Quest Mission #1578",
+    objective: "Execute required command line sequence for challenge #1578",
+    initial_vfs: { files: { "/home/hero/file_1578.txt": "sample 1578" } },
+    expected_state: { required_file: "/home/hero/completed_1578.txt" },
+    hint: "Use touch completed_1578.txt",
+    xp_reward: 280
+  },
+  {
+    id: 1579,
+    slug: "quest-scenario-1579",
+    title: "Linux Quest Mission #1579",
+    objective: "Execute required command line sequence for challenge #1579",
+    initial_vfs: { files: { "/home/hero/file_1579.txt": "sample 1579" } },
+    expected_state: { required_file: "/home/hero/completed_1579.txt" },
+    hint: "Use touch completed_1579.txt",
+    xp_reward: 290
+  },
+  {
+    id: 1580,
+    slug: "quest-scenario-1580",
+    title: "Linux Quest Mission #1580",
+    objective: "Execute required command line sequence for challenge #1580",
+    initial_vfs: { files: { "/home/hero/file_1580.txt": "sample 1580" } },
+    expected_state: { required_file: "/home/hero/completed_1580.txt" },
+    hint: "Use touch completed_1580.txt",
+    xp_reward: 100
+  },
+  {
+    id: 1581,
+    slug: "quest-scenario-1581",
+    title: "Linux Quest Mission #1581",
+    objective: "Execute required command line sequence for challenge #1581",
+    initial_vfs: { files: { "/home/hero/file_1581.txt": "sample 1581" } },
+    expected_state: { required_file: "/home/hero/completed_1581.txt" },
+    hint: "Use touch completed_1581.txt",
+    xp_reward: 110
+  },
+  {
+    id: 1582,
+    slug: "quest-scenario-1582",
+    title: "Linux Quest Mission #1582",
+    objective: "Execute required command line sequence for challenge #1582",
+    initial_vfs: { files: { "/home/hero/file_1582.txt": "sample 1582" } },
+    expected_state: { required_file: "/home/hero/completed_1582.txt" },
+    hint: "Use touch completed_1582.txt",
+    xp_reward: 120
+  },
+  {
+    id: 1583,
+    slug: "quest-scenario-1583",
+    title: "Linux Quest Mission #1583",
+    objective: "Execute required command line sequence for challenge #1583",
+    initial_vfs: { files: { "/home/hero/file_1583.txt": "sample 1583" } },
+    expected_state: { required_file: "/home/hero/completed_1583.txt" },
+    hint: "Use touch completed_1583.txt",
+    xp_reward: 130
+  },
+  {
+    id: 1584,
+    slug: "quest-scenario-1584",
+    title: "Linux Quest Mission #1584",
+    objective: "Execute required command line sequence for challenge #1584",
+    initial_vfs: { files: { "/home/hero/file_1584.txt": "sample 1584" } },
+    expected_state: { required_file: "/home/hero/completed_1584.txt" },
+    hint: "Use touch completed_1584.txt",
+    xp_reward: 140
+  },
+  {
+    id: 1585,
+    slug: "quest-scenario-1585",
+    title: "Linux Quest Mission #1585",
+    objective: "Execute required command line sequence for challenge #1585",
+    initial_vfs: { files: { "/home/hero/file_1585.txt": "sample 1585" } },
+    expected_state: { required_file: "/home/hero/completed_1585.txt" },
+    hint: "Use touch completed_1585.txt",
+    xp_reward: 150
+  },
+  {
+    id: 1586,
+    slug: "quest-scenario-1586",
+    title: "Linux Quest Mission #1586",
+    objective: "Execute required command line sequence for challenge #1586",
+    initial_vfs: { files: { "/home/hero/file_1586.txt": "sample 1586" } },
+    expected_state: { required_file: "/home/hero/completed_1586.txt" },
+    hint: "Use touch completed_1586.txt",
+    xp_reward: 160
+  },
+  {
+    id: 1587,
+    slug: "quest-scenario-1587",
+    title: "Linux Quest Mission #1587",
+    objective: "Execute required command line sequence for challenge #1587",
+    initial_vfs: { files: { "/home/hero/file_1587.txt": "sample 1587" } },
+    expected_state: { required_file: "/home/hero/completed_1587.txt" },
+    hint: "Use touch completed_1587.txt",
+    xp_reward: 170
+  },
+  {
+    id: 1588,
+    slug: "quest-scenario-1588",
+    title: "Linux Quest Mission #1588",
+    objective: "Execute required command line sequence for challenge #1588",
+    initial_vfs: { files: { "/home/hero/file_1588.txt": "sample 1588" } },
+    expected_state: { required_file: "/home/hero/completed_1588.txt" },
+    hint: "Use touch completed_1588.txt",
+    xp_reward: 180
+  },
+  {
+    id: 1589,
+    slug: "quest-scenario-1589",
+    title: "Linux Quest Mission #1589",
+    objective: "Execute required command line sequence for challenge #1589",
+    initial_vfs: { files: { "/home/hero/file_1589.txt": "sample 1589" } },
+    expected_state: { required_file: "/home/hero/completed_1589.txt" },
+    hint: "Use touch completed_1589.txt",
+    xp_reward: 190
+  },
+  {
+    id: 1590,
+    slug: "quest-scenario-1590",
+    title: "Linux Quest Mission #1590",
+    objective: "Execute required command line sequence for challenge #1590",
+    initial_vfs: { files: { "/home/hero/file_1590.txt": "sample 1590" } },
+    expected_state: { required_file: "/home/hero/completed_1590.txt" },
+    hint: "Use touch completed_1590.txt",
+    xp_reward: 200
+  },
+  {
+    id: 1591,
+    slug: "quest-scenario-1591",
+    title: "Linux Quest Mission #1591",
+    objective: "Execute required command line sequence for challenge #1591",
+    initial_vfs: { files: { "/home/hero/file_1591.txt": "sample 1591" } },
+    expected_state: { required_file: "/home/hero/completed_1591.txt" },
+    hint: "Use touch completed_1591.txt",
+    xp_reward: 210
+  },
+  {
+    id: 1592,
+    slug: "quest-scenario-1592",
+    title: "Linux Quest Mission #1592",
+    objective: "Execute required command line sequence for challenge #1592",
+    initial_vfs: { files: { "/home/hero/file_1592.txt": "sample 1592" } },
+    expected_state: { required_file: "/home/hero/completed_1592.txt" },
+    hint: "Use touch completed_1592.txt",
+    xp_reward: 220
+  },
+  {
+    id: 1593,
+    slug: "quest-scenario-1593",
+    title: "Linux Quest Mission #1593",
+    objective: "Execute required command line sequence for challenge #1593",
+    initial_vfs: { files: { "/home/hero/file_1593.txt": "sample 1593" } },
+    expected_state: { required_file: "/home/hero/completed_1593.txt" },
+    hint: "Use touch completed_1593.txt",
+    xp_reward: 230
+  },
+  {
+    id: 1594,
+    slug: "quest-scenario-1594",
+    title: "Linux Quest Mission #1594",
+    objective: "Execute required command line sequence for challenge #1594",
+    initial_vfs: { files: { "/home/hero/file_1594.txt": "sample 1594" } },
+    expected_state: { required_file: "/home/hero/completed_1594.txt" },
+    hint: "Use touch completed_1594.txt",
+    xp_reward: 240
+  },
+  {
+    id: 1595,
+    slug: "quest-scenario-1595",
+    title: "Linux Quest Mission #1595",
+    objective: "Execute required command line sequence for challenge #1595",
+    initial_vfs: { files: { "/home/hero/file_1595.txt": "sample 1595" } },
+    expected_state: { required_file: "/home/hero/completed_1595.txt" },
+    hint: "Use touch completed_1595.txt",
+    xp_reward: 250
+  },
+  {
+    id: 1596,
+    slug: "quest-scenario-1596",
+    title: "Linux Quest Mission #1596",
+    objective: "Execute required command line sequence for challenge #1596",
+    initial_vfs: { files: { "/home/hero/file_1596.txt": "sample 1596" } },
+    expected_state: { required_file: "/home/hero/completed_1596.txt" },
+    hint: "Use touch completed_1596.txt",
+    xp_reward: 260
+  },
+  {
+    id: 1597,
+    slug: "quest-scenario-1597",
+    title: "Linux Quest Mission #1597",
+    objective: "Execute required command line sequence for challenge #1597",
+    initial_vfs: { files: { "/home/hero/file_1597.txt": "sample 1597" } },
+    expected_state: { required_file: "/home/hero/completed_1597.txt" },
+    hint: "Use touch completed_1597.txt",
+    xp_reward: 270
+  },
+  {
+    id: 1598,
+    slug: "quest-scenario-1598",
+    title: "Linux Quest Mission #1598",
+    objective: "Execute required command line sequence for challenge #1598",
+    initial_vfs: { files: { "/home/hero/file_1598.txt": "sample 1598" } },
+    expected_state: { required_file: "/home/hero/completed_1598.txt" },
+    hint: "Use touch completed_1598.txt",
+    xp_reward: 280
+  },
+  {
+    id: 1599,
+    slug: "quest-scenario-1599",
+    title: "Linux Quest Mission #1599",
+    objective: "Execute required command line sequence for challenge #1599",
+    initial_vfs: { files: { "/home/hero/file_1599.txt": "sample 1599" } },
+    expected_state: { required_file: "/home/hero/completed_1599.txt" },
+    hint: "Use touch completed_1599.txt",
+    xp_reward: 290
+  },
 ];

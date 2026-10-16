@@ -118,6 +118,8 @@ def close_db(exception):
 def login_required(f):
     def wrapper(*args, **kwargs):
         if g.user is None:
+            if request.path.startswith('/api/'):
+                return jsonify({'success': False, 'error': 'Authentication required. Please log in.'}), 401
             return redirect(url_for('login'))
         return f(*args, **kwargs)
     wrapper.__name__ = f.__name__
@@ -423,6 +425,11 @@ def verify_certificate(cert_code):
     cert = g.db.execute("SELECT c.*, u.username FROM certificates c JOIN users u ON c.user_id = u.id WHERE cert_code = ?", (cert_code,)).fetchone()
     return render_template('verify_certificate.html', cert=cert)
 
+@app.route('/terminal')
+def terminal():
+    all_quests = g.db.execute("SELECT id, title, slug, difficulty, xp_reward FROM quests ORDER BY id ASC;").fetchall()
+    return render_template('terminal.html', quest=None, all_quests=all_quests)
+
 @app.route('/speedrun')
 def speedrun():
     return render_template('speedrun.html')
@@ -434,6 +441,22 @@ def script_builder():
 @app.route('/cheatsheet')
 def cheatsheet():
     return render_template('cheatsheet.html')
+
+@app.route('/regex-lab')
+def regex_lab():
+    return render_template('regex_lab.html')
+
+@app.route('/cron-generator')
+def cron_generator():
+    return render_template('cron_generator.html')
+
+@app.route('/chmod-calculator')
+def chmod_calculator():
+    return render_template('chmod_calculator.html')
+
+@app.route('/network-tools')
+def network_tools():
+    return render_template('network_tools.html')
 
 @app.route('/achievements')
 def achievements():
@@ -546,31 +569,174 @@ def api_complete_learn_lesson(lesson_id):
     return jsonify({'success': True, 'already_completed': True})
 
 @app.route('/api/quiz-levels/<int:quiz_level_id>/submit', methods=['POST'])
-@login_required
 def api_submit_quiz_level(quiz_level_id):
-    ql = g.db.execute("SELECT * FROM quiz_levels WHERE id = ?", (quiz_level_id,)).fetchone()
-    if not ql:
-        return jsonify({'success': False, 'error': 'Quiz level not found'}), 404
+    try:
+        ql = g.db.execute("SELECT * FROM quiz_levels WHERE id = ? OR quiz_level_number = ?", (quiz_level_id, quiz_level_id)).fetchone()
+        if not ql:
+            return jsonify({'success': False, 'error': 'Quiz level not found'}), 404
 
-    answers = request.get_json() or {}
-    questions = g.db.execute("SELECT * FROM quiz_questions WHERE quiz_level_id = ?", (quiz_level_id,)).fetchall()
-    
-    correct_count = sum(1 for q in questions if answers.get(str(q['id'])) == q['correct_answer_index'])
-    total = len(questions)
+        answers = request.get_json(force=True, silent=True) or {}
+        questions = g.db.execute("SELECT * FROM quiz_questions WHERE quiz_level_id = ?", (ql['id'],)).fetchall()
+        
+        correct_count = 0
+        for q in questions:
+            submitted_val = answers.get(str(q['id']))
+            if submitted_val is None:
+                submitted_val = answers.get(q['id'])
+            
+            if submitted_val is not None:
+                try:
+                    if int(submitted_val) == int(q['correct_answer_index']):
+                        correct_count += 1
+                except (ValueError, TypeError):
+                    pass
 
-    score = int((correct_count / total) * 100) if total > 0 else 0
-    passed = 1 if score >= 70 else 0
+        total = len(questions)
+        score = int((correct_count / total) * 100) if total > 0 else 0
+        passed = 1 if score >= 70 else 0
 
-    g.db.execute("INSERT INTO user_quiz_attempts (user_id, quiz_id, score, passed) VALUES (?, ?, ?, ?)", (g.user['id'], quiz_level_id, score, passed))
-    g.db.commit()
+        new_badges = []
+        xp_earned = 0
 
+        if g.user:
+            try:
+                g.db.execute("INSERT INTO user_quiz_attempts (user_id, quiz_id, score, passed) VALUES (?, ?, ?, ?)", (g.user['id'], ql['id'], score, passed))
+                g.db.commit()
+
+                if passed:
+                    xp_earned = ql['xp_reward']
+                    award_xp(g.db, g.user['id'], xp_earned, "quiz", f"Passed Quiz Level {ql['quiz_level_number']} ({score}%)")
+
+                new_badges = check_and_award_achievements(g.db, g.user['id'])
+            except Exception as db_err:
+                print(f"[!] Quiz attempt DB note: {db_err}")
+
+        return jsonify({
+            'success': True,
+            'score': score,
+            'passed': bool(passed),
+            'xp_earned': xp_earned if passed else 0,
+            'new_badges': new_badges,
+            'guest': g.user is None
+        })
+    except Exception as e:
+        print(f"[!] Error in api_submit_quiz_level: {e}")
+        return jsonify({'success': False, 'error': str(e)}), 500
+
+@app.route('/api/quizzes/<int:quiz_id>/submit', methods=['POST'])
+def api_submit_quiz(quiz_id):
+    return api_submit_quiz_level(quiz_id)
+
+@app.route('/api/quests/<quest_id>/verify', methods=['POST'])
+def api_verify_quest(quest_id):
+    quest = g.db.execute("SELECT * FROM quests WHERE id = ? OR slug = ? OR slug = ?", (quest_id, str(quest_id), f"quest-test-{quest_id}")).fetchone()
+    if not quest:
+        return jsonify({'success': False, 'error': 'Quest not found'}), 404
+
+    data = request.get_json() or {}
+    vfs_state = data.get('vfs_state', {})
+    command_history = data.get('command_history', [])
+
+    expected = {}
+    try:
+        expected = json.loads(quest['expected_state_json'])
+    except Exception:
+        pass
+
+    passed = True
+
+    # 1. Check required commands
+    if 'required_commands' in expected:
+        req_cmds = expected['required_commands']
+        cmd_matched = False
+        for cmd in command_history:
+            for req in req_cmds:
+                if req.lower() in cmd.lower():
+                    cmd_matched = True
+                    break
+            if cmd_matched:
+                break
+        if not cmd_matched:
+            passed = False
+
+    # 2. Check required file creation
+    if 'required_file' in expected and passed:
+        req_file = expected['required_file']
+        files = vfs_state.get('files', {})
+        file_found = any(f == req_file or f.endswith('/' + req_file.lstrip('/')) for f in files.keys())
+        if not file_found:
+            passed = False
+
+    # 3. Check required file permission
+    if 'required_perm' in expected and passed:
+        req_perms = expected['required_perm']
+        files = vfs_state.get('files', {})
+        for filepath, req_p in req_perms.items():
+            matching_file = None
+            for f, info in files.items():
+                if f == filepath or f.endswith('/' + filepath.lstrip('/')):
+                    matching_file = info
+                    break
+            if not matching_file:
+                passed = False
+                break
+            if req_p == 'executable' and 'x' not in matching_file.get('perm', ''):
+                passed = False
+                break
+
+    new_badges = []
     xp_earned = 0
-    if passed:
-        xp_earned = ql['xp_reward']
-        award_xp(g.db, g.user['id'], xp_earned, "quiz", f"Passed Quiz Level {ql['quiz_level_number']} ({score}%)")
 
-    new_badges = check_and_award_achievements(g.db, g.user['id'])
-    return jsonify({'success': True, 'score': score, 'passed': bool(passed), 'xp_earned': xp_earned, 'new_badges': new_badges})
+    if passed:
+        xp_earned = quest['xp_reward']
+        if g.user:
+            existing = g.db.execute("SELECT id FROM user_quest_attempts WHERE user_id = ? AND quest_id = ?", (g.user['id'], quest_id)).fetchone()
+            if not existing:
+                g.db.execute("INSERT INTO user_quest_attempts (user_id, quest_id, status) VALUES (?, ?, 'completed')", (g.user['id'], quest_id))
+                g.db.commit()
+                award_xp(g.db, g.user['id'], xp_earned, "quest", f"Completed Quest: {quest['title']}")
+                new_badges = check_and_award_achievements(g.db, g.user['id'])
+
+    return jsonify({
+        'success': passed,
+        'passed': passed,
+        'xp_earned': xp_earned if passed else 0,
+        'new_badges': new_badges
+    })
+
+@app.route('/api/speedrun/submit', methods=['POST'])
+def api_submit_speedrun():
+    data = request.get_json(force=True, silent=True) or {}
+    score = data.get('score', 0)
+    passed = data.get('passed', False)
+    xp_reward = data.get('xp_reward', 100 if passed else 25)
+
+    new_badges = []
+    if g.user and passed:
+        award_xp(g.db, g.user['id'], xp_reward, "speedrun", f"Speedrun Arena Score: {score} pts")
+        new_badges = check_and_award_achievements(g.db, g.user['id'])
+
+    return jsonify({
+        'success': True,
+        'score': score,
+        'xp_earned': xp_reward if (g.user and passed) else 0,
+        'new_badges': new_badges
+    })
+
+@app.route('/api/script-builder/validate', methods=['POST'])
+def api_validate_script():
+    data = request.get_json(force=True, silent=True) or {}
+    script_code = data.get('code', '')
+    issues = []
+    if not script_code.startswith('#!'):
+        issues.append("Missing shebang line (e.g. #!/bin/bash)")
+    if 'rm -rf /' in script_code and not 'rm -rf /home' in script_code:
+        issues.append("Caution: Root directory deletion syntax detected")
+    return jsonify({
+        'success': len(issues) == 0,
+        'issues': issues,
+        'line_count': len(script_code.splitlines())
+    })
 
 if __name__ == '__main__':
     print("[+] Starting LinuxQuest Web Server...")

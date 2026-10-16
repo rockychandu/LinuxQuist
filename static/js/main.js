@@ -69,10 +69,20 @@ async function submitQuizForm(quizId) {
   try {
     const res = await fetch(`/api/quizzes/${quizId}/submit`, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: { 
+        'Content-Type': 'application/json',
+        'Accept': 'application/json'
+      },
       body: JSON.stringify(answers)
     });
-    const data = await res.json();
+
+    const data = await res.json().catch(() => null);
+
+    if (!res.ok || !data || data.success === false) {
+      const msg = (data && data.error) ? data.error : `Submission error (${res.status})`;
+      showToast(msg, "error");
+      return;
+    }
 
     const resultBox = document.getElementById('quizResultBox');
     if (resultBox) {
@@ -92,8 +102,10 @@ async function submitQuizForm(quizId) {
           <p>You need at least 70% to pass. Review the lesson and try again!</p>
         `;
       }
+      resultBox.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
   } catch (err) {
-    showToast("Error submitting quiz answers", "error");
+    console.error("Quiz submission error:", err);
+    showToast("Network error submitting quiz answers", "error");
   }
 }

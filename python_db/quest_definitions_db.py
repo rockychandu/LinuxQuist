@@ -44991,6 +44991,11256 @@ PYTHON_QUEST_DB = [
         "hint": "Use touch completed_4499.txt",
         "xp_reward": 290
     },
+    {
+        "id": 4500,
+        "slug": "quest-scenario-4500",
+        "title": "Linux Quest Mission #4500",
+        "objective": "Execute required command line sequence for challenge #4500",
+        "initial_vfs": {"files": {"/home/hero/file_4500.txt": "sample 4500"}},
+        "expected_state": {"required_file": "/home/hero/completed_4500.txt"},
+        "hint": "Use touch completed_4500.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4501,
+        "slug": "quest-scenario-4501",
+        "title": "Linux Quest Mission #4501",
+        "objective": "Execute required command line sequence for challenge #4501",
+        "initial_vfs": {"files": {"/home/hero/file_4501.txt": "sample 4501"}},
+        "expected_state": {"required_file": "/home/hero/completed_4501.txt"},
+        "hint": "Use touch completed_4501.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4502,
+        "slug": "quest-scenario-4502",
+        "title": "Linux Quest Mission #4502",
+        "objective": "Execute required command line sequence for challenge #4502",
+        "initial_vfs": {"files": {"/home/hero/file_4502.txt": "sample 4502"}},
+        "expected_state": {"required_file": "/home/hero/completed_4502.txt"},
+        "hint": "Use touch completed_4502.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4503,
+        "slug": "quest-scenario-4503",
+        "title": "Linux Quest Mission #4503",
+        "objective": "Execute required command line sequence for challenge #4503",
+        "initial_vfs": {"files": {"/home/hero/file_4503.txt": "sample 4503"}},
+        "expected_state": {"required_file": "/home/hero/completed_4503.txt"},
+        "hint": "Use touch completed_4503.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4504,
+        "slug": "quest-scenario-4504",
+        "title": "Linux Quest Mission #4504",
+        "objective": "Execute required command line sequence for challenge #4504",
+        "initial_vfs": {"files": {"/home/hero/file_4504.txt": "sample 4504"}},
+        "expected_state": {"required_file": "/home/hero/completed_4504.txt"},
+        "hint": "Use touch completed_4504.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4505,
+        "slug": "quest-scenario-4505",
+        "title": "Linux Quest Mission #4505",
+        "objective": "Execute required command line sequence for challenge #4505",
+        "initial_vfs": {"files": {"/home/hero/file_4505.txt": "sample 4505"}},
+        "expected_state": {"required_file": "/home/hero/completed_4505.txt"},
+        "hint": "Use touch completed_4505.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4506,
+        "slug": "quest-scenario-4506",
+        "title": "Linux Quest Mission #4506",
+        "objective": "Execute required command line sequence for challenge #4506",
+        "initial_vfs": {"files": {"/home/hero/file_4506.txt": "sample 4506"}},
+        "expected_state": {"required_file": "/home/hero/completed_4506.txt"},
+        "hint": "Use touch completed_4506.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4507,
+        "slug": "quest-scenario-4507",
+        "title": "Linux Quest Mission #4507",
+        "objective": "Execute required command line sequence for challenge #4507",
+        "initial_vfs": {"files": {"/home/hero/file_4507.txt": "sample 4507"}},
+        "expected_state": {"required_file": "/home/hero/completed_4507.txt"},
+        "hint": "Use touch completed_4507.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4508,
+        "slug": "quest-scenario-4508",
+        "title": "Linux Quest Mission #4508",
+        "objective": "Execute required command line sequence for challenge #4508",
+        "initial_vfs": {"files": {"/home/hero/file_4508.txt": "sample 4508"}},
+        "expected_state": {"required_file": "/home/hero/completed_4508.txt"},
+        "hint": "Use touch completed_4508.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4509,
+        "slug": "quest-scenario-4509",
+        "title": "Linux Quest Mission #4509",
+        "objective": "Execute required command line sequence for challenge #4509",
+        "initial_vfs": {"files": {"/home/hero/file_4509.txt": "sample 4509"}},
+        "expected_state": {"required_file": "/home/hero/completed_4509.txt"},
+        "hint": "Use touch completed_4509.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4510,
+        "slug": "quest-scenario-4510",
+        "title": "Linux Quest Mission #4510",
+        "objective": "Execute required command line sequence for challenge #4510",
+        "initial_vfs": {"files": {"/home/hero/file_4510.txt": "sample 4510"}},
+        "expected_state": {"required_file": "/home/hero/completed_4510.txt"},
+        "hint": "Use touch completed_4510.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4511,
+        "slug": "quest-scenario-4511",
+        "title": "Linux Quest Mission #4511",
+        "objective": "Execute required command line sequence for challenge #4511",
+        "initial_vfs": {"files": {"/home/hero/file_4511.txt": "sample 4511"}},
+        "expected_state": {"required_file": "/home/hero/completed_4511.txt"},
+        "hint": "Use touch completed_4511.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4512,
+        "slug": "quest-scenario-4512",
+        "title": "Linux Quest Mission #4512",
+        "objective": "Execute required command line sequence for challenge #4512",
+        "initial_vfs": {"files": {"/home/hero/file_4512.txt": "sample 4512"}},
+        "expected_state": {"required_file": "/home/hero/completed_4512.txt"},
+        "hint": "Use touch completed_4512.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4513,
+        "slug": "quest-scenario-4513",
+        "title": "Linux Quest Mission #4513",
+        "objective": "Execute required command line sequence for challenge #4513",
+        "initial_vfs": {"files": {"/home/hero/file_4513.txt": "sample 4513"}},
+        "expected_state": {"required_file": "/home/hero/completed_4513.txt"},
+        "hint": "Use touch completed_4513.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4514,
+        "slug": "quest-scenario-4514",
+        "title": "Linux Quest Mission #4514",
+        "objective": "Execute required command line sequence for challenge #4514",
+        "initial_vfs": {"files": {"/home/hero/file_4514.txt": "sample 4514"}},
+        "expected_state": {"required_file": "/home/hero/completed_4514.txt"},
+        "hint": "Use touch completed_4514.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4515,
+        "slug": "quest-scenario-4515",
+        "title": "Linux Quest Mission #4515",
+        "objective": "Execute required command line sequence for challenge #4515",
+        "initial_vfs": {"files": {"/home/hero/file_4515.txt": "sample 4515"}},
+        "expected_state": {"required_file": "/home/hero/completed_4515.txt"},
+        "hint": "Use touch completed_4515.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4516,
+        "slug": "quest-scenario-4516",
+        "title": "Linux Quest Mission #4516",
+        "objective": "Execute required command line sequence for challenge #4516",
+        "initial_vfs": {"files": {"/home/hero/file_4516.txt": "sample 4516"}},
+        "expected_state": {"required_file": "/home/hero/completed_4516.txt"},
+        "hint": "Use touch completed_4516.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4517,
+        "slug": "quest-scenario-4517",
+        "title": "Linux Quest Mission #4517",
+        "objective": "Execute required command line sequence for challenge #4517",
+        "initial_vfs": {"files": {"/home/hero/file_4517.txt": "sample 4517"}},
+        "expected_state": {"required_file": "/home/hero/completed_4517.txt"},
+        "hint": "Use touch completed_4517.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4518,
+        "slug": "quest-scenario-4518",
+        "title": "Linux Quest Mission #4518",
+        "objective": "Execute required command line sequence for challenge #4518",
+        "initial_vfs": {"files": {"/home/hero/file_4518.txt": "sample 4518"}},
+        "expected_state": {"required_file": "/home/hero/completed_4518.txt"},
+        "hint": "Use touch completed_4518.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4519,
+        "slug": "quest-scenario-4519",
+        "title": "Linux Quest Mission #4519",
+        "objective": "Execute required command line sequence for challenge #4519",
+        "initial_vfs": {"files": {"/home/hero/file_4519.txt": "sample 4519"}},
+        "expected_state": {"required_file": "/home/hero/completed_4519.txt"},
+        "hint": "Use touch completed_4519.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4520,
+        "slug": "quest-scenario-4520",
+        "title": "Linux Quest Mission #4520",
+        "objective": "Execute required command line sequence for challenge #4520",
+        "initial_vfs": {"files": {"/home/hero/file_4520.txt": "sample 4520"}},
+        "expected_state": {"required_file": "/home/hero/completed_4520.txt"},
+        "hint": "Use touch completed_4520.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4521,
+        "slug": "quest-scenario-4521",
+        "title": "Linux Quest Mission #4521",
+        "objective": "Execute required command line sequence for challenge #4521",
+        "initial_vfs": {"files": {"/home/hero/file_4521.txt": "sample 4521"}},
+        "expected_state": {"required_file": "/home/hero/completed_4521.txt"},
+        "hint": "Use touch completed_4521.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4522,
+        "slug": "quest-scenario-4522",
+        "title": "Linux Quest Mission #4522",
+        "objective": "Execute required command line sequence for challenge #4522",
+        "initial_vfs": {"files": {"/home/hero/file_4522.txt": "sample 4522"}},
+        "expected_state": {"required_file": "/home/hero/completed_4522.txt"},
+        "hint": "Use touch completed_4522.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4523,
+        "slug": "quest-scenario-4523",
+        "title": "Linux Quest Mission #4523",
+        "objective": "Execute required command line sequence for challenge #4523",
+        "initial_vfs": {"files": {"/home/hero/file_4523.txt": "sample 4523"}},
+        "expected_state": {"required_file": "/home/hero/completed_4523.txt"},
+        "hint": "Use touch completed_4523.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4524,
+        "slug": "quest-scenario-4524",
+        "title": "Linux Quest Mission #4524",
+        "objective": "Execute required command line sequence for challenge #4524",
+        "initial_vfs": {"files": {"/home/hero/file_4524.txt": "sample 4524"}},
+        "expected_state": {"required_file": "/home/hero/completed_4524.txt"},
+        "hint": "Use touch completed_4524.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4525,
+        "slug": "quest-scenario-4525",
+        "title": "Linux Quest Mission #4525",
+        "objective": "Execute required command line sequence for challenge #4525",
+        "initial_vfs": {"files": {"/home/hero/file_4525.txt": "sample 4525"}},
+        "expected_state": {"required_file": "/home/hero/completed_4525.txt"},
+        "hint": "Use touch completed_4525.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4526,
+        "slug": "quest-scenario-4526",
+        "title": "Linux Quest Mission #4526",
+        "objective": "Execute required command line sequence for challenge #4526",
+        "initial_vfs": {"files": {"/home/hero/file_4526.txt": "sample 4526"}},
+        "expected_state": {"required_file": "/home/hero/completed_4526.txt"},
+        "hint": "Use touch completed_4526.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4527,
+        "slug": "quest-scenario-4527",
+        "title": "Linux Quest Mission #4527",
+        "objective": "Execute required command line sequence for challenge #4527",
+        "initial_vfs": {"files": {"/home/hero/file_4527.txt": "sample 4527"}},
+        "expected_state": {"required_file": "/home/hero/completed_4527.txt"},
+        "hint": "Use touch completed_4527.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4528,
+        "slug": "quest-scenario-4528",
+        "title": "Linux Quest Mission #4528",
+        "objective": "Execute required command line sequence for challenge #4528",
+        "initial_vfs": {"files": {"/home/hero/file_4528.txt": "sample 4528"}},
+        "expected_state": {"required_file": "/home/hero/completed_4528.txt"},
+        "hint": "Use touch completed_4528.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4529,
+        "slug": "quest-scenario-4529",
+        "title": "Linux Quest Mission #4529",
+        "objective": "Execute required command line sequence for challenge #4529",
+        "initial_vfs": {"files": {"/home/hero/file_4529.txt": "sample 4529"}},
+        "expected_state": {"required_file": "/home/hero/completed_4529.txt"},
+        "hint": "Use touch completed_4529.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4530,
+        "slug": "quest-scenario-4530",
+        "title": "Linux Quest Mission #4530",
+        "objective": "Execute required command line sequence for challenge #4530",
+        "initial_vfs": {"files": {"/home/hero/file_4530.txt": "sample 4530"}},
+        "expected_state": {"required_file": "/home/hero/completed_4530.txt"},
+        "hint": "Use touch completed_4530.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4531,
+        "slug": "quest-scenario-4531",
+        "title": "Linux Quest Mission #4531",
+        "objective": "Execute required command line sequence for challenge #4531",
+        "initial_vfs": {"files": {"/home/hero/file_4531.txt": "sample 4531"}},
+        "expected_state": {"required_file": "/home/hero/completed_4531.txt"},
+        "hint": "Use touch completed_4531.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4532,
+        "slug": "quest-scenario-4532",
+        "title": "Linux Quest Mission #4532",
+        "objective": "Execute required command line sequence for challenge #4532",
+        "initial_vfs": {"files": {"/home/hero/file_4532.txt": "sample 4532"}},
+        "expected_state": {"required_file": "/home/hero/completed_4532.txt"},
+        "hint": "Use touch completed_4532.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4533,
+        "slug": "quest-scenario-4533",
+        "title": "Linux Quest Mission #4533",
+        "objective": "Execute required command line sequence for challenge #4533",
+        "initial_vfs": {"files": {"/home/hero/file_4533.txt": "sample 4533"}},
+        "expected_state": {"required_file": "/home/hero/completed_4533.txt"},
+        "hint": "Use touch completed_4533.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4534,
+        "slug": "quest-scenario-4534",
+        "title": "Linux Quest Mission #4534",
+        "objective": "Execute required command line sequence for challenge #4534",
+        "initial_vfs": {"files": {"/home/hero/file_4534.txt": "sample 4534"}},
+        "expected_state": {"required_file": "/home/hero/completed_4534.txt"},
+        "hint": "Use touch completed_4534.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4535,
+        "slug": "quest-scenario-4535",
+        "title": "Linux Quest Mission #4535",
+        "objective": "Execute required command line sequence for challenge #4535",
+        "initial_vfs": {"files": {"/home/hero/file_4535.txt": "sample 4535"}},
+        "expected_state": {"required_file": "/home/hero/completed_4535.txt"},
+        "hint": "Use touch completed_4535.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4536,
+        "slug": "quest-scenario-4536",
+        "title": "Linux Quest Mission #4536",
+        "objective": "Execute required command line sequence for challenge #4536",
+        "initial_vfs": {"files": {"/home/hero/file_4536.txt": "sample 4536"}},
+        "expected_state": {"required_file": "/home/hero/completed_4536.txt"},
+        "hint": "Use touch completed_4536.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4537,
+        "slug": "quest-scenario-4537",
+        "title": "Linux Quest Mission #4537",
+        "objective": "Execute required command line sequence for challenge #4537",
+        "initial_vfs": {"files": {"/home/hero/file_4537.txt": "sample 4537"}},
+        "expected_state": {"required_file": "/home/hero/completed_4537.txt"},
+        "hint": "Use touch completed_4537.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4538,
+        "slug": "quest-scenario-4538",
+        "title": "Linux Quest Mission #4538",
+        "objective": "Execute required command line sequence for challenge #4538",
+        "initial_vfs": {"files": {"/home/hero/file_4538.txt": "sample 4538"}},
+        "expected_state": {"required_file": "/home/hero/completed_4538.txt"},
+        "hint": "Use touch completed_4538.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4539,
+        "slug": "quest-scenario-4539",
+        "title": "Linux Quest Mission #4539",
+        "objective": "Execute required command line sequence for challenge #4539",
+        "initial_vfs": {"files": {"/home/hero/file_4539.txt": "sample 4539"}},
+        "expected_state": {"required_file": "/home/hero/completed_4539.txt"},
+        "hint": "Use touch completed_4539.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4540,
+        "slug": "quest-scenario-4540",
+        "title": "Linux Quest Mission #4540",
+        "objective": "Execute required command line sequence for challenge #4540",
+        "initial_vfs": {"files": {"/home/hero/file_4540.txt": "sample 4540"}},
+        "expected_state": {"required_file": "/home/hero/completed_4540.txt"},
+        "hint": "Use touch completed_4540.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4541,
+        "slug": "quest-scenario-4541",
+        "title": "Linux Quest Mission #4541",
+        "objective": "Execute required command line sequence for challenge #4541",
+        "initial_vfs": {"files": {"/home/hero/file_4541.txt": "sample 4541"}},
+        "expected_state": {"required_file": "/home/hero/completed_4541.txt"},
+        "hint": "Use touch completed_4541.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4542,
+        "slug": "quest-scenario-4542",
+        "title": "Linux Quest Mission #4542",
+        "objective": "Execute required command line sequence for challenge #4542",
+        "initial_vfs": {"files": {"/home/hero/file_4542.txt": "sample 4542"}},
+        "expected_state": {"required_file": "/home/hero/completed_4542.txt"},
+        "hint": "Use touch completed_4542.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4543,
+        "slug": "quest-scenario-4543",
+        "title": "Linux Quest Mission #4543",
+        "objective": "Execute required command line sequence for challenge #4543",
+        "initial_vfs": {"files": {"/home/hero/file_4543.txt": "sample 4543"}},
+        "expected_state": {"required_file": "/home/hero/completed_4543.txt"},
+        "hint": "Use touch completed_4543.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4544,
+        "slug": "quest-scenario-4544",
+        "title": "Linux Quest Mission #4544",
+        "objective": "Execute required command line sequence for challenge #4544",
+        "initial_vfs": {"files": {"/home/hero/file_4544.txt": "sample 4544"}},
+        "expected_state": {"required_file": "/home/hero/completed_4544.txt"},
+        "hint": "Use touch completed_4544.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4545,
+        "slug": "quest-scenario-4545",
+        "title": "Linux Quest Mission #4545",
+        "objective": "Execute required command line sequence for challenge #4545",
+        "initial_vfs": {"files": {"/home/hero/file_4545.txt": "sample 4545"}},
+        "expected_state": {"required_file": "/home/hero/completed_4545.txt"},
+        "hint": "Use touch completed_4545.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4546,
+        "slug": "quest-scenario-4546",
+        "title": "Linux Quest Mission #4546",
+        "objective": "Execute required command line sequence for challenge #4546",
+        "initial_vfs": {"files": {"/home/hero/file_4546.txt": "sample 4546"}},
+        "expected_state": {"required_file": "/home/hero/completed_4546.txt"},
+        "hint": "Use touch completed_4546.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4547,
+        "slug": "quest-scenario-4547",
+        "title": "Linux Quest Mission #4547",
+        "objective": "Execute required command line sequence for challenge #4547",
+        "initial_vfs": {"files": {"/home/hero/file_4547.txt": "sample 4547"}},
+        "expected_state": {"required_file": "/home/hero/completed_4547.txt"},
+        "hint": "Use touch completed_4547.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4548,
+        "slug": "quest-scenario-4548",
+        "title": "Linux Quest Mission #4548",
+        "objective": "Execute required command line sequence for challenge #4548",
+        "initial_vfs": {"files": {"/home/hero/file_4548.txt": "sample 4548"}},
+        "expected_state": {"required_file": "/home/hero/completed_4548.txt"},
+        "hint": "Use touch completed_4548.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4549,
+        "slug": "quest-scenario-4549",
+        "title": "Linux Quest Mission #4549",
+        "objective": "Execute required command line sequence for challenge #4549",
+        "initial_vfs": {"files": {"/home/hero/file_4549.txt": "sample 4549"}},
+        "expected_state": {"required_file": "/home/hero/completed_4549.txt"},
+        "hint": "Use touch completed_4549.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4550,
+        "slug": "quest-scenario-4550",
+        "title": "Linux Quest Mission #4550",
+        "objective": "Execute required command line sequence for challenge #4550",
+        "initial_vfs": {"files": {"/home/hero/file_4550.txt": "sample 4550"}},
+        "expected_state": {"required_file": "/home/hero/completed_4550.txt"},
+        "hint": "Use touch completed_4550.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4551,
+        "slug": "quest-scenario-4551",
+        "title": "Linux Quest Mission #4551",
+        "objective": "Execute required command line sequence for challenge #4551",
+        "initial_vfs": {"files": {"/home/hero/file_4551.txt": "sample 4551"}},
+        "expected_state": {"required_file": "/home/hero/completed_4551.txt"},
+        "hint": "Use touch completed_4551.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4552,
+        "slug": "quest-scenario-4552",
+        "title": "Linux Quest Mission #4552",
+        "objective": "Execute required command line sequence for challenge #4552",
+        "initial_vfs": {"files": {"/home/hero/file_4552.txt": "sample 4552"}},
+        "expected_state": {"required_file": "/home/hero/completed_4552.txt"},
+        "hint": "Use touch completed_4552.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4553,
+        "slug": "quest-scenario-4553",
+        "title": "Linux Quest Mission #4553",
+        "objective": "Execute required command line sequence for challenge #4553",
+        "initial_vfs": {"files": {"/home/hero/file_4553.txt": "sample 4553"}},
+        "expected_state": {"required_file": "/home/hero/completed_4553.txt"},
+        "hint": "Use touch completed_4553.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4554,
+        "slug": "quest-scenario-4554",
+        "title": "Linux Quest Mission #4554",
+        "objective": "Execute required command line sequence for challenge #4554",
+        "initial_vfs": {"files": {"/home/hero/file_4554.txt": "sample 4554"}},
+        "expected_state": {"required_file": "/home/hero/completed_4554.txt"},
+        "hint": "Use touch completed_4554.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4555,
+        "slug": "quest-scenario-4555",
+        "title": "Linux Quest Mission #4555",
+        "objective": "Execute required command line sequence for challenge #4555",
+        "initial_vfs": {"files": {"/home/hero/file_4555.txt": "sample 4555"}},
+        "expected_state": {"required_file": "/home/hero/completed_4555.txt"},
+        "hint": "Use touch completed_4555.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4556,
+        "slug": "quest-scenario-4556",
+        "title": "Linux Quest Mission #4556",
+        "objective": "Execute required command line sequence for challenge #4556",
+        "initial_vfs": {"files": {"/home/hero/file_4556.txt": "sample 4556"}},
+        "expected_state": {"required_file": "/home/hero/completed_4556.txt"},
+        "hint": "Use touch completed_4556.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4557,
+        "slug": "quest-scenario-4557",
+        "title": "Linux Quest Mission #4557",
+        "objective": "Execute required command line sequence for challenge #4557",
+        "initial_vfs": {"files": {"/home/hero/file_4557.txt": "sample 4557"}},
+        "expected_state": {"required_file": "/home/hero/completed_4557.txt"},
+        "hint": "Use touch completed_4557.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4558,
+        "slug": "quest-scenario-4558",
+        "title": "Linux Quest Mission #4558",
+        "objective": "Execute required command line sequence for challenge #4558",
+        "initial_vfs": {"files": {"/home/hero/file_4558.txt": "sample 4558"}},
+        "expected_state": {"required_file": "/home/hero/completed_4558.txt"},
+        "hint": "Use touch completed_4558.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4559,
+        "slug": "quest-scenario-4559",
+        "title": "Linux Quest Mission #4559",
+        "objective": "Execute required command line sequence for challenge #4559",
+        "initial_vfs": {"files": {"/home/hero/file_4559.txt": "sample 4559"}},
+        "expected_state": {"required_file": "/home/hero/completed_4559.txt"},
+        "hint": "Use touch completed_4559.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4560,
+        "slug": "quest-scenario-4560",
+        "title": "Linux Quest Mission #4560",
+        "objective": "Execute required command line sequence for challenge #4560",
+        "initial_vfs": {"files": {"/home/hero/file_4560.txt": "sample 4560"}},
+        "expected_state": {"required_file": "/home/hero/completed_4560.txt"},
+        "hint": "Use touch completed_4560.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4561,
+        "slug": "quest-scenario-4561",
+        "title": "Linux Quest Mission #4561",
+        "objective": "Execute required command line sequence for challenge #4561",
+        "initial_vfs": {"files": {"/home/hero/file_4561.txt": "sample 4561"}},
+        "expected_state": {"required_file": "/home/hero/completed_4561.txt"},
+        "hint": "Use touch completed_4561.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4562,
+        "slug": "quest-scenario-4562",
+        "title": "Linux Quest Mission #4562",
+        "objective": "Execute required command line sequence for challenge #4562",
+        "initial_vfs": {"files": {"/home/hero/file_4562.txt": "sample 4562"}},
+        "expected_state": {"required_file": "/home/hero/completed_4562.txt"},
+        "hint": "Use touch completed_4562.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4563,
+        "slug": "quest-scenario-4563",
+        "title": "Linux Quest Mission #4563",
+        "objective": "Execute required command line sequence for challenge #4563",
+        "initial_vfs": {"files": {"/home/hero/file_4563.txt": "sample 4563"}},
+        "expected_state": {"required_file": "/home/hero/completed_4563.txt"},
+        "hint": "Use touch completed_4563.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4564,
+        "slug": "quest-scenario-4564",
+        "title": "Linux Quest Mission #4564",
+        "objective": "Execute required command line sequence for challenge #4564",
+        "initial_vfs": {"files": {"/home/hero/file_4564.txt": "sample 4564"}},
+        "expected_state": {"required_file": "/home/hero/completed_4564.txt"},
+        "hint": "Use touch completed_4564.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4565,
+        "slug": "quest-scenario-4565",
+        "title": "Linux Quest Mission #4565",
+        "objective": "Execute required command line sequence for challenge #4565",
+        "initial_vfs": {"files": {"/home/hero/file_4565.txt": "sample 4565"}},
+        "expected_state": {"required_file": "/home/hero/completed_4565.txt"},
+        "hint": "Use touch completed_4565.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4566,
+        "slug": "quest-scenario-4566",
+        "title": "Linux Quest Mission #4566",
+        "objective": "Execute required command line sequence for challenge #4566",
+        "initial_vfs": {"files": {"/home/hero/file_4566.txt": "sample 4566"}},
+        "expected_state": {"required_file": "/home/hero/completed_4566.txt"},
+        "hint": "Use touch completed_4566.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4567,
+        "slug": "quest-scenario-4567",
+        "title": "Linux Quest Mission #4567",
+        "objective": "Execute required command line sequence for challenge #4567",
+        "initial_vfs": {"files": {"/home/hero/file_4567.txt": "sample 4567"}},
+        "expected_state": {"required_file": "/home/hero/completed_4567.txt"},
+        "hint": "Use touch completed_4567.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4568,
+        "slug": "quest-scenario-4568",
+        "title": "Linux Quest Mission #4568",
+        "objective": "Execute required command line sequence for challenge #4568",
+        "initial_vfs": {"files": {"/home/hero/file_4568.txt": "sample 4568"}},
+        "expected_state": {"required_file": "/home/hero/completed_4568.txt"},
+        "hint": "Use touch completed_4568.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4569,
+        "slug": "quest-scenario-4569",
+        "title": "Linux Quest Mission #4569",
+        "objective": "Execute required command line sequence for challenge #4569",
+        "initial_vfs": {"files": {"/home/hero/file_4569.txt": "sample 4569"}},
+        "expected_state": {"required_file": "/home/hero/completed_4569.txt"},
+        "hint": "Use touch completed_4569.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4570,
+        "slug": "quest-scenario-4570",
+        "title": "Linux Quest Mission #4570",
+        "objective": "Execute required command line sequence for challenge #4570",
+        "initial_vfs": {"files": {"/home/hero/file_4570.txt": "sample 4570"}},
+        "expected_state": {"required_file": "/home/hero/completed_4570.txt"},
+        "hint": "Use touch completed_4570.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4571,
+        "slug": "quest-scenario-4571",
+        "title": "Linux Quest Mission #4571",
+        "objective": "Execute required command line sequence for challenge #4571",
+        "initial_vfs": {"files": {"/home/hero/file_4571.txt": "sample 4571"}},
+        "expected_state": {"required_file": "/home/hero/completed_4571.txt"},
+        "hint": "Use touch completed_4571.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4572,
+        "slug": "quest-scenario-4572",
+        "title": "Linux Quest Mission #4572",
+        "objective": "Execute required command line sequence for challenge #4572",
+        "initial_vfs": {"files": {"/home/hero/file_4572.txt": "sample 4572"}},
+        "expected_state": {"required_file": "/home/hero/completed_4572.txt"},
+        "hint": "Use touch completed_4572.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4573,
+        "slug": "quest-scenario-4573",
+        "title": "Linux Quest Mission #4573",
+        "objective": "Execute required command line sequence for challenge #4573",
+        "initial_vfs": {"files": {"/home/hero/file_4573.txt": "sample 4573"}},
+        "expected_state": {"required_file": "/home/hero/completed_4573.txt"},
+        "hint": "Use touch completed_4573.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4574,
+        "slug": "quest-scenario-4574",
+        "title": "Linux Quest Mission #4574",
+        "objective": "Execute required command line sequence for challenge #4574",
+        "initial_vfs": {"files": {"/home/hero/file_4574.txt": "sample 4574"}},
+        "expected_state": {"required_file": "/home/hero/completed_4574.txt"},
+        "hint": "Use touch completed_4574.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4575,
+        "slug": "quest-scenario-4575",
+        "title": "Linux Quest Mission #4575",
+        "objective": "Execute required command line sequence for challenge #4575",
+        "initial_vfs": {"files": {"/home/hero/file_4575.txt": "sample 4575"}},
+        "expected_state": {"required_file": "/home/hero/completed_4575.txt"},
+        "hint": "Use touch completed_4575.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4576,
+        "slug": "quest-scenario-4576",
+        "title": "Linux Quest Mission #4576",
+        "objective": "Execute required command line sequence for challenge #4576",
+        "initial_vfs": {"files": {"/home/hero/file_4576.txt": "sample 4576"}},
+        "expected_state": {"required_file": "/home/hero/completed_4576.txt"},
+        "hint": "Use touch completed_4576.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4577,
+        "slug": "quest-scenario-4577",
+        "title": "Linux Quest Mission #4577",
+        "objective": "Execute required command line sequence for challenge #4577",
+        "initial_vfs": {"files": {"/home/hero/file_4577.txt": "sample 4577"}},
+        "expected_state": {"required_file": "/home/hero/completed_4577.txt"},
+        "hint": "Use touch completed_4577.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4578,
+        "slug": "quest-scenario-4578",
+        "title": "Linux Quest Mission #4578",
+        "objective": "Execute required command line sequence for challenge #4578",
+        "initial_vfs": {"files": {"/home/hero/file_4578.txt": "sample 4578"}},
+        "expected_state": {"required_file": "/home/hero/completed_4578.txt"},
+        "hint": "Use touch completed_4578.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4579,
+        "slug": "quest-scenario-4579",
+        "title": "Linux Quest Mission #4579",
+        "objective": "Execute required command line sequence for challenge #4579",
+        "initial_vfs": {"files": {"/home/hero/file_4579.txt": "sample 4579"}},
+        "expected_state": {"required_file": "/home/hero/completed_4579.txt"},
+        "hint": "Use touch completed_4579.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4580,
+        "slug": "quest-scenario-4580",
+        "title": "Linux Quest Mission #4580",
+        "objective": "Execute required command line sequence for challenge #4580",
+        "initial_vfs": {"files": {"/home/hero/file_4580.txt": "sample 4580"}},
+        "expected_state": {"required_file": "/home/hero/completed_4580.txt"},
+        "hint": "Use touch completed_4580.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4581,
+        "slug": "quest-scenario-4581",
+        "title": "Linux Quest Mission #4581",
+        "objective": "Execute required command line sequence for challenge #4581",
+        "initial_vfs": {"files": {"/home/hero/file_4581.txt": "sample 4581"}},
+        "expected_state": {"required_file": "/home/hero/completed_4581.txt"},
+        "hint": "Use touch completed_4581.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4582,
+        "slug": "quest-scenario-4582",
+        "title": "Linux Quest Mission #4582",
+        "objective": "Execute required command line sequence for challenge #4582",
+        "initial_vfs": {"files": {"/home/hero/file_4582.txt": "sample 4582"}},
+        "expected_state": {"required_file": "/home/hero/completed_4582.txt"},
+        "hint": "Use touch completed_4582.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4583,
+        "slug": "quest-scenario-4583",
+        "title": "Linux Quest Mission #4583",
+        "objective": "Execute required command line sequence for challenge #4583",
+        "initial_vfs": {"files": {"/home/hero/file_4583.txt": "sample 4583"}},
+        "expected_state": {"required_file": "/home/hero/completed_4583.txt"},
+        "hint": "Use touch completed_4583.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4584,
+        "slug": "quest-scenario-4584",
+        "title": "Linux Quest Mission #4584",
+        "objective": "Execute required command line sequence for challenge #4584",
+        "initial_vfs": {"files": {"/home/hero/file_4584.txt": "sample 4584"}},
+        "expected_state": {"required_file": "/home/hero/completed_4584.txt"},
+        "hint": "Use touch completed_4584.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4585,
+        "slug": "quest-scenario-4585",
+        "title": "Linux Quest Mission #4585",
+        "objective": "Execute required command line sequence for challenge #4585",
+        "initial_vfs": {"files": {"/home/hero/file_4585.txt": "sample 4585"}},
+        "expected_state": {"required_file": "/home/hero/completed_4585.txt"},
+        "hint": "Use touch completed_4585.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4586,
+        "slug": "quest-scenario-4586",
+        "title": "Linux Quest Mission #4586",
+        "objective": "Execute required command line sequence for challenge #4586",
+        "initial_vfs": {"files": {"/home/hero/file_4586.txt": "sample 4586"}},
+        "expected_state": {"required_file": "/home/hero/completed_4586.txt"},
+        "hint": "Use touch completed_4586.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4587,
+        "slug": "quest-scenario-4587",
+        "title": "Linux Quest Mission #4587",
+        "objective": "Execute required command line sequence for challenge #4587",
+        "initial_vfs": {"files": {"/home/hero/file_4587.txt": "sample 4587"}},
+        "expected_state": {"required_file": "/home/hero/completed_4587.txt"},
+        "hint": "Use touch completed_4587.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4588,
+        "slug": "quest-scenario-4588",
+        "title": "Linux Quest Mission #4588",
+        "objective": "Execute required command line sequence for challenge #4588",
+        "initial_vfs": {"files": {"/home/hero/file_4588.txt": "sample 4588"}},
+        "expected_state": {"required_file": "/home/hero/completed_4588.txt"},
+        "hint": "Use touch completed_4588.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4589,
+        "slug": "quest-scenario-4589",
+        "title": "Linux Quest Mission #4589",
+        "objective": "Execute required command line sequence for challenge #4589",
+        "initial_vfs": {"files": {"/home/hero/file_4589.txt": "sample 4589"}},
+        "expected_state": {"required_file": "/home/hero/completed_4589.txt"},
+        "hint": "Use touch completed_4589.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4590,
+        "slug": "quest-scenario-4590",
+        "title": "Linux Quest Mission #4590",
+        "objective": "Execute required command line sequence for challenge #4590",
+        "initial_vfs": {"files": {"/home/hero/file_4590.txt": "sample 4590"}},
+        "expected_state": {"required_file": "/home/hero/completed_4590.txt"},
+        "hint": "Use touch completed_4590.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4591,
+        "slug": "quest-scenario-4591",
+        "title": "Linux Quest Mission #4591",
+        "objective": "Execute required command line sequence for challenge #4591",
+        "initial_vfs": {"files": {"/home/hero/file_4591.txt": "sample 4591"}},
+        "expected_state": {"required_file": "/home/hero/completed_4591.txt"},
+        "hint": "Use touch completed_4591.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4592,
+        "slug": "quest-scenario-4592",
+        "title": "Linux Quest Mission #4592",
+        "objective": "Execute required command line sequence for challenge #4592",
+        "initial_vfs": {"files": {"/home/hero/file_4592.txt": "sample 4592"}},
+        "expected_state": {"required_file": "/home/hero/completed_4592.txt"},
+        "hint": "Use touch completed_4592.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4593,
+        "slug": "quest-scenario-4593",
+        "title": "Linux Quest Mission #4593",
+        "objective": "Execute required command line sequence for challenge #4593",
+        "initial_vfs": {"files": {"/home/hero/file_4593.txt": "sample 4593"}},
+        "expected_state": {"required_file": "/home/hero/completed_4593.txt"},
+        "hint": "Use touch completed_4593.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4594,
+        "slug": "quest-scenario-4594",
+        "title": "Linux Quest Mission #4594",
+        "objective": "Execute required command line sequence for challenge #4594",
+        "initial_vfs": {"files": {"/home/hero/file_4594.txt": "sample 4594"}},
+        "expected_state": {"required_file": "/home/hero/completed_4594.txt"},
+        "hint": "Use touch completed_4594.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4595,
+        "slug": "quest-scenario-4595",
+        "title": "Linux Quest Mission #4595",
+        "objective": "Execute required command line sequence for challenge #4595",
+        "initial_vfs": {"files": {"/home/hero/file_4595.txt": "sample 4595"}},
+        "expected_state": {"required_file": "/home/hero/completed_4595.txt"},
+        "hint": "Use touch completed_4595.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4596,
+        "slug": "quest-scenario-4596",
+        "title": "Linux Quest Mission #4596",
+        "objective": "Execute required command line sequence for challenge #4596",
+        "initial_vfs": {"files": {"/home/hero/file_4596.txt": "sample 4596"}},
+        "expected_state": {"required_file": "/home/hero/completed_4596.txt"},
+        "hint": "Use touch completed_4596.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4597,
+        "slug": "quest-scenario-4597",
+        "title": "Linux Quest Mission #4597",
+        "objective": "Execute required command line sequence for challenge #4597",
+        "initial_vfs": {"files": {"/home/hero/file_4597.txt": "sample 4597"}},
+        "expected_state": {"required_file": "/home/hero/completed_4597.txt"},
+        "hint": "Use touch completed_4597.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4598,
+        "slug": "quest-scenario-4598",
+        "title": "Linux Quest Mission #4598",
+        "objective": "Execute required command line sequence for challenge #4598",
+        "initial_vfs": {"files": {"/home/hero/file_4598.txt": "sample 4598"}},
+        "expected_state": {"required_file": "/home/hero/completed_4598.txt"},
+        "hint": "Use touch completed_4598.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4599,
+        "slug": "quest-scenario-4599",
+        "title": "Linux Quest Mission #4599",
+        "objective": "Execute required command line sequence for challenge #4599",
+        "initial_vfs": {"files": {"/home/hero/file_4599.txt": "sample 4599"}},
+        "expected_state": {"required_file": "/home/hero/completed_4599.txt"},
+        "hint": "Use touch completed_4599.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4600,
+        "slug": "quest-scenario-4600",
+        "title": "Linux Quest Mission #4600",
+        "objective": "Execute required command line sequence for challenge #4600",
+        "initial_vfs": {"files": {"/home/hero/file_4600.txt": "sample 4600"}},
+        "expected_state": {"required_file": "/home/hero/completed_4600.txt"},
+        "hint": "Use touch completed_4600.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4601,
+        "slug": "quest-scenario-4601",
+        "title": "Linux Quest Mission #4601",
+        "objective": "Execute required command line sequence for challenge #4601",
+        "initial_vfs": {"files": {"/home/hero/file_4601.txt": "sample 4601"}},
+        "expected_state": {"required_file": "/home/hero/completed_4601.txt"},
+        "hint": "Use touch completed_4601.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4602,
+        "slug": "quest-scenario-4602",
+        "title": "Linux Quest Mission #4602",
+        "objective": "Execute required command line sequence for challenge #4602",
+        "initial_vfs": {"files": {"/home/hero/file_4602.txt": "sample 4602"}},
+        "expected_state": {"required_file": "/home/hero/completed_4602.txt"},
+        "hint": "Use touch completed_4602.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4603,
+        "slug": "quest-scenario-4603",
+        "title": "Linux Quest Mission #4603",
+        "objective": "Execute required command line sequence for challenge #4603",
+        "initial_vfs": {"files": {"/home/hero/file_4603.txt": "sample 4603"}},
+        "expected_state": {"required_file": "/home/hero/completed_4603.txt"},
+        "hint": "Use touch completed_4603.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4604,
+        "slug": "quest-scenario-4604",
+        "title": "Linux Quest Mission #4604",
+        "objective": "Execute required command line sequence for challenge #4604",
+        "initial_vfs": {"files": {"/home/hero/file_4604.txt": "sample 4604"}},
+        "expected_state": {"required_file": "/home/hero/completed_4604.txt"},
+        "hint": "Use touch completed_4604.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4605,
+        "slug": "quest-scenario-4605",
+        "title": "Linux Quest Mission #4605",
+        "objective": "Execute required command line sequence for challenge #4605",
+        "initial_vfs": {"files": {"/home/hero/file_4605.txt": "sample 4605"}},
+        "expected_state": {"required_file": "/home/hero/completed_4605.txt"},
+        "hint": "Use touch completed_4605.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4606,
+        "slug": "quest-scenario-4606",
+        "title": "Linux Quest Mission #4606",
+        "objective": "Execute required command line sequence for challenge #4606",
+        "initial_vfs": {"files": {"/home/hero/file_4606.txt": "sample 4606"}},
+        "expected_state": {"required_file": "/home/hero/completed_4606.txt"},
+        "hint": "Use touch completed_4606.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4607,
+        "slug": "quest-scenario-4607",
+        "title": "Linux Quest Mission #4607",
+        "objective": "Execute required command line sequence for challenge #4607",
+        "initial_vfs": {"files": {"/home/hero/file_4607.txt": "sample 4607"}},
+        "expected_state": {"required_file": "/home/hero/completed_4607.txt"},
+        "hint": "Use touch completed_4607.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4608,
+        "slug": "quest-scenario-4608",
+        "title": "Linux Quest Mission #4608",
+        "objective": "Execute required command line sequence for challenge #4608",
+        "initial_vfs": {"files": {"/home/hero/file_4608.txt": "sample 4608"}},
+        "expected_state": {"required_file": "/home/hero/completed_4608.txt"},
+        "hint": "Use touch completed_4608.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4609,
+        "slug": "quest-scenario-4609",
+        "title": "Linux Quest Mission #4609",
+        "objective": "Execute required command line sequence for challenge #4609",
+        "initial_vfs": {"files": {"/home/hero/file_4609.txt": "sample 4609"}},
+        "expected_state": {"required_file": "/home/hero/completed_4609.txt"},
+        "hint": "Use touch completed_4609.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4610,
+        "slug": "quest-scenario-4610",
+        "title": "Linux Quest Mission #4610",
+        "objective": "Execute required command line sequence for challenge #4610",
+        "initial_vfs": {"files": {"/home/hero/file_4610.txt": "sample 4610"}},
+        "expected_state": {"required_file": "/home/hero/completed_4610.txt"},
+        "hint": "Use touch completed_4610.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4611,
+        "slug": "quest-scenario-4611",
+        "title": "Linux Quest Mission #4611",
+        "objective": "Execute required command line sequence for challenge #4611",
+        "initial_vfs": {"files": {"/home/hero/file_4611.txt": "sample 4611"}},
+        "expected_state": {"required_file": "/home/hero/completed_4611.txt"},
+        "hint": "Use touch completed_4611.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4612,
+        "slug": "quest-scenario-4612",
+        "title": "Linux Quest Mission #4612",
+        "objective": "Execute required command line sequence for challenge #4612",
+        "initial_vfs": {"files": {"/home/hero/file_4612.txt": "sample 4612"}},
+        "expected_state": {"required_file": "/home/hero/completed_4612.txt"},
+        "hint": "Use touch completed_4612.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4613,
+        "slug": "quest-scenario-4613",
+        "title": "Linux Quest Mission #4613",
+        "objective": "Execute required command line sequence for challenge #4613",
+        "initial_vfs": {"files": {"/home/hero/file_4613.txt": "sample 4613"}},
+        "expected_state": {"required_file": "/home/hero/completed_4613.txt"},
+        "hint": "Use touch completed_4613.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4614,
+        "slug": "quest-scenario-4614",
+        "title": "Linux Quest Mission #4614",
+        "objective": "Execute required command line sequence for challenge #4614",
+        "initial_vfs": {"files": {"/home/hero/file_4614.txt": "sample 4614"}},
+        "expected_state": {"required_file": "/home/hero/completed_4614.txt"},
+        "hint": "Use touch completed_4614.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4615,
+        "slug": "quest-scenario-4615",
+        "title": "Linux Quest Mission #4615",
+        "objective": "Execute required command line sequence for challenge #4615",
+        "initial_vfs": {"files": {"/home/hero/file_4615.txt": "sample 4615"}},
+        "expected_state": {"required_file": "/home/hero/completed_4615.txt"},
+        "hint": "Use touch completed_4615.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4616,
+        "slug": "quest-scenario-4616",
+        "title": "Linux Quest Mission #4616",
+        "objective": "Execute required command line sequence for challenge #4616",
+        "initial_vfs": {"files": {"/home/hero/file_4616.txt": "sample 4616"}},
+        "expected_state": {"required_file": "/home/hero/completed_4616.txt"},
+        "hint": "Use touch completed_4616.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4617,
+        "slug": "quest-scenario-4617",
+        "title": "Linux Quest Mission #4617",
+        "objective": "Execute required command line sequence for challenge #4617",
+        "initial_vfs": {"files": {"/home/hero/file_4617.txt": "sample 4617"}},
+        "expected_state": {"required_file": "/home/hero/completed_4617.txt"},
+        "hint": "Use touch completed_4617.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4618,
+        "slug": "quest-scenario-4618",
+        "title": "Linux Quest Mission #4618",
+        "objective": "Execute required command line sequence for challenge #4618",
+        "initial_vfs": {"files": {"/home/hero/file_4618.txt": "sample 4618"}},
+        "expected_state": {"required_file": "/home/hero/completed_4618.txt"},
+        "hint": "Use touch completed_4618.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4619,
+        "slug": "quest-scenario-4619",
+        "title": "Linux Quest Mission #4619",
+        "objective": "Execute required command line sequence for challenge #4619",
+        "initial_vfs": {"files": {"/home/hero/file_4619.txt": "sample 4619"}},
+        "expected_state": {"required_file": "/home/hero/completed_4619.txt"},
+        "hint": "Use touch completed_4619.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4620,
+        "slug": "quest-scenario-4620",
+        "title": "Linux Quest Mission #4620",
+        "objective": "Execute required command line sequence for challenge #4620",
+        "initial_vfs": {"files": {"/home/hero/file_4620.txt": "sample 4620"}},
+        "expected_state": {"required_file": "/home/hero/completed_4620.txt"},
+        "hint": "Use touch completed_4620.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4621,
+        "slug": "quest-scenario-4621",
+        "title": "Linux Quest Mission #4621",
+        "objective": "Execute required command line sequence for challenge #4621",
+        "initial_vfs": {"files": {"/home/hero/file_4621.txt": "sample 4621"}},
+        "expected_state": {"required_file": "/home/hero/completed_4621.txt"},
+        "hint": "Use touch completed_4621.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4622,
+        "slug": "quest-scenario-4622",
+        "title": "Linux Quest Mission #4622",
+        "objective": "Execute required command line sequence for challenge #4622",
+        "initial_vfs": {"files": {"/home/hero/file_4622.txt": "sample 4622"}},
+        "expected_state": {"required_file": "/home/hero/completed_4622.txt"},
+        "hint": "Use touch completed_4622.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4623,
+        "slug": "quest-scenario-4623",
+        "title": "Linux Quest Mission #4623",
+        "objective": "Execute required command line sequence for challenge #4623",
+        "initial_vfs": {"files": {"/home/hero/file_4623.txt": "sample 4623"}},
+        "expected_state": {"required_file": "/home/hero/completed_4623.txt"},
+        "hint": "Use touch completed_4623.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4624,
+        "slug": "quest-scenario-4624",
+        "title": "Linux Quest Mission #4624",
+        "objective": "Execute required command line sequence for challenge #4624",
+        "initial_vfs": {"files": {"/home/hero/file_4624.txt": "sample 4624"}},
+        "expected_state": {"required_file": "/home/hero/completed_4624.txt"},
+        "hint": "Use touch completed_4624.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4625,
+        "slug": "quest-scenario-4625",
+        "title": "Linux Quest Mission #4625",
+        "objective": "Execute required command line sequence for challenge #4625",
+        "initial_vfs": {"files": {"/home/hero/file_4625.txt": "sample 4625"}},
+        "expected_state": {"required_file": "/home/hero/completed_4625.txt"},
+        "hint": "Use touch completed_4625.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4626,
+        "slug": "quest-scenario-4626",
+        "title": "Linux Quest Mission #4626",
+        "objective": "Execute required command line sequence for challenge #4626",
+        "initial_vfs": {"files": {"/home/hero/file_4626.txt": "sample 4626"}},
+        "expected_state": {"required_file": "/home/hero/completed_4626.txt"},
+        "hint": "Use touch completed_4626.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4627,
+        "slug": "quest-scenario-4627",
+        "title": "Linux Quest Mission #4627",
+        "objective": "Execute required command line sequence for challenge #4627",
+        "initial_vfs": {"files": {"/home/hero/file_4627.txt": "sample 4627"}},
+        "expected_state": {"required_file": "/home/hero/completed_4627.txt"},
+        "hint": "Use touch completed_4627.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4628,
+        "slug": "quest-scenario-4628",
+        "title": "Linux Quest Mission #4628",
+        "objective": "Execute required command line sequence for challenge #4628",
+        "initial_vfs": {"files": {"/home/hero/file_4628.txt": "sample 4628"}},
+        "expected_state": {"required_file": "/home/hero/completed_4628.txt"},
+        "hint": "Use touch completed_4628.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4629,
+        "slug": "quest-scenario-4629",
+        "title": "Linux Quest Mission #4629",
+        "objective": "Execute required command line sequence for challenge #4629",
+        "initial_vfs": {"files": {"/home/hero/file_4629.txt": "sample 4629"}},
+        "expected_state": {"required_file": "/home/hero/completed_4629.txt"},
+        "hint": "Use touch completed_4629.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4630,
+        "slug": "quest-scenario-4630",
+        "title": "Linux Quest Mission #4630",
+        "objective": "Execute required command line sequence for challenge #4630",
+        "initial_vfs": {"files": {"/home/hero/file_4630.txt": "sample 4630"}},
+        "expected_state": {"required_file": "/home/hero/completed_4630.txt"},
+        "hint": "Use touch completed_4630.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4631,
+        "slug": "quest-scenario-4631",
+        "title": "Linux Quest Mission #4631",
+        "objective": "Execute required command line sequence for challenge #4631",
+        "initial_vfs": {"files": {"/home/hero/file_4631.txt": "sample 4631"}},
+        "expected_state": {"required_file": "/home/hero/completed_4631.txt"},
+        "hint": "Use touch completed_4631.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4632,
+        "slug": "quest-scenario-4632",
+        "title": "Linux Quest Mission #4632",
+        "objective": "Execute required command line sequence for challenge #4632",
+        "initial_vfs": {"files": {"/home/hero/file_4632.txt": "sample 4632"}},
+        "expected_state": {"required_file": "/home/hero/completed_4632.txt"},
+        "hint": "Use touch completed_4632.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4633,
+        "slug": "quest-scenario-4633",
+        "title": "Linux Quest Mission #4633",
+        "objective": "Execute required command line sequence for challenge #4633",
+        "initial_vfs": {"files": {"/home/hero/file_4633.txt": "sample 4633"}},
+        "expected_state": {"required_file": "/home/hero/completed_4633.txt"},
+        "hint": "Use touch completed_4633.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4634,
+        "slug": "quest-scenario-4634",
+        "title": "Linux Quest Mission #4634",
+        "objective": "Execute required command line sequence for challenge #4634",
+        "initial_vfs": {"files": {"/home/hero/file_4634.txt": "sample 4634"}},
+        "expected_state": {"required_file": "/home/hero/completed_4634.txt"},
+        "hint": "Use touch completed_4634.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4635,
+        "slug": "quest-scenario-4635",
+        "title": "Linux Quest Mission #4635",
+        "objective": "Execute required command line sequence for challenge #4635",
+        "initial_vfs": {"files": {"/home/hero/file_4635.txt": "sample 4635"}},
+        "expected_state": {"required_file": "/home/hero/completed_4635.txt"},
+        "hint": "Use touch completed_4635.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4636,
+        "slug": "quest-scenario-4636",
+        "title": "Linux Quest Mission #4636",
+        "objective": "Execute required command line sequence for challenge #4636",
+        "initial_vfs": {"files": {"/home/hero/file_4636.txt": "sample 4636"}},
+        "expected_state": {"required_file": "/home/hero/completed_4636.txt"},
+        "hint": "Use touch completed_4636.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4637,
+        "slug": "quest-scenario-4637",
+        "title": "Linux Quest Mission #4637",
+        "objective": "Execute required command line sequence for challenge #4637",
+        "initial_vfs": {"files": {"/home/hero/file_4637.txt": "sample 4637"}},
+        "expected_state": {"required_file": "/home/hero/completed_4637.txt"},
+        "hint": "Use touch completed_4637.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4638,
+        "slug": "quest-scenario-4638",
+        "title": "Linux Quest Mission #4638",
+        "objective": "Execute required command line sequence for challenge #4638",
+        "initial_vfs": {"files": {"/home/hero/file_4638.txt": "sample 4638"}},
+        "expected_state": {"required_file": "/home/hero/completed_4638.txt"},
+        "hint": "Use touch completed_4638.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4639,
+        "slug": "quest-scenario-4639",
+        "title": "Linux Quest Mission #4639",
+        "objective": "Execute required command line sequence for challenge #4639",
+        "initial_vfs": {"files": {"/home/hero/file_4639.txt": "sample 4639"}},
+        "expected_state": {"required_file": "/home/hero/completed_4639.txt"},
+        "hint": "Use touch completed_4639.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4640,
+        "slug": "quest-scenario-4640",
+        "title": "Linux Quest Mission #4640",
+        "objective": "Execute required command line sequence for challenge #4640",
+        "initial_vfs": {"files": {"/home/hero/file_4640.txt": "sample 4640"}},
+        "expected_state": {"required_file": "/home/hero/completed_4640.txt"},
+        "hint": "Use touch completed_4640.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4641,
+        "slug": "quest-scenario-4641",
+        "title": "Linux Quest Mission #4641",
+        "objective": "Execute required command line sequence for challenge #4641",
+        "initial_vfs": {"files": {"/home/hero/file_4641.txt": "sample 4641"}},
+        "expected_state": {"required_file": "/home/hero/completed_4641.txt"},
+        "hint": "Use touch completed_4641.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4642,
+        "slug": "quest-scenario-4642",
+        "title": "Linux Quest Mission #4642",
+        "objective": "Execute required command line sequence for challenge #4642",
+        "initial_vfs": {"files": {"/home/hero/file_4642.txt": "sample 4642"}},
+        "expected_state": {"required_file": "/home/hero/completed_4642.txt"},
+        "hint": "Use touch completed_4642.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4643,
+        "slug": "quest-scenario-4643",
+        "title": "Linux Quest Mission #4643",
+        "objective": "Execute required command line sequence for challenge #4643",
+        "initial_vfs": {"files": {"/home/hero/file_4643.txt": "sample 4643"}},
+        "expected_state": {"required_file": "/home/hero/completed_4643.txt"},
+        "hint": "Use touch completed_4643.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4644,
+        "slug": "quest-scenario-4644",
+        "title": "Linux Quest Mission #4644",
+        "objective": "Execute required command line sequence for challenge #4644",
+        "initial_vfs": {"files": {"/home/hero/file_4644.txt": "sample 4644"}},
+        "expected_state": {"required_file": "/home/hero/completed_4644.txt"},
+        "hint": "Use touch completed_4644.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4645,
+        "slug": "quest-scenario-4645",
+        "title": "Linux Quest Mission #4645",
+        "objective": "Execute required command line sequence for challenge #4645",
+        "initial_vfs": {"files": {"/home/hero/file_4645.txt": "sample 4645"}},
+        "expected_state": {"required_file": "/home/hero/completed_4645.txt"},
+        "hint": "Use touch completed_4645.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4646,
+        "slug": "quest-scenario-4646",
+        "title": "Linux Quest Mission #4646",
+        "objective": "Execute required command line sequence for challenge #4646",
+        "initial_vfs": {"files": {"/home/hero/file_4646.txt": "sample 4646"}},
+        "expected_state": {"required_file": "/home/hero/completed_4646.txt"},
+        "hint": "Use touch completed_4646.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4647,
+        "slug": "quest-scenario-4647",
+        "title": "Linux Quest Mission #4647",
+        "objective": "Execute required command line sequence for challenge #4647",
+        "initial_vfs": {"files": {"/home/hero/file_4647.txt": "sample 4647"}},
+        "expected_state": {"required_file": "/home/hero/completed_4647.txt"},
+        "hint": "Use touch completed_4647.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4648,
+        "slug": "quest-scenario-4648",
+        "title": "Linux Quest Mission #4648",
+        "objective": "Execute required command line sequence for challenge #4648",
+        "initial_vfs": {"files": {"/home/hero/file_4648.txt": "sample 4648"}},
+        "expected_state": {"required_file": "/home/hero/completed_4648.txt"},
+        "hint": "Use touch completed_4648.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4649,
+        "slug": "quest-scenario-4649",
+        "title": "Linux Quest Mission #4649",
+        "objective": "Execute required command line sequence for challenge #4649",
+        "initial_vfs": {"files": {"/home/hero/file_4649.txt": "sample 4649"}},
+        "expected_state": {"required_file": "/home/hero/completed_4649.txt"},
+        "hint": "Use touch completed_4649.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4650,
+        "slug": "quest-scenario-4650",
+        "title": "Linux Quest Mission #4650",
+        "objective": "Execute required command line sequence for challenge #4650",
+        "initial_vfs": {"files": {"/home/hero/file_4650.txt": "sample 4650"}},
+        "expected_state": {"required_file": "/home/hero/completed_4650.txt"},
+        "hint": "Use touch completed_4650.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4651,
+        "slug": "quest-scenario-4651",
+        "title": "Linux Quest Mission #4651",
+        "objective": "Execute required command line sequence for challenge #4651",
+        "initial_vfs": {"files": {"/home/hero/file_4651.txt": "sample 4651"}},
+        "expected_state": {"required_file": "/home/hero/completed_4651.txt"},
+        "hint": "Use touch completed_4651.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4652,
+        "slug": "quest-scenario-4652",
+        "title": "Linux Quest Mission #4652",
+        "objective": "Execute required command line sequence for challenge #4652",
+        "initial_vfs": {"files": {"/home/hero/file_4652.txt": "sample 4652"}},
+        "expected_state": {"required_file": "/home/hero/completed_4652.txt"},
+        "hint": "Use touch completed_4652.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4653,
+        "slug": "quest-scenario-4653",
+        "title": "Linux Quest Mission #4653",
+        "objective": "Execute required command line sequence for challenge #4653",
+        "initial_vfs": {"files": {"/home/hero/file_4653.txt": "sample 4653"}},
+        "expected_state": {"required_file": "/home/hero/completed_4653.txt"},
+        "hint": "Use touch completed_4653.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4654,
+        "slug": "quest-scenario-4654",
+        "title": "Linux Quest Mission #4654",
+        "objective": "Execute required command line sequence for challenge #4654",
+        "initial_vfs": {"files": {"/home/hero/file_4654.txt": "sample 4654"}},
+        "expected_state": {"required_file": "/home/hero/completed_4654.txt"},
+        "hint": "Use touch completed_4654.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4655,
+        "slug": "quest-scenario-4655",
+        "title": "Linux Quest Mission #4655",
+        "objective": "Execute required command line sequence for challenge #4655",
+        "initial_vfs": {"files": {"/home/hero/file_4655.txt": "sample 4655"}},
+        "expected_state": {"required_file": "/home/hero/completed_4655.txt"},
+        "hint": "Use touch completed_4655.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4656,
+        "slug": "quest-scenario-4656",
+        "title": "Linux Quest Mission #4656",
+        "objective": "Execute required command line sequence for challenge #4656",
+        "initial_vfs": {"files": {"/home/hero/file_4656.txt": "sample 4656"}},
+        "expected_state": {"required_file": "/home/hero/completed_4656.txt"},
+        "hint": "Use touch completed_4656.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4657,
+        "slug": "quest-scenario-4657",
+        "title": "Linux Quest Mission #4657",
+        "objective": "Execute required command line sequence for challenge #4657",
+        "initial_vfs": {"files": {"/home/hero/file_4657.txt": "sample 4657"}},
+        "expected_state": {"required_file": "/home/hero/completed_4657.txt"},
+        "hint": "Use touch completed_4657.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4658,
+        "slug": "quest-scenario-4658",
+        "title": "Linux Quest Mission #4658",
+        "objective": "Execute required command line sequence for challenge #4658",
+        "initial_vfs": {"files": {"/home/hero/file_4658.txt": "sample 4658"}},
+        "expected_state": {"required_file": "/home/hero/completed_4658.txt"},
+        "hint": "Use touch completed_4658.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4659,
+        "slug": "quest-scenario-4659",
+        "title": "Linux Quest Mission #4659",
+        "objective": "Execute required command line sequence for challenge #4659",
+        "initial_vfs": {"files": {"/home/hero/file_4659.txt": "sample 4659"}},
+        "expected_state": {"required_file": "/home/hero/completed_4659.txt"},
+        "hint": "Use touch completed_4659.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4660,
+        "slug": "quest-scenario-4660",
+        "title": "Linux Quest Mission #4660",
+        "objective": "Execute required command line sequence for challenge #4660",
+        "initial_vfs": {"files": {"/home/hero/file_4660.txt": "sample 4660"}},
+        "expected_state": {"required_file": "/home/hero/completed_4660.txt"},
+        "hint": "Use touch completed_4660.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4661,
+        "slug": "quest-scenario-4661",
+        "title": "Linux Quest Mission #4661",
+        "objective": "Execute required command line sequence for challenge #4661",
+        "initial_vfs": {"files": {"/home/hero/file_4661.txt": "sample 4661"}},
+        "expected_state": {"required_file": "/home/hero/completed_4661.txt"},
+        "hint": "Use touch completed_4661.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4662,
+        "slug": "quest-scenario-4662",
+        "title": "Linux Quest Mission #4662",
+        "objective": "Execute required command line sequence for challenge #4662",
+        "initial_vfs": {"files": {"/home/hero/file_4662.txt": "sample 4662"}},
+        "expected_state": {"required_file": "/home/hero/completed_4662.txt"},
+        "hint": "Use touch completed_4662.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4663,
+        "slug": "quest-scenario-4663",
+        "title": "Linux Quest Mission #4663",
+        "objective": "Execute required command line sequence for challenge #4663",
+        "initial_vfs": {"files": {"/home/hero/file_4663.txt": "sample 4663"}},
+        "expected_state": {"required_file": "/home/hero/completed_4663.txt"},
+        "hint": "Use touch completed_4663.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4664,
+        "slug": "quest-scenario-4664",
+        "title": "Linux Quest Mission #4664",
+        "objective": "Execute required command line sequence for challenge #4664",
+        "initial_vfs": {"files": {"/home/hero/file_4664.txt": "sample 4664"}},
+        "expected_state": {"required_file": "/home/hero/completed_4664.txt"},
+        "hint": "Use touch completed_4664.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4665,
+        "slug": "quest-scenario-4665",
+        "title": "Linux Quest Mission #4665",
+        "objective": "Execute required command line sequence for challenge #4665",
+        "initial_vfs": {"files": {"/home/hero/file_4665.txt": "sample 4665"}},
+        "expected_state": {"required_file": "/home/hero/completed_4665.txt"},
+        "hint": "Use touch completed_4665.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4666,
+        "slug": "quest-scenario-4666",
+        "title": "Linux Quest Mission #4666",
+        "objective": "Execute required command line sequence for challenge #4666",
+        "initial_vfs": {"files": {"/home/hero/file_4666.txt": "sample 4666"}},
+        "expected_state": {"required_file": "/home/hero/completed_4666.txt"},
+        "hint": "Use touch completed_4666.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4667,
+        "slug": "quest-scenario-4667",
+        "title": "Linux Quest Mission #4667",
+        "objective": "Execute required command line sequence for challenge #4667",
+        "initial_vfs": {"files": {"/home/hero/file_4667.txt": "sample 4667"}},
+        "expected_state": {"required_file": "/home/hero/completed_4667.txt"},
+        "hint": "Use touch completed_4667.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4668,
+        "slug": "quest-scenario-4668",
+        "title": "Linux Quest Mission #4668",
+        "objective": "Execute required command line sequence for challenge #4668",
+        "initial_vfs": {"files": {"/home/hero/file_4668.txt": "sample 4668"}},
+        "expected_state": {"required_file": "/home/hero/completed_4668.txt"},
+        "hint": "Use touch completed_4668.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4669,
+        "slug": "quest-scenario-4669",
+        "title": "Linux Quest Mission #4669",
+        "objective": "Execute required command line sequence for challenge #4669",
+        "initial_vfs": {"files": {"/home/hero/file_4669.txt": "sample 4669"}},
+        "expected_state": {"required_file": "/home/hero/completed_4669.txt"},
+        "hint": "Use touch completed_4669.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4670,
+        "slug": "quest-scenario-4670",
+        "title": "Linux Quest Mission #4670",
+        "objective": "Execute required command line sequence for challenge #4670",
+        "initial_vfs": {"files": {"/home/hero/file_4670.txt": "sample 4670"}},
+        "expected_state": {"required_file": "/home/hero/completed_4670.txt"},
+        "hint": "Use touch completed_4670.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4671,
+        "slug": "quest-scenario-4671",
+        "title": "Linux Quest Mission #4671",
+        "objective": "Execute required command line sequence for challenge #4671",
+        "initial_vfs": {"files": {"/home/hero/file_4671.txt": "sample 4671"}},
+        "expected_state": {"required_file": "/home/hero/completed_4671.txt"},
+        "hint": "Use touch completed_4671.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4672,
+        "slug": "quest-scenario-4672",
+        "title": "Linux Quest Mission #4672",
+        "objective": "Execute required command line sequence for challenge #4672",
+        "initial_vfs": {"files": {"/home/hero/file_4672.txt": "sample 4672"}},
+        "expected_state": {"required_file": "/home/hero/completed_4672.txt"},
+        "hint": "Use touch completed_4672.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4673,
+        "slug": "quest-scenario-4673",
+        "title": "Linux Quest Mission #4673",
+        "objective": "Execute required command line sequence for challenge #4673",
+        "initial_vfs": {"files": {"/home/hero/file_4673.txt": "sample 4673"}},
+        "expected_state": {"required_file": "/home/hero/completed_4673.txt"},
+        "hint": "Use touch completed_4673.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4674,
+        "slug": "quest-scenario-4674",
+        "title": "Linux Quest Mission #4674",
+        "objective": "Execute required command line sequence for challenge #4674",
+        "initial_vfs": {"files": {"/home/hero/file_4674.txt": "sample 4674"}},
+        "expected_state": {"required_file": "/home/hero/completed_4674.txt"},
+        "hint": "Use touch completed_4674.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4675,
+        "slug": "quest-scenario-4675",
+        "title": "Linux Quest Mission #4675",
+        "objective": "Execute required command line sequence for challenge #4675",
+        "initial_vfs": {"files": {"/home/hero/file_4675.txt": "sample 4675"}},
+        "expected_state": {"required_file": "/home/hero/completed_4675.txt"},
+        "hint": "Use touch completed_4675.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4676,
+        "slug": "quest-scenario-4676",
+        "title": "Linux Quest Mission #4676",
+        "objective": "Execute required command line sequence for challenge #4676",
+        "initial_vfs": {"files": {"/home/hero/file_4676.txt": "sample 4676"}},
+        "expected_state": {"required_file": "/home/hero/completed_4676.txt"},
+        "hint": "Use touch completed_4676.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4677,
+        "slug": "quest-scenario-4677",
+        "title": "Linux Quest Mission #4677",
+        "objective": "Execute required command line sequence for challenge #4677",
+        "initial_vfs": {"files": {"/home/hero/file_4677.txt": "sample 4677"}},
+        "expected_state": {"required_file": "/home/hero/completed_4677.txt"},
+        "hint": "Use touch completed_4677.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4678,
+        "slug": "quest-scenario-4678",
+        "title": "Linux Quest Mission #4678",
+        "objective": "Execute required command line sequence for challenge #4678",
+        "initial_vfs": {"files": {"/home/hero/file_4678.txt": "sample 4678"}},
+        "expected_state": {"required_file": "/home/hero/completed_4678.txt"},
+        "hint": "Use touch completed_4678.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4679,
+        "slug": "quest-scenario-4679",
+        "title": "Linux Quest Mission #4679",
+        "objective": "Execute required command line sequence for challenge #4679",
+        "initial_vfs": {"files": {"/home/hero/file_4679.txt": "sample 4679"}},
+        "expected_state": {"required_file": "/home/hero/completed_4679.txt"},
+        "hint": "Use touch completed_4679.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4680,
+        "slug": "quest-scenario-4680",
+        "title": "Linux Quest Mission #4680",
+        "objective": "Execute required command line sequence for challenge #4680",
+        "initial_vfs": {"files": {"/home/hero/file_4680.txt": "sample 4680"}},
+        "expected_state": {"required_file": "/home/hero/completed_4680.txt"},
+        "hint": "Use touch completed_4680.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4681,
+        "slug": "quest-scenario-4681",
+        "title": "Linux Quest Mission #4681",
+        "objective": "Execute required command line sequence for challenge #4681",
+        "initial_vfs": {"files": {"/home/hero/file_4681.txt": "sample 4681"}},
+        "expected_state": {"required_file": "/home/hero/completed_4681.txt"},
+        "hint": "Use touch completed_4681.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4682,
+        "slug": "quest-scenario-4682",
+        "title": "Linux Quest Mission #4682",
+        "objective": "Execute required command line sequence for challenge #4682",
+        "initial_vfs": {"files": {"/home/hero/file_4682.txt": "sample 4682"}},
+        "expected_state": {"required_file": "/home/hero/completed_4682.txt"},
+        "hint": "Use touch completed_4682.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4683,
+        "slug": "quest-scenario-4683",
+        "title": "Linux Quest Mission #4683",
+        "objective": "Execute required command line sequence for challenge #4683",
+        "initial_vfs": {"files": {"/home/hero/file_4683.txt": "sample 4683"}},
+        "expected_state": {"required_file": "/home/hero/completed_4683.txt"},
+        "hint": "Use touch completed_4683.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4684,
+        "slug": "quest-scenario-4684",
+        "title": "Linux Quest Mission #4684",
+        "objective": "Execute required command line sequence for challenge #4684",
+        "initial_vfs": {"files": {"/home/hero/file_4684.txt": "sample 4684"}},
+        "expected_state": {"required_file": "/home/hero/completed_4684.txt"},
+        "hint": "Use touch completed_4684.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4685,
+        "slug": "quest-scenario-4685",
+        "title": "Linux Quest Mission #4685",
+        "objective": "Execute required command line sequence for challenge #4685",
+        "initial_vfs": {"files": {"/home/hero/file_4685.txt": "sample 4685"}},
+        "expected_state": {"required_file": "/home/hero/completed_4685.txt"},
+        "hint": "Use touch completed_4685.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4686,
+        "slug": "quest-scenario-4686",
+        "title": "Linux Quest Mission #4686",
+        "objective": "Execute required command line sequence for challenge #4686",
+        "initial_vfs": {"files": {"/home/hero/file_4686.txt": "sample 4686"}},
+        "expected_state": {"required_file": "/home/hero/completed_4686.txt"},
+        "hint": "Use touch completed_4686.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4687,
+        "slug": "quest-scenario-4687",
+        "title": "Linux Quest Mission #4687",
+        "objective": "Execute required command line sequence for challenge #4687",
+        "initial_vfs": {"files": {"/home/hero/file_4687.txt": "sample 4687"}},
+        "expected_state": {"required_file": "/home/hero/completed_4687.txt"},
+        "hint": "Use touch completed_4687.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4688,
+        "slug": "quest-scenario-4688",
+        "title": "Linux Quest Mission #4688",
+        "objective": "Execute required command line sequence for challenge #4688",
+        "initial_vfs": {"files": {"/home/hero/file_4688.txt": "sample 4688"}},
+        "expected_state": {"required_file": "/home/hero/completed_4688.txt"},
+        "hint": "Use touch completed_4688.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4689,
+        "slug": "quest-scenario-4689",
+        "title": "Linux Quest Mission #4689",
+        "objective": "Execute required command line sequence for challenge #4689",
+        "initial_vfs": {"files": {"/home/hero/file_4689.txt": "sample 4689"}},
+        "expected_state": {"required_file": "/home/hero/completed_4689.txt"},
+        "hint": "Use touch completed_4689.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4690,
+        "slug": "quest-scenario-4690",
+        "title": "Linux Quest Mission #4690",
+        "objective": "Execute required command line sequence for challenge #4690",
+        "initial_vfs": {"files": {"/home/hero/file_4690.txt": "sample 4690"}},
+        "expected_state": {"required_file": "/home/hero/completed_4690.txt"},
+        "hint": "Use touch completed_4690.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4691,
+        "slug": "quest-scenario-4691",
+        "title": "Linux Quest Mission #4691",
+        "objective": "Execute required command line sequence for challenge #4691",
+        "initial_vfs": {"files": {"/home/hero/file_4691.txt": "sample 4691"}},
+        "expected_state": {"required_file": "/home/hero/completed_4691.txt"},
+        "hint": "Use touch completed_4691.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4692,
+        "slug": "quest-scenario-4692",
+        "title": "Linux Quest Mission #4692",
+        "objective": "Execute required command line sequence for challenge #4692",
+        "initial_vfs": {"files": {"/home/hero/file_4692.txt": "sample 4692"}},
+        "expected_state": {"required_file": "/home/hero/completed_4692.txt"},
+        "hint": "Use touch completed_4692.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4693,
+        "slug": "quest-scenario-4693",
+        "title": "Linux Quest Mission #4693",
+        "objective": "Execute required command line sequence for challenge #4693",
+        "initial_vfs": {"files": {"/home/hero/file_4693.txt": "sample 4693"}},
+        "expected_state": {"required_file": "/home/hero/completed_4693.txt"},
+        "hint": "Use touch completed_4693.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4694,
+        "slug": "quest-scenario-4694",
+        "title": "Linux Quest Mission #4694",
+        "objective": "Execute required command line sequence for challenge #4694",
+        "initial_vfs": {"files": {"/home/hero/file_4694.txt": "sample 4694"}},
+        "expected_state": {"required_file": "/home/hero/completed_4694.txt"},
+        "hint": "Use touch completed_4694.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4695,
+        "slug": "quest-scenario-4695",
+        "title": "Linux Quest Mission #4695",
+        "objective": "Execute required command line sequence for challenge #4695",
+        "initial_vfs": {"files": {"/home/hero/file_4695.txt": "sample 4695"}},
+        "expected_state": {"required_file": "/home/hero/completed_4695.txt"},
+        "hint": "Use touch completed_4695.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4696,
+        "slug": "quest-scenario-4696",
+        "title": "Linux Quest Mission #4696",
+        "objective": "Execute required command line sequence for challenge #4696",
+        "initial_vfs": {"files": {"/home/hero/file_4696.txt": "sample 4696"}},
+        "expected_state": {"required_file": "/home/hero/completed_4696.txt"},
+        "hint": "Use touch completed_4696.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4697,
+        "slug": "quest-scenario-4697",
+        "title": "Linux Quest Mission #4697",
+        "objective": "Execute required command line sequence for challenge #4697",
+        "initial_vfs": {"files": {"/home/hero/file_4697.txt": "sample 4697"}},
+        "expected_state": {"required_file": "/home/hero/completed_4697.txt"},
+        "hint": "Use touch completed_4697.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4698,
+        "slug": "quest-scenario-4698",
+        "title": "Linux Quest Mission #4698",
+        "objective": "Execute required command line sequence for challenge #4698",
+        "initial_vfs": {"files": {"/home/hero/file_4698.txt": "sample 4698"}},
+        "expected_state": {"required_file": "/home/hero/completed_4698.txt"},
+        "hint": "Use touch completed_4698.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4699,
+        "slug": "quest-scenario-4699",
+        "title": "Linux Quest Mission #4699",
+        "objective": "Execute required command line sequence for challenge #4699",
+        "initial_vfs": {"files": {"/home/hero/file_4699.txt": "sample 4699"}},
+        "expected_state": {"required_file": "/home/hero/completed_4699.txt"},
+        "hint": "Use touch completed_4699.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4700,
+        "slug": "quest-scenario-4700",
+        "title": "Linux Quest Mission #4700",
+        "objective": "Execute required command line sequence for challenge #4700",
+        "initial_vfs": {"files": {"/home/hero/file_4700.txt": "sample 4700"}},
+        "expected_state": {"required_file": "/home/hero/completed_4700.txt"},
+        "hint": "Use touch completed_4700.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4701,
+        "slug": "quest-scenario-4701",
+        "title": "Linux Quest Mission #4701",
+        "objective": "Execute required command line sequence for challenge #4701",
+        "initial_vfs": {"files": {"/home/hero/file_4701.txt": "sample 4701"}},
+        "expected_state": {"required_file": "/home/hero/completed_4701.txt"},
+        "hint": "Use touch completed_4701.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4702,
+        "slug": "quest-scenario-4702",
+        "title": "Linux Quest Mission #4702",
+        "objective": "Execute required command line sequence for challenge #4702",
+        "initial_vfs": {"files": {"/home/hero/file_4702.txt": "sample 4702"}},
+        "expected_state": {"required_file": "/home/hero/completed_4702.txt"},
+        "hint": "Use touch completed_4702.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4703,
+        "slug": "quest-scenario-4703",
+        "title": "Linux Quest Mission #4703",
+        "objective": "Execute required command line sequence for challenge #4703",
+        "initial_vfs": {"files": {"/home/hero/file_4703.txt": "sample 4703"}},
+        "expected_state": {"required_file": "/home/hero/completed_4703.txt"},
+        "hint": "Use touch completed_4703.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4704,
+        "slug": "quest-scenario-4704",
+        "title": "Linux Quest Mission #4704",
+        "objective": "Execute required command line sequence for challenge #4704",
+        "initial_vfs": {"files": {"/home/hero/file_4704.txt": "sample 4704"}},
+        "expected_state": {"required_file": "/home/hero/completed_4704.txt"},
+        "hint": "Use touch completed_4704.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4705,
+        "slug": "quest-scenario-4705",
+        "title": "Linux Quest Mission #4705",
+        "objective": "Execute required command line sequence for challenge #4705",
+        "initial_vfs": {"files": {"/home/hero/file_4705.txt": "sample 4705"}},
+        "expected_state": {"required_file": "/home/hero/completed_4705.txt"},
+        "hint": "Use touch completed_4705.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4706,
+        "slug": "quest-scenario-4706",
+        "title": "Linux Quest Mission #4706",
+        "objective": "Execute required command line sequence for challenge #4706",
+        "initial_vfs": {"files": {"/home/hero/file_4706.txt": "sample 4706"}},
+        "expected_state": {"required_file": "/home/hero/completed_4706.txt"},
+        "hint": "Use touch completed_4706.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4707,
+        "slug": "quest-scenario-4707",
+        "title": "Linux Quest Mission #4707",
+        "objective": "Execute required command line sequence for challenge #4707",
+        "initial_vfs": {"files": {"/home/hero/file_4707.txt": "sample 4707"}},
+        "expected_state": {"required_file": "/home/hero/completed_4707.txt"},
+        "hint": "Use touch completed_4707.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4708,
+        "slug": "quest-scenario-4708",
+        "title": "Linux Quest Mission #4708",
+        "objective": "Execute required command line sequence for challenge #4708",
+        "initial_vfs": {"files": {"/home/hero/file_4708.txt": "sample 4708"}},
+        "expected_state": {"required_file": "/home/hero/completed_4708.txt"},
+        "hint": "Use touch completed_4708.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4709,
+        "slug": "quest-scenario-4709",
+        "title": "Linux Quest Mission #4709",
+        "objective": "Execute required command line sequence for challenge #4709",
+        "initial_vfs": {"files": {"/home/hero/file_4709.txt": "sample 4709"}},
+        "expected_state": {"required_file": "/home/hero/completed_4709.txt"},
+        "hint": "Use touch completed_4709.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4710,
+        "slug": "quest-scenario-4710",
+        "title": "Linux Quest Mission #4710",
+        "objective": "Execute required command line sequence for challenge #4710",
+        "initial_vfs": {"files": {"/home/hero/file_4710.txt": "sample 4710"}},
+        "expected_state": {"required_file": "/home/hero/completed_4710.txt"},
+        "hint": "Use touch completed_4710.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4711,
+        "slug": "quest-scenario-4711",
+        "title": "Linux Quest Mission #4711",
+        "objective": "Execute required command line sequence for challenge #4711",
+        "initial_vfs": {"files": {"/home/hero/file_4711.txt": "sample 4711"}},
+        "expected_state": {"required_file": "/home/hero/completed_4711.txt"},
+        "hint": "Use touch completed_4711.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4712,
+        "slug": "quest-scenario-4712",
+        "title": "Linux Quest Mission #4712",
+        "objective": "Execute required command line sequence for challenge #4712",
+        "initial_vfs": {"files": {"/home/hero/file_4712.txt": "sample 4712"}},
+        "expected_state": {"required_file": "/home/hero/completed_4712.txt"},
+        "hint": "Use touch completed_4712.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4713,
+        "slug": "quest-scenario-4713",
+        "title": "Linux Quest Mission #4713",
+        "objective": "Execute required command line sequence for challenge #4713",
+        "initial_vfs": {"files": {"/home/hero/file_4713.txt": "sample 4713"}},
+        "expected_state": {"required_file": "/home/hero/completed_4713.txt"},
+        "hint": "Use touch completed_4713.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4714,
+        "slug": "quest-scenario-4714",
+        "title": "Linux Quest Mission #4714",
+        "objective": "Execute required command line sequence for challenge #4714",
+        "initial_vfs": {"files": {"/home/hero/file_4714.txt": "sample 4714"}},
+        "expected_state": {"required_file": "/home/hero/completed_4714.txt"},
+        "hint": "Use touch completed_4714.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4715,
+        "slug": "quest-scenario-4715",
+        "title": "Linux Quest Mission #4715",
+        "objective": "Execute required command line sequence for challenge #4715",
+        "initial_vfs": {"files": {"/home/hero/file_4715.txt": "sample 4715"}},
+        "expected_state": {"required_file": "/home/hero/completed_4715.txt"},
+        "hint": "Use touch completed_4715.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4716,
+        "slug": "quest-scenario-4716",
+        "title": "Linux Quest Mission #4716",
+        "objective": "Execute required command line sequence for challenge #4716",
+        "initial_vfs": {"files": {"/home/hero/file_4716.txt": "sample 4716"}},
+        "expected_state": {"required_file": "/home/hero/completed_4716.txt"},
+        "hint": "Use touch completed_4716.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4717,
+        "slug": "quest-scenario-4717",
+        "title": "Linux Quest Mission #4717",
+        "objective": "Execute required command line sequence for challenge #4717",
+        "initial_vfs": {"files": {"/home/hero/file_4717.txt": "sample 4717"}},
+        "expected_state": {"required_file": "/home/hero/completed_4717.txt"},
+        "hint": "Use touch completed_4717.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4718,
+        "slug": "quest-scenario-4718",
+        "title": "Linux Quest Mission #4718",
+        "objective": "Execute required command line sequence for challenge #4718",
+        "initial_vfs": {"files": {"/home/hero/file_4718.txt": "sample 4718"}},
+        "expected_state": {"required_file": "/home/hero/completed_4718.txt"},
+        "hint": "Use touch completed_4718.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4719,
+        "slug": "quest-scenario-4719",
+        "title": "Linux Quest Mission #4719",
+        "objective": "Execute required command line sequence for challenge #4719",
+        "initial_vfs": {"files": {"/home/hero/file_4719.txt": "sample 4719"}},
+        "expected_state": {"required_file": "/home/hero/completed_4719.txt"},
+        "hint": "Use touch completed_4719.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4720,
+        "slug": "quest-scenario-4720",
+        "title": "Linux Quest Mission #4720",
+        "objective": "Execute required command line sequence for challenge #4720",
+        "initial_vfs": {"files": {"/home/hero/file_4720.txt": "sample 4720"}},
+        "expected_state": {"required_file": "/home/hero/completed_4720.txt"},
+        "hint": "Use touch completed_4720.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4721,
+        "slug": "quest-scenario-4721",
+        "title": "Linux Quest Mission #4721",
+        "objective": "Execute required command line sequence for challenge #4721",
+        "initial_vfs": {"files": {"/home/hero/file_4721.txt": "sample 4721"}},
+        "expected_state": {"required_file": "/home/hero/completed_4721.txt"},
+        "hint": "Use touch completed_4721.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4722,
+        "slug": "quest-scenario-4722",
+        "title": "Linux Quest Mission #4722",
+        "objective": "Execute required command line sequence for challenge #4722",
+        "initial_vfs": {"files": {"/home/hero/file_4722.txt": "sample 4722"}},
+        "expected_state": {"required_file": "/home/hero/completed_4722.txt"},
+        "hint": "Use touch completed_4722.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4723,
+        "slug": "quest-scenario-4723",
+        "title": "Linux Quest Mission #4723",
+        "objective": "Execute required command line sequence for challenge #4723",
+        "initial_vfs": {"files": {"/home/hero/file_4723.txt": "sample 4723"}},
+        "expected_state": {"required_file": "/home/hero/completed_4723.txt"},
+        "hint": "Use touch completed_4723.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4724,
+        "slug": "quest-scenario-4724",
+        "title": "Linux Quest Mission #4724",
+        "objective": "Execute required command line sequence for challenge #4724",
+        "initial_vfs": {"files": {"/home/hero/file_4724.txt": "sample 4724"}},
+        "expected_state": {"required_file": "/home/hero/completed_4724.txt"},
+        "hint": "Use touch completed_4724.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4725,
+        "slug": "quest-scenario-4725",
+        "title": "Linux Quest Mission #4725",
+        "objective": "Execute required command line sequence for challenge #4725",
+        "initial_vfs": {"files": {"/home/hero/file_4725.txt": "sample 4725"}},
+        "expected_state": {"required_file": "/home/hero/completed_4725.txt"},
+        "hint": "Use touch completed_4725.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4726,
+        "slug": "quest-scenario-4726",
+        "title": "Linux Quest Mission #4726",
+        "objective": "Execute required command line sequence for challenge #4726",
+        "initial_vfs": {"files": {"/home/hero/file_4726.txt": "sample 4726"}},
+        "expected_state": {"required_file": "/home/hero/completed_4726.txt"},
+        "hint": "Use touch completed_4726.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4727,
+        "slug": "quest-scenario-4727",
+        "title": "Linux Quest Mission #4727",
+        "objective": "Execute required command line sequence for challenge #4727",
+        "initial_vfs": {"files": {"/home/hero/file_4727.txt": "sample 4727"}},
+        "expected_state": {"required_file": "/home/hero/completed_4727.txt"},
+        "hint": "Use touch completed_4727.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4728,
+        "slug": "quest-scenario-4728",
+        "title": "Linux Quest Mission #4728",
+        "objective": "Execute required command line sequence for challenge #4728",
+        "initial_vfs": {"files": {"/home/hero/file_4728.txt": "sample 4728"}},
+        "expected_state": {"required_file": "/home/hero/completed_4728.txt"},
+        "hint": "Use touch completed_4728.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4729,
+        "slug": "quest-scenario-4729",
+        "title": "Linux Quest Mission #4729",
+        "objective": "Execute required command line sequence for challenge #4729",
+        "initial_vfs": {"files": {"/home/hero/file_4729.txt": "sample 4729"}},
+        "expected_state": {"required_file": "/home/hero/completed_4729.txt"},
+        "hint": "Use touch completed_4729.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4730,
+        "slug": "quest-scenario-4730",
+        "title": "Linux Quest Mission #4730",
+        "objective": "Execute required command line sequence for challenge #4730",
+        "initial_vfs": {"files": {"/home/hero/file_4730.txt": "sample 4730"}},
+        "expected_state": {"required_file": "/home/hero/completed_4730.txt"},
+        "hint": "Use touch completed_4730.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4731,
+        "slug": "quest-scenario-4731",
+        "title": "Linux Quest Mission #4731",
+        "objective": "Execute required command line sequence for challenge #4731",
+        "initial_vfs": {"files": {"/home/hero/file_4731.txt": "sample 4731"}},
+        "expected_state": {"required_file": "/home/hero/completed_4731.txt"},
+        "hint": "Use touch completed_4731.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4732,
+        "slug": "quest-scenario-4732",
+        "title": "Linux Quest Mission #4732",
+        "objective": "Execute required command line sequence for challenge #4732",
+        "initial_vfs": {"files": {"/home/hero/file_4732.txt": "sample 4732"}},
+        "expected_state": {"required_file": "/home/hero/completed_4732.txt"},
+        "hint": "Use touch completed_4732.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4733,
+        "slug": "quest-scenario-4733",
+        "title": "Linux Quest Mission #4733",
+        "objective": "Execute required command line sequence for challenge #4733",
+        "initial_vfs": {"files": {"/home/hero/file_4733.txt": "sample 4733"}},
+        "expected_state": {"required_file": "/home/hero/completed_4733.txt"},
+        "hint": "Use touch completed_4733.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4734,
+        "slug": "quest-scenario-4734",
+        "title": "Linux Quest Mission #4734",
+        "objective": "Execute required command line sequence for challenge #4734",
+        "initial_vfs": {"files": {"/home/hero/file_4734.txt": "sample 4734"}},
+        "expected_state": {"required_file": "/home/hero/completed_4734.txt"},
+        "hint": "Use touch completed_4734.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4735,
+        "slug": "quest-scenario-4735",
+        "title": "Linux Quest Mission #4735",
+        "objective": "Execute required command line sequence for challenge #4735",
+        "initial_vfs": {"files": {"/home/hero/file_4735.txt": "sample 4735"}},
+        "expected_state": {"required_file": "/home/hero/completed_4735.txt"},
+        "hint": "Use touch completed_4735.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4736,
+        "slug": "quest-scenario-4736",
+        "title": "Linux Quest Mission #4736",
+        "objective": "Execute required command line sequence for challenge #4736",
+        "initial_vfs": {"files": {"/home/hero/file_4736.txt": "sample 4736"}},
+        "expected_state": {"required_file": "/home/hero/completed_4736.txt"},
+        "hint": "Use touch completed_4736.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4737,
+        "slug": "quest-scenario-4737",
+        "title": "Linux Quest Mission #4737",
+        "objective": "Execute required command line sequence for challenge #4737",
+        "initial_vfs": {"files": {"/home/hero/file_4737.txt": "sample 4737"}},
+        "expected_state": {"required_file": "/home/hero/completed_4737.txt"},
+        "hint": "Use touch completed_4737.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4738,
+        "slug": "quest-scenario-4738",
+        "title": "Linux Quest Mission #4738",
+        "objective": "Execute required command line sequence for challenge #4738",
+        "initial_vfs": {"files": {"/home/hero/file_4738.txt": "sample 4738"}},
+        "expected_state": {"required_file": "/home/hero/completed_4738.txt"},
+        "hint": "Use touch completed_4738.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4739,
+        "slug": "quest-scenario-4739",
+        "title": "Linux Quest Mission #4739",
+        "objective": "Execute required command line sequence for challenge #4739",
+        "initial_vfs": {"files": {"/home/hero/file_4739.txt": "sample 4739"}},
+        "expected_state": {"required_file": "/home/hero/completed_4739.txt"},
+        "hint": "Use touch completed_4739.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4740,
+        "slug": "quest-scenario-4740",
+        "title": "Linux Quest Mission #4740",
+        "objective": "Execute required command line sequence for challenge #4740",
+        "initial_vfs": {"files": {"/home/hero/file_4740.txt": "sample 4740"}},
+        "expected_state": {"required_file": "/home/hero/completed_4740.txt"},
+        "hint": "Use touch completed_4740.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4741,
+        "slug": "quest-scenario-4741",
+        "title": "Linux Quest Mission #4741",
+        "objective": "Execute required command line sequence for challenge #4741",
+        "initial_vfs": {"files": {"/home/hero/file_4741.txt": "sample 4741"}},
+        "expected_state": {"required_file": "/home/hero/completed_4741.txt"},
+        "hint": "Use touch completed_4741.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4742,
+        "slug": "quest-scenario-4742",
+        "title": "Linux Quest Mission #4742",
+        "objective": "Execute required command line sequence for challenge #4742",
+        "initial_vfs": {"files": {"/home/hero/file_4742.txt": "sample 4742"}},
+        "expected_state": {"required_file": "/home/hero/completed_4742.txt"},
+        "hint": "Use touch completed_4742.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4743,
+        "slug": "quest-scenario-4743",
+        "title": "Linux Quest Mission #4743",
+        "objective": "Execute required command line sequence for challenge #4743",
+        "initial_vfs": {"files": {"/home/hero/file_4743.txt": "sample 4743"}},
+        "expected_state": {"required_file": "/home/hero/completed_4743.txt"},
+        "hint": "Use touch completed_4743.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4744,
+        "slug": "quest-scenario-4744",
+        "title": "Linux Quest Mission #4744",
+        "objective": "Execute required command line sequence for challenge #4744",
+        "initial_vfs": {"files": {"/home/hero/file_4744.txt": "sample 4744"}},
+        "expected_state": {"required_file": "/home/hero/completed_4744.txt"},
+        "hint": "Use touch completed_4744.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4745,
+        "slug": "quest-scenario-4745",
+        "title": "Linux Quest Mission #4745",
+        "objective": "Execute required command line sequence for challenge #4745",
+        "initial_vfs": {"files": {"/home/hero/file_4745.txt": "sample 4745"}},
+        "expected_state": {"required_file": "/home/hero/completed_4745.txt"},
+        "hint": "Use touch completed_4745.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4746,
+        "slug": "quest-scenario-4746",
+        "title": "Linux Quest Mission #4746",
+        "objective": "Execute required command line sequence for challenge #4746",
+        "initial_vfs": {"files": {"/home/hero/file_4746.txt": "sample 4746"}},
+        "expected_state": {"required_file": "/home/hero/completed_4746.txt"},
+        "hint": "Use touch completed_4746.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4747,
+        "slug": "quest-scenario-4747",
+        "title": "Linux Quest Mission #4747",
+        "objective": "Execute required command line sequence for challenge #4747",
+        "initial_vfs": {"files": {"/home/hero/file_4747.txt": "sample 4747"}},
+        "expected_state": {"required_file": "/home/hero/completed_4747.txt"},
+        "hint": "Use touch completed_4747.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4748,
+        "slug": "quest-scenario-4748",
+        "title": "Linux Quest Mission #4748",
+        "objective": "Execute required command line sequence for challenge #4748",
+        "initial_vfs": {"files": {"/home/hero/file_4748.txt": "sample 4748"}},
+        "expected_state": {"required_file": "/home/hero/completed_4748.txt"},
+        "hint": "Use touch completed_4748.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4749,
+        "slug": "quest-scenario-4749",
+        "title": "Linux Quest Mission #4749",
+        "objective": "Execute required command line sequence for challenge #4749",
+        "initial_vfs": {"files": {"/home/hero/file_4749.txt": "sample 4749"}},
+        "expected_state": {"required_file": "/home/hero/completed_4749.txt"},
+        "hint": "Use touch completed_4749.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4750,
+        "slug": "quest-scenario-4750",
+        "title": "Linux Quest Mission #4750",
+        "objective": "Execute required command line sequence for challenge #4750",
+        "initial_vfs": {"files": {"/home/hero/file_4750.txt": "sample 4750"}},
+        "expected_state": {"required_file": "/home/hero/completed_4750.txt"},
+        "hint": "Use touch completed_4750.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4751,
+        "slug": "quest-scenario-4751",
+        "title": "Linux Quest Mission #4751",
+        "objective": "Execute required command line sequence for challenge #4751",
+        "initial_vfs": {"files": {"/home/hero/file_4751.txt": "sample 4751"}},
+        "expected_state": {"required_file": "/home/hero/completed_4751.txt"},
+        "hint": "Use touch completed_4751.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4752,
+        "slug": "quest-scenario-4752",
+        "title": "Linux Quest Mission #4752",
+        "objective": "Execute required command line sequence for challenge #4752",
+        "initial_vfs": {"files": {"/home/hero/file_4752.txt": "sample 4752"}},
+        "expected_state": {"required_file": "/home/hero/completed_4752.txt"},
+        "hint": "Use touch completed_4752.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4753,
+        "slug": "quest-scenario-4753",
+        "title": "Linux Quest Mission #4753",
+        "objective": "Execute required command line sequence for challenge #4753",
+        "initial_vfs": {"files": {"/home/hero/file_4753.txt": "sample 4753"}},
+        "expected_state": {"required_file": "/home/hero/completed_4753.txt"},
+        "hint": "Use touch completed_4753.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4754,
+        "slug": "quest-scenario-4754",
+        "title": "Linux Quest Mission #4754",
+        "objective": "Execute required command line sequence for challenge #4754",
+        "initial_vfs": {"files": {"/home/hero/file_4754.txt": "sample 4754"}},
+        "expected_state": {"required_file": "/home/hero/completed_4754.txt"},
+        "hint": "Use touch completed_4754.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4755,
+        "slug": "quest-scenario-4755",
+        "title": "Linux Quest Mission #4755",
+        "objective": "Execute required command line sequence for challenge #4755",
+        "initial_vfs": {"files": {"/home/hero/file_4755.txt": "sample 4755"}},
+        "expected_state": {"required_file": "/home/hero/completed_4755.txt"},
+        "hint": "Use touch completed_4755.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4756,
+        "slug": "quest-scenario-4756",
+        "title": "Linux Quest Mission #4756",
+        "objective": "Execute required command line sequence for challenge #4756",
+        "initial_vfs": {"files": {"/home/hero/file_4756.txt": "sample 4756"}},
+        "expected_state": {"required_file": "/home/hero/completed_4756.txt"},
+        "hint": "Use touch completed_4756.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4757,
+        "slug": "quest-scenario-4757",
+        "title": "Linux Quest Mission #4757",
+        "objective": "Execute required command line sequence for challenge #4757",
+        "initial_vfs": {"files": {"/home/hero/file_4757.txt": "sample 4757"}},
+        "expected_state": {"required_file": "/home/hero/completed_4757.txt"},
+        "hint": "Use touch completed_4757.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4758,
+        "slug": "quest-scenario-4758",
+        "title": "Linux Quest Mission #4758",
+        "objective": "Execute required command line sequence for challenge #4758",
+        "initial_vfs": {"files": {"/home/hero/file_4758.txt": "sample 4758"}},
+        "expected_state": {"required_file": "/home/hero/completed_4758.txt"},
+        "hint": "Use touch completed_4758.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4759,
+        "slug": "quest-scenario-4759",
+        "title": "Linux Quest Mission #4759",
+        "objective": "Execute required command line sequence for challenge #4759",
+        "initial_vfs": {"files": {"/home/hero/file_4759.txt": "sample 4759"}},
+        "expected_state": {"required_file": "/home/hero/completed_4759.txt"},
+        "hint": "Use touch completed_4759.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4760,
+        "slug": "quest-scenario-4760",
+        "title": "Linux Quest Mission #4760",
+        "objective": "Execute required command line sequence for challenge #4760",
+        "initial_vfs": {"files": {"/home/hero/file_4760.txt": "sample 4760"}},
+        "expected_state": {"required_file": "/home/hero/completed_4760.txt"},
+        "hint": "Use touch completed_4760.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4761,
+        "slug": "quest-scenario-4761",
+        "title": "Linux Quest Mission #4761",
+        "objective": "Execute required command line sequence for challenge #4761",
+        "initial_vfs": {"files": {"/home/hero/file_4761.txt": "sample 4761"}},
+        "expected_state": {"required_file": "/home/hero/completed_4761.txt"},
+        "hint": "Use touch completed_4761.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4762,
+        "slug": "quest-scenario-4762",
+        "title": "Linux Quest Mission #4762",
+        "objective": "Execute required command line sequence for challenge #4762",
+        "initial_vfs": {"files": {"/home/hero/file_4762.txt": "sample 4762"}},
+        "expected_state": {"required_file": "/home/hero/completed_4762.txt"},
+        "hint": "Use touch completed_4762.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4763,
+        "slug": "quest-scenario-4763",
+        "title": "Linux Quest Mission #4763",
+        "objective": "Execute required command line sequence for challenge #4763",
+        "initial_vfs": {"files": {"/home/hero/file_4763.txt": "sample 4763"}},
+        "expected_state": {"required_file": "/home/hero/completed_4763.txt"},
+        "hint": "Use touch completed_4763.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4764,
+        "slug": "quest-scenario-4764",
+        "title": "Linux Quest Mission #4764",
+        "objective": "Execute required command line sequence for challenge #4764",
+        "initial_vfs": {"files": {"/home/hero/file_4764.txt": "sample 4764"}},
+        "expected_state": {"required_file": "/home/hero/completed_4764.txt"},
+        "hint": "Use touch completed_4764.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4765,
+        "slug": "quest-scenario-4765",
+        "title": "Linux Quest Mission #4765",
+        "objective": "Execute required command line sequence for challenge #4765",
+        "initial_vfs": {"files": {"/home/hero/file_4765.txt": "sample 4765"}},
+        "expected_state": {"required_file": "/home/hero/completed_4765.txt"},
+        "hint": "Use touch completed_4765.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4766,
+        "slug": "quest-scenario-4766",
+        "title": "Linux Quest Mission #4766",
+        "objective": "Execute required command line sequence for challenge #4766",
+        "initial_vfs": {"files": {"/home/hero/file_4766.txt": "sample 4766"}},
+        "expected_state": {"required_file": "/home/hero/completed_4766.txt"},
+        "hint": "Use touch completed_4766.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4767,
+        "slug": "quest-scenario-4767",
+        "title": "Linux Quest Mission #4767",
+        "objective": "Execute required command line sequence for challenge #4767",
+        "initial_vfs": {"files": {"/home/hero/file_4767.txt": "sample 4767"}},
+        "expected_state": {"required_file": "/home/hero/completed_4767.txt"},
+        "hint": "Use touch completed_4767.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4768,
+        "slug": "quest-scenario-4768",
+        "title": "Linux Quest Mission #4768",
+        "objective": "Execute required command line sequence for challenge #4768",
+        "initial_vfs": {"files": {"/home/hero/file_4768.txt": "sample 4768"}},
+        "expected_state": {"required_file": "/home/hero/completed_4768.txt"},
+        "hint": "Use touch completed_4768.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4769,
+        "slug": "quest-scenario-4769",
+        "title": "Linux Quest Mission #4769",
+        "objective": "Execute required command line sequence for challenge #4769",
+        "initial_vfs": {"files": {"/home/hero/file_4769.txt": "sample 4769"}},
+        "expected_state": {"required_file": "/home/hero/completed_4769.txt"},
+        "hint": "Use touch completed_4769.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4770,
+        "slug": "quest-scenario-4770",
+        "title": "Linux Quest Mission #4770",
+        "objective": "Execute required command line sequence for challenge #4770",
+        "initial_vfs": {"files": {"/home/hero/file_4770.txt": "sample 4770"}},
+        "expected_state": {"required_file": "/home/hero/completed_4770.txt"},
+        "hint": "Use touch completed_4770.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4771,
+        "slug": "quest-scenario-4771",
+        "title": "Linux Quest Mission #4771",
+        "objective": "Execute required command line sequence for challenge #4771",
+        "initial_vfs": {"files": {"/home/hero/file_4771.txt": "sample 4771"}},
+        "expected_state": {"required_file": "/home/hero/completed_4771.txt"},
+        "hint": "Use touch completed_4771.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4772,
+        "slug": "quest-scenario-4772",
+        "title": "Linux Quest Mission #4772",
+        "objective": "Execute required command line sequence for challenge #4772",
+        "initial_vfs": {"files": {"/home/hero/file_4772.txt": "sample 4772"}},
+        "expected_state": {"required_file": "/home/hero/completed_4772.txt"},
+        "hint": "Use touch completed_4772.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4773,
+        "slug": "quest-scenario-4773",
+        "title": "Linux Quest Mission #4773",
+        "objective": "Execute required command line sequence for challenge #4773",
+        "initial_vfs": {"files": {"/home/hero/file_4773.txt": "sample 4773"}},
+        "expected_state": {"required_file": "/home/hero/completed_4773.txt"},
+        "hint": "Use touch completed_4773.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4774,
+        "slug": "quest-scenario-4774",
+        "title": "Linux Quest Mission #4774",
+        "objective": "Execute required command line sequence for challenge #4774",
+        "initial_vfs": {"files": {"/home/hero/file_4774.txt": "sample 4774"}},
+        "expected_state": {"required_file": "/home/hero/completed_4774.txt"},
+        "hint": "Use touch completed_4774.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4775,
+        "slug": "quest-scenario-4775",
+        "title": "Linux Quest Mission #4775",
+        "objective": "Execute required command line sequence for challenge #4775",
+        "initial_vfs": {"files": {"/home/hero/file_4775.txt": "sample 4775"}},
+        "expected_state": {"required_file": "/home/hero/completed_4775.txt"},
+        "hint": "Use touch completed_4775.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4776,
+        "slug": "quest-scenario-4776",
+        "title": "Linux Quest Mission #4776",
+        "objective": "Execute required command line sequence for challenge #4776",
+        "initial_vfs": {"files": {"/home/hero/file_4776.txt": "sample 4776"}},
+        "expected_state": {"required_file": "/home/hero/completed_4776.txt"},
+        "hint": "Use touch completed_4776.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4777,
+        "slug": "quest-scenario-4777",
+        "title": "Linux Quest Mission #4777",
+        "objective": "Execute required command line sequence for challenge #4777",
+        "initial_vfs": {"files": {"/home/hero/file_4777.txt": "sample 4777"}},
+        "expected_state": {"required_file": "/home/hero/completed_4777.txt"},
+        "hint": "Use touch completed_4777.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4778,
+        "slug": "quest-scenario-4778",
+        "title": "Linux Quest Mission #4778",
+        "objective": "Execute required command line sequence for challenge #4778",
+        "initial_vfs": {"files": {"/home/hero/file_4778.txt": "sample 4778"}},
+        "expected_state": {"required_file": "/home/hero/completed_4778.txt"},
+        "hint": "Use touch completed_4778.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4779,
+        "slug": "quest-scenario-4779",
+        "title": "Linux Quest Mission #4779",
+        "objective": "Execute required command line sequence for challenge #4779",
+        "initial_vfs": {"files": {"/home/hero/file_4779.txt": "sample 4779"}},
+        "expected_state": {"required_file": "/home/hero/completed_4779.txt"},
+        "hint": "Use touch completed_4779.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4780,
+        "slug": "quest-scenario-4780",
+        "title": "Linux Quest Mission #4780",
+        "objective": "Execute required command line sequence for challenge #4780",
+        "initial_vfs": {"files": {"/home/hero/file_4780.txt": "sample 4780"}},
+        "expected_state": {"required_file": "/home/hero/completed_4780.txt"},
+        "hint": "Use touch completed_4780.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4781,
+        "slug": "quest-scenario-4781",
+        "title": "Linux Quest Mission #4781",
+        "objective": "Execute required command line sequence for challenge #4781",
+        "initial_vfs": {"files": {"/home/hero/file_4781.txt": "sample 4781"}},
+        "expected_state": {"required_file": "/home/hero/completed_4781.txt"},
+        "hint": "Use touch completed_4781.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4782,
+        "slug": "quest-scenario-4782",
+        "title": "Linux Quest Mission #4782",
+        "objective": "Execute required command line sequence for challenge #4782",
+        "initial_vfs": {"files": {"/home/hero/file_4782.txt": "sample 4782"}},
+        "expected_state": {"required_file": "/home/hero/completed_4782.txt"},
+        "hint": "Use touch completed_4782.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4783,
+        "slug": "quest-scenario-4783",
+        "title": "Linux Quest Mission #4783",
+        "objective": "Execute required command line sequence for challenge #4783",
+        "initial_vfs": {"files": {"/home/hero/file_4783.txt": "sample 4783"}},
+        "expected_state": {"required_file": "/home/hero/completed_4783.txt"},
+        "hint": "Use touch completed_4783.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4784,
+        "slug": "quest-scenario-4784",
+        "title": "Linux Quest Mission #4784",
+        "objective": "Execute required command line sequence for challenge #4784",
+        "initial_vfs": {"files": {"/home/hero/file_4784.txt": "sample 4784"}},
+        "expected_state": {"required_file": "/home/hero/completed_4784.txt"},
+        "hint": "Use touch completed_4784.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4785,
+        "slug": "quest-scenario-4785",
+        "title": "Linux Quest Mission #4785",
+        "objective": "Execute required command line sequence for challenge #4785",
+        "initial_vfs": {"files": {"/home/hero/file_4785.txt": "sample 4785"}},
+        "expected_state": {"required_file": "/home/hero/completed_4785.txt"},
+        "hint": "Use touch completed_4785.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4786,
+        "slug": "quest-scenario-4786",
+        "title": "Linux Quest Mission #4786",
+        "objective": "Execute required command line sequence for challenge #4786",
+        "initial_vfs": {"files": {"/home/hero/file_4786.txt": "sample 4786"}},
+        "expected_state": {"required_file": "/home/hero/completed_4786.txt"},
+        "hint": "Use touch completed_4786.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4787,
+        "slug": "quest-scenario-4787",
+        "title": "Linux Quest Mission #4787",
+        "objective": "Execute required command line sequence for challenge #4787",
+        "initial_vfs": {"files": {"/home/hero/file_4787.txt": "sample 4787"}},
+        "expected_state": {"required_file": "/home/hero/completed_4787.txt"},
+        "hint": "Use touch completed_4787.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4788,
+        "slug": "quest-scenario-4788",
+        "title": "Linux Quest Mission #4788",
+        "objective": "Execute required command line sequence for challenge #4788",
+        "initial_vfs": {"files": {"/home/hero/file_4788.txt": "sample 4788"}},
+        "expected_state": {"required_file": "/home/hero/completed_4788.txt"},
+        "hint": "Use touch completed_4788.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4789,
+        "slug": "quest-scenario-4789",
+        "title": "Linux Quest Mission #4789",
+        "objective": "Execute required command line sequence for challenge #4789",
+        "initial_vfs": {"files": {"/home/hero/file_4789.txt": "sample 4789"}},
+        "expected_state": {"required_file": "/home/hero/completed_4789.txt"},
+        "hint": "Use touch completed_4789.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4790,
+        "slug": "quest-scenario-4790",
+        "title": "Linux Quest Mission #4790",
+        "objective": "Execute required command line sequence for challenge #4790",
+        "initial_vfs": {"files": {"/home/hero/file_4790.txt": "sample 4790"}},
+        "expected_state": {"required_file": "/home/hero/completed_4790.txt"},
+        "hint": "Use touch completed_4790.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4791,
+        "slug": "quest-scenario-4791",
+        "title": "Linux Quest Mission #4791",
+        "objective": "Execute required command line sequence for challenge #4791",
+        "initial_vfs": {"files": {"/home/hero/file_4791.txt": "sample 4791"}},
+        "expected_state": {"required_file": "/home/hero/completed_4791.txt"},
+        "hint": "Use touch completed_4791.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4792,
+        "slug": "quest-scenario-4792",
+        "title": "Linux Quest Mission #4792",
+        "objective": "Execute required command line sequence for challenge #4792",
+        "initial_vfs": {"files": {"/home/hero/file_4792.txt": "sample 4792"}},
+        "expected_state": {"required_file": "/home/hero/completed_4792.txt"},
+        "hint": "Use touch completed_4792.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4793,
+        "slug": "quest-scenario-4793",
+        "title": "Linux Quest Mission #4793",
+        "objective": "Execute required command line sequence for challenge #4793",
+        "initial_vfs": {"files": {"/home/hero/file_4793.txt": "sample 4793"}},
+        "expected_state": {"required_file": "/home/hero/completed_4793.txt"},
+        "hint": "Use touch completed_4793.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4794,
+        "slug": "quest-scenario-4794",
+        "title": "Linux Quest Mission #4794",
+        "objective": "Execute required command line sequence for challenge #4794",
+        "initial_vfs": {"files": {"/home/hero/file_4794.txt": "sample 4794"}},
+        "expected_state": {"required_file": "/home/hero/completed_4794.txt"},
+        "hint": "Use touch completed_4794.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4795,
+        "slug": "quest-scenario-4795",
+        "title": "Linux Quest Mission #4795",
+        "objective": "Execute required command line sequence for challenge #4795",
+        "initial_vfs": {"files": {"/home/hero/file_4795.txt": "sample 4795"}},
+        "expected_state": {"required_file": "/home/hero/completed_4795.txt"},
+        "hint": "Use touch completed_4795.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4796,
+        "slug": "quest-scenario-4796",
+        "title": "Linux Quest Mission #4796",
+        "objective": "Execute required command line sequence for challenge #4796",
+        "initial_vfs": {"files": {"/home/hero/file_4796.txt": "sample 4796"}},
+        "expected_state": {"required_file": "/home/hero/completed_4796.txt"},
+        "hint": "Use touch completed_4796.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4797,
+        "slug": "quest-scenario-4797",
+        "title": "Linux Quest Mission #4797",
+        "objective": "Execute required command line sequence for challenge #4797",
+        "initial_vfs": {"files": {"/home/hero/file_4797.txt": "sample 4797"}},
+        "expected_state": {"required_file": "/home/hero/completed_4797.txt"},
+        "hint": "Use touch completed_4797.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4798,
+        "slug": "quest-scenario-4798",
+        "title": "Linux Quest Mission #4798",
+        "objective": "Execute required command line sequence for challenge #4798",
+        "initial_vfs": {"files": {"/home/hero/file_4798.txt": "sample 4798"}},
+        "expected_state": {"required_file": "/home/hero/completed_4798.txt"},
+        "hint": "Use touch completed_4798.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4799,
+        "slug": "quest-scenario-4799",
+        "title": "Linux Quest Mission #4799",
+        "objective": "Execute required command line sequence for challenge #4799",
+        "initial_vfs": {"files": {"/home/hero/file_4799.txt": "sample 4799"}},
+        "expected_state": {"required_file": "/home/hero/completed_4799.txt"},
+        "hint": "Use touch completed_4799.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4800,
+        "slug": "quest-scenario-4800",
+        "title": "Linux Quest Mission #4800",
+        "objective": "Execute required command line sequence for challenge #4800",
+        "initial_vfs": {"files": {"/home/hero/file_4800.txt": "sample 4800"}},
+        "expected_state": {"required_file": "/home/hero/completed_4800.txt"},
+        "hint": "Use touch completed_4800.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4801,
+        "slug": "quest-scenario-4801",
+        "title": "Linux Quest Mission #4801",
+        "objective": "Execute required command line sequence for challenge #4801",
+        "initial_vfs": {"files": {"/home/hero/file_4801.txt": "sample 4801"}},
+        "expected_state": {"required_file": "/home/hero/completed_4801.txt"},
+        "hint": "Use touch completed_4801.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4802,
+        "slug": "quest-scenario-4802",
+        "title": "Linux Quest Mission #4802",
+        "objective": "Execute required command line sequence for challenge #4802",
+        "initial_vfs": {"files": {"/home/hero/file_4802.txt": "sample 4802"}},
+        "expected_state": {"required_file": "/home/hero/completed_4802.txt"},
+        "hint": "Use touch completed_4802.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4803,
+        "slug": "quest-scenario-4803",
+        "title": "Linux Quest Mission #4803",
+        "objective": "Execute required command line sequence for challenge #4803",
+        "initial_vfs": {"files": {"/home/hero/file_4803.txt": "sample 4803"}},
+        "expected_state": {"required_file": "/home/hero/completed_4803.txt"},
+        "hint": "Use touch completed_4803.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4804,
+        "slug": "quest-scenario-4804",
+        "title": "Linux Quest Mission #4804",
+        "objective": "Execute required command line sequence for challenge #4804",
+        "initial_vfs": {"files": {"/home/hero/file_4804.txt": "sample 4804"}},
+        "expected_state": {"required_file": "/home/hero/completed_4804.txt"},
+        "hint": "Use touch completed_4804.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4805,
+        "slug": "quest-scenario-4805",
+        "title": "Linux Quest Mission #4805",
+        "objective": "Execute required command line sequence for challenge #4805",
+        "initial_vfs": {"files": {"/home/hero/file_4805.txt": "sample 4805"}},
+        "expected_state": {"required_file": "/home/hero/completed_4805.txt"},
+        "hint": "Use touch completed_4805.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4806,
+        "slug": "quest-scenario-4806",
+        "title": "Linux Quest Mission #4806",
+        "objective": "Execute required command line sequence for challenge #4806",
+        "initial_vfs": {"files": {"/home/hero/file_4806.txt": "sample 4806"}},
+        "expected_state": {"required_file": "/home/hero/completed_4806.txt"},
+        "hint": "Use touch completed_4806.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4807,
+        "slug": "quest-scenario-4807",
+        "title": "Linux Quest Mission #4807",
+        "objective": "Execute required command line sequence for challenge #4807",
+        "initial_vfs": {"files": {"/home/hero/file_4807.txt": "sample 4807"}},
+        "expected_state": {"required_file": "/home/hero/completed_4807.txt"},
+        "hint": "Use touch completed_4807.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4808,
+        "slug": "quest-scenario-4808",
+        "title": "Linux Quest Mission #4808",
+        "objective": "Execute required command line sequence for challenge #4808",
+        "initial_vfs": {"files": {"/home/hero/file_4808.txt": "sample 4808"}},
+        "expected_state": {"required_file": "/home/hero/completed_4808.txt"},
+        "hint": "Use touch completed_4808.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4809,
+        "slug": "quest-scenario-4809",
+        "title": "Linux Quest Mission #4809",
+        "objective": "Execute required command line sequence for challenge #4809",
+        "initial_vfs": {"files": {"/home/hero/file_4809.txt": "sample 4809"}},
+        "expected_state": {"required_file": "/home/hero/completed_4809.txt"},
+        "hint": "Use touch completed_4809.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4810,
+        "slug": "quest-scenario-4810",
+        "title": "Linux Quest Mission #4810",
+        "objective": "Execute required command line sequence for challenge #4810",
+        "initial_vfs": {"files": {"/home/hero/file_4810.txt": "sample 4810"}},
+        "expected_state": {"required_file": "/home/hero/completed_4810.txt"},
+        "hint": "Use touch completed_4810.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4811,
+        "slug": "quest-scenario-4811",
+        "title": "Linux Quest Mission #4811",
+        "objective": "Execute required command line sequence for challenge #4811",
+        "initial_vfs": {"files": {"/home/hero/file_4811.txt": "sample 4811"}},
+        "expected_state": {"required_file": "/home/hero/completed_4811.txt"},
+        "hint": "Use touch completed_4811.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4812,
+        "slug": "quest-scenario-4812",
+        "title": "Linux Quest Mission #4812",
+        "objective": "Execute required command line sequence for challenge #4812",
+        "initial_vfs": {"files": {"/home/hero/file_4812.txt": "sample 4812"}},
+        "expected_state": {"required_file": "/home/hero/completed_4812.txt"},
+        "hint": "Use touch completed_4812.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4813,
+        "slug": "quest-scenario-4813",
+        "title": "Linux Quest Mission #4813",
+        "objective": "Execute required command line sequence for challenge #4813",
+        "initial_vfs": {"files": {"/home/hero/file_4813.txt": "sample 4813"}},
+        "expected_state": {"required_file": "/home/hero/completed_4813.txt"},
+        "hint": "Use touch completed_4813.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4814,
+        "slug": "quest-scenario-4814",
+        "title": "Linux Quest Mission #4814",
+        "objective": "Execute required command line sequence for challenge #4814",
+        "initial_vfs": {"files": {"/home/hero/file_4814.txt": "sample 4814"}},
+        "expected_state": {"required_file": "/home/hero/completed_4814.txt"},
+        "hint": "Use touch completed_4814.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4815,
+        "slug": "quest-scenario-4815",
+        "title": "Linux Quest Mission #4815",
+        "objective": "Execute required command line sequence for challenge #4815",
+        "initial_vfs": {"files": {"/home/hero/file_4815.txt": "sample 4815"}},
+        "expected_state": {"required_file": "/home/hero/completed_4815.txt"},
+        "hint": "Use touch completed_4815.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4816,
+        "slug": "quest-scenario-4816",
+        "title": "Linux Quest Mission #4816",
+        "objective": "Execute required command line sequence for challenge #4816",
+        "initial_vfs": {"files": {"/home/hero/file_4816.txt": "sample 4816"}},
+        "expected_state": {"required_file": "/home/hero/completed_4816.txt"},
+        "hint": "Use touch completed_4816.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4817,
+        "slug": "quest-scenario-4817",
+        "title": "Linux Quest Mission #4817",
+        "objective": "Execute required command line sequence for challenge #4817",
+        "initial_vfs": {"files": {"/home/hero/file_4817.txt": "sample 4817"}},
+        "expected_state": {"required_file": "/home/hero/completed_4817.txt"},
+        "hint": "Use touch completed_4817.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4818,
+        "slug": "quest-scenario-4818",
+        "title": "Linux Quest Mission #4818",
+        "objective": "Execute required command line sequence for challenge #4818",
+        "initial_vfs": {"files": {"/home/hero/file_4818.txt": "sample 4818"}},
+        "expected_state": {"required_file": "/home/hero/completed_4818.txt"},
+        "hint": "Use touch completed_4818.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4819,
+        "slug": "quest-scenario-4819",
+        "title": "Linux Quest Mission #4819",
+        "objective": "Execute required command line sequence for challenge #4819",
+        "initial_vfs": {"files": {"/home/hero/file_4819.txt": "sample 4819"}},
+        "expected_state": {"required_file": "/home/hero/completed_4819.txt"},
+        "hint": "Use touch completed_4819.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4820,
+        "slug": "quest-scenario-4820",
+        "title": "Linux Quest Mission #4820",
+        "objective": "Execute required command line sequence for challenge #4820",
+        "initial_vfs": {"files": {"/home/hero/file_4820.txt": "sample 4820"}},
+        "expected_state": {"required_file": "/home/hero/completed_4820.txt"},
+        "hint": "Use touch completed_4820.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4821,
+        "slug": "quest-scenario-4821",
+        "title": "Linux Quest Mission #4821",
+        "objective": "Execute required command line sequence for challenge #4821",
+        "initial_vfs": {"files": {"/home/hero/file_4821.txt": "sample 4821"}},
+        "expected_state": {"required_file": "/home/hero/completed_4821.txt"},
+        "hint": "Use touch completed_4821.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4822,
+        "slug": "quest-scenario-4822",
+        "title": "Linux Quest Mission #4822",
+        "objective": "Execute required command line sequence for challenge #4822",
+        "initial_vfs": {"files": {"/home/hero/file_4822.txt": "sample 4822"}},
+        "expected_state": {"required_file": "/home/hero/completed_4822.txt"},
+        "hint": "Use touch completed_4822.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4823,
+        "slug": "quest-scenario-4823",
+        "title": "Linux Quest Mission #4823",
+        "objective": "Execute required command line sequence for challenge #4823",
+        "initial_vfs": {"files": {"/home/hero/file_4823.txt": "sample 4823"}},
+        "expected_state": {"required_file": "/home/hero/completed_4823.txt"},
+        "hint": "Use touch completed_4823.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4824,
+        "slug": "quest-scenario-4824",
+        "title": "Linux Quest Mission #4824",
+        "objective": "Execute required command line sequence for challenge #4824",
+        "initial_vfs": {"files": {"/home/hero/file_4824.txt": "sample 4824"}},
+        "expected_state": {"required_file": "/home/hero/completed_4824.txt"},
+        "hint": "Use touch completed_4824.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4825,
+        "slug": "quest-scenario-4825",
+        "title": "Linux Quest Mission #4825",
+        "objective": "Execute required command line sequence for challenge #4825",
+        "initial_vfs": {"files": {"/home/hero/file_4825.txt": "sample 4825"}},
+        "expected_state": {"required_file": "/home/hero/completed_4825.txt"},
+        "hint": "Use touch completed_4825.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4826,
+        "slug": "quest-scenario-4826",
+        "title": "Linux Quest Mission #4826",
+        "objective": "Execute required command line sequence for challenge #4826",
+        "initial_vfs": {"files": {"/home/hero/file_4826.txt": "sample 4826"}},
+        "expected_state": {"required_file": "/home/hero/completed_4826.txt"},
+        "hint": "Use touch completed_4826.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4827,
+        "slug": "quest-scenario-4827",
+        "title": "Linux Quest Mission #4827",
+        "objective": "Execute required command line sequence for challenge #4827",
+        "initial_vfs": {"files": {"/home/hero/file_4827.txt": "sample 4827"}},
+        "expected_state": {"required_file": "/home/hero/completed_4827.txt"},
+        "hint": "Use touch completed_4827.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4828,
+        "slug": "quest-scenario-4828",
+        "title": "Linux Quest Mission #4828",
+        "objective": "Execute required command line sequence for challenge #4828",
+        "initial_vfs": {"files": {"/home/hero/file_4828.txt": "sample 4828"}},
+        "expected_state": {"required_file": "/home/hero/completed_4828.txt"},
+        "hint": "Use touch completed_4828.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4829,
+        "slug": "quest-scenario-4829",
+        "title": "Linux Quest Mission #4829",
+        "objective": "Execute required command line sequence for challenge #4829",
+        "initial_vfs": {"files": {"/home/hero/file_4829.txt": "sample 4829"}},
+        "expected_state": {"required_file": "/home/hero/completed_4829.txt"},
+        "hint": "Use touch completed_4829.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4830,
+        "slug": "quest-scenario-4830",
+        "title": "Linux Quest Mission #4830",
+        "objective": "Execute required command line sequence for challenge #4830",
+        "initial_vfs": {"files": {"/home/hero/file_4830.txt": "sample 4830"}},
+        "expected_state": {"required_file": "/home/hero/completed_4830.txt"},
+        "hint": "Use touch completed_4830.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4831,
+        "slug": "quest-scenario-4831",
+        "title": "Linux Quest Mission #4831",
+        "objective": "Execute required command line sequence for challenge #4831",
+        "initial_vfs": {"files": {"/home/hero/file_4831.txt": "sample 4831"}},
+        "expected_state": {"required_file": "/home/hero/completed_4831.txt"},
+        "hint": "Use touch completed_4831.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4832,
+        "slug": "quest-scenario-4832",
+        "title": "Linux Quest Mission #4832",
+        "objective": "Execute required command line sequence for challenge #4832",
+        "initial_vfs": {"files": {"/home/hero/file_4832.txt": "sample 4832"}},
+        "expected_state": {"required_file": "/home/hero/completed_4832.txt"},
+        "hint": "Use touch completed_4832.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4833,
+        "slug": "quest-scenario-4833",
+        "title": "Linux Quest Mission #4833",
+        "objective": "Execute required command line sequence for challenge #4833",
+        "initial_vfs": {"files": {"/home/hero/file_4833.txt": "sample 4833"}},
+        "expected_state": {"required_file": "/home/hero/completed_4833.txt"},
+        "hint": "Use touch completed_4833.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4834,
+        "slug": "quest-scenario-4834",
+        "title": "Linux Quest Mission #4834",
+        "objective": "Execute required command line sequence for challenge #4834",
+        "initial_vfs": {"files": {"/home/hero/file_4834.txt": "sample 4834"}},
+        "expected_state": {"required_file": "/home/hero/completed_4834.txt"},
+        "hint": "Use touch completed_4834.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4835,
+        "slug": "quest-scenario-4835",
+        "title": "Linux Quest Mission #4835",
+        "objective": "Execute required command line sequence for challenge #4835",
+        "initial_vfs": {"files": {"/home/hero/file_4835.txt": "sample 4835"}},
+        "expected_state": {"required_file": "/home/hero/completed_4835.txt"},
+        "hint": "Use touch completed_4835.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4836,
+        "slug": "quest-scenario-4836",
+        "title": "Linux Quest Mission #4836",
+        "objective": "Execute required command line sequence for challenge #4836",
+        "initial_vfs": {"files": {"/home/hero/file_4836.txt": "sample 4836"}},
+        "expected_state": {"required_file": "/home/hero/completed_4836.txt"},
+        "hint": "Use touch completed_4836.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4837,
+        "slug": "quest-scenario-4837",
+        "title": "Linux Quest Mission #4837",
+        "objective": "Execute required command line sequence for challenge #4837",
+        "initial_vfs": {"files": {"/home/hero/file_4837.txt": "sample 4837"}},
+        "expected_state": {"required_file": "/home/hero/completed_4837.txt"},
+        "hint": "Use touch completed_4837.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4838,
+        "slug": "quest-scenario-4838",
+        "title": "Linux Quest Mission #4838",
+        "objective": "Execute required command line sequence for challenge #4838",
+        "initial_vfs": {"files": {"/home/hero/file_4838.txt": "sample 4838"}},
+        "expected_state": {"required_file": "/home/hero/completed_4838.txt"},
+        "hint": "Use touch completed_4838.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4839,
+        "slug": "quest-scenario-4839",
+        "title": "Linux Quest Mission #4839",
+        "objective": "Execute required command line sequence for challenge #4839",
+        "initial_vfs": {"files": {"/home/hero/file_4839.txt": "sample 4839"}},
+        "expected_state": {"required_file": "/home/hero/completed_4839.txt"},
+        "hint": "Use touch completed_4839.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4840,
+        "slug": "quest-scenario-4840",
+        "title": "Linux Quest Mission #4840",
+        "objective": "Execute required command line sequence for challenge #4840",
+        "initial_vfs": {"files": {"/home/hero/file_4840.txt": "sample 4840"}},
+        "expected_state": {"required_file": "/home/hero/completed_4840.txt"},
+        "hint": "Use touch completed_4840.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4841,
+        "slug": "quest-scenario-4841",
+        "title": "Linux Quest Mission #4841",
+        "objective": "Execute required command line sequence for challenge #4841",
+        "initial_vfs": {"files": {"/home/hero/file_4841.txt": "sample 4841"}},
+        "expected_state": {"required_file": "/home/hero/completed_4841.txt"},
+        "hint": "Use touch completed_4841.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4842,
+        "slug": "quest-scenario-4842",
+        "title": "Linux Quest Mission #4842",
+        "objective": "Execute required command line sequence for challenge #4842",
+        "initial_vfs": {"files": {"/home/hero/file_4842.txt": "sample 4842"}},
+        "expected_state": {"required_file": "/home/hero/completed_4842.txt"},
+        "hint": "Use touch completed_4842.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4843,
+        "slug": "quest-scenario-4843",
+        "title": "Linux Quest Mission #4843",
+        "objective": "Execute required command line sequence for challenge #4843",
+        "initial_vfs": {"files": {"/home/hero/file_4843.txt": "sample 4843"}},
+        "expected_state": {"required_file": "/home/hero/completed_4843.txt"},
+        "hint": "Use touch completed_4843.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4844,
+        "slug": "quest-scenario-4844",
+        "title": "Linux Quest Mission #4844",
+        "objective": "Execute required command line sequence for challenge #4844",
+        "initial_vfs": {"files": {"/home/hero/file_4844.txt": "sample 4844"}},
+        "expected_state": {"required_file": "/home/hero/completed_4844.txt"},
+        "hint": "Use touch completed_4844.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4845,
+        "slug": "quest-scenario-4845",
+        "title": "Linux Quest Mission #4845",
+        "objective": "Execute required command line sequence for challenge #4845",
+        "initial_vfs": {"files": {"/home/hero/file_4845.txt": "sample 4845"}},
+        "expected_state": {"required_file": "/home/hero/completed_4845.txt"},
+        "hint": "Use touch completed_4845.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4846,
+        "slug": "quest-scenario-4846",
+        "title": "Linux Quest Mission #4846",
+        "objective": "Execute required command line sequence for challenge #4846",
+        "initial_vfs": {"files": {"/home/hero/file_4846.txt": "sample 4846"}},
+        "expected_state": {"required_file": "/home/hero/completed_4846.txt"},
+        "hint": "Use touch completed_4846.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4847,
+        "slug": "quest-scenario-4847",
+        "title": "Linux Quest Mission #4847",
+        "objective": "Execute required command line sequence for challenge #4847",
+        "initial_vfs": {"files": {"/home/hero/file_4847.txt": "sample 4847"}},
+        "expected_state": {"required_file": "/home/hero/completed_4847.txt"},
+        "hint": "Use touch completed_4847.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4848,
+        "slug": "quest-scenario-4848",
+        "title": "Linux Quest Mission #4848",
+        "objective": "Execute required command line sequence for challenge #4848",
+        "initial_vfs": {"files": {"/home/hero/file_4848.txt": "sample 4848"}},
+        "expected_state": {"required_file": "/home/hero/completed_4848.txt"},
+        "hint": "Use touch completed_4848.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4849,
+        "slug": "quest-scenario-4849",
+        "title": "Linux Quest Mission #4849",
+        "objective": "Execute required command line sequence for challenge #4849",
+        "initial_vfs": {"files": {"/home/hero/file_4849.txt": "sample 4849"}},
+        "expected_state": {"required_file": "/home/hero/completed_4849.txt"},
+        "hint": "Use touch completed_4849.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4850,
+        "slug": "quest-scenario-4850",
+        "title": "Linux Quest Mission #4850",
+        "objective": "Execute required command line sequence for challenge #4850",
+        "initial_vfs": {"files": {"/home/hero/file_4850.txt": "sample 4850"}},
+        "expected_state": {"required_file": "/home/hero/completed_4850.txt"},
+        "hint": "Use touch completed_4850.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4851,
+        "slug": "quest-scenario-4851",
+        "title": "Linux Quest Mission #4851",
+        "objective": "Execute required command line sequence for challenge #4851",
+        "initial_vfs": {"files": {"/home/hero/file_4851.txt": "sample 4851"}},
+        "expected_state": {"required_file": "/home/hero/completed_4851.txt"},
+        "hint": "Use touch completed_4851.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4852,
+        "slug": "quest-scenario-4852",
+        "title": "Linux Quest Mission #4852",
+        "objective": "Execute required command line sequence for challenge #4852",
+        "initial_vfs": {"files": {"/home/hero/file_4852.txt": "sample 4852"}},
+        "expected_state": {"required_file": "/home/hero/completed_4852.txt"},
+        "hint": "Use touch completed_4852.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4853,
+        "slug": "quest-scenario-4853",
+        "title": "Linux Quest Mission #4853",
+        "objective": "Execute required command line sequence for challenge #4853",
+        "initial_vfs": {"files": {"/home/hero/file_4853.txt": "sample 4853"}},
+        "expected_state": {"required_file": "/home/hero/completed_4853.txt"},
+        "hint": "Use touch completed_4853.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4854,
+        "slug": "quest-scenario-4854",
+        "title": "Linux Quest Mission #4854",
+        "objective": "Execute required command line sequence for challenge #4854",
+        "initial_vfs": {"files": {"/home/hero/file_4854.txt": "sample 4854"}},
+        "expected_state": {"required_file": "/home/hero/completed_4854.txt"},
+        "hint": "Use touch completed_4854.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4855,
+        "slug": "quest-scenario-4855",
+        "title": "Linux Quest Mission #4855",
+        "objective": "Execute required command line sequence for challenge #4855",
+        "initial_vfs": {"files": {"/home/hero/file_4855.txt": "sample 4855"}},
+        "expected_state": {"required_file": "/home/hero/completed_4855.txt"},
+        "hint": "Use touch completed_4855.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4856,
+        "slug": "quest-scenario-4856",
+        "title": "Linux Quest Mission #4856",
+        "objective": "Execute required command line sequence for challenge #4856",
+        "initial_vfs": {"files": {"/home/hero/file_4856.txt": "sample 4856"}},
+        "expected_state": {"required_file": "/home/hero/completed_4856.txt"},
+        "hint": "Use touch completed_4856.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4857,
+        "slug": "quest-scenario-4857",
+        "title": "Linux Quest Mission #4857",
+        "objective": "Execute required command line sequence for challenge #4857",
+        "initial_vfs": {"files": {"/home/hero/file_4857.txt": "sample 4857"}},
+        "expected_state": {"required_file": "/home/hero/completed_4857.txt"},
+        "hint": "Use touch completed_4857.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4858,
+        "slug": "quest-scenario-4858",
+        "title": "Linux Quest Mission #4858",
+        "objective": "Execute required command line sequence for challenge #4858",
+        "initial_vfs": {"files": {"/home/hero/file_4858.txt": "sample 4858"}},
+        "expected_state": {"required_file": "/home/hero/completed_4858.txt"},
+        "hint": "Use touch completed_4858.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4859,
+        "slug": "quest-scenario-4859",
+        "title": "Linux Quest Mission #4859",
+        "objective": "Execute required command line sequence for challenge #4859",
+        "initial_vfs": {"files": {"/home/hero/file_4859.txt": "sample 4859"}},
+        "expected_state": {"required_file": "/home/hero/completed_4859.txt"},
+        "hint": "Use touch completed_4859.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4860,
+        "slug": "quest-scenario-4860",
+        "title": "Linux Quest Mission #4860",
+        "objective": "Execute required command line sequence for challenge #4860",
+        "initial_vfs": {"files": {"/home/hero/file_4860.txt": "sample 4860"}},
+        "expected_state": {"required_file": "/home/hero/completed_4860.txt"},
+        "hint": "Use touch completed_4860.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4861,
+        "slug": "quest-scenario-4861",
+        "title": "Linux Quest Mission #4861",
+        "objective": "Execute required command line sequence for challenge #4861",
+        "initial_vfs": {"files": {"/home/hero/file_4861.txt": "sample 4861"}},
+        "expected_state": {"required_file": "/home/hero/completed_4861.txt"},
+        "hint": "Use touch completed_4861.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4862,
+        "slug": "quest-scenario-4862",
+        "title": "Linux Quest Mission #4862",
+        "objective": "Execute required command line sequence for challenge #4862",
+        "initial_vfs": {"files": {"/home/hero/file_4862.txt": "sample 4862"}},
+        "expected_state": {"required_file": "/home/hero/completed_4862.txt"},
+        "hint": "Use touch completed_4862.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4863,
+        "slug": "quest-scenario-4863",
+        "title": "Linux Quest Mission #4863",
+        "objective": "Execute required command line sequence for challenge #4863",
+        "initial_vfs": {"files": {"/home/hero/file_4863.txt": "sample 4863"}},
+        "expected_state": {"required_file": "/home/hero/completed_4863.txt"},
+        "hint": "Use touch completed_4863.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4864,
+        "slug": "quest-scenario-4864",
+        "title": "Linux Quest Mission #4864",
+        "objective": "Execute required command line sequence for challenge #4864",
+        "initial_vfs": {"files": {"/home/hero/file_4864.txt": "sample 4864"}},
+        "expected_state": {"required_file": "/home/hero/completed_4864.txt"},
+        "hint": "Use touch completed_4864.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4865,
+        "slug": "quest-scenario-4865",
+        "title": "Linux Quest Mission #4865",
+        "objective": "Execute required command line sequence for challenge #4865",
+        "initial_vfs": {"files": {"/home/hero/file_4865.txt": "sample 4865"}},
+        "expected_state": {"required_file": "/home/hero/completed_4865.txt"},
+        "hint": "Use touch completed_4865.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4866,
+        "slug": "quest-scenario-4866",
+        "title": "Linux Quest Mission #4866",
+        "objective": "Execute required command line sequence for challenge #4866",
+        "initial_vfs": {"files": {"/home/hero/file_4866.txt": "sample 4866"}},
+        "expected_state": {"required_file": "/home/hero/completed_4866.txt"},
+        "hint": "Use touch completed_4866.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4867,
+        "slug": "quest-scenario-4867",
+        "title": "Linux Quest Mission #4867",
+        "objective": "Execute required command line sequence for challenge #4867",
+        "initial_vfs": {"files": {"/home/hero/file_4867.txt": "sample 4867"}},
+        "expected_state": {"required_file": "/home/hero/completed_4867.txt"},
+        "hint": "Use touch completed_4867.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4868,
+        "slug": "quest-scenario-4868",
+        "title": "Linux Quest Mission #4868",
+        "objective": "Execute required command line sequence for challenge #4868",
+        "initial_vfs": {"files": {"/home/hero/file_4868.txt": "sample 4868"}},
+        "expected_state": {"required_file": "/home/hero/completed_4868.txt"},
+        "hint": "Use touch completed_4868.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4869,
+        "slug": "quest-scenario-4869",
+        "title": "Linux Quest Mission #4869",
+        "objective": "Execute required command line sequence for challenge #4869",
+        "initial_vfs": {"files": {"/home/hero/file_4869.txt": "sample 4869"}},
+        "expected_state": {"required_file": "/home/hero/completed_4869.txt"},
+        "hint": "Use touch completed_4869.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4870,
+        "slug": "quest-scenario-4870",
+        "title": "Linux Quest Mission #4870",
+        "objective": "Execute required command line sequence for challenge #4870",
+        "initial_vfs": {"files": {"/home/hero/file_4870.txt": "sample 4870"}},
+        "expected_state": {"required_file": "/home/hero/completed_4870.txt"},
+        "hint": "Use touch completed_4870.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4871,
+        "slug": "quest-scenario-4871",
+        "title": "Linux Quest Mission #4871",
+        "objective": "Execute required command line sequence for challenge #4871",
+        "initial_vfs": {"files": {"/home/hero/file_4871.txt": "sample 4871"}},
+        "expected_state": {"required_file": "/home/hero/completed_4871.txt"},
+        "hint": "Use touch completed_4871.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4872,
+        "slug": "quest-scenario-4872",
+        "title": "Linux Quest Mission #4872",
+        "objective": "Execute required command line sequence for challenge #4872",
+        "initial_vfs": {"files": {"/home/hero/file_4872.txt": "sample 4872"}},
+        "expected_state": {"required_file": "/home/hero/completed_4872.txt"},
+        "hint": "Use touch completed_4872.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4873,
+        "slug": "quest-scenario-4873",
+        "title": "Linux Quest Mission #4873",
+        "objective": "Execute required command line sequence for challenge #4873",
+        "initial_vfs": {"files": {"/home/hero/file_4873.txt": "sample 4873"}},
+        "expected_state": {"required_file": "/home/hero/completed_4873.txt"},
+        "hint": "Use touch completed_4873.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4874,
+        "slug": "quest-scenario-4874",
+        "title": "Linux Quest Mission #4874",
+        "objective": "Execute required command line sequence for challenge #4874",
+        "initial_vfs": {"files": {"/home/hero/file_4874.txt": "sample 4874"}},
+        "expected_state": {"required_file": "/home/hero/completed_4874.txt"},
+        "hint": "Use touch completed_4874.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4875,
+        "slug": "quest-scenario-4875",
+        "title": "Linux Quest Mission #4875",
+        "objective": "Execute required command line sequence for challenge #4875",
+        "initial_vfs": {"files": {"/home/hero/file_4875.txt": "sample 4875"}},
+        "expected_state": {"required_file": "/home/hero/completed_4875.txt"},
+        "hint": "Use touch completed_4875.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4876,
+        "slug": "quest-scenario-4876",
+        "title": "Linux Quest Mission #4876",
+        "objective": "Execute required command line sequence for challenge #4876",
+        "initial_vfs": {"files": {"/home/hero/file_4876.txt": "sample 4876"}},
+        "expected_state": {"required_file": "/home/hero/completed_4876.txt"},
+        "hint": "Use touch completed_4876.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4877,
+        "slug": "quest-scenario-4877",
+        "title": "Linux Quest Mission #4877",
+        "objective": "Execute required command line sequence for challenge #4877",
+        "initial_vfs": {"files": {"/home/hero/file_4877.txt": "sample 4877"}},
+        "expected_state": {"required_file": "/home/hero/completed_4877.txt"},
+        "hint": "Use touch completed_4877.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4878,
+        "slug": "quest-scenario-4878",
+        "title": "Linux Quest Mission #4878",
+        "objective": "Execute required command line sequence for challenge #4878",
+        "initial_vfs": {"files": {"/home/hero/file_4878.txt": "sample 4878"}},
+        "expected_state": {"required_file": "/home/hero/completed_4878.txt"},
+        "hint": "Use touch completed_4878.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4879,
+        "slug": "quest-scenario-4879",
+        "title": "Linux Quest Mission #4879",
+        "objective": "Execute required command line sequence for challenge #4879",
+        "initial_vfs": {"files": {"/home/hero/file_4879.txt": "sample 4879"}},
+        "expected_state": {"required_file": "/home/hero/completed_4879.txt"},
+        "hint": "Use touch completed_4879.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4880,
+        "slug": "quest-scenario-4880",
+        "title": "Linux Quest Mission #4880",
+        "objective": "Execute required command line sequence for challenge #4880",
+        "initial_vfs": {"files": {"/home/hero/file_4880.txt": "sample 4880"}},
+        "expected_state": {"required_file": "/home/hero/completed_4880.txt"},
+        "hint": "Use touch completed_4880.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4881,
+        "slug": "quest-scenario-4881",
+        "title": "Linux Quest Mission #4881",
+        "objective": "Execute required command line sequence for challenge #4881",
+        "initial_vfs": {"files": {"/home/hero/file_4881.txt": "sample 4881"}},
+        "expected_state": {"required_file": "/home/hero/completed_4881.txt"},
+        "hint": "Use touch completed_4881.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4882,
+        "slug": "quest-scenario-4882",
+        "title": "Linux Quest Mission #4882",
+        "objective": "Execute required command line sequence for challenge #4882",
+        "initial_vfs": {"files": {"/home/hero/file_4882.txt": "sample 4882"}},
+        "expected_state": {"required_file": "/home/hero/completed_4882.txt"},
+        "hint": "Use touch completed_4882.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4883,
+        "slug": "quest-scenario-4883",
+        "title": "Linux Quest Mission #4883",
+        "objective": "Execute required command line sequence for challenge #4883",
+        "initial_vfs": {"files": {"/home/hero/file_4883.txt": "sample 4883"}},
+        "expected_state": {"required_file": "/home/hero/completed_4883.txt"},
+        "hint": "Use touch completed_4883.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4884,
+        "slug": "quest-scenario-4884",
+        "title": "Linux Quest Mission #4884",
+        "objective": "Execute required command line sequence for challenge #4884",
+        "initial_vfs": {"files": {"/home/hero/file_4884.txt": "sample 4884"}},
+        "expected_state": {"required_file": "/home/hero/completed_4884.txt"},
+        "hint": "Use touch completed_4884.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4885,
+        "slug": "quest-scenario-4885",
+        "title": "Linux Quest Mission #4885",
+        "objective": "Execute required command line sequence for challenge #4885",
+        "initial_vfs": {"files": {"/home/hero/file_4885.txt": "sample 4885"}},
+        "expected_state": {"required_file": "/home/hero/completed_4885.txt"},
+        "hint": "Use touch completed_4885.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4886,
+        "slug": "quest-scenario-4886",
+        "title": "Linux Quest Mission #4886",
+        "objective": "Execute required command line sequence for challenge #4886",
+        "initial_vfs": {"files": {"/home/hero/file_4886.txt": "sample 4886"}},
+        "expected_state": {"required_file": "/home/hero/completed_4886.txt"},
+        "hint": "Use touch completed_4886.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4887,
+        "slug": "quest-scenario-4887",
+        "title": "Linux Quest Mission #4887",
+        "objective": "Execute required command line sequence for challenge #4887",
+        "initial_vfs": {"files": {"/home/hero/file_4887.txt": "sample 4887"}},
+        "expected_state": {"required_file": "/home/hero/completed_4887.txt"},
+        "hint": "Use touch completed_4887.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4888,
+        "slug": "quest-scenario-4888",
+        "title": "Linux Quest Mission #4888",
+        "objective": "Execute required command line sequence for challenge #4888",
+        "initial_vfs": {"files": {"/home/hero/file_4888.txt": "sample 4888"}},
+        "expected_state": {"required_file": "/home/hero/completed_4888.txt"},
+        "hint": "Use touch completed_4888.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4889,
+        "slug": "quest-scenario-4889",
+        "title": "Linux Quest Mission #4889",
+        "objective": "Execute required command line sequence for challenge #4889",
+        "initial_vfs": {"files": {"/home/hero/file_4889.txt": "sample 4889"}},
+        "expected_state": {"required_file": "/home/hero/completed_4889.txt"},
+        "hint": "Use touch completed_4889.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4890,
+        "slug": "quest-scenario-4890",
+        "title": "Linux Quest Mission #4890",
+        "objective": "Execute required command line sequence for challenge #4890",
+        "initial_vfs": {"files": {"/home/hero/file_4890.txt": "sample 4890"}},
+        "expected_state": {"required_file": "/home/hero/completed_4890.txt"},
+        "hint": "Use touch completed_4890.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4891,
+        "slug": "quest-scenario-4891",
+        "title": "Linux Quest Mission #4891",
+        "objective": "Execute required command line sequence for challenge #4891",
+        "initial_vfs": {"files": {"/home/hero/file_4891.txt": "sample 4891"}},
+        "expected_state": {"required_file": "/home/hero/completed_4891.txt"},
+        "hint": "Use touch completed_4891.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4892,
+        "slug": "quest-scenario-4892",
+        "title": "Linux Quest Mission #4892",
+        "objective": "Execute required command line sequence for challenge #4892",
+        "initial_vfs": {"files": {"/home/hero/file_4892.txt": "sample 4892"}},
+        "expected_state": {"required_file": "/home/hero/completed_4892.txt"},
+        "hint": "Use touch completed_4892.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4893,
+        "slug": "quest-scenario-4893",
+        "title": "Linux Quest Mission #4893",
+        "objective": "Execute required command line sequence for challenge #4893",
+        "initial_vfs": {"files": {"/home/hero/file_4893.txt": "sample 4893"}},
+        "expected_state": {"required_file": "/home/hero/completed_4893.txt"},
+        "hint": "Use touch completed_4893.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4894,
+        "slug": "quest-scenario-4894",
+        "title": "Linux Quest Mission #4894",
+        "objective": "Execute required command line sequence for challenge #4894",
+        "initial_vfs": {"files": {"/home/hero/file_4894.txt": "sample 4894"}},
+        "expected_state": {"required_file": "/home/hero/completed_4894.txt"},
+        "hint": "Use touch completed_4894.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4895,
+        "slug": "quest-scenario-4895",
+        "title": "Linux Quest Mission #4895",
+        "objective": "Execute required command line sequence for challenge #4895",
+        "initial_vfs": {"files": {"/home/hero/file_4895.txt": "sample 4895"}},
+        "expected_state": {"required_file": "/home/hero/completed_4895.txt"},
+        "hint": "Use touch completed_4895.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4896,
+        "slug": "quest-scenario-4896",
+        "title": "Linux Quest Mission #4896",
+        "objective": "Execute required command line sequence for challenge #4896",
+        "initial_vfs": {"files": {"/home/hero/file_4896.txt": "sample 4896"}},
+        "expected_state": {"required_file": "/home/hero/completed_4896.txt"},
+        "hint": "Use touch completed_4896.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4897,
+        "slug": "quest-scenario-4897",
+        "title": "Linux Quest Mission #4897",
+        "objective": "Execute required command line sequence for challenge #4897",
+        "initial_vfs": {"files": {"/home/hero/file_4897.txt": "sample 4897"}},
+        "expected_state": {"required_file": "/home/hero/completed_4897.txt"},
+        "hint": "Use touch completed_4897.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4898,
+        "slug": "quest-scenario-4898",
+        "title": "Linux Quest Mission #4898",
+        "objective": "Execute required command line sequence for challenge #4898",
+        "initial_vfs": {"files": {"/home/hero/file_4898.txt": "sample 4898"}},
+        "expected_state": {"required_file": "/home/hero/completed_4898.txt"},
+        "hint": "Use touch completed_4898.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4899,
+        "slug": "quest-scenario-4899",
+        "title": "Linux Quest Mission #4899",
+        "objective": "Execute required command line sequence for challenge #4899",
+        "initial_vfs": {"files": {"/home/hero/file_4899.txt": "sample 4899"}},
+        "expected_state": {"required_file": "/home/hero/completed_4899.txt"},
+        "hint": "Use touch completed_4899.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4900,
+        "slug": "quest-scenario-4900",
+        "title": "Linux Quest Mission #4900",
+        "objective": "Execute required command line sequence for challenge #4900",
+        "initial_vfs": {"files": {"/home/hero/file_4900.txt": "sample 4900"}},
+        "expected_state": {"required_file": "/home/hero/completed_4900.txt"},
+        "hint": "Use touch completed_4900.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4901,
+        "slug": "quest-scenario-4901",
+        "title": "Linux Quest Mission #4901",
+        "objective": "Execute required command line sequence for challenge #4901",
+        "initial_vfs": {"files": {"/home/hero/file_4901.txt": "sample 4901"}},
+        "expected_state": {"required_file": "/home/hero/completed_4901.txt"},
+        "hint": "Use touch completed_4901.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4902,
+        "slug": "quest-scenario-4902",
+        "title": "Linux Quest Mission #4902",
+        "objective": "Execute required command line sequence for challenge #4902",
+        "initial_vfs": {"files": {"/home/hero/file_4902.txt": "sample 4902"}},
+        "expected_state": {"required_file": "/home/hero/completed_4902.txt"},
+        "hint": "Use touch completed_4902.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4903,
+        "slug": "quest-scenario-4903",
+        "title": "Linux Quest Mission #4903",
+        "objective": "Execute required command line sequence for challenge #4903",
+        "initial_vfs": {"files": {"/home/hero/file_4903.txt": "sample 4903"}},
+        "expected_state": {"required_file": "/home/hero/completed_4903.txt"},
+        "hint": "Use touch completed_4903.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4904,
+        "slug": "quest-scenario-4904",
+        "title": "Linux Quest Mission #4904",
+        "objective": "Execute required command line sequence for challenge #4904",
+        "initial_vfs": {"files": {"/home/hero/file_4904.txt": "sample 4904"}},
+        "expected_state": {"required_file": "/home/hero/completed_4904.txt"},
+        "hint": "Use touch completed_4904.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4905,
+        "slug": "quest-scenario-4905",
+        "title": "Linux Quest Mission #4905",
+        "objective": "Execute required command line sequence for challenge #4905",
+        "initial_vfs": {"files": {"/home/hero/file_4905.txt": "sample 4905"}},
+        "expected_state": {"required_file": "/home/hero/completed_4905.txt"},
+        "hint": "Use touch completed_4905.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4906,
+        "slug": "quest-scenario-4906",
+        "title": "Linux Quest Mission #4906",
+        "objective": "Execute required command line sequence for challenge #4906",
+        "initial_vfs": {"files": {"/home/hero/file_4906.txt": "sample 4906"}},
+        "expected_state": {"required_file": "/home/hero/completed_4906.txt"},
+        "hint": "Use touch completed_4906.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4907,
+        "slug": "quest-scenario-4907",
+        "title": "Linux Quest Mission #4907",
+        "objective": "Execute required command line sequence for challenge #4907",
+        "initial_vfs": {"files": {"/home/hero/file_4907.txt": "sample 4907"}},
+        "expected_state": {"required_file": "/home/hero/completed_4907.txt"},
+        "hint": "Use touch completed_4907.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4908,
+        "slug": "quest-scenario-4908",
+        "title": "Linux Quest Mission #4908",
+        "objective": "Execute required command line sequence for challenge #4908",
+        "initial_vfs": {"files": {"/home/hero/file_4908.txt": "sample 4908"}},
+        "expected_state": {"required_file": "/home/hero/completed_4908.txt"},
+        "hint": "Use touch completed_4908.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4909,
+        "slug": "quest-scenario-4909",
+        "title": "Linux Quest Mission #4909",
+        "objective": "Execute required command line sequence for challenge #4909",
+        "initial_vfs": {"files": {"/home/hero/file_4909.txt": "sample 4909"}},
+        "expected_state": {"required_file": "/home/hero/completed_4909.txt"},
+        "hint": "Use touch completed_4909.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4910,
+        "slug": "quest-scenario-4910",
+        "title": "Linux Quest Mission #4910",
+        "objective": "Execute required command line sequence for challenge #4910",
+        "initial_vfs": {"files": {"/home/hero/file_4910.txt": "sample 4910"}},
+        "expected_state": {"required_file": "/home/hero/completed_4910.txt"},
+        "hint": "Use touch completed_4910.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4911,
+        "slug": "quest-scenario-4911",
+        "title": "Linux Quest Mission #4911",
+        "objective": "Execute required command line sequence for challenge #4911",
+        "initial_vfs": {"files": {"/home/hero/file_4911.txt": "sample 4911"}},
+        "expected_state": {"required_file": "/home/hero/completed_4911.txt"},
+        "hint": "Use touch completed_4911.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4912,
+        "slug": "quest-scenario-4912",
+        "title": "Linux Quest Mission #4912",
+        "objective": "Execute required command line sequence for challenge #4912",
+        "initial_vfs": {"files": {"/home/hero/file_4912.txt": "sample 4912"}},
+        "expected_state": {"required_file": "/home/hero/completed_4912.txt"},
+        "hint": "Use touch completed_4912.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4913,
+        "slug": "quest-scenario-4913",
+        "title": "Linux Quest Mission #4913",
+        "objective": "Execute required command line sequence for challenge #4913",
+        "initial_vfs": {"files": {"/home/hero/file_4913.txt": "sample 4913"}},
+        "expected_state": {"required_file": "/home/hero/completed_4913.txt"},
+        "hint": "Use touch completed_4913.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4914,
+        "slug": "quest-scenario-4914",
+        "title": "Linux Quest Mission #4914",
+        "objective": "Execute required command line sequence for challenge #4914",
+        "initial_vfs": {"files": {"/home/hero/file_4914.txt": "sample 4914"}},
+        "expected_state": {"required_file": "/home/hero/completed_4914.txt"},
+        "hint": "Use touch completed_4914.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4915,
+        "slug": "quest-scenario-4915",
+        "title": "Linux Quest Mission #4915",
+        "objective": "Execute required command line sequence for challenge #4915",
+        "initial_vfs": {"files": {"/home/hero/file_4915.txt": "sample 4915"}},
+        "expected_state": {"required_file": "/home/hero/completed_4915.txt"},
+        "hint": "Use touch completed_4915.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4916,
+        "slug": "quest-scenario-4916",
+        "title": "Linux Quest Mission #4916",
+        "objective": "Execute required command line sequence for challenge #4916",
+        "initial_vfs": {"files": {"/home/hero/file_4916.txt": "sample 4916"}},
+        "expected_state": {"required_file": "/home/hero/completed_4916.txt"},
+        "hint": "Use touch completed_4916.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4917,
+        "slug": "quest-scenario-4917",
+        "title": "Linux Quest Mission #4917",
+        "objective": "Execute required command line sequence for challenge #4917",
+        "initial_vfs": {"files": {"/home/hero/file_4917.txt": "sample 4917"}},
+        "expected_state": {"required_file": "/home/hero/completed_4917.txt"},
+        "hint": "Use touch completed_4917.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4918,
+        "slug": "quest-scenario-4918",
+        "title": "Linux Quest Mission #4918",
+        "objective": "Execute required command line sequence for challenge #4918",
+        "initial_vfs": {"files": {"/home/hero/file_4918.txt": "sample 4918"}},
+        "expected_state": {"required_file": "/home/hero/completed_4918.txt"},
+        "hint": "Use touch completed_4918.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4919,
+        "slug": "quest-scenario-4919",
+        "title": "Linux Quest Mission #4919",
+        "objective": "Execute required command line sequence for challenge #4919",
+        "initial_vfs": {"files": {"/home/hero/file_4919.txt": "sample 4919"}},
+        "expected_state": {"required_file": "/home/hero/completed_4919.txt"},
+        "hint": "Use touch completed_4919.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4920,
+        "slug": "quest-scenario-4920",
+        "title": "Linux Quest Mission #4920",
+        "objective": "Execute required command line sequence for challenge #4920",
+        "initial_vfs": {"files": {"/home/hero/file_4920.txt": "sample 4920"}},
+        "expected_state": {"required_file": "/home/hero/completed_4920.txt"},
+        "hint": "Use touch completed_4920.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4921,
+        "slug": "quest-scenario-4921",
+        "title": "Linux Quest Mission #4921",
+        "objective": "Execute required command line sequence for challenge #4921",
+        "initial_vfs": {"files": {"/home/hero/file_4921.txt": "sample 4921"}},
+        "expected_state": {"required_file": "/home/hero/completed_4921.txt"},
+        "hint": "Use touch completed_4921.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4922,
+        "slug": "quest-scenario-4922",
+        "title": "Linux Quest Mission #4922",
+        "objective": "Execute required command line sequence for challenge #4922",
+        "initial_vfs": {"files": {"/home/hero/file_4922.txt": "sample 4922"}},
+        "expected_state": {"required_file": "/home/hero/completed_4922.txt"},
+        "hint": "Use touch completed_4922.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4923,
+        "slug": "quest-scenario-4923",
+        "title": "Linux Quest Mission #4923",
+        "objective": "Execute required command line sequence for challenge #4923",
+        "initial_vfs": {"files": {"/home/hero/file_4923.txt": "sample 4923"}},
+        "expected_state": {"required_file": "/home/hero/completed_4923.txt"},
+        "hint": "Use touch completed_4923.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4924,
+        "slug": "quest-scenario-4924",
+        "title": "Linux Quest Mission #4924",
+        "objective": "Execute required command line sequence for challenge #4924",
+        "initial_vfs": {"files": {"/home/hero/file_4924.txt": "sample 4924"}},
+        "expected_state": {"required_file": "/home/hero/completed_4924.txt"},
+        "hint": "Use touch completed_4924.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4925,
+        "slug": "quest-scenario-4925",
+        "title": "Linux Quest Mission #4925",
+        "objective": "Execute required command line sequence for challenge #4925",
+        "initial_vfs": {"files": {"/home/hero/file_4925.txt": "sample 4925"}},
+        "expected_state": {"required_file": "/home/hero/completed_4925.txt"},
+        "hint": "Use touch completed_4925.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4926,
+        "slug": "quest-scenario-4926",
+        "title": "Linux Quest Mission #4926",
+        "objective": "Execute required command line sequence for challenge #4926",
+        "initial_vfs": {"files": {"/home/hero/file_4926.txt": "sample 4926"}},
+        "expected_state": {"required_file": "/home/hero/completed_4926.txt"},
+        "hint": "Use touch completed_4926.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4927,
+        "slug": "quest-scenario-4927",
+        "title": "Linux Quest Mission #4927",
+        "objective": "Execute required command line sequence for challenge #4927",
+        "initial_vfs": {"files": {"/home/hero/file_4927.txt": "sample 4927"}},
+        "expected_state": {"required_file": "/home/hero/completed_4927.txt"},
+        "hint": "Use touch completed_4927.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4928,
+        "slug": "quest-scenario-4928",
+        "title": "Linux Quest Mission #4928",
+        "objective": "Execute required command line sequence for challenge #4928",
+        "initial_vfs": {"files": {"/home/hero/file_4928.txt": "sample 4928"}},
+        "expected_state": {"required_file": "/home/hero/completed_4928.txt"},
+        "hint": "Use touch completed_4928.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4929,
+        "slug": "quest-scenario-4929",
+        "title": "Linux Quest Mission #4929",
+        "objective": "Execute required command line sequence for challenge #4929",
+        "initial_vfs": {"files": {"/home/hero/file_4929.txt": "sample 4929"}},
+        "expected_state": {"required_file": "/home/hero/completed_4929.txt"},
+        "hint": "Use touch completed_4929.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4930,
+        "slug": "quest-scenario-4930",
+        "title": "Linux Quest Mission #4930",
+        "objective": "Execute required command line sequence for challenge #4930",
+        "initial_vfs": {"files": {"/home/hero/file_4930.txt": "sample 4930"}},
+        "expected_state": {"required_file": "/home/hero/completed_4930.txt"},
+        "hint": "Use touch completed_4930.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4931,
+        "slug": "quest-scenario-4931",
+        "title": "Linux Quest Mission #4931",
+        "objective": "Execute required command line sequence for challenge #4931",
+        "initial_vfs": {"files": {"/home/hero/file_4931.txt": "sample 4931"}},
+        "expected_state": {"required_file": "/home/hero/completed_4931.txt"},
+        "hint": "Use touch completed_4931.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4932,
+        "slug": "quest-scenario-4932",
+        "title": "Linux Quest Mission #4932",
+        "objective": "Execute required command line sequence for challenge #4932",
+        "initial_vfs": {"files": {"/home/hero/file_4932.txt": "sample 4932"}},
+        "expected_state": {"required_file": "/home/hero/completed_4932.txt"},
+        "hint": "Use touch completed_4932.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4933,
+        "slug": "quest-scenario-4933",
+        "title": "Linux Quest Mission #4933",
+        "objective": "Execute required command line sequence for challenge #4933",
+        "initial_vfs": {"files": {"/home/hero/file_4933.txt": "sample 4933"}},
+        "expected_state": {"required_file": "/home/hero/completed_4933.txt"},
+        "hint": "Use touch completed_4933.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4934,
+        "slug": "quest-scenario-4934",
+        "title": "Linux Quest Mission #4934",
+        "objective": "Execute required command line sequence for challenge #4934",
+        "initial_vfs": {"files": {"/home/hero/file_4934.txt": "sample 4934"}},
+        "expected_state": {"required_file": "/home/hero/completed_4934.txt"},
+        "hint": "Use touch completed_4934.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4935,
+        "slug": "quest-scenario-4935",
+        "title": "Linux Quest Mission #4935",
+        "objective": "Execute required command line sequence for challenge #4935",
+        "initial_vfs": {"files": {"/home/hero/file_4935.txt": "sample 4935"}},
+        "expected_state": {"required_file": "/home/hero/completed_4935.txt"},
+        "hint": "Use touch completed_4935.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4936,
+        "slug": "quest-scenario-4936",
+        "title": "Linux Quest Mission #4936",
+        "objective": "Execute required command line sequence for challenge #4936",
+        "initial_vfs": {"files": {"/home/hero/file_4936.txt": "sample 4936"}},
+        "expected_state": {"required_file": "/home/hero/completed_4936.txt"},
+        "hint": "Use touch completed_4936.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4937,
+        "slug": "quest-scenario-4937",
+        "title": "Linux Quest Mission #4937",
+        "objective": "Execute required command line sequence for challenge #4937",
+        "initial_vfs": {"files": {"/home/hero/file_4937.txt": "sample 4937"}},
+        "expected_state": {"required_file": "/home/hero/completed_4937.txt"},
+        "hint": "Use touch completed_4937.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4938,
+        "slug": "quest-scenario-4938",
+        "title": "Linux Quest Mission #4938",
+        "objective": "Execute required command line sequence for challenge #4938",
+        "initial_vfs": {"files": {"/home/hero/file_4938.txt": "sample 4938"}},
+        "expected_state": {"required_file": "/home/hero/completed_4938.txt"},
+        "hint": "Use touch completed_4938.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4939,
+        "slug": "quest-scenario-4939",
+        "title": "Linux Quest Mission #4939",
+        "objective": "Execute required command line sequence for challenge #4939",
+        "initial_vfs": {"files": {"/home/hero/file_4939.txt": "sample 4939"}},
+        "expected_state": {"required_file": "/home/hero/completed_4939.txt"},
+        "hint": "Use touch completed_4939.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4940,
+        "slug": "quest-scenario-4940",
+        "title": "Linux Quest Mission #4940",
+        "objective": "Execute required command line sequence for challenge #4940",
+        "initial_vfs": {"files": {"/home/hero/file_4940.txt": "sample 4940"}},
+        "expected_state": {"required_file": "/home/hero/completed_4940.txt"},
+        "hint": "Use touch completed_4940.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4941,
+        "slug": "quest-scenario-4941",
+        "title": "Linux Quest Mission #4941",
+        "objective": "Execute required command line sequence for challenge #4941",
+        "initial_vfs": {"files": {"/home/hero/file_4941.txt": "sample 4941"}},
+        "expected_state": {"required_file": "/home/hero/completed_4941.txt"},
+        "hint": "Use touch completed_4941.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4942,
+        "slug": "quest-scenario-4942",
+        "title": "Linux Quest Mission #4942",
+        "objective": "Execute required command line sequence for challenge #4942",
+        "initial_vfs": {"files": {"/home/hero/file_4942.txt": "sample 4942"}},
+        "expected_state": {"required_file": "/home/hero/completed_4942.txt"},
+        "hint": "Use touch completed_4942.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4943,
+        "slug": "quest-scenario-4943",
+        "title": "Linux Quest Mission #4943",
+        "objective": "Execute required command line sequence for challenge #4943",
+        "initial_vfs": {"files": {"/home/hero/file_4943.txt": "sample 4943"}},
+        "expected_state": {"required_file": "/home/hero/completed_4943.txt"},
+        "hint": "Use touch completed_4943.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4944,
+        "slug": "quest-scenario-4944",
+        "title": "Linux Quest Mission #4944",
+        "objective": "Execute required command line sequence for challenge #4944",
+        "initial_vfs": {"files": {"/home/hero/file_4944.txt": "sample 4944"}},
+        "expected_state": {"required_file": "/home/hero/completed_4944.txt"},
+        "hint": "Use touch completed_4944.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4945,
+        "slug": "quest-scenario-4945",
+        "title": "Linux Quest Mission #4945",
+        "objective": "Execute required command line sequence for challenge #4945",
+        "initial_vfs": {"files": {"/home/hero/file_4945.txt": "sample 4945"}},
+        "expected_state": {"required_file": "/home/hero/completed_4945.txt"},
+        "hint": "Use touch completed_4945.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4946,
+        "slug": "quest-scenario-4946",
+        "title": "Linux Quest Mission #4946",
+        "objective": "Execute required command line sequence for challenge #4946",
+        "initial_vfs": {"files": {"/home/hero/file_4946.txt": "sample 4946"}},
+        "expected_state": {"required_file": "/home/hero/completed_4946.txt"},
+        "hint": "Use touch completed_4946.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4947,
+        "slug": "quest-scenario-4947",
+        "title": "Linux Quest Mission #4947",
+        "objective": "Execute required command line sequence for challenge #4947",
+        "initial_vfs": {"files": {"/home/hero/file_4947.txt": "sample 4947"}},
+        "expected_state": {"required_file": "/home/hero/completed_4947.txt"},
+        "hint": "Use touch completed_4947.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4948,
+        "slug": "quest-scenario-4948",
+        "title": "Linux Quest Mission #4948",
+        "objective": "Execute required command line sequence for challenge #4948",
+        "initial_vfs": {"files": {"/home/hero/file_4948.txt": "sample 4948"}},
+        "expected_state": {"required_file": "/home/hero/completed_4948.txt"},
+        "hint": "Use touch completed_4948.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4949,
+        "slug": "quest-scenario-4949",
+        "title": "Linux Quest Mission #4949",
+        "objective": "Execute required command line sequence for challenge #4949",
+        "initial_vfs": {"files": {"/home/hero/file_4949.txt": "sample 4949"}},
+        "expected_state": {"required_file": "/home/hero/completed_4949.txt"},
+        "hint": "Use touch completed_4949.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4950,
+        "slug": "quest-scenario-4950",
+        "title": "Linux Quest Mission #4950",
+        "objective": "Execute required command line sequence for challenge #4950",
+        "initial_vfs": {"files": {"/home/hero/file_4950.txt": "sample 4950"}},
+        "expected_state": {"required_file": "/home/hero/completed_4950.txt"},
+        "hint": "Use touch completed_4950.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4951,
+        "slug": "quest-scenario-4951",
+        "title": "Linux Quest Mission #4951",
+        "objective": "Execute required command line sequence for challenge #4951",
+        "initial_vfs": {"files": {"/home/hero/file_4951.txt": "sample 4951"}},
+        "expected_state": {"required_file": "/home/hero/completed_4951.txt"},
+        "hint": "Use touch completed_4951.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4952,
+        "slug": "quest-scenario-4952",
+        "title": "Linux Quest Mission #4952",
+        "objective": "Execute required command line sequence for challenge #4952",
+        "initial_vfs": {"files": {"/home/hero/file_4952.txt": "sample 4952"}},
+        "expected_state": {"required_file": "/home/hero/completed_4952.txt"},
+        "hint": "Use touch completed_4952.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4953,
+        "slug": "quest-scenario-4953",
+        "title": "Linux Quest Mission #4953",
+        "objective": "Execute required command line sequence for challenge #4953",
+        "initial_vfs": {"files": {"/home/hero/file_4953.txt": "sample 4953"}},
+        "expected_state": {"required_file": "/home/hero/completed_4953.txt"},
+        "hint": "Use touch completed_4953.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4954,
+        "slug": "quest-scenario-4954",
+        "title": "Linux Quest Mission #4954",
+        "objective": "Execute required command line sequence for challenge #4954",
+        "initial_vfs": {"files": {"/home/hero/file_4954.txt": "sample 4954"}},
+        "expected_state": {"required_file": "/home/hero/completed_4954.txt"},
+        "hint": "Use touch completed_4954.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4955,
+        "slug": "quest-scenario-4955",
+        "title": "Linux Quest Mission #4955",
+        "objective": "Execute required command line sequence for challenge #4955",
+        "initial_vfs": {"files": {"/home/hero/file_4955.txt": "sample 4955"}},
+        "expected_state": {"required_file": "/home/hero/completed_4955.txt"},
+        "hint": "Use touch completed_4955.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4956,
+        "slug": "quest-scenario-4956",
+        "title": "Linux Quest Mission #4956",
+        "objective": "Execute required command line sequence for challenge #4956",
+        "initial_vfs": {"files": {"/home/hero/file_4956.txt": "sample 4956"}},
+        "expected_state": {"required_file": "/home/hero/completed_4956.txt"},
+        "hint": "Use touch completed_4956.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4957,
+        "slug": "quest-scenario-4957",
+        "title": "Linux Quest Mission #4957",
+        "objective": "Execute required command line sequence for challenge #4957",
+        "initial_vfs": {"files": {"/home/hero/file_4957.txt": "sample 4957"}},
+        "expected_state": {"required_file": "/home/hero/completed_4957.txt"},
+        "hint": "Use touch completed_4957.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4958,
+        "slug": "quest-scenario-4958",
+        "title": "Linux Quest Mission #4958",
+        "objective": "Execute required command line sequence for challenge #4958",
+        "initial_vfs": {"files": {"/home/hero/file_4958.txt": "sample 4958"}},
+        "expected_state": {"required_file": "/home/hero/completed_4958.txt"},
+        "hint": "Use touch completed_4958.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4959,
+        "slug": "quest-scenario-4959",
+        "title": "Linux Quest Mission #4959",
+        "objective": "Execute required command line sequence for challenge #4959",
+        "initial_vfs": {"files": {"/home/hero/file_4959.txt": "sample 4959"}},
+        "expected_state": {"required_file": "/home/hero/completed_4959.txt"},
+        "hint": "Use touch completed_4959.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4960,
+        "slug": "quest-scenario-4960",
+        "title": "Linux Quest Mission #4960",
+        "objective": "Execute required command line sequence for challenge #4960",
+        "initial_vfs": {"files": {"/home/hero/file_4960.txt": "sample 4960"}},
+        "expected_state": {"required_file": "/home/hero/completed_4960.txt"},
+        "hint": "Use touch completed_4960.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4961,
+        "slug": "quest-scenario-4961",
+        "title": "Linux Quest Mission #4961",
+        "objective": "Execute required command line sequence for challenge #4961",
+        "initial_vfs": {"files": {"/home/hero/file_4961.txt": "sample 4961"}},
+        "expected_state": {"required_file": "/home/hero/completed_4961.txt"},
+        "hint": "Use touch completed_4961.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4962,
+        "slug": "quest-scenario-4962",
+        "title": "Linux Quest Mission #4962",
+        "objective": "Execute required command line sequence for challenge #4962",
+        "initial_vfs": {"files": {"/home/hero/file_4962.txt": "sample 4962"}},
+        "expected_state": {"required_file": "/home/hero/completed_4962.txt"},
+        "hint": "Use touch completed_4962.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4963,
+        "slug": "quest-scenario-4963",
+        "title": "Linux Quest Mission #4963",
+        "objective": "Execute required command line sequence for challenge #4963",
+        "initial_vfs": {"files": {"/home/hero/file_4963.txt": "sample 4963"}},
+        "expected_state": {"required_file": "/home/hero/completed_4963.txt"},
+        "hint": "Use touch completed_4963.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4964,
+        "slug": "quest-scenario-4964",
+        "title": "Linux Quest Mission #4964",
+        "objective": "Execute required command line sequence for challenge #4964",
+        "initial_vfs": {"files": {"/home/hero/file_4964.txt": "sample 4964"}},
+        "expected_state": {"required_file": "/home/hero/completed_4964.txt"},
+        "hint": "Use touch completed_4964.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4965,
+        "slug": "quest-scenario-4965",
+        "title": "Linux Quest Mission #4965",
+        "objective": "Execute required command line sequence for challenge #4965",
+        "initial_vfs": {"files": {"/home/hero/file_4965.txt": "sample 4965"}},
+        "expected_state": {"required_file": "/home/hero/completed_4965.txt"},
+        "hint": "Use touch completed_4965.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4966,
+        "slug": "quest-scenario-4966",
+        "title": "Linux Quest Mission #4966",
+        "objective": "Execute required command line sequence for challenge #4966",
+        "initial_vfs": {"files": {"/home/hero/file_4966.txt": "sample 4966"}},
+        "expected_state": {"required_file": "/home/hero/completed_4966.txt"},
+        "hint": "Use touch completed_4966.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4967,
+        "slug": "quest-scenario-4967",
+        "title": "Linux Quest Mission #4967",
+        "objective": "Execute required command line sequence for challenge #4967",
+        "initial_vfs": {"files": {"/home/hero/file_4967.txt": "sample 4967"}},
+        "expected_state": {"required_file": "/home/hero/completed_4967.txt"},
+        "hint": "Use touch completed_4967.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4968,
+        "slug": "quest-scenario-4968",
+        "title": "Linux Quest Mission #4968",
+        "objective": "Execute required command line sequence for challenge #4968",
+        "initial_vfs": {"files": {"/home/hero/file_4968.txt": "sample 4968"}},
+        "expected_state": {"required_file": "/home/hero/completed_4968.txt"},
+        "hint": "Use touch completed_4968.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4969,
+        "slug": "quest-scenario-4969",
+        "title": "Linux Quest Mission #4969",
+        "objective": "Execute required command line sequence for challenge #4969",
+        "initial_vfs": {"files": {"/home/hero/file_4969.txt": "sample 4969"}},
+        "expected_state": {"required_file": "/home/hero/completed_4969.txt"},
+        "hint": "Use touch completed_4969.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4970,
+        "slug": "quest-scenario-4970",
+        "title": "Linux Quest Mission #4970",
+        "objective": "Execute required command line sequence for challenge #4970",
+        "initial_vfs": {"files": {"/home/hero/file_4970.txt": "sample 4970"}},
+        "expected_state": {"required_file": "/home/hero/completed_4970.txt"},
+        "hint": "Use touch completed_4970.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4971,
+        "slug": "quest-scenario-4971",
+        "title": "Linux Quest Mission #4971",
+        "objective": "Execute required command line sequence for challenge #4971",
+        "initial_vfs": {"files": {"/home/hero/file_4971.txt": "sample 4971"}},
+        "expected_state": {"required_file": "/home/hero/completed_4971.txt"},
+        "hint": "Use touch completed_4971.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4972,
+        "slug": "quest-scenario-4972",
+        "title": "Linux Quest Mission #4972",
+        "objective": "Execute required command line sequence for challenge #4972",
+        "initial_vfs": {"files": {"/home/hero/file_4972.txt": "sample 4972"}},
+        "expected_state": {"required_file": "/home/hero/completed_4972.txt"},
+        "hint": "Use touch completed_4972.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4973,
+        "slug": "quest-scenario-4973",
+        "title": "Linux Quest Mission #4973",
+        "objective": "Execute required command line sequence for challenge #4973",
+        "initial_vfs": {"files": {"/home/hero/file_4973.txt": "sample 4973"}},
+        "expected_state": {"required_file": "/home/hero/completed_4973.txt"},
+        "hint": "Use touch completed_4973.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4974,
+        "slug": "quest-scenario-4974",
+        "title": "Linux Quest Mission #4974",
+        "objective": "Execute required command line sequence for challenge #4974",
+        "initial_vfs": {"files": {"/home/hero/file_4974.txt": "sample 4974"}},
+        "expected_state": {"required_file": "/home/hero/completed_4974.txt"},
+        "hint": "Use touch completed_4974.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4975,
+        "slug": "quest-scenario-4975",
+        "title": "Linux Quest Mission #4975",
+        "objective": "Execute required command line sequence for challenge #4975",
+        "initial_vfs": {"files": {"/home/hero/file_4975.txt": "sample 4975"}},
+        "expected_state": {"required_file": "/home/hero/completed_4975.txt"},
+        "hint": "Use touch completed_4975.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4976,
+        "slug": "quest-scenario-4976",
+        "title": "Linux Quest Mission #4976",
+        "objective": "Execute required command line sequence for challenge #4976",
+        "initial_vfs": {"files": {"/home/hero/file_4976.txt": "sample 4976"}},
+        "expected_state": {"required_file": "/home/hero/completed_4976.txt"},
+        "hint": "Use touch completed_4976.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4977,
+        "slug": "quest-scenario-4977",
+        "title": "Linux Quest Mission #4977",
+        "objective": "Execute required command line sequence for challenge #4977",
+        "initial_vfs": {"files": {"/home/hero/file_4977.txt": "sample 4977"}},
+        "expected_state": {"required_file": "/home/hero/completed_4977.txt"},
+        "hint": "Use touch completed_4977.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4978,
+        "slug": "quest-scenario-4978",
+        "title": "Linux Quest Mission #4978",
+        "objective": "Execute required command line sequence for challenge #4978",
+        "initial_vfs": {"files": {"/home/hero/file_4978.txt": "sample 4978"}},
+        "expected_state": {"required_file": "/home/hero/completed_4978.txt"},
+        "hint": "Use touch completed_4978.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4979,
+        "slug": "quest-scenario-4979",
+        "title": "Linux Quest Mission #4979",
+        "objective": "Execute required command line sequence for challenge #4979",
+        "initial_vfs": {"files": {"/home/hero/file_4979.txt": "sample 4979"}},
+        "expected_state": {"required_file": "/home/hero/completed_4979.txt"},
+        "hint": "Use touch completed_4979.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 4980,
+        "slug": "quest-scenario-4980",
+        "title": "Linux Quest Mission #4980",
+        "objective": "Execute required command line sequence for challenge #4980",
+        "initial_vfs": {"files": {"/home/hero/file_4980.txt": "sample 4980"}},
+        "expected_state": {"required_file": "/home/hero/completed_4980.txt"},
+        "hint": "Use touch completed_4980.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 4981,
+        "slug": "quest-scenario-4981",
+        "title": "Linux Quest Mission #4981",
+        "objective": "Execute required command line sequence for challenge #4981",
+        "initial_vfs": {"files": {"/home/hero/file_4981.txt": "sample 4981"}},
+        "expected_state": {"required_file": "/home/hero/completed_4981.txt"},
+        "hint": "Use touch completed_4981.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 4982,
+        "slug": "quest-scenario-4982",
+        "title": "Linux Quest Mission #4982",
+        "objective": "Execute required command line sequence for challenge #4982",
+        "initial_vfs": {"files": {"/home/hero/file_4982.txt": "sample 4982"}},
+        "expected_state": {"required_file": "/home/hero/completed_4982.txt"},
+        "hint": "Use touch completed_4982.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 4983,
+        "slug": "quest-scenario-4983",
+        "title": "Linux Quest Mission #4983",
+        "objective": "Execute required command line sequence for challenge #4983",
+        "initial_vfs": {"files": {"/home/hero/file_4983.txt": "sample 4983"}},
+        "expected_state": {"required_file": "/home/hero/completed_4983.txt"},
+        "hint": "Use touch completed_4983.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 4984,
+        "slug": "quest-scenario-4984",
+        "title": "Linux Quest Mission #4984",
+        "objective": "Execute required command line sequence for challenge #4984",
+        "initial_vfs": {"files": {"/home/hero/file_4984.txt": "sample 4984"}},
+        "expected_state": {"required_file": "/home/hero/completed_4984.txt"},
+        "hint": "Use touch completed_4984.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 4985,
+        "slug": "quest-scenario-4985",
+        "title": "Linux Quest Mission #4985",
+        "objective": "Execute required command line sequence for challenge #4985",
+        "initial_vfs": {"files": {"/home/hero/file_4985.txt": "sample 4985"}},
+        "expected_state": {"required_file": "/home/hero/completed_4985.txt"},
+        "hint": "Use touch completed_4985.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 4986,
+        "slug": "quest-scenario-4986",
+        "title": "Linux Quest Mission #4986",
+        "objective": "Execute required command line sequence for challenge #4986",
+        "initial_vfs": {"files": {"/home/hero/file_4986.txt": "sample 4986"}},
+        "expected_state": {"required_file": "/home/hero/completed_4986.txt"},
+        "hint": "Use touch completed_4986.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 4987,
+        "slug": "quest-scenario-4987",
+        "title": "Linux Quest Mission #4987",
+        "objective": "Execute required command line sequence for challenge #4987",
+        "initial_vfs": {"files": {"/home/hero/file_4987.txt": "sample 4987"}},
+        "expected_state": {"required_file": "/home/hero/completed_4987.txt"},
+        "hint": "Use touch completed_4987.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 4988,
+        "slug": "quest-scenario-4988",
+        "title": "Linux Quest Mission #4988",
+        "objective": "Execute required command line sequence for challenge #4988",
+        "initial_vfs": {"files": {"/home/hero/file_4988.txt": "sample 4988"}},
+        "expected_state": {"required_file": "/home/hero/completed_4988.txt"},
+        "hint": "Use touch completed_4988.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 4989,
+        "slug": "quest-scenario-4989",
+        "title": "Linux Quest Mission #4989",
+        "objective": "Execute required command line sequence for challenge #4989",
+        "initial_vfs": {"files": {"/home/hero/file_4989.txt": "sample 4989"}},
+        "expected_state": {"required_file": "/home/hero/completed_4989.txt"},
+        "hint": "Use touch completed_4989.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 4990,
+        "slug": "quest-scenario-4990",
+        "title": "Linux Quest Mission #4990",
+        "objective": "Execute required command line sequence for challenge #4990",
+        "initial_vfs": {"files": {"/home/hero/file_4990.txt": "sample 4990"}},
+        "expected_state": {"required_file": "/home/hero/completed_4990.txt"},
+        "hint": "Use touch completed_4990.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 4991,
+        "slug": "quest-scenario-4991",
+        "title": "Linux Quest Mission #4991",
+        "objective": "Execute required command line sequence for challenge #4991",
+        "initial_vfs": {"files": {"/home/hero/file_4991.txt": "sample 4991"}},
+        "expected_state": {"required_file": "/home/hero/completed_4991.txt"},
+        "hint": "Use touch completed_4991.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 4992,
+        "slug": "quest-scenario-4992",
+        "title": "Linux Quest Mission #4992",
+        "objective": "Execute required command line sequence for challenge #4992",
+        "initial_vfs": {"files": {"/home/hero/file_4992.txt": "sample 4992"}},
+        "expected_state": {"required_file": "/home/hero/completed_4992.txt"},
+        "hint": "Use touch completed_4992.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 4993,
+        "slug": "quest-scenario-4993",
+        "title": "Linux Quest Mission #4993",
+        "objective": "Execute required command line sequence for challenge #4993",
+        "initial_vfs": {"files": {"/home/hero/file_4993.txt": "sample 4993"}},
+        "expected_state": {"required_file": "/home/hero/completed_4993.txt"},
+        "hint": "Use touch completed_4993.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 4994,
+        "slug": "quest-scenario-4994",
+        "title": "Linux Quest Mission #4994",
+        "objective": "Execute required command line sequence for challenge #4994",
+        "initial_vfs": {"files": {"/home/hero/file_4994.txt": "sample 4994"}},
+        "expected_state": {"required_file": "/home/hero/completed_4994.txt"},
+        "hint": "Use touch completed_4994.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 4995,
+        "slug": "quest-scenario-4995",
+        "title": "Linux Quest Mission #4995",
+        "objective": "Execute required command line sequence for challenge #4995",
+        "initial_vfs": {"files": {"/home/hero/file_4995.txt": "sample 4995"}},
+        "expected_state": {"required_file": "/home/hero/completed_4995.txt"},
+        "hint": "Use touch completed_4995.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 4996,
+        "slug": "quest-scenario-4996",
+        "title": "Linux Quest Mission #4996",
+        "objective": "Execute required command line sequence for challenge #4996",
+        "initial_vfs": {"files": {"/home/hero/file_4996.txt": "sample 4996"}},
+        "expected_state": {"required_file": "/home/hero/completed_4996.txt"},
+        "hint": "Use touch completed_4996.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 4997,
+        "slug": "quest-scenario-4997",
+        "title": "Linux Quest Mission #4997",
+        "objective": "Execute required command line sequence for challenge #4997",
+        "initial_vfs": {"files": {"/home/hero/file_4997.txt": "sample 4997"}},
+        "expected_state": {"required_file": "/home/hero/completed_4997.txt"},
+        "hint": "Use touch completed_4997.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 4998,
+        "slug": "quest-scenario-4998",
+        "title": "Linux Quest Mission #4998",
+        "objective": "Execute required command line sequence for challenge #4998",
+        "initial_vfs": {"files": {"/home/hero/file_4998.txt": "sample 4998"}},
+        "expected_state": {"required_file": "/home/hero/completed_4998.txt"},
+        "hint": "Use touch completed_4998.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 4999,
+        "slug": "quest-scenario-4999",
+        "title": "Linux Quest Mission #4999",
+        "objective": "Execute required command line sequence for challenge #4999",
+        "initial_vfs": {"files": {"/home/hero/file_4999.txt": "sample 4999"}},
+        "expected_state": {"required_file": "/home/hero/completed_4999.txt"},
+        "hint": "Use touch completed_4999.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5000,
+        "slug": "quest-scenario-5000",
+        "title": "Linux Quest Mission #5000",
+        "objective": "Execute required command line sequence for challenge #5000",
+        "initial_vfs": {"files": {"/home/hero/file_5000.txt": "sample 5000"}},
+        "expected_state": {"required_file": "/home/hero/completed_5000.txt"},
+        "hint": "Use touch completed_5000.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5001,
+        "slug": "quest-scenario-5001",
+        "title": "Linux Quest Mission #5001",
+        "objective": "Execute required command line sequence for challenge #5001",
+        "initial_vfs": {"files": {"/home/hero/file_5001.txt": "sample 5001"}},
+        "expected_state": {"required_file": "/home/hero/completed_5001.txt"},
+        "hint": "Use touch completed_5001.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5002,
+        "slug": "quest-scenario-5002",
+        "title": "Linux Quest Mission #5002",
+        "objective": "Execute required command line sequence for challenge #5002",
+        "initial_vfs": {"files": {"/home/hero/file_5002.txt": "sample 5002"}},
+        "expected_state": {"required_file": "/home/hero/completed_5002.txt"},
+        "hint": "Use touch completed_5002.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5003,
+        "slug": "quest-scenario-5003",
+        "title": "Linux Quest Mission #5003",
+        "objective": "Execute required command line sequence for challenge #5003",
+        "initial_vfs": {"files": {"/home/hero/file_5003.txt": "sample 5003"}},
+        "expected_state": {"required_file": "/home/hero/completed_5003.txt"},
+        "hint": "Use touch completed_5003.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5004,
+        "slug": "quest-scenario-5004",
+        "title": "Linux Quest Mission #5004",
+        "objective": "Execute required command line sequence for challenge #5004",
+        "initial_vfs": {"files": {"/home/hero/file_5004.txt": "sample 5004"}},
+        "expected_state": {"required_file": "/home/hero/completed_5004.txt"},
+        "hint": "Use touch completed_5004.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5005,
+        "slug": "quest-scenario-5005",
+        "title": "Linux Quest Mission #5005",
+        "objective": "Execute required command line sequence for challenge #5005",
+        "initial_vfs": {"files": {"/home/hero/file_5005.txt": "sample 5005"}},
+        "expected_state": {"required_file": "/home/hero/completed_5005.txt"},
+        "hint": "Use touch completed_5005.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5006,
+        "slug": "quest-scenario-5006",
+        "title": "Linux Quest Mission #5006",
+        "objective": "Execute required command line sequence for challenge #5006",
+        "initial_vfs": {"files": {"/home/hero/file_5006.txt": "sample 5006"}},
+        "expected_state": {"required_file": "/home/hero/completed_5006.txt"},
+        "hint": "Use touch completed_5006.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5007,
+        "slug": "quest-scenario-5007",
+        "title": "Linux Quest Mission #5007",
+        "objective": "Execute required command line sequence for challenge #5007",
+        "initial_vfs": {"files": {"/home/hero/file_5007.txt": "sample 5007"}},
+        "expected_state": {"required_file": "/home/hero/completed_5007.txt"},
+        "hint": "Use touch completed_5007.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5008,
+        "slug": "quest-scenario-5008",
+        "title": "Linux Quest Mission #5008",
+        "objective": "Execute required command line sequence for challenge #5008",
+        "initial_vfs": {"files": {"/home/hero/file_5008.txt": "sample 5008"}},
+        "expected_state": {"required_file": "/home/hero/completed_5008.txt"},
+        "hint": "Use touch completed_5008.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5009,
+        "slug": "quest-scenario-5009",
+        "title": "Linux Quest Mission #5009",
+        "objective": "Execute required command line sequence for challenge #5009",
+        "initial_vfs": {"files": {"/home/hero/file_5009.txt": "sample 5009"}},
+        "expected_state": {"required_file": "/home/hero/completed_5009.txt"},
+        "hint": "Use touch completed_5009.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5010,
+        "slug": "quest-scenario-5010",
+        "title": "Linux Quest Mission #5010",
+        "objective": "Execute required command line sequence for challenge #5010",
+        "initial_vfs": {"files": {"/home/hero/file_5010.txt": "sample 5010"}},
+        "expected_state": {"required_file": "/home/hero/completed_5010.txt"},
+        "hint": "Use touch completed_5010.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5011,
+        "slug": "quest-scenario-5011",
+        "title": "Linux Quest Mission #5011",
+        "objective": "Execute required command line sequence for challenge #5011",
+        "initial_vfs": {"files": {"/home/hero/file_5011.txt": "sample 5011"}},
+        "expected_state": {"required_file": "/home/hero/completed_5011.txt"},
+        "hint": "Use touch completed_5011.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5012,
+        "slug": "quest-scenario-5012",
+        "title": "Linux Quest Mission #5012",
+        "objective": "Execute required command line sequence for challenge #5012",
+        "initial_vfs": {"files": {"/home/hero/file_5012.txt": "sample 5012"}},
+        "expected_state": {"required_file": "/home/hero/completed_5012.txt"},
+        "hint": "Use touch completed_5012.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5013,
+        "slug": "quest-scenario-5013",
+        "title": "Linux Quest Mission #5013",
+        "objective": "Execute required command line sequence for challenge #5013",
+        "initial_vfs": {"files": {"/home/hero/file_5013.txt": "sample 5013"}},
+        "expected_state": {"required_file": "/home/hero/completed_5013.txt"},
+        "hint": "Use touch completed_5013.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5014,
+        "slug": "quest-scenario-5014",
+        "title": "Linux Quest Mission #5014",
+        "objective": "Execute required command line sequence for challenge #5014",
+        "initial_vfs": {"files": {"/home/hero/file_5014.txt": "sample 5014"}},
+        "expected_state": {"required_file": "/home/hero/completed_5014.txt"},
+        "hint": "Use touch completed_5014.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5015,
+        "slug": "quest-scenario-5015",
+        "title": "Linux Quest Mission #5015",
+        "objective": "Execute required command line sequence for challenge #5015",
+        "initial_vfs": {"files": {"/home/hero/file_5015.txt": "sample 5015"}},
+        "expected_state": {"required_file": "/home/hero/completed_5015.txt"},
+        "hint": "Use touch completed_5015.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5016,
+        "slug": "quest-scenario-5016",
+        "title": "Linux Quest Mission #5016",
+        "objective": "Execute required command line sequence for challenge #5016",
+        "initial_vfs": {"files": {"/home/hero/file_5016.txt": "sample 5016"}},
+        "expected_state": {"required_file": "/home/hero/completed_5016.txt"},
+        "hint": "Use touch completed_5016.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5017,
+        "slug": "quest-scenario-5017",
+        "title": "Linux Quest Mission #5017",
+        "objective": "Execute required command line sequence for challenge #5017",
+        "initial_vfs": {"files": {"/home/hero/file_5017.txt": "sample 5017"}},
+        "expected_state": {"required_file": "/home/hero/completed_5017.txt"},
+        "hint": "Use touch completed_5017.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5018,
+        "slug": "quest-scenario-5018",
+        "title": "Linux Quest Mission #5018",
+        "objective": "Execute required command line sequence for challenge #5018",
+        "initial_vfs": {"files": {"/home/hero/file_5018.txt": "sample 5018"}},
+        "expected_state": {"required_file": "/home/hero/completed_5018.txt"},
+        "hint": "Use touch completed_5018.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5019,
+        "slug": "quest-scenario-5019",
+        "title": "Linux Quest Mission #5019",
+        "objective": "Execute required command line sequence for challenge #5019",
+        "initial_vfs": {"files": {"/home/hero/file_5019.txt": "sample 5019"}},
+        "expected_state": {"required_file": "/home/hero/completed_5019.txt"},
+        "hint": "Use touch completed_5019.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5020,
+        "slug": "quest-scenario-5020",
+        "title": "Linux Quest Mission #5020",
+        "objective": "Execute required command line sequence for challenge #5020",
+        "initial_vfs": {"files": {"/home/hero/file_5020.txt": "sample 5020"}},
+        "expected_state": {"required_file": "/home/hero/completed_5020.txt"},
+        "hint": "Use touch completed_5020.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5021,
+        "slug": "quest-scenario-5021",
+        "title": "Linux Quest Mission #5021",
+        "objective": "Execute required command line sequence for challenge #5021",
+        "initial_vfs": {"files": {"/home/hero/file_5021.txt": "sample 5021"}},
+        "expected_state": {"required_file": "/home/hero/completed_5021.txt"},
+        "hint": "Use touch completed_5021.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5022,
+        "slug": "quest-scenario-5022",
+        "title": "Linux Quest Mission #5022",
+        "objective": "Execute required command line sequence for challenge #5022",
+        "initial_vfs": {"files": {"/home/hero/file_5022.txt": "sample 5022"}},
+        "expected_state": {"required_file": "/home/hero/completed_5022.txt"},
+        "hint": "Use touch completed_5022.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5023,
+        "slug": "quest-scenario-5023",
+        "title": "Linux Quest Mission #5023",
+        "objective": "Execute required command line sequence for challenge #5023",
+        "initial_vfs": {"files": {"/home/hero/file_5023.txt": "sample 5023"}},
+        "expected_state": {"required_file": "/home/hero/completed_5023.txt"},
+        "hint": "Use touch completed_5023.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5024,
+        "slug": "quest-scenario-5024",
+        "title": "Linux Quest Mission #5024",
+        "objective": "Execute required command line sequence for challenge #5024",
+        "initial_vfs": {"files": {"/home/hero/file_5024.txt": "sample 5024"}},
+        "expected_state": {"required_file": "/home/hero/completed_5024.txt"},
+        "hint": "Use touch completed_5024.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5025,
+        "slug": "quest-scenario-5025",
+        "title": "Linux Quest Mission #5025",
+        "objective": "Execute required command line sequence for challenge #5025",
+        "initial_vfs": {"files": {"/home/hero/file_5025.txt": "sample 5025"}},
+        "expected_state": {"required_file": "/home/hero/completed_5025.txt"},
+        "hint": "Use touch completed_5025.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5026,
+        "slug": "quest-scenario-5026",
+        "title": "Linux Quest Mission #5026",
+        "objective": "Execute required command line sequence for challenge #5026",
+        "initial_vfs": {"files": {"/home/hero/file_5026.txt": "sample 5026"}},
+        "expected_state": {"required_file": "/home/hero/completed_5026.txt"},
+        "hint": "Use touch completed_5026.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5027,
+        "slug": "quest-scenario-5027",
+        "title": "Linux Quest Mission #5027",
+        "objective": "Execute required command line sequence for challenge #5027",
+        "initial_vfs": {"files": {"/home/hero/file_5027.txt": "sample 5027"}},
+        "expected_state": {"required_file": "/home/hero/completed_5027.txt"},
+        "hint": "Use touch completed_5027.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5028,
+        "slug": "quest-scenario-5028",
+        "title": "Linux Quest Mission #5028",
+        "objective": "Execute required command line sequence for challenge #5028",
+        "initial_vfs": {"files": {"/home/hero/file_5028.txt": "sample 5028"}},
+        "expected_state": {"required_file": "/home/hero/completed_5028.txt"},
+        "hint": "Use touch completed_5028.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5029,
+        "slug": "quest-scenario-5029",
+        "title": "Linux Quest Mission #5029",
+        "objective": "Execute required command line sequence for challenge #5029",
+        "initial_vfs": {"files": {"/home/hero/file_5029.txt": "sample 5029"}},
+        "expected_state": {"required_file": "/home/hero/completed_5029.txt"},
+        "hint": "Use touch completed_5029.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5030,
+        "slug": "quest-scenario-5030",
+        "title": "Linux Quest Mission #5030",
+        "objective": "Execute required command line sequence for challenge #5030",
+        "initial_vfs": {"files": {"/home/hero/file_5030.txt": "sample 5030"}},
+        "expected_state": {"required_file": "/home/hero/completed_5030.txt"},
+        "hint": "Use touch completed_5030.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5031,
+        "slug": "quest-scenario-5031",
+        "title": "Linux Quest Mission #5031",
+        "objective": "Execute required command line sequence for challenge #5031",
+        "initial_vfs": {"files": {"/home/hero/file_5031.txt": "sample 5031"}},
+        "expected_state": {"required_file": "/home/hero/completed_5031.txt"},
+        "hint": "Use touch completed_5031.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5032,
+        "slug": "quest-scenario-5032",
+        "title": "Linux Quest Mission #5032",
+        "objective": "Execute required command line sequence for challenge #5032",
+        "initial_vfs": {"files": {"/home/hero/file_5032.txt": "sample 5032"}},
+        "expected_state": {"required_file": "/home/hero/completed_5032.txt"},
+        "hint": "Use touch completed_5032.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5033,
+        "slug": "quest-scenario-5033",
+        "title": "Linux Quest Mission #5033",
+        "objective": "Execute required command line sequence for challenge #5033",
+        "initial_vfs": {"files": {"/home/hero/file_5033.txt": "sample 5033"}},
+        "expected_state": {"required_file": "/home/hero/completed_5033.txt"},
+        "hint": "Use touch completed_5033.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5034,
+        "slug": "quest-scenario-5034",
+        "title": "Linux Quest Mission #5034",
+        "objective": "Execute required command line sequence for challenge #5034",
+        "initial_vfs": {"files": {"/home/hero/file_5034.txt": "sample 5034"}},
+        "expected_state": {"required_file": "/home/hero/completed_5034.txt"},
+        "hint": "Use touch completed_5034.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5035,
+        "slug": "quest-scenario-5035",
+        "title": "Linux Quest Mission #5035",
+        "objective": "Execute required command line sequence for challenge #5035",
+        "initial_vfs": {"files": {"/home/hero/file_5035.txt": "sample 5035"}},
+        "expected_state": {"required_file": "/home/hero/completed_5035.txt"},
+        "hint": "Use touch completed_5035.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5036,
+        "slug": "quest-scenario-5036",
+        "title": "Linux Quest Mission #5036",
+        "objective": "Execute required command line sequence for challenge #5036",
+        "initial_vfs": {"files": {"/home/hero/file_5036.txt": "sample 5036"}},
+        "expected_state": {"required_file": "/home/hero/completed_5036.txt"},
+        "hint": "Use touch completed_5036.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5037,
+        "slug": "quest-scenario-5037",
+        "title": "Linux Quest Mission #5037",
+        "objective": "Execute required command line sequence for challenge #5037",
+        "initial_vfs": {"files": {"/home/hero/file_5037.txt": "sample 5037"}},
+        "expected_state": {"required_file": "/home/hero/completed_5037.txt"},
+        "hint": "Use touch completed_5037.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5038,
+        "slug": "quest-scenario-5038",
+        "title": "Linux Quest Mission #5038",
+        "objective": "Execute required command line sequence for challenge #5038",
+        "initial_vfs": {"files": {"/home/hero/file_5038.txt": "sample 5038"}},
+        "expected_state": {"required_file": "/home/hero/completed_5038.txt"},
+        "hint": "Use touch completed_5038.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5039,
+        "slug": "quest-scenario-5039",
+        "title": "Linux Quest Mission #5039",
+        "objective": "Execute required command line sequence for challenge #5039",
+        "initial_vfs": {"files": {"/home/hero/file_5039.txt": "sample 5039"}},
+        "expected_state": {"required_file": "/home/hero/completed_5039.txt"},
+        "hint": "Use touch completed_5039.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5040,
+        "slug": "quest-scenario-5040",
+        "title": "Linux Quest Mission #5040",
+        "objective": "Execute required command line sequence for challenge #5040",
+        "initial_vfs": {"files": {"/home/hero/file_5040.txt": "sample 5040"}},
+        "expected_state": {"required_file": "/home/hero/completed_5040.txt"},
+        "hint": "Use touch completed_5040.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5041,
+        "slug": "quest-scenario-5041",
+        "title": "Linux Quest Mission #5041",
+        "objective": "Execute required command line sequence for challenge #5041",
+        "initial_vfs": {"files": {"/home/hero/file_5041.txt": "sample 5041"}},
+        "expected_state": {"required_file": "/home/hero/completed_5041.txt"},
+        "hint": "Use touch completed_5041.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5042,
+        "slug": "quest-scenario-5042",
+        "title": "Linux Quest Mission #5042",
+        "objective": "Execute required command line sequence for challenge #5042",
+        "initial_vfs": {"files": {"/home/hero/file_5042.txt": "sample 5042"}},
+        "expected_state": {"required_file": "/home/hero/completed_5042.txt"},
+        "hint": "Use touch completed_5042.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5043,
+        "slug": "quest-scenario-5043",
+        "title": "Linux Quest Mission #5043",
+        "objective": "Execute required command line sequence for challenge #5043",
+        "initial_vfs": {"files": {"/home/hero/file_5043.txt": "sample 5043"}},
+        "expected_state": {"required_file": "/home/hero/completed_5043.txt"},
+        "hint": "Use touch completed_5043.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5044,
+        "slug": "quest-scenario-5044",
+        "title": "Linux Quest Mission #5044",
+        "objective": "Execute required command line sequence for challenge #5044",
+        "initial_vfs": {"files": {"/home/hero/file_5044.txt": "sample 5044"}},
+        "expected_state": {"required_file": "/home/hero/completed_5044.txt"},
+        "hint": "Use touch completed_5044.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5045,
+        "slug": "quest-scenario-5045",
+        "title": "Linux Quest Mission #5045",
+        "objective": "Execute required command line sequence for challenge #5045",
+        "initial_vfs": {"files": {"/home/hero/file_5045.txt": "sample 5045"}},
+        "expected_state": {"required_file": "/home/hero/completed_5045.txt"},
+        "hint": "Use touch completed_5045.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5046,
+        "slug": "quest-scenario-5046",
+        "title": "Linux Quest Mission #5046",
+        "objective": "Execute required command line sequence for challenge #5046",
+        "initial_vfs": {"files": {"/home/hero/file_5046.txt": "sample 5046"}},
+        "expected_state": {"required_file": "/home/hero/completed_5046.txt"},
+        "hint": "Use touch completed_5046.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5047,
+        "slug": "quest-scenario-5047",
+        "title": "Linux Quest Mission #5047",
+        "objective": "Execute required command line sequence for challenge #5047",
+        "initial_vfs": {"files": {"/home/hero/file_5047.txt": "sample 5047"}},
+        "expected_state": {"required_file": "/home/hero/completed_5047.txt"},
+        "hint": "Use touch completed_5047.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5048,
+        "slug": "quest-scenario-5048",
+        "title": "Linux Quest Mission #5048",
+        "objective": "Execute required command line sequence for challenge #5048",
+        "initial_vfs": {"files": {"/home/hero/file_5048.txt": "sample 5048"}},
+        "expected_state": {"required_file": "/home/hero/completed_5048.txt"},
+        "hint": "Use touch completed_5048.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5049,
+        "slug": "quest-scenario-5049",
+        "title": "Linux Quest Mission #5049",
+        "objective": "Execute required command line sequence for challenge #5049",
+        "initial_vfs": {"files": {"/home/hero/file_5049.txt": "sample 5049"}},
+        "expected_state": {"required_file": "/home/hero/completed_5049.txt"},
+        "hint": "Use touch completed_5049.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5050,
+        "slug": "quest-scenario-5050",
+        "title": "Linux Quest Mission #5050",
+        "objective": "Execute required command line sequence for challenge #5050",
+        "initial_vfs": {"files": {"/home/hero/file_5050.txt": "sample 5050"}},
+        "expected_state": {"required_file": "/home/hero/completed_5050.txt"},
+        "hint": "Use touch completed_5050.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5051,
+        "slug": "quest-scenario-5051",
+        "title": "Linux Quest Mission #5051",
+        "objective": "Execute required command line sequence for challenge #5051",
+        "initial_vfs": {"files": {"/home/hero/file_5051.txt": "sample 5051"}},
+        "expected_state": {"required_file": "/home/hero/completed_5051.txt"},
+        "hint": "Use touch completed_5051.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5052,
+        "slug": "quest-scenario-5052",
+        "title": "Linux Quest Mission #5052",
+        "objective": "Execute required command line sequence for challenge #5052",
+        "initial_vfs": {"files": {"/home/hero/file_5052.txt": "sample 5052"}},
+        "expected_state": {"required_file": "/home/hero/completed_5052.txt"},
+        "hint": "Use touch completed_5052.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5053,
+        "slug": "quest-scenario-5053",
+        "title": "Linux Quest Mission #5053",
+        "objective": "Execute required command line sequence for challenge #5053",
+        "initial_vfs": {"files": {"/home/hero/file_5053.txt": "sample 5053"}},
+        "expected_state": {"required_file": "/home/hero/completed_5053.txt"},
+        "hint": "Use touch completed_5053.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5054,
+        "slug": "quest-scenario-5054",
+        "title": "Linux Quest Mission #5054",
+        "objective": "Execute required command line sequence for challenge #5054",
+        "initial_vfs": {"files": {"/home/hero/file_5054.txt": "sample 5054"}},
+        "expected_state": {"required_file": "/home/hero/completed_5054.txt"},
+        "hint": "Use touch completed_5054.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5055,
+        "slug": "quest-scenario-5055",
+        "title": "Linux Quest Mission #5055",
+        "objective": "Execute required command line sequence for challenge #5055",
+        "initial_vfs": {"files": {"/home/hero/file_5055.txt": "sample 5055"}},
+        "expected_state": {"required_file": "/home/hero/completed_5055.txt"},
+        "hint": "Use touch completed_5055.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5056,
+        "slug": "quest-scenario-5056",
+        "title": "Linux Quest Mission #5056",
+        "objective": "Execute required command line sequence for challenge #5056",
+        "initial_vfs": {"files": {"/home/hero/file_5056.txt": "sample 5056"}},
+        "expected_state": {"required_file": "/home/hero/completed_5056.txt"},
+        "hint": "Use touch completed_5056.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5057,
+        "slug": "quest-scenario-5057",
+        "title": "Linux Quest Mission #5057",
+        "objective": "Execute required command line sequence for challenge #5057",
+        "initial_vfs": {"files": {"/home/hero/file_5057.txt": "sample 5057"}},
+        "expected_state": {"required_file": "/home/hero/completed_5057.txt"},
+        "hint": "Use touch completed_5057.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5058,
+        "slug": "quest-scenario-5058",
+        "title": "Linux Quest Mission #5058",
+        "objective": "Execute required command line sequence for challenge #5058",
+        "initial_vfs": {"files": {"/home/hero/file_5058.txt": "sample 5058"}},
+        "expected_state": {"required_file": "/home/hero/completed_5058.txt"},
+        "hint": "Use touch completed_5058.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5059,
+        "slug": "quest-scenario-5059",
+        "title": "Linux Quest Mission #5059",
+        "objective": "Execute required command line sequence for challenge #5059",
+        "initial_vfs": {"files": {"/home/hero/file_5059.txt": "sample 5059"}},
+        "expected_state": {"required_file": "/home/hero/completed_5059.txt"},
+        "hint": "Use touch completed_5059.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5060,
+        "slug": "quest-scenario-5060",
+        "title": "Linux Quest Mission #5060",
+        "objective": "Execute required command line sequence for challenge #5060",
+        "initial_vfs": {"files": {"/home/hero/file_5060.txt": "sample 5060"}},
+        "expected_state": {"required_file": "/home/hero/completed_5060.txt"},
+        "hint": "Use touch completed_5060.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5061,
+        "slug": "quest-scenario-5061",
+        "title": "Linux Quest Mission #5061",
+        "objective": "Execute required command line sequence for challenge #5061",
+        "initial_vfs": {"files": {"/home/hero/file_5061.txt": "sample 5061"}},
+        "expected_state": {"required_file": "/home/hero/completed_5061.txt"},
+        "hint": "Use touch completed_5061.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5062,
+        "slug": "quest-scenario-5062",
+        "title": "Linux Quest Mission #5062",
+        "objective": "Execute required command line sequence for challenge #5062",
+        "initial_vfs": {"files": {"/home/hero/file_5062.txt": "sample 5062"}},
+        "expected_state": {"required_file": "/home/hero/completed_5062.txt"},
+        "hint": "Use touch completed_5062.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5063,
+        "slug": "quest-scenario-5063",
+        "title": "Linux Quest Mission #5063",
+        "objective": "Execute required command line sequence for challenge #5063",
+        "initial_vfs": {"files": {"/home/hero/file_5063.txt": "sample 5063"}},
+        "expected_state": {"required_file": "/home/hero/completed_5063.txt"},
+        "hint": "Use touch completed_5063.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5064,
+        "slug": "quest-scenario-5064",
+        "title": "Linux Quest Mission #5064",
+        "objective": "Execute required command line sequence for challenge #5064",
+        "initial_vfs": {"files": {"/home/hero/file_5064.txt": "sample 5064"}},
+        "expected_state": {"required_file": "/home/hero/completed_5064.txt"},
+        "hint": "Use touch completed_5064.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5065,
+        "slug": "quest-scenario-5065",
+        "title": "Linux Quest Mission #5065",
+        "objective": "Execute required command line sequence for challenge #5065",
+        "initial_vfs": {"files": {"/home/hero/file_5065.txt": "sample 5065"}},
+        "expected_state": {"required_file": "/home/hero/completed_5065.txt"},
+        "hint": "Use touch completed_5065.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5066,
+        "slug": "quest-scenario-5066",
+        "title": "Linux Quest Mission #5066",
+        "objective": "Execute required command line sequence for challenge #5066",
+        "initial_vfs": {"files": {"/home/hero/file_5066.txt": "sample 5066"}},
+        "expected_state": {"required_file": "/home/hero/completed_5066.txt"},
+        "hint": "Use touch completed_5066.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5067,
+        "slug": "quest-scenario-5067",
+        "title": "Linux Quest Mission #5067",
+        "objective": "Execute required command line sequence for challenge #5067",
+        "initial_vfs": {"files": {"/home/hero/file_5067.txt": "sample 5067"}},
+        "expected_state": {"required_file": "/home/hero/completed_5067.txt"},
+        "hint": "Use touch completed_5067.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5068,
+        "slug": "quest-scenario-5068",
+        "title": "Linux Quest Mission #5068",
+        "objective": "Execute required command line sequence for challenge #5068",
+        "initial_vfs": {"files": {"/home/hero/file_5068.txt": "sample 5068"}},
+        "expected_state": {"required_file": "/home/hero/completed_5068.txt"},
+        "hint": "Use touch completed_5068.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5069,
+        "slug": "quest-scenario-5069",
+        "title": "Linux Quest Mission #5069",
+        "objective": "Execute required command line sequence for challenge #5069",
+        "initial_vfs": {"files": {"/home/hero/file_5069.txt": "sample 5069"}},
+        "expected_state": {"required_file": "/home/hero/completed_5069.txt"},
+        "hint": "Use touch completed_5069.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5070,
+        "slug": "quest-scenario-5070",
+        "title": "Linux Quest Mission #5070",
+        "objective": "Execute required command line sequence for challenge #5070",
+        "initial_vfs": {"files": {"/home/hero/file_5070.txt": "sample 5070"}},
+        "expected_state": {"required_file": "/home/hero/completed_5070.txt"},
+        "hint": "Use touch completed_5070.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5071,
+        "slug": "quest-scenario-5071",
+        "title": "Linux Quest Mission #5071",
+        "objective": "Execute required command line sequence for challenge #5071",
+        "initial_vfs": {"files": {"/home/hero/file_5071.txt": "sample 5071"}},
+        "expected_state": {"required_file": "/home/hero/completed_5071.txt"},
+        "hint": "Use touch completed_5071.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5072,
+        "slug": "quest-scenario-5072",
+        "title": "Linux Quest Mission #5072",
+        "objective": "Execute required command line sequence for challenge #5072",
+        "initial_vfs": {"files": {"/home/hero/file_5072.txt": "sample 5072"}},
+        "expected_state": {"required_file": "/home/hero/completed_5072.txt"},
+        "hint": "Use touch completed_5072.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5073,
+        "slug": "quest-scenario-5073",
+        "title": "Linux Quest Mission #5073",
+        "objective": "Execute required command line sequence for challenge #5073",
+        "initial_vfs": {"files": {"/home/hero/file_5073.txt": "sample 5073"}},
+        "expected_state": {"required_file": "/home/hero/completed_5073.txt"},
+        "hint": "Use touch completed_5073.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5074,
+        "slug": "quest-scenario-5074",
+        "title": "Linux Quest Mission #5074",
+        "objective": "Execute required command line sequence for challenge #5074",
+        "initial_vfs": {"files": {"/home/hero/file_5074.txt": "sample 5074"}},
+        "expected_state": {"required_file": "/home/hero/completed_5074.txt"},
+        "hint": "Use touch completed_5074.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5075,
+        "slug": "quest-scenario-5075",
+        "title": "Linux Quest Mission #5075",
+        "objective": "Execute required command line sequence for challenge #5075",
+        "initial_vfs": {"files": {"/home/hero/file_5075.txt": "sample 5075"}},
+        "expected_state": {"required_file": "/home/hero/completed_5075.txt"},
+        "hint": "Use touch completed_5075.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5076,
+        "slug": "quest-scenario-5076",
+        "title": "Linux Quest Mission #5076",
+        "objective": "Execute required command line sequence for challenge #5076",
+        "initial_vfs": {"files": {"/home/hero/file_5076.txt": "sample 5076"}},
+        "expected_state": {"required_file": "/home/hero/completed_5076.txt"},
+        "hint": "Use touch completed_5076.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5077,
+        "slug": "quest-scenario-5077",
+        "title": "Linux Quest Mission #5077",
+        "objective": "Execute required command line sequence for challenge #5077",
+        "initial_vfs": {"files": {"/home/hero/file_5077.txt": "sample 5077"}},
+        "expected_state": {"required_file": "/home/hero/completed_5077.txt"},
+        "hint": "Use touch completed_5077.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5078,
+        "slug": "quest-scenario-5078",
+        "title": "Linux Quest Mission #5078",
+        "objective": "Execute required command line sequence for challenge #5078",
+        "initial_vfs": {"files": {"/home/hero/file_5078.txt": "sample 5078"}},
+        "expected_state": {"required_file": "/home/hero/completed_5078.txt"},
+        "hint": "Use touch completed_5078.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5079,
+        "slug": "quest-scenario-5079",
+        "title": "Linux Quest Mission #5079",
+        "objective": "Execute required command line sequence for challenge #5079",
+        "initial_vfs": {"files": {"/home/hero/file_5079.txt": "sample 5079"}},
+        "expected_state": {"required_file": "/home/hero/completed_5079.txt"},
+        "hint": "Use touch completed_5079.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5080,
+        "slug": "quest-scenario-5080",
+        "title": "Linux Quest Mission #5080",
+        "objective": "Execute required command line sequence for challenge #5080",
+        "initial_vfs": {"files": {"/home/hero/file_5080.txt": "sample 5080"}},
+        "expected_state": {"required_file": "/home/hero/completed_5080.txt"},
+        "hint": "Use touch completed_5080.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5081,
+        "slug": "quest-scenario-5081",
+        "title": "Linux Quest Mission #5081",
+        "objective": "Execute required command line sequence for challenge #5081",
+        "initial_vfs": {"files": {"/home/hero/file_5081.txt": "sample 5081"}},
+        "expected_state": {"required_file": "/home/hero/completed_5081.txt"},
+        "hint": "Use touch completed_5081.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5082,
+        "slug": "quest-scenario-5082",
+        "title": "Linux Quest Mission #5082",
+        "objective": "Execute required command line sequence for challenge #5082",
+        "initial_vfs": {"files": {"/home/hero/file_5082.txt": "sample 5082"}},
+        "expected_state": {"required_file": "/home/hero/completed_5082.txt"},
+        "hint": "Use touch completed_5082.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5083,
+        "slug": "quest-scenario-5083",
+        "title": "Linux Quest Mission #5083",
+        "objective": "Execute required command line sequence for challenge #5083",
+        "initial_vfs": {"files": {"/home/hero/file_5083.txt": "sample 5083"}},
+        "expected_state": {"required_file": "/home/hero/completed_5083.txt"},
+        "hint": "Use touch completed_5083.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5084,
+        "slug": "quest-scenario-5084",
+        "title": "Linux Quest Mission #5084",
+        "objective": "Execute required command line sequence for challenge #5084",
+        "initial_vfs": {"files": {"/home/hero/file_5084.txt": "sample 5084"}},
+        "expected_state": {"required_file": "/home/hero/completed_5084.txt"},
+        "hint": "Use touch completed_5084.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5085,
+        "slug": "quest-scenario-5085",
+        "title": "Linux Quest Mission #5085",
+        "objective": "Execute required command line sequence for challenge #5085",
+        "initial_vfs": {"files": {"/home/hero/file_5085.txt": "sample 5085"}},
+        "expected_state": {"required_file": "/home/hero/completed_5085.txt"},
+        "hint": "Use touch completed_5085.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5086,
+        "slug": "quest-scenario-5086",
+        "title": "Linux Quest Mission #5086",
+        "objective": "Execute required command line sequence for challenge #5086",
+        "initial_vfs": {"files": {"/home/hero/file_5086.txt": "sample 5086"}},
+        "expected_state": {"required_file": "/home/hero/completed_5086.txt"},
+        "hint": "Use touch completed_5086.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5087,
+        "slug": "quest-scenario-5087",
+        "title": "Linux Quest Mission #5087",
+        "objective": "Execute required command line sequence for challenge #5087",
+        "initial_vfs": {"files": {"/home/hero/file_5087.txt": "sample 5087"}},
+        "expected_state": {"required_file": "/home/hero/completed_5087.txt"},
+        "hint": "Use touch completed_5087.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5088,
+        "slug": "quest-scenario-5088",
+        "title": "Linux Quest Mission #5088",
+        "objective": "Execute required command line sequence for challenge #5088",
+        "initial_vfs": {"files": {"/home/hero/file_5088.txt": "sample 5088"}},
+        "expected_state": {"required_file": "/home/hero/completed_5088.txt"},
+        "hint": "Use touch completed_5088.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5089,
+        "slug": "quest-scenario-5089",
+        "title": "Linux Quest Mission #5089",
+        "objective": "Execute required command line sequence for challenge #5089",
+        "initial_vfs": {"files": {"/home/hero/file_5089.txt": "sample 5089"}},
+        "expected_state": {"required_file": "/home/hero/completed_5089.txt"},
+        "hint": "Use touch completed_5089.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5090,
+        "slug": "quest-scenario-5090",
+        "title": "Linux Quest Mission #5090",
+        "objective": "Execute required command line sequence for challenge #5090",
+        "initial_vfs": {"files": {"/home/hero/file_5090.txt": "sample 5090"}},
+        "expected_state": {"required_file": "/home/hero/completed_5090.txt"},
+        "hint": "Use touch completed_5090.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5091,
+        "slug": "quest-scenario-5091",
+        "title": "Linux Quest Mission #5091",
+        "objective": "Execute required command line sequence for challenge #5091",
+        "initial_vfs": {"files": {"/home/hero/file_5091.txt": "sample 5091"}},
+        "expected_state": {"required_file": "/home/hero/completed_5091.txt"},
+        "hint": "Use touch completed_5091.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5092,
+        "slug": "quest-scenario-5092",
+        "title": "Linux Quest Mission #5092",
+        "objective": "Execute required command line sequence for challenge #5092",
+        "initial_vfs": {"files": {"/home/hero/file_5092.txt": "sample 5092"}},
+        "expected_state": {"required_file": "/home/hero/completed_5092.txt"},
+        "hint": "Use touch completed_5092.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5093,
+        "slug": "quest-scenario-5093",
+        "title": "Linux Quest Mission #5093",
+        "objective": "Execute required command line sequence for challenge #5093",
+        "initial_vfs": {"files": {"/home/hero/file_5093.txt": "sample 5093"}},
+        "expected_state": {"required_file": "/home/hero/completed_5093.txt"},
+        "hint": "Use touch completed_5093.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5094,
+        "slug": "quest-scenario-5094",
+        "title": "Linux Quest Mission #5094",
+        "objective": "Execute required command line sequence for challenge #5094",
+        "initial_vfs": {"files": {"/home/hero/file_5094.txt": "sample 5094"}},
+        "expected_state": {"required_file": "/home/hero/completed_5094.txt"},
+        "hint": "Use touch completed_5094.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5095,
+        "slug": "quest-scenario-5095",
+        "title": "Linux Quest Mission #5095",
+        "objective": "Execute required command line sequence for challenge #5095",
+        "initial_vfs": {"files": {"/home/hero/file_5095.txt": "sample 5095"}},
+        "expected_state": {"required_file": "/home/hero/completed_5095.txt"},
+        "hint": "Use touch completed_5095.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5096,
+        "slug": "quest-scenario-5096",
+        "title": "Linux Quest Mission #5096",
+        "objective": "Execute required command line sequence for challenge #5096",
+        "initial_vfs": {"files": {"/home/hero/file_5096.txt": "sample 5096"}},
+        "expected_state": {"required_file": "/home/hero/completed_5096.txt"},
+        "hint": "Use touch completed_5096.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5097,
+        "slug": "quest-scenario-5097",
+        "title": "Linux Quest Mission #5097",
+        "objective": "Execute required command line sequence for challenge #5097",
+        "initial_vfs": {"files": {"/home/hero/file_5097.txt": "sample 5097"}},
+        "expected_state": {"required_file": "/home/hero/completed_5097.txt"},
+        "hint": "Use touch completed_5097.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5098,
+        "slug": "quest-scenario-5098",
+        "title": "Linux Quest Mission #5098",
+        "objective": "Execute required command line sequence for challenge #5098",
+        "initial_vfs": {"files": {"/home/hero/file_5098.txt": "sample 5098"}},
+        "expected_state": {"required_file": "/home/hero/completed_5098.txt"},
+        "hint": "Use touch completed_5098.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5099,
+        "slug": "quest-scenario-5099",
+        "title": "Linux Quest Mission #5099",
+        "objective": "Execute required command line sequence for challenge #5099",
+        "initial_vfs": {"files": {"/home/hero/file_5099.txt": "sample 5099"}},
+        "expected_state": {"required_file": "/home/hero/completed_5099.txt"},
+        "hint": "Use touch completed_5099.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5100,
+        "slug": "quest-scenario-5100",
+        "title": "Linux Quest Mission #5100",
+        "objective": "Execute required command line sequence for challenge #5100",
+        "initial_vfs": {"files": {"/home/hero/file_5100.txt": "sample 5100"}},
+        "expected_state": {"required_file": "/home/hero/completed_5100.txt"},
+        "hint": "Use touch completed_5100.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5101,
+        "slug": "quest-scenario-5101",
+        "title": "Linux Quest Mission #5101",
+        "objective": "Execute required command line sequence for challenge #5101",
+        "initial_vfs": {"files": {"/home/hero/file_5101.txt": "sample 5101"}},
+        "expected_state": {"required_file": "/home/hero/completed_5101.txt"},
+        "hint": "Use touch completed_5101.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5102,
+        "slug": "quest-scenario-5102",
+        "title": "Linux Quest Mission #5102",
+        "objective": "Execute required command line sequence for challenge #5102",
+        "initial_vfs": {"files": {"/home/hero/file_5102.txt": "sample 5102"}},
+        "expected_state": {"required_file": "/home/hero/completed_5102.txt"},
+        "hint": "Use touch completed_5102.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5103,
+        "slug": "quest-scenario-5103",
+        "title": "Linux Quest Mission #5103",
+        "objective": "Execute required command line sequence for challenge #5103",
+        "initial_vfs": {"files": {"/home/hero/file_5103.txt": "sample 5103"}},
+        "expected_state": {"required_file": "/home/hero/completed_5103.txt"},
+        "hint": "Use touch completed_5103.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5104,
+        "slug": "quest-scenario-5104",
+        "title": "Linux Quest Mission #5104",
+        "objective": "Execute required command line sequence for challenge #5104",
+        "initial_vfs": {"files": {"/home/hero/file_5104.txt": "sample 5104"}},
+        "expected_state": {"required_file": "/home/hero/completed_5104.txt"},
+        "hint": "Use touch completed_5104.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5105,
+        "slug": "quest-scenario-5105",
+        "title": "Linux Quest Mission #5105",
+        "objective": "Execute required command line sequence for challenge #5105",
+        "initial_vfs": {"files": {"/home/hero/file_5105.txt": "sample 5105"}},
+        "expected_state": {"required_file": "/home/hero/completed_5105.txt"},
+        "hint": "Use touch completed_5105.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5106,
+        "slug": "quest-scenario-5106",
+        "title": "Linux Quest Mission #5106",
+        "objective": "Execute required command line sequence for challenge #5106",
+        "initial_vfs": {"files": {"/home/hero/file_5106.txt": "sample 5106"}},
+        "expected_state": {"required_file": "/home/hero/completed_5106.txt"},
+        "hint": "Use touch completed_5106.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5107,
+        "slug": "quest-scenario-5107",
+        "title": "Linux Quest Mission #5107",
+        "objective": "Execute required command line sequence for challenge #5107",
+        "initial_vfs": {"files": {"/home/hero/file_5107.txt": "sample 5107"}},
+        "expected_state": {"required_file": "/home/hero/completed_5107.txt"},
+        "hint": "Use touch completed_5107.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5108,
+        "slug": "quest-scenario-5108",
+        "title": "Linux Quest Mission #5108",
+        "objective": "Execute required command line sequence for challenge #5108",
+        "initial_vfs": {"files": {"/home/hero/file_5108.txt": "sample 5108"}},
+        "expected_state": {"required_file": "/home/hero/completed_5108.txt"},
+        "hint": "Use touch completed_5108.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5109,
+        "slug": "quest-scenario-5109",
+        "title": "Linux Quest Mission #5109",
+        "objective": "Execute required command line sequence for challenge #5109",
+        "initial_vfs": {"files": {"/home/hero/file_5109.txt": "sample 5109"}},
+        "expected_state": {"required_file": "/home/hero/completed_5109.txt"},
+        "hint": "Use touch completed_5109.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5110,
+        "slug": "quest-scenario-5110",
+        "title": "Linux Quest Mission #5110",
+        "objective": "Execute required command line sequence for challenge #5110",
+        "initial_vfs": {"files": {"/home/hero/file_5110.txt": "sample 5110"}},
+        "expected_state": {"required_file": "/home/hero/completed_5110.txt"},
+        "hint": "Use touch completed_5110.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5111,
+        "slug": "quest-scenario-5111",
+        "title": "Linux Quest Mission #5111",
+        "objective": "Execute required command line sequence for challenge #5111",
+        "initial_vfs": {"files": {"/home/hero/file_5111.txt": "sample 5111"}},
+        "expected_state": {"required_file": "/home/hero/completed_5111.txt"},
+        "hint": "Use touch completed_5111.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5112,
+        "slug": "quest-scenario-5112",
+        "title": "Linux Quest Mission #5112",
+        "objective": "Execute required command line sequence for challenge #5112",
+        "initial_vfs": {"files": {"/home/hero/file_5112.txt": "sample 5112"}},
+        "expected_state": {"required_file": "/home/hero/completed_5112.txt"},
+        "hint": "Use touch completed_5112.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5113,
+        "slug": "quest-scenario-5113",
+        "title": "Linux Quest Mission #5113",
+        "objective": "Execute required command line sequence for challenge #5113",
+        "initial_vfs": {"files": {"/home/hero/file_5113.txt": "sample 5113"}},
+        "expected_state": {"required_file": "/home/hero/completed_5113.txt"},
+        "hint": "Use touch completed_5113.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5114,
+        "slug": "quest-scenario-5114",
+        "title": "Linux Quest Mission #5114",
+        "objective": "Execute required command line sequence for challenge #5114",
+        "initial_vfs": {"files": {"/home/hero/file_5114.txt": "sample 5114"}},
+        "expected_state": {"required_file": "/home/hero/completed_5114.txt"},
+        "hint": "Use touch completed_5114.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5115,
+        "slug": "quest-scenario-5115",
+        "title": "Linux Quest Mission #5115",
+        "objective": "Execute required command line sequence for challenge #5115",
+        "initial_vfs": {"files": {"/home/hero/file_5115.txt": "sample 5115"}},
+        "expected_state": {"required_file": "/home/hero/completed_5115.txt"},
+        "hint": "Use touch completed_5115.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5116,
+        "slug": "quest-scenario-5116",
+        "title": "Linux Quest Mission #5116",
+        "objective": "Execute required command line sequence for challenge #5116",
+        "initial_vfs": {"files": {"/home/hero/file_5116.txt": "sample 5116"}},
+        "expected_state": {"required_file": "/home/hero/completed_5116.txt"},
+        "hint": "Use touch completed_5116.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5117,
+        "slug": "quest-scenario-5117",
+        "title": "Linux Quest Mission #5117",
+        "objective": "Execute required command line sequence for challenge #5117",
+        "initial_vfs": {"files": {"/home/hero/file_5117.txt": "sample 5117"}},
+        "expected_state": {"required_file": "/home/hero/completed_5117.txt"},
+        "hint": "Use touch completed_5117.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5118,
+        "slug": "quest-scenario-5118",
+        "title": "Linux Quest Mission #5118",
+        "objective": "Execute required command line sequence for challenge #5118",
+        "initial_vfs": {"files": {"/home/hero/file_5118.txt": "sample 5118"}},
+        "expected_state": {"required_file": "/home/hero/completed_5118.txt"},
+        "hint": "Use touch completed_5118.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5119,
+        "slug": "quest-scenario-5119",
+        "title": "Linux Quest Mission #5119",
+        "objective": "Execute required command line sequence for challenge #5119",
+        "initial_vfs": {"files": {"/home/hero/file_5119.txt": "sample 5119"}},
+        "expected_state": {"required_file": "/home/hero/completed_5119.txt"},
+        "hint": "Use touch completed_5119.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5120,
+        "slug": "quest-scenario-5120",
+        "title": "Linux Quest Mission #5120",
+        "objective": "Execute required command line sequence for challenge #5120",
+        "initial_vfs": {"files": {"/home/hero/file_5120.txt": "sample 5120"}},
+        "expected_state": {"required_file": "/home/hero/completed_5120.txt"},
+        "hint": "Use touch completed_5120.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5121,
+        "slug": "quest-scenario-5121",
+        "title": "Linux Quest Mission #5121",
+        "objective": "Execute required command line sequence for challenge #5121",
+        "initial_vfs": {"files": {"/home/hero/file_5121.txt": "sample 5121"}},
+        "expected_state": {"required_file": "/home/hero/completed_5121.txt"},
+        "hint": "Use touch completed_5121.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5122,
+        "slug": "quest-scenario-5122",
+        "title": "Linux Quest Mission #5122",
+        "objective": "Execute required command line sequence for challenge #5122",
+        "initial_vfs": {"files": {"/home/hero/file_5122.txt": "sample 5122"}},
+        "expected_state": {"required_file": "/home/hero/completed_5122.txt"},
+        "hint": "Use touch completed_5122.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5123,
+        "slug": "quest-scenario-5123",
+        "title": "Linux Quest Mission #5123",
+        "objective": "Execute required command line sequence for challenge #5123",
+        "initial_vfs": {"files": {"/home/hero/file_5123.txt": "sample 5123"}},
+        "expected_state": {"required_file": "/home/hero/completed_5123.txt"},
+        "hint": "Use touch completed_5123.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5124,
+        "slug": "quest-scenario-5124",
+        "title": "Linux Quest Mission #5124",
+        "objective": "Execute required command line sequence for challenge #5124",
+        "initial_vfs": {"files": {"/home/hero/file_5124.txt": "sample 5124"}},
+        "expected_state": {"required_file": "/home/hero/completed_5124.txt"},
+        "hint": "Use touch completed_5124.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5125,
+        "slug": "quest-scenario-5125",
+        "title": "Linux Quest Mission #5125",
+        "objective": "Execute required command line sequence for challenge #5125",
+        "initial_vfs": {"files": {"/home/hero/file_5125.txt": "sample 5125"}},
+        "expected_state": {"required_file": "/home/hero/completed_5125.txt"},
+        "hint": "Use touch completed_5125.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5126,
+        "slug": "quest-scenario-5126",
+        "title": "Linux Quest Mission #5126",
+        "objective": "Execute required command line sequence for challenge #5126",
+        "initial_vfs": {"files": {"/home/hero/file_5126.txt": "sample 5126"}},
+        "expected_state": {"required_file": "/home/hero/completed_5126.txt"},
+        "hint": "Use touch completed_5126.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5127,
+        "slug": "quest-scenario-5127",
+        "title": "Linux Quest Mission #5127",
+        "objective": "Execute required command line sequence for challenge #5127",
+        "initial_vfs": {"files": {"/home/hero/file_5127.txt": "sample 5127"}},
+        "expected_state": {"required_file": "/home/hero/completed_5127.txt"},
+        "hint": "Use touch completed_5127.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5128,
+        "slug": "quest-scenario-5128",
+        "title": "Linux Quest Mission #5128",
+        "objective": "Execute required command line sequence for challenge #5128",
+        "initial_vfs": {"files": {"/home/hero/file_5128.txt": "sample 5128"}},
+        "expected_state": {"required_file": "/home/hero/completed_5128.txt"},
+        "hint": "Use touch completed_5128.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5129,
+        "slug": "quest-scenario-5129",
+        "title": "Linux Quest Mission #5129",
+        "objective": "Execute required command line sequence for challenge #5129",
+        "initial_vfs": {"files": {"/home/hero/file_5129.txt": "sample 5129"}},
+        "expected_state": {"required_file": "/home/hero/completed_5129.txt"},
+        "hint": "Use touch completed_5129.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5130,
+        "slug": "quest-scenario-5130",
+        "title": "Linux Quest Mission #5130",
+        "objective": "Execute required command line sequence for challenge #5130",
+        "initial_vfs": {"files": {"/home/hero/file_5130.txt": "sample 5130"}},
+        "expected_state": {"required_file": "/home/hero/completed_5130.txt"},
+        "hint": "Use touch completed_5130.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5131,
+        "slug": "quest-scenario-5131",
+        "title": "Linux Quest Mission #5131",
+        "objective": "Execute required command line sequence for challenge #5131",
+        "initial_vfs": {"files": {"/home/hero/file_5131.txt": "sample 5131"}},
+        "expected_state": {"required_file": "/home/hero/completed_5131.txt"},
+        "hint": "Use touch completed_5131.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5132,
+        "slug": "quest-scenario-5132",
+        "title": "Linux Quest Mission #5132",
+        "objective": "Execute required command line sequence for challenge #5132",
+        "initial_vfs": {"files": {"/home/hero/file_5132.txt": "sample 5132"}},
+        "expected_state": {"required_file": "/home/hero/completed_5132.txt"},
+        "hint": "Use touch completed_5132.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5133,
+        "slug": "quest-scenario-5133",
+        "title": "Linux Quest Mission #5133",
+        "objective": "Execute required command line sequence for challenge #5133",
+        "initial_vfs": {"files": {"/home/hero/file_5133.txt": "sample 5133"}},
+        "expected_state": {"required_file": "/home/hero/completed_5133.txt"},
+        "hint": "Use touch completed_5133.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5134,
+        "slug": "quest-scenario-5134",
+        "title": "Linux Quest Mission #5134",
+        "objective": "Execute required command line sequence for challenge #5134",
+        "initial_vfs": {"files": {"/home/hero/file_5134.txt": "sample 5134"}},
+        "expected_state": {"required_file": "/home/hero/completed_5134.txt"},
+        "hint": "Use touch completed_5134.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5135,
+        "slug": "quest-scenario-5135",
+        "title": "Linux Quest Mission #5135",
+        "objective": "Execute required command line sequence for challenge #5135",
+        "initial_vfs": {"files": {"/home/hero/file_5135.txt": "sample 5135"}},
+        "expected_state": {"required_file": "/home/hero/completed_5135.txt"},
+        "hint": "Use touch completed_5135.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5136,
+        "slug": "quest-scenario-5136",
+        "title": "Linux Quest Mission #5136",
+        "objective": "Execute required command line sequence for challenge #5136",
+        "initial_vfs": {"files": {"/home/hero/file_5136.txt": "sample 5136"}},
+        "expected_state": {"required_file": "/home/hero/completed_5136.txt"},
+        "hint": "Use touch completed_5136.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5137,
+        "slug": "quest-scenario-5137",
+        "title": "Linux Quest Mission #5137",
+        "objective": "Execute required command line sequence for challenge #5137",
+        "initial_vfs": {"files": {"/home/hero/file_5137.txt": "sample 5137"}},
+        "expected_state": {"required_file": "/home/hero/completed_5137.txt"},
+        "hint": "Use touch completed_5137.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5138,
+        "slug": "quest-scenario-5138",
+        "title": "Linux Quest Mission #5138",
+        "objective": "Execute required command line sequence for challenge #5138",
+        "initial_vfs": {"files": {"/home/hero/file_5138.txt": "sample 5138"}},
+        "expected_state": {"required_file": "/home/hero/completed_5138.txt"},
+        "hint": "Use touch completed_5138.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5139,
+        "slug": "quest-scenario-5139",
+        "title": "Linux Quest Mission #5139",
+        "objective": "Execute required command line sequence for challenge #5139",
+        "initial_vfs": {"files": {"/home/hero/file_5139.txt": "sample 5139"}},
+        "expected_state": {"required_file": "/home/hero/completed_5139.txt"},
+        "hint": "Use touch completed_5139.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5140,
+        "slug": "quest-scenario-5140",
+        "title": "Linux Quest Mission #5140",
+        "objective": "Execute required command line sequence for challenge #5140",
+        "initial_vfs": {"files": {"/home/hero/file_5140.txt": "sample 5140"}},
+        "expected_state": {"required_file": "/home/hero/completed_5140.txt"},
+        "hint": "Use touch completed_5140.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5141,
+        "slug": "quest-scenario-5141",
+        "title": "Linux Quest Mission #5141",
+        "objective": "Execute required command line sequence for challenge #5141",
+        "initial_vfs": {"files": {"/home/hero/file_5141.txt": "sample 5141"}},
+        "expected_state": {"required_file": "/home/hero/completed_5141.txt"},
+        "hint": "Use touch completed_5141.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5142,
+        "slug": "quest-scenario-5142",
+        "title": "Linux Quest Mission #5142",
+        "objective": "Execute required command line sequence for challenge #5142",
+        "initial_vfs": {"files": {"/home/hero/file_5142.txt": "sample 5142"}},
+        "expected_state": {"required_file": "/home/hero/completed_5142.txt"},
+        "hint": "Use touch completed_5142.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5143,
+        "slug": "quest-scenario-5143",
+        "title": "Linux Quest Mission #5143",
+        "objective": "Execute required command line sequence for challenge #5143",
+        "initial_vfs": {"files": {"/home/hero/file_5143.txt": "sample 5143"}},
+        "expected_state": {"required_file": "/home/hero/completed_5143.txt"},
+        "hint": "Use touch completed_5143.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5144,
+        "slug": "quest-scenario-5144",
+        "title": "Linux Quest Mission #5144",
+        "objective": "Execute required command line sequence for challenge #5144",
+        "initial_vfs": {"files": {"/home/hero/file_5144.txt": "sample 5144"}},
+        "expected_state": {"required_file": "/home/hero/completed_5144.txt"},
+        "hint": "Use touch completed_5144.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5145,
+        "slug": "quest-scenario-5145",
+        "title": "Linux Quest Mission #5145",
+        "objective": "Execute required command line sequence for challenge #5145",
+        "initial_vfs": {"files": {"/home/hero/file_5145.txt": "sample 5145"}},
+        "expected_state": {"required_file": "/home/hero/completed_5145.txt"},
+        "hint": "Use touch completed_5145.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5146,
+        "slug": "quest-scenario-5146",
+        "title": "Linux Quest Mission #5146",
+        "objective": "Execute required command line sequence for challenge #5146",
+        "initial_vfs": {"files": {"/home/hero/file_5146.txt": "sample 5146"}},
+        "expected_state": {"required_file": "/home/hero/completed_5146.txt"},
+        "hint": "Use touch completed_5146.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5147,
+        "slug": "quest-scenario-5147",
+        "title": "Linux Quest Mission #5147",
+        "objective": "Execute required command line sequence for challenge #5147",
+        "initial_vfs": {"files": {"/home/hero/file_5147.txt": "sample 5147"}},
+        "expected_state": {"required_file": "/home/hero/completed_5147.txt"},
+        "hint": "Use touch completed_5147.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5148,
+        "slug": "quest-scenario-5148",
+        "title": "Linux Quest Mission #5148",
+        "objective": "Execute required command line sequence for challenge #5148",
+        "initial_vfs": {"files": {"/home/hero/file_5148.txt": "sample 5148"}},
+        "expected_state": {"required_file": "/home/hero/completed_5148.txt"},
+        "hint": "Use touch completed_5148.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5149,
+        "slug": "quest-scenario-5149",
+        "title": "Linux Quest Mission #5149",
+        "objective": "Execute required command line sequence for challenge #5149",
+        "initial_vfs": {"files": {"/home/hero/file_5149.txt": "sample 5149"}},
+        "expected_state": {"required_file": "/home/hero/completed_5149.txt"},
+        "hint": "Use touch completed_5149.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5150,
+        "slug": "quest-scenario-5150",
+        "title": "Linux Quest Mission #5150",
+        "objective": "Execute required command line sequence for challenge #5150",
+        "initial_vfs": {"files": {"/home/hero/file_5150.txt": "sample 5150"}},
+        "expected_state": {"required_file": "/home/hero/completed_5150.txt"},
+        "hint": "Use touch completed_5150.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5151,
+        "slug": "quest-scenario-5151",
+        "title": "Linux Quest Mission #5151",
+        "objective": "Execute required command line sequence for challenge #5151",
+        "initial_vfs": {"files": {"/home/hero/file_5151.txt": "sample 5151"}},
+        "expected_state": {"required_file": "/home/hero/completed_5151.txt"},
+        "hint": "Use touch completed_5151.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5152,
+        "slug": "quest-scenario-5152",
+        "title": "Linux Quest Mission #5152",
+        "objective": "Execute required command line sequence for challenge #5152",
+        "initial_vfs": {"files": {"/home/hero/file_5152.txt": "sample 5152"}},
+        "expected_state": {"required_file": "/home/hero/completed_5152.txt"},
+        "hint": "Use touch completed_5152.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5153,
+        "slug": "quest-scenario-5153",
+        "title": "Linux Quest Mission #5153",
+        "objective": "Execute required command line sequence for challenge #5153",
+        "initial_vfs": {"files": {"/home/hero/file_5153.txt": "sample 5153"}},
+        "expected_state": {"required_file": "/home/hero/completed_5153.txt"},
+        "hint": "Use touch completed_5153.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5154,
+        "slug": "quest-scenario-5154",
+        "title": "Linux Quest Mission #5154",
+        "objective": "Execute required command line sequence for challenge #5154",
+        "initial_vfs": {"files": {"/home/hero/file_5154.txt": "sample 5154"}},
+        "expected_state": {"required_file": "/home/hero/completed_5154.txt"},
+        "hint": "Use touch completed_5154.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5155,
+        "slug": "quest-scenario-5155",
+        "title": "Linux Quest Mission #5155",
+        "objective": "Execute required command line sequence for challenge #5155",
+        "initial_vfs": {"files": {"/home/hero/file_5155.txt": "sample 5155"}},
+        "expected_state": {"required_file": "/home/hero/completed_5155.txt"},
+        "hint": "Use touch completed_5155.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5156,
+        "slug": "quest-scenario-5156",
+        "title": "Linux Quest Mission #5156",
+        "objective": "Execute required command line sequence for challenge #5156",
+        "initial_vfs": {"files": {"/home/hero/file_5156.txt": "sample 5156"}},
+        "expected_state": {"required_file": "/home/hero/completed_5156.txt"},
+        "hint": "Use touch completed_5156.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5157,
+        "slug": "quest-scenario-5157",
+        "title": "Linux Quest Mission #5157",
+        "objective": "Execute required command line sequence for challenge #5157",
+        "initial_vfs": {"files": {"/home/hero/file_5157.txt": "sample 5157"}},
+        "expected_state": {"required_file": "/home/hero/completed_5157.txt"},
+        "hint": "Use touch completed_5157.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5158,
+        "slug": "quest-scenario-5158",
+        "title": "Linux Quest Mission #5158",
+        "objective": "Execute required command line sequence for challenge #5158",
+        "initial_vfs": {"files": {"/home/hero/file_5158.txt": "sample 5158"}},
+        "expected_state": {"required_file": "/home/hero/completed_5158.txt"},
+        "hint": "Use touch completed_5158.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5159,
+        "slug": "quest-scenario-5159",
+        "title": "Linux Quest Mission #5159",
+        "objective": "Execute required command line sequence for challenge #5159",
+        "initial_vfs": {"files": {"/home/hero/file_5159.txt": "sample 5159"}},
+        "expected_state": {"required_file": "/home/hero/completed_5159.txt"},
+        "hint": "Use touch completed_5159.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5160,
+        "slug": "quest-scenario-5160",
+        "title": "Linux Quest Mission #5160",
+        "objective": "Execute required command line sequence for challenge #5160",
+        "initial_vfs": {"files": {"/home/hero/file_5160.txt": "sample 5160"}},
+        "expected_state": {"required_file": "/home/hero/completed_5160.txt"},
+        "hint": "Use touch completed_5160.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5161,
+        "slug": "quest-scenario-5161",
+        "title": "Linux Quest Mission #5161",
+        "objective": "Execute required command line sequence for challenge #5161",
+        "initial_vfs": {"files": {"/home/hero/file_5161.txt": "sample 5161"}},
+        "expected_state": {"required_file": "/home/hero/completed_5161.txt"},
+        "hint": "Use touch completed_5161.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5162,
+        "slug": "quest-scenario-5162",
+        "title": "Linux Quest Mission #5162",
+        "objective": "Execute required command line sequence for challenge #5162",
+        "initial_vfs": {"files": {"/home/hero/file_5162.txt": "sample 5162"}},
+        "expected_state": {"required_file": "/home/hero/completed_5162.txt"},
+        "hint": "Use touch completed_5162.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5163,
+        "slug": "quest-scenario-5163",
+        "title": "Linux Quest Mission #5163",
+        "objective": "Execute required command line sequence for challenge #5163",
+        "initial_vfs": {"files": {"/home/hero/file_5163.txt": "sample 5163"}},
+        "expected_state": {"required_file": "/home/hero/completed_5163.txt"},
+        "hint": "Use touch completed_5163.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5164,
+        "slug": "quest-scenario-5164",
+        "title": "Linux Quest Mission #5164",
+        "objective": "Execute required command line sequence for challenge #5164",
+        "initial_vfs": {"files": {"/home/hero/file_5164.txt": "sample 5164"}},
+        "expected_state": {"required_file": "/home/hero/completed_5164.txt"},
+        "hint": "Use touch completed_5164.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5165,
+        "slug": "quest-scenario-5165",
+        "title": "Linux Quest Mission #5165",
+        "objective": "Execute required command line sequence for challenge #5165",
+        "initial_vfs": {"files": {"/home/hero/file_5165.txt": "sample 5165"}},
+        "expected_state": {"required_file": "/home/hero/completed_5165.txt"},
+        "hint": "Use touch completed_5165.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5166,
+        "slug": "quest-scenario-5166",
+        "title": "Linux Quest Mission #5166",
+        "objective": "Execute required command line sequence for challenge #5166",
+        "initial_vfs": {"files": {"/home/hero/file_5166.txt": "sample 5166"}},
+        "expected_state": {"required_file": "/home/hero/completed_5166.txt"},
+        "hint": "Use touch completed_5166.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5167,
+        "slug": "quest-scenario-5167",
+        "title": "Linux Quest Mission #5167",
+        "objective": "Execute required command line sequence for challenge #5167",
+        "initial_vfs": {"files": {"/home/hero/file_5167.txt": "sample 5167"}},
+        "expected_state": {"required_file": "/home/hero/completed_5167.txt"},
+        "hint": "Use touch completed_5167.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5168,
+        "slug": "quest-scenario-5168",
+        "title": "Linux Quest Mission #5168",
+        "objective": "Execute required command line sequence for challenge #5168",
+        "initial_vfs": {"files": {"/home/hero/file_5168.txt": "sample 5168"}},
+        "expected_state": {"required_file": "/home/hero/completed_5168.txt"},
+        "hint": "Use touch completed_5168.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5169,
+        "slug": "quest-scenario-5169",
+        "title": "Linux Quest Mission #5169",
+        "objective": "Execute required command line sequence for challenge #5169",
+        "initial_vfs": {"files": {"/home/hero/file_5169.txt": "sample 5169"}},
+        "expected_state": {"required_file": "/home/hero/completed_5169.txt"},
+        "hint": "Use touch completed_5169.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5170,
+        "slug": "quest-scenario-5170",
+        "title": "Linux Quest Mission #5170",
+        "objective": "Execute required command line sequence for challenge #5170",
+        "initial_vfs": {"files": {"/home/hero/file_5170.txt": "sample 5170"}},
+        "expected_state": {"required_file": "/home/hero/completed_5170.txt"},
+        "hint": "Use touch completed_5170.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5171,
+        "slug": "quest-scenario-5171",
+        "title": "Linux Quest Mission #5171",
+        "objective": "Execute required command line sequence for challenge #5171",
+        "initial_vfs": {"files": {"/home/hero/file_5171.txt": "sample 5171"}},
+        "expected_state": {"required_file": "/home/hero/completed_5171.txt"},
+        "hint": "Use touch completed_5171.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5172,
+        "slug": "quest-scenario-5172",
+        "title": "Linux Quest Mission #5172",
+        "objective": "Execute required command line sequence for challenge #5172",
+        "initial_vfs": {"files": {"/home/hero/file_5172.txt": "sample 5172"}},
+        "expected_state": {"required_file": "/home/hero/completed_5172.txt"},
+        "hint": "Use touch completed_5172.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5173,
+        "slug": "quest-scenario-5173",
+        "title": "Linux Quest Mission #5173",
+        "objective": "Execute required command line sequence for challenge #5173",
+        "initial_vfs": {"files": {"/home/hero/file_5173.txt": "sample 5173"}},
+        "expected_state": {"required_file": "/home/hero/completed_5173.txt"},
+        "hint": "Use touch completed_5173.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5174,
+        "slug": "quest-scenario-5174",
+        "title": "Linux Quest Mission #5174",
+        "objective": "Execute required command line sequence for challenge #5174",
+        "initial_vfs": {"files": {"/home/hero/file_5174.txt": "sample 5174"}},
+        "expected_state": {"required_file": "/home/hero/completed_5174.txt"},
+        "hint": "Use touch completed_5174.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5175,
+        "slug": "quest-scenario-5175",
+        "title": "Linux Quest Mission #5175",
+        "objective": "Execute required command line sequence for challenge #5175",
+        "initial_vfs": {"files": {"/home/hero/file_5175.txt": "sample 5175"}},
+        "expected_state": {"required_file": "/home/hero/completed_5175.txt"},
+        "hint": "Use touch completed_5175.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5176,
+        "slug": "quest-scenario-5176",
+        "title": "Linux Quest Mission #5176",
+        "objective": "Execute required command line sequence for challenge #5176",
+        "initial_vfs": {"files": {"/home/hero/file_5176.txt": "sample 5176"}},
+        "expected_state": {"required_file": "/home/hero/completed_5176.txt"},
+        "hint": "Use touch completed_5176.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5177,
+        "slug": "quest-scenario-5177",
+        "title": "Linux Quest Mission #5177",
+        "objective": "Execute required command line sequence for challenge #5177",
+        "initial_vfs": {"files": {"/home/hero/file_5177.txt": "sample 5177"}},
+        "expected_state": {"required_file": "/home/hero/completed_5177.txt"},
+        "hint": "Use touch completed_5177.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5178,
+        "slug": "quest-scenario-5178",
+        "title": "Linux Quest Mission #5178",
+        "objective": "Execute required command line sequence for challenge #5178",
+        "initial_vfs": {"files": {"/home/hero/file_5178.txt": "sample 5178"}},
+        "expected_state": {"required_file": "/home/hero/completed_5178.txt"},
+        "hint": "Use touch completed_5178.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5179,
+        "slug": "quest-scenario-5179",
+        "title": "Linux Quest Mission #5179",
+        "objective": "Execute required command line sequence for challenge #5179",
+        "initial_vfs": {"files": {"/home/hero/file_5179.txt": "sample 5179"}},
+        "expected_state": {"required_file": "/home/hero/completed_5179.txt"},
+        "hint": "Use touch completed_5179.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5180,
+        "slug": "quest-scenario-5180",
+        "title": "Linux Quest Mission #5180",
+        "objective": "Execute required command line sequence for challenge #5180",
+        "initial_vfs": {"files": {"/home/hero/file_5180.txt": "sample 5180"}},
+        "expected_state": {"required_file": "/home/hero/completed_5180.txt"},
+        "hint": "Use touch completed_5180.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5181,
+        "slug": "quest-scenario-5181",
+        "title": "Linux Quest Mission #5181",
+        "objective": "Execute required command line sequence for challenge #5181",
+        "initial_vfs": {"files": {"/home/hero/file_5181.txt": "sample 5181"}},
+        "expected_state": {"required_file": "/home/hero/completed_5181.txt"},
+        "hint": "Use touch completed_5181.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5182,
+        "slug": "quest-scenario-5182",
+        "title": "Linux Quest Mission #5182",
+        "objective": "Execute required command line sequence for challenge #5182",
+        "initial_vfs": {"files": {"/home/hero/file_5182.txt": "sample 5182"}},
+        "expected_state": {"required_file": "/home/hero/completed_5182.txt"},
+        "hint": "Use touch completed_5182.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5183,
+        "slug": "quest-scenario-5183",
+        "title": "Linux Quest Mission #5183",
+        "objective": "Execute required command line sequence for challenge #5183",
+        "initial_vfs": {"files": {"/home/hero/file_5183.txt": "sample 5183"}},
+        "expected_state": {"required_file": "/home/hero/completed_5183.txt"},
+        "hint": "Use touch completed_5183.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5184,
+        "slug": "quest-scenario-5184",
+        "title": "Linux Quest Mission #5184",
+        "objective": "Execute required command line sequence for challenge #5184",
+        "initial_vfs": {"files": {"/home/hero/file_5184.txt": "sample 5184"}},
+        "expected_state": {"required_file": "/home/hero/completed_5184.txt"},
+        "hint": "Use touch completed_5184.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5185,
+        "slug": "quest-scenario-5185",
+        "title": "Linux Quest Mission #5185",
+        "objective": "Execute required command line sequence for challenge #5185",
+        "initial_vfs": {"files": {"/home/hero/file_5185.txt": "sample 5185"}},
+        "expected_state": {"required_file": "/home/hero/completed_5185.txt"},
+        "hint": "Use touch completed_5185.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5186,
+        "slug": "quest-scenario-5186",
+        "title": "Linux Quest Mission #5186",
+        "objective": "Execute required command line sequence for challenge #5186",
+        "initial_vfs": {"files": {"/home/hero/file_5186.txt": "sample 5186"}},
+        "expected_state": {"required_file": "/home/hero/completed_5186.txt"},
+        "hint": "Use touch completed_5186.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5187,
+        "slug": "quest-scenario-5187",
+        "title": "Linux Quest Mission #5187",
+        "objective": "Execute required command line sequence for challenge #5187",
+        "initial_vfs": {"files": {"/home/hero/file_5187.txt": "sample 5187"}},
+        "expected_state": {"required_file": "/home/hero/completed_5187.txt"},
+        "hint": "Use touch completed_5187.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5188,
+        "slug": "quest-scenario-5188",
+        "title": "Linux Quest Mission #5188",
+        "objective": "Execute required command line sequence for challenge #5188",
+        "initial_vfs": {"files": {"/home/hero/file_5188.txt": "sample 5188"}},
+        "expected_state": {"required_file": "/home/hero/completed_5188.txt"},
+        "hint": "Use touch completed_5188.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5189,
+        "slug": "quest-scenario-5189",
+        "title": "Linux Quest Mission #5189",
+        "objective": "Execute required command line sequence for challenge #5189",
+        "initial_vfs": {"files": {"/home/hero/file_5189.txt": "sample 5189"}},
+        "expected_state": {"required_file": "/home/hero/completed_5189.txt"},
+        "hint": "Use touch completed_5189.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5190,
+        "slug": "quest-scenario-5190",
+        "title": "Linux Quest Mission #5190",
+        "objective": "Execute required command line sequence for challenge #5190",
+        "initial_vfs": {"files": {"/home/hero/file_5190.txt": "sample 5190"}},
+        "expected_state": {"required_file": "/home/hero/completed_5190.txt"},
+        "hint": "Use touch completed_5190.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5191,
+        "slug": "quest-scenario-5191",
+        "title": "Linux Quest Mission #5191",
+        "objective": "Execute required command line sequence for challenge #5191",
+        "initial_vfs": {"files": {"/home/hero/file_5191.txt": "sample 5191"}},
+        "expected_state": {"required_file": "/home/hero/completed_5191.txt"},
+        "hint": "Use touch completed_5191.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5192,
+        "slug": "quest-scenario-5192",
+        "title": "Linux Quest Mission #5192",
+        "objective": "Execute required command line sequence for challenge #5192",
+        "initial_vfs": {"files": {"/home/hero/file_5192.txt": "sample 5192"}},
+        "expected_state": {"required_file": "/home/hero/completed_5192.txt"},
+        "hint": "Use touch completed_5192.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5193,
+        "slug": "quest-scenario-5193",
+        "title": "Linux Quest Mission #5193",
+        "objective": "Execute required command line sequence for challenge #5193",
+        "initial_vfs": {"files": {"/home/hero/file_5193.txt": "sample 5193"}},
+        "expected_state": {"required_file": "/home/hero/completed_5193.txt"},
+        "hint": "Use touch completed_5193.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5194,
+        "slug": "quest-scenario-5194",
+        "title": "Linux Quest Mission #5194",
+        "objective": "Execute required command line sequence for challenge #5194",
+        "initial_vfs": {"files": {"/home/hero/file_5194.txt": "sample 5194"}},
+        "expected_state": {"required_file": "/home/hero/completed_5194.txt"},
+        "hint": "Use touch completed_5194.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5195,
+        "slug": "quest-scenario-5195",
+        "title": "Linux Quest Mission #5195",
+        "objective": "Execute required command line sequence for challenge #5195",
+        "initial_vfs": {"files": {"/home/hero/file_5195.txt": "sample 5195"}},
+        "expected_state": {"required_file": "/home/hero/completed_5195.txt"},
+        "hint": "Use touch completed_5195.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5196,
+        "slug": "quest-scenario-5196",
+        "title": "Linux Quest Mission #5196",
+        "objective": "Execute required command line sequence for challenge #5196",
+        "initial_vfs": {"files": {"/home/hero/file_5196.txt": "sample 5196"}},
+        "expected_state": {"required_file": "/home/hero/completed_5196.txt"},
+        "hint": "Use touch completed_5196.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5197,
+        "slug": "quest-scenario-5197",
+        "title": "Linux Quest Mission #5197",
+        "objective": "Execute required command line sequence for challenge #5197",
+        "initial_vfs": {"files": {"/home/hero/file_5197.txt": "sample 5197"}},
+        "expected_state": {"required_file": "/home/hero/completed_5197.txt"},
+        "hint": "Use touch completed_5197.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5198,
+        "slug": "quest-scenario-5198",
+        "title": "Linux Quest Mission #5198",
+        "objective": "Execute required command line sequence for challenge #5198",
+        "initial_vfs": {"files": {"/home/hero/file_5198.txt": "sample 5198"}},
+        "expected_state": {"required_file": "/home/hero/completed_5198.txt"},
+        "hint": "Use touch completed_5198.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5199,
+        "slug": "quest-scenario-5199",
+        "title": "Linux Quest Mission #5199",
+        "objective": "Execute required command line sequence for challenge #5199",
+        "initial_vfs": {"files": {"/home/hero/file_5199.txt": "sample 5199"}},
+        "expected_state": {"required_file": "/home/hero/completed_5199.txt"},
+        "hint": "Use touch completed_5199.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5200,
+        "slug": "quest-scenario-5200",
+        "title": "Linux Quest Mission #5200",
+        "objective": "Execute required command line sequence for challenge #5200",
+        "initial_vfs": {"files": {"/home/hero/file_5200.txt": "sample 5200"}},
+        "expected_state": {"required_file": "/home/hero/completed_5200.txt"},
+        "hint": "Use touch completed_5200.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5201,
+        "slug": "quest-scenario-5201",
+        "title": "Linux Quest Mission #5201",
+        "objective": "Execute required command line sequence for challenge #5201",
+        "initial_vfs": {"files": {"/home/hero/file_5201.txt": "sample 5201"}},
+        "expected_state": {"required_file": "/home/hero/completed_5201.txt"},
+        "hint": "Use touch completed_5201.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5202,
+        "slug": "quest-scenario-5202",
+        "title": "Linux Quest Mission #5202",
+        "objective": "Execute required command line sequence for challenge #5202",
+        "initial_vfs": {"files": {"/home/hero/file_5202.txt": "sample 5202"}},
+        "expected_state": {"required_file": "/home/hero/completed_5202.txt"},
+        "hint": "Use touch completed_5202.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5203,
+        "slug": "quest-scenario-5203",
+        "title": "Linux Quest Mission #5203",
+        "objective": "Execute required command line sequence for challenge #5203",
+        "initial_vfs": {"files": {"/home/hero/file_5203.txt": "sample 5203"}},
+        "expected_state": {"required_file": "/home/hero/completed_5203.txt"},
+        "hint": "Use touch completed_5203.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5204,
+        "slug": "quest-scenario-5204",
+        "title": "Linux Quest Mission #5204",
+        "objective": "Execute required command line sequence for challenge #5204",
+        "initial_vfs": {"files": {"/home/hero/file_5204.txt": "sample 5204"}},
+        "expected_state": {"required_file": "/home/hero/completed_5204.txt"},
+        "hint": "Use touch completed_5204.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5205,
+        "slug": "quest-scenario-5205",
+        "title": "Linux Quest Mission #5205",
+        "objective": "Execute required command line sequence for challenge #5205",
+        "initial_vfs": {"files": {"/home/hero/file_5205.txt": "sample 5205"}},
+        "expected_state": {"required_file": "/home/hero/completed_5205.txt"},
+        "hint": "Use touch completed_5205.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5206,
+        "slug": "quest-scenario-5206",
+        "title": "Linux Quest Mission #5206",
+        "objective": "Execute required command line sequence for challenge #5206",
+        "initial_vfs": {"files": {"/home/hero/file_5206.txt": "sample 5206"}},
+        "expected_state": {"required_file": "/home/hero/completed_5206.txt"},
+        "hint": "Use touch completed_5206.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5207,
+        "slug": "quest-scenario-5207",
+        "title": "Linux Quest Mission #5207",
+        "objective": "Execute required command line sequence for challenge #5207",
+        "initial_vfs": {"files": {"/home/hero/file_5207.txt": "sample 5207"}},
+        "expected_state": {"required_file": "/home/hero/completed_5207.txt"},
+        "hint": "Use touch completed_5207.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5208,
+        "slug": "quest-scenario-5208",
+        "title": "Linux Quest Mission #5208",
+        "objective": "Execute required command line sequence for challenge #5208",
+        "initial_vfs": {"files": {"/home/hero/file_5208.txt": "sample 5208"}},
+        "expected_state": {"required_file": "/home/hero/completed_5208.txt"},
+        "hint": "Use touch completed_5208.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5209,
+        "slug": "quest-scenario-5209",
+        "title": "Linux Quest Mission #5209",
+        "objective": "Execute required command line sequence for challenge #5209",
+        "initial_vfs": {"files": {"/home/hero/file_5209.txt": "sample 5209"}},
+        "expected_state": {"required_file": "/home/hero/completed_5209.txt"},
+        "hint": "Use touch completed_5209.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5210,
+        "slug": "quest-scenario-5210",
+        "title": "Linux Quest Mission #5210",
+        "objective": "Execute required command line sequence for challenge #5210",
+        "initial_vfs": {"files": {"/home/hero/file_5210.txt": "sample 5210"}},
+        "expected_state": {"required_file": "/home/hero/completed_5210.txt"},
+        "hint": "Use touch completed_5210.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5211,
+        "slug": "quest-scenario-5211",
+        "title": "Linux Quest Mission #5211",
+        "objective": "Execute required command line sequence for challenge #5211",
+        "initial_vfs": {"files": {"/home/hero/file_5211.txt": "sample 5211"}},
+        "expected_state": {"required_file": "/home/hero/completed_5211.txt"},
+        "hint": "Use touch completed_5211.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5212,
+        "slug": "quest-scenario-5212",
+        "title": "Linux Quest Mission #5212",
+        "objective": "Execute required command line sequence for challenge #5212",
+        "initial_vfs": {"files": {"/home/hero/file_5212.txt": "sample 5212"}},
+        "expected_state": {"required_file": "/home/hero/completed_5212.txt"},
+        "hint": "Use touch completed_5212.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5213,
+        "slug": "quest-scenario-5213",
+        "title": "Linux Quest Mission #5213",
+        "objective": "Execute required command line sequence for challenge #5213",
+        "initial_vfs": {"files": {"/home/hero/file_5213.txt": "sample 5213"}},
+        "expected_state": {"required_file": "/home/hero/completed_5213.txt"},
+        "hint": "Use touch completed_5213.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5214,
+        "slug": "quest-scenario-5214",
+        "title": "Linux Quest Mission #5214",
+        "objective": "Execute required command line sequence for challenge #5214",
+        "initial_vfs": {"files": {"/home/hero/file_5214.txt": "sample 5214"}},
+        "expected_state": {"required_file": "/home/hero/completed_5214.txt"},
+        "hint": "Use touch completed_5214.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5215,
+        "slug": "quest-scenario-5215",
+        "title": "Linux Quest Mission #5215",
+        "objective": "Execute required command line sequence for challenge #5215",
+        "initial_vfs": {"files": {"/home/hero/file_5215.txt": "sample 5215"}},
+        "expected_state": {"required_file": "/home/hero/completed_5215.txt"},
+        "hint": "Use touch completed_5215.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5216,
+        "slug": "quest-scenario-5216",
+        "title": "Linux Quest Mission #5216",
+        "objective": "Execute required command line sequence for challenge #5216",
+        "initial_vfs": {"files": {"/home/hero/file_5216.txt": "sample 5216"}},
+        "expected_state": {"required_file": "/home/hero/completed_5216.txt"},
+        "hint": "Use touch completed_5216.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5217,
+        "slug": "quest-scenario-5217",
+        "title": "Linux Quest Mission #5217",
+        "objective": "Execute required command line sequence for challenge #5217",
+        "initial_vfs": {"files": {"/home/hero/file_5217.txt": "sample 5217"}},
+        "expected_state": {"required_file": "/home/hero/completed_5217.txt"},
+        "hint": "Use touch completed_5217.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5218,
+        "slug": "quest-scenario-5218",
+        "title": "Linux Quest Mission #5218",
+        "objective": "Execute required command line sequence for challenge #5218",
+        "initial_vfs": {"files": {"/home/hero/file_5218.txt": "sample 5218"}},
+        "expected_state": {"required_file": "/home/hero/completed_5218.txt"},
+        "hint": "Use touch completed_5218.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5219,
+        "slug": "quest-scenario-5219",
+        "title": "Linux Quest Mission #5219",
+        "objective": "Execute required command line sequence for challenge #5219",
+        "initial_vfs": {"files": {"/home/hero/file_5219.txt": "sample 5219"}},
+        "expected_state": {"required_file": "/home/hero/completed_5219.txt"},
+        "hint": "Use touch completed_5219.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5220,
+        "slug": "quest-scenario-5220",
+        "title": "Linux Quest Mission #5220",
+        "objective": "Execute required command line sequence for challenge #5220",
+        "initial_vfs": {"files": {"/home/hero/file_5220.txt": "sample 5220"}},
+        "expected_state": {"required_file": "/home/hero/completed_5220.txt"},
+        "hint": "Use touch completed_5220.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5221,
+        "slug": "quest-scenario-5221",
+        "title": "Linux Quest Mission #5221",
+        "objective": "Execute required command line sequence for challenge #5221",
+        "initial_vfs": {"files": {"/home/hero/file_5221.txt": "sample 5221"}},
+        "expected_state": {"required_file": "/home/hero/completed_5221.txt"},
+        "hint": "Use touch completed_5221.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5222,
+        "slug": "quest-scenario-5222",
+        "title": "Linux Quest Mission #5222",
+        "objective": "Execute required command line sequence for challenge #5222",
+        "initial_vfs": {"files": {"/home/hero/file_5222.txt": "sample 5222"}},
+        "expected_state": {"required_file": "/home/hero/completed_5222.txt"},
+        "hint": "Use touch completed_5222.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5223,
+        "slug": "quest-scenario-5223",
+        "title": "Linux Quest Mission #5223",
+        "objective": "Execute required command line sequence for challenge #5223",
+        "initial_vfs": {"files": {"/home/hero/file_5223.txt": "sample 5223"}},
+        "expected_state": {"required_file": "/home/hero/completed_5223.txt"},
+        "hint": "Use touch completed_5223.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5224,
+        "slug": "quest-scenario-5224",
+        "title": "Linux Quest Mission #5224",
+        "objective": "Execute required command line sequence for challenge #5224",
+        "initial_vfs": {"files": {"/home/hero/file_5224.txt": "sample 5224"}},
+        "expected_state": {"required_file": "/home/hero/completed_5224.txt"},
+        "hint": "Use touch completed_5224.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5225,
+        "slug": "quest-scenario-5225",
+        "title": "Linux Quest Mission #5225",
+        "objective": "Execute required command line sequence for challenge #5225",
+        "initial_vfs": {"files": {"/home/hero/file_5225.txt": "sample 5225"}},
+        "expected_state": {"required_file": "/home/hero/completed_5225.txt"},
+        "hint": "Use touch completed_5225.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5226,
+        "slug": "quest-scenario-5226",
+        "title": "Linux Quest Mission #5226",
+        "objective": "Execute required command line sequence for challenge #5226",
+        "initial_vfs": {"files": {"/home/hero/file_5226.txt": "sample 5226"}},
+        "expected_state": {"required_file": "/home/hero/completed_5226.txt"},
+        "hint": "Use touch completed_5226.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5227,
+        "slug": "quest-scenario-5227",
+        "title": "Linux Quest Mission #5227",
+        "objective": "Execute required command line sequence for challenge #5227",
+        "initial_vfs": {"files": {"/home/hero/file_5227.txt": "sample 5227"}},
+        "expected_state": {"required_file": "/home/hero/completed_5227.txt"},
+        "hint": "Use touch completed_5227.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5228,
+        "slug": "quest-scenario-5228",
+        "title": "Linux Quest Mission #5228",
+        "objective": "Execute required command line sequence for challenge #5228",
+        "initial_vfs": {"files": {"/home/hero/file_5228.txt": "sample 5228"}},
+        "expected_state": {"required_file": "/home/hero/completed_5228.txt"},
+        "hint": "Use touch completed_5228.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5229,
+        "slug": "quest-scenario-5229",
+        "title": "Linux Quest Mission #5229",
+        "objective": "Execute required command line sequence for challenge #5229",
+        "initial_vfs": {"files": {"/home/hero/file_5229.txt": "sample 5229"}},
+        "expected_state": {"required_file": "/home/hero/completed_5229.txt"},
+        "hint": "Use touch completed_5229.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5230,
+        "slug": "quest-scenario-5230",
+        "title": "Linux Quest Mission #5230",
+        "objective": "Execute required command line sequence for challenge #5230",
+        "initial_vfs": {"files": {"/home/hero/file_5230.txt": "sample 5230"}},
+        "expected_state": {"required_file": "/home/hero/completed_5230.txt"},
+        "hint": "Use touch completed_5230.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5231,
+        "slug": "quest-scenario-5231",
+        "title": "Linux Quest Mission #5231",
+        "objective": "Execute required command line sequence for challenge #5231",
+        "initial_vfs": {"files": {"/home/hero/file_5231.txt": "sample 5231"}},
+        "expected_state": {"required_file": "/home/hero/completed_5231.txt"},
+        "hint": "Use touch completed_5231.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5232,
+        "slug": "quest-scenario-5232",
+        "title": "Linux Quest Mission #5232",
+        "objective": "Execute required command line sequence for challenge #5232",
+        "initial_vfs": {"files": {"/home/hero/file_5232.txt": "sample 5232"}},
+        "expected_state": {"required_file": "/home/hero/completed_5232.txt"},
+        "hint": "Use touch completed_5232.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5233,
+        "slug": "quest-scenario-5233",
+        "title": "Linux Quest Mission #5233",
+        "objective": "Execute required command line sequence for challenge #5233",
+        "initial_vfs": {"files": {"/home/hero/file_5233.txt": "sample 5233"}},
+        "expected_state": {"required_file": "/home/hero/completed_5233.txt"},
+        "hint": "Use touch completed_5233.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5234,
+        "slug": "quest-scenario-5234",
+        "title": "Linux Quest Mission #5234",
+        "objective": "Execute required command line sequence for challenge #5234",
+        "initial_vfs": {"files": {"/home/hero/file_5234.txt": "sample 5234"}},
+        "expected_state": {"required_file": "/home/hero/completed_5234.txt"},
+        "hint": "Use touch completed_5234.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5235,
+        "slug": "quest-scenario-5235",
+        "title": "Linux Quest Mission #5235",
+        "objective": "Execute required command line sequence for challenge #5235",
+        "initial_vfs": {"files": {"/home/hero/file_5235.txt": "sample 5235"}},
+        "expected_state": {"required_file": "/home/hero/completed_5235.txt"},
+        "hint": "Use touch completed_5235.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5236,
+        "slug": "quest-scenario-5236",
+        "title": "Linux Quest Mission #5236",
+        "objective": "Execute required command line sequence for challenge #5236",
+        "initial_vfs": {"files": {"/home/hero/file_5236.txt": "sample 5236"}},
+        "expected_state": {"required_file": "/home/hero/completed_5236.txt"},
+        "hint": "Use touch completed_5236.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5237,
+        "slug": "quest-scenario-5237",
+        "title": "Linux Quest Mission #5237",
+        "objective": "Execute required command line sequence for challenge #5237",
+        "initial_vfs": {"files": {"/home/hero/file_5237.txt": "sample 5237"}},
+        "expected_state": {"required_file": "/home/hero/completed_5237.txt"},
+        "hint": "Use touch completed_5237.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5238,
+        "slug": "quest-scenario-5238",
+        "title": "Linux Quest Mission #5238",
+        "objective": "Execute required command line sequence for challenge #5238",
+        "initial_vfs": {"files": {"/home/hero/file_5238.txt": "sample 5238"}},
+        "expected_state": {"required_file": "/home/hero/completed_5238.txt"},
+        "hint": "Use touch completed_5238.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5239,
+        "slug": "quest-scenario-5239",
+        "title": "Linux Quest Mission #5239",
+        "objective": "Execute required command line sequence for challenge #5239",
+        "initial_vfs": {"files": {"/home/hero/file_5239.txt": "sample 5239"}},
+        "expected_state": {"required_file": "/home/hero/completed_5239.txt"},
+        "hint": "Use touch completed_5239.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5240,
+        "slug": "quest-scenario-5240",
+        "title": "Linux Quest Mission #5240",
+        "objective": "Execute required command line sequence for challenge #5240",
+        "initial_vfs": {"files": {"/home/hero/file_5240.txt": "sample 5240"}},
+        "expected_state": {"required_file": "/home/hero/completed_5240.txt"},
+        "hint": "Use touch completed_5240.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5241,
+        "slug": "quest-scenario-5241",
+        "title": "Linux Quest Mission #5241",
+        "objective": "Execute required command line sequence for challenge #5241",
+        "initial_vfs": {"files": {"/home/hero/file_5241.txt": "sample 5241"}},
+        "expected_state": {"required_file": "/home/hero/completed_5241.txt"},
+        "hint": "Use touch completed_5241.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5242,
+        "slug": "quest-scenario-5242",
+        "title": "Linux Quest Mission #5242",
+        "objective": "Execute required command line sequence for challenge #5242",
+        "initial_vfs": {"files": {"/home/hero/file_5242.txt": "sample 5242"}},
+        "expected_state": {"required_file": "/home/hero/completed_5242.txt"},
+        "hint": "Use touch completed_5242.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5243,
+        "slug": "quest-scenario-5243",
+        "title": "Linux Quest Mission #5243",
+        "objective": "Execute required command line sequence for challenge #5243",
+        "initial_vfs": {"files": {"/home/hero/file_5243.txt": "sample 5243"}},
+        "expected_state": {"required_file": "/home/hero/completed_5243.txt"},
+        "hint": "Use touch completed_5243.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5244,
+        "slug": "quest-scenario-5244",
+        "title": "Linux Quest Mission #5244",
+        "objective": "Execute required command line sequence for challenge #5244",
+        "initial_vfs": {"files": {"/home/hero/file_5244.txt": "sample 5244"}},
+        "expected_state": {"required_file": "/home/hero/completed_5244.txt"},
+        "hint": "Use touch completed_5244.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5245,
+        "slug": "quest-scenario-5245",
+        "title": "Linux Quest Mission #5245",
+        "objective": "Execute required command line sequence for challenge #5245",
+        "initial_vfs": {"files": {"/home/hero/file_5245.txt": "sample 5245"}},
+        "expected_state": {"required_file": "/home/hero/completed_5245.txt"},
+        "hint": "Use touch completed_5245.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5246,
+        "slug": "quest-scenario-5246",
+        "title": "Linux Quest Mission #5246",
+        "objective": "Execute required command line sequence for challenge #5246",
+        "initial_vfs": {"files": {"/home/hero/file_5246.txt": "sample 5246"}},
+        "expected_state": {"required_file": "/home/hero/completed_5246.txt"},
+        "hint": "Use touch completed_5246.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5247,
+        "slug": "quest-scenario-5247",
+        "title": "Linux Quest Mission #5247",
+        "objective": "Execute required command line sequence for challenge #5247",
+        "initial_vfs": {"files": {"/home/hero/file_5247.txt": "sample 5247"}},
+        "expected_state": {"required_file": "/home/hero/completed_5247.txt"},
+        "hint": "Use touch completed_5247.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5248,
+        "slug": "quest-scenario-5248",
+        "title": "Linux Quest Mission #5248",
+        "objective": "Execute required command line sequence for challenge #5248",
+        "initial_vfs": {"files": {"/home/hero/file_5248.txt": "sample 5248"}},
+        "expected_state": {"required_file": "/home/hero/completed_5248.txt"},
+        "hint": "Use touch completed_5248.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5249,
+        "slug": "quest-scenario-5249",
+        "title": "Linux Quest Mission #5249",
+        "objective": "Execute required command line sequence for challenge #5249",
+        "initial_vfs": {"files": {"/home/hero/file_5249.txt": "sample 5249"}},
+        "expected_state": {"required_file": "/home/hero/completed_5249.txt"},
+        "hint": "Use touch completed_5249.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5250,
+        "slug": "quest-scenario-5250",
+        "title": "Linux Quest Mission #5250",
+        "objective": "Execute required command line sequence for challenge #5250",
+        "initial_vfs": {"files": {"/home/hero/file_5250.txt": "sample 5250"}},
+        "expected_state": {"required_file": "/home/hero/completed_5250.txt"},
+        "hint": "Use touch completed_5250.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5251,
+        "slug": "quest-scenario-5251",
+        "title": "Linux Quest Mission #5251",
+        "objective": "Execute required command line sequence for challenge #5251",
+        "initial_vfs": {"files": {"/home/hero/file_5251.txt": "sample 5251"}},
+        "expected_state": {"required_file": "/home/hero/completed_5251.txt"},
+        "hint": "Use touch completed_5251.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5252,
+        "slug": "quest-scenario-5252",
+        "title": "Linux Quest Mission #5252",
+        "objective": "Execute required command line sequence for challenge #5252",
+        "initial_vfs": {"files": {"/home/hero/file_5252.txt": "sample 5252"}},
+        "expected_state": {"required_file": "/home/hero/completed_5252.txt"},
+        "hint": "Use touch completed_5252.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5253,
+        "slug": "quest-scenario-5253",
+        "title": "Linux Quest Mission #5253",
+        "objective": "Execute required command line sequence for challenge #5253",
+        "initial_vfs": {"files": {"/home/hero/file_5253.txt": "sample 5253"}},
+        "expected_state": {"required_file": "/home/hero/completed_5253.txt"},
+        "hint": "Use touch completed_5253.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5254,
+        "slug": "quest-scenario-5254",
+        "title": "Linux Quest Mission #5254",
+        "objective": "Execute required command line sequence for challenge #5254",
+        "initial_vfs": {"files": {"/home/hero/file_5254.txt": "sample 5254"}},
+        "expected_state": {"required_file": "/home/hero/completed_5254.txt"},
+        "hint": "Use touch completed_5254.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5255,
+        "slug": "quest-scenario-5255",
+        "title": "Linux Quest Mission #5255",
+        "objective": "Execute required command line sequence for challenge #5255",
+        "initial_vfs": {"files": {"/home/hero/file_5255.txt": "sample 5255"}},
+        "expected_state": {"required_file": "/home/hero/completed_5255.txt"},
+        "hint": "Use touch completed_5255.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5256,
+        "slug": "quest-scenario-5256",
+        "title": "Linux Quest Mission #5256",
+        "objective": "Execute required command line sequence for challenge #5256",
+        "initial_vfs": {"files": {"/home/hero/file_5256.txt": "sample 5256"}},
+        "expected_state": {"required_file": "/home/hero/completed_5256.txt"},
+        "hint": "Use touch completed_5256.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5257,
+        "slug": "quest-scenario-5257",
+        "title": "Linux Quest Mission #5257",
+        "objective": "Execute required command line sequence for challenge #5257",
+        "initial_vfs": {"files": {"/home/hero/file_5257.txt": "sample 5257"}},
+        "expected_state": {"required_file": "/home/hero/completed_5257.txt"},
+        "hint": "Use touch completed_5257.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5258,
+        "slug": "quest-scenario-5258",
+        "title": "Linux Quest Mission #5258",
+        "objective": "Execute required command line sequence for challenge #5258",
+        "initial_vfs": {"files": {"/home/hero/file_5258.txt": "sample 5258"}},
+        "expected_state": {"required_file": "/home/hero/completed_5258.txt"},
+        "hint": "Use touch completed_5258.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5259,
+        "slug": "quest-scenario-5259",
+        "title": "Linux Quest Mission #5259",
+        "objective": "Execute required command line sequence for challenge #5259",
+        "initial_vfs": {"files": {"/home/hero/file_5259.txt": "sample 5259"}},
+        "expected_state": {"required_file": "/home/hero/completed_5259.txt"},
+        "hint": "Use touch completed_5259.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5260,
+        "slug": "quest-scenario-5260",
+        "title": "Linux Quest Mission #5260",
+        "objective": "Execute required command line sequence for challenge #5260",
+        "initial_vfs": {"files": {"/home/hero/file_5260.txt": "sample 5260"}},
+        "expected_state": {"required_file": "/home/hero/completed_5260.txt"},
+        "hint": "Use touch completed_5260.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5261,
+        "slug": "quest-scenario-5261",
+        "title": "Linux Quest Mission #5261",
+        "objective": "Execute required command line sequence for challenge #5261",
+        "initial_vfs": {"files": {"/home/hero/file_5261.txt": "sample 5261"}},
+        "expected_state": {"required_file": "/home/hero/completed_5261.txt"},
+        "hint": "Use touch completed_5261.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5262,
+        "slug": "quest-scenario-5262",
+        "title": "Linux Quest Mission #5262",
+        "objective": "Execute required command line sequence for challenge #5262",
+        "initial_vfs": {"files": {"/home/hero/file_5262.txt": "sample 5262"}},
+        "expected_state": {"required_file": "/home/hero/completed_5262.txt"},
+        "hint": "Use touch completed_5262.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5263,
+        "slug": "quest-scenario-5263",
+        "title": "Linux Quest Mission #5263",
+        "objective": "Execute required command line sequence for challenge #5263",
+        "initial_vfs": {"files": {"/home/hero/file_5263.txt": "sample 5263"}},
+        "expected_state": {"required_file": "/home/hero/completed_5263.txt"},
+        "hint": "Use touch completed_5263.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5264,
+        "slug": "quest-scenario-5264",
+        "title": "Linux Quest Mission #5264",
+        "objective": "Execute required command line sequence for challenge #5264",
+        "initial_vfs": {"files": {"/home/hero/file_5264.txt": "sample 5264"}},
+        "expected_state": {"required_file": "/home/hero/completed_5264.txt"},
+        "hint": "Use touch completed_5264.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5265,
+        "slug": "quest-scenario-5265",
+        "title": "Linux Quest Mission #5265",
+        "objective": "Execute required command line sequence for challenge #5265",
+        "initial_vfs": {"files": {"/home/hero/file_5265.txt": "sample 5265"}},
+        "expected_state": {"required_file": "/home/hero/completed_5265.txt"},
+        "hint": "Use touch completed_5265.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5266,
+        "slug": "quest-scenario-5266",
+        "title": "Linux Quest Mission #5266",
+        "objective": "Execute required command line sequence for challenge #5266",
+        "initial_vfs": {"files": {"/home/hero/file_5266.txt": "sample 5266"}},
+        "expected_state": {"required_file": "/home/hero/completed_5266.txt"},
+        "hint": "Use touch completed_5266.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5267,
+        "slug": "quest-scenario-5267",
+        "title": "Linux Quest Mission #5267",
+        "objective": "Execute required command line sequence for challenge #5267",
+        "initial_vfs": {"files": {"/home/hero/file_5267.txt": "sample 5267"}},
+        "expected_state": {"required_file": "/home/hero/completed_5267.txt"},
+        "hint": "Use touch completed_5267.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5268,
+        "slug": "quest-scenario-5268",
+        "title": "Linux Quest Mission #5268",
+        "objective": "Execute required command line sequence for challenge #5268",
+        "initial_vfs": {"files": {"/home/hero/file_5268.txt": "sample 5268"}},
+        "expected_state": {"required_file": "/home/hero/completed_5268.txt"},
+        "hint": "Use touch completed_5268.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5269,
+        "slug": "quest-scenario-5269",
+        "title": "Linux Quest Mission #5269",
+        "objective": "Execute required command line sequence for challenge #5269",
+        "initial_vfs": {"files": {"/home/hero/file_5269.txt": "sample 5269"}},
+        "expected_state": {"required_file": "/home/hero/completed_5269.txt"},
+        "hint": "Use touch completed_5269.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5270,
+        "slug": "quest-scenario-5270",
+        "title": "Linux Quest Mission #5270",
+        "objective": "Execute required command line sequence for challenge #5270",
+        "initial_vfs": {"files": {"/home/hero/file_5270.txt": "sample 5270"}},
+        "expected_state": {"required_file": "/home/hero/completed_5270.txt"},
+        "hint": "Use touch completed_5270.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5271,
+        "slug": "quest-scenario-5271",
+        "title": "Linux Quest Mission #5271",
+        "objective": "Execute required command line sequence for challenge #5271",
+        "initial_vfs": {"files": {"/home/hero/file_5271.txt": "sample 5271"}},
+        "expected_state": {"required_file": "/home/hero/completed_5271.txt"},
+        "hint": "Use touch completed_5271.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5272,
+        "slug": "quest-scenario-5272",
+        "title": "Linux Quest Mission #5272",
+        "objective": "Execute required command line sequence for challenge #5272",
+        "initial_vfs": {"files": {"/home/hero/file_5272.txt": "sample 5272"}},
+        "expected_state": {"required_file": "/home/hero/completed_5272.txt"},
+        "hint": "Use touch completed_5272.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5273,
+        "slug": "quest-scenario-5273",
+        "title": "Linux Quest Mission #5273",
+        "objective": "Execute required command line sequence for challenge #5273",
+        "initial_vfs": {"files": {"/home/hero/file_5273.txt": "sample 5273"}},
+        "expected_state": {"required_file": "/home/hero/completed_5273.txt"},
+        "hint": "Use touch completed_5273.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5274,
+        "slug": "quest-scenario-5274",
+        "title": "Linux Quest Mission #5274",
+        "objective": "Execute required command line sequence for challenge #5274",
+        "initial_vfs": {"files": {"/home/hero/file_5274.txt": "sample 5274"}},
+        "expected_state": {"required_file": "/home/hero/completed_5274.txt"},
+        "hint": "Use touch completed_5274.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5275,
+        "slug": "quest-scenario-5275",
+        "title": "Linux Quest Mission #5275",
+        "objective": "Execute required command line sequence for challenge #5275",
+        "initial_vfs": {"files": {"/home/hero/file_5275.txt": "sample 5275"}},
+        "expected_state": {"required_file": "/home/hero/completed_5275.txt"},
+        "hint": "Use touch completed_5275.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5276,
+        "slug": "quest-scenario-5276",
+        "title": "Linux Quest Mission #5276",
+        "objective": "Execute required command line sequence for challenge #5276",
+        "initial_vfs": {"files": {"/home/hero/file_5276.txt": "sample 5276"}},
+        "expected_state": {"required_file": "/home/hero/completed_5276.txt"},
+        "hint": "Use touch completed_5276.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5277,
+        "slug": "quest-scenario-5277",
+        "title": "Linux Quest Mission #5277",
+        "objective": "Execute required command line sequence for challenge #5277",
+        "initial_vfs": {"files": {"/home/hero/file_5277.txt": "sample 5277"}},
+        "expected_state": {"required_file": "/home/hero/completed_5277.txt"},
+        "hint": "Use touch completed_5277.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5278,
+        "slug": "quest-scenario-5278",
+        "title": "Linux Quest Mission #5278",
+        "objective": "Execute required command line sequence for challenge #5278",
+        "initial_vfs": {"files": {"/home/hero/file_5278.txt": "sample 5278"}},
+        "expected_state": {"required_file": "/home/hero/completed_5278.txt"},
+        "hint": "Use touch completed_5278.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5279,
+        "slug": "quest-scenario-5279",
+        "title": "Linux Quest Mission #5279",
+        "objective": "Execute required command line sequence for challenge #5279",
+        "initial_vfs": {"files": {"/home/hero/file_5279.txt": "sample 5279"}},
+        "expected_state": {"required_file": "/home/hero/completed_5279.txt"},
+        "hint": "Use touch completed_5279.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5280,
+        "slug": "quest-scenario-5280",
+        "title": "Linux Quest Mission #5280",
+        "objective": "Execute required command line sequence for challenge #5280",
+        "initial_vfs": {"files": {"/home/hero/file_5280.txt": "sample 5280"}},
+        "expected_state": {"required_file": "/home/hero/completed_5280.txt"},
+        "hint": "Use touch completed_5280.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5281,
+        "slug": "quest-scenario-5281",
+        "title": "Linux Quest Mission #5281",
+        "objective": "Execute required command line sequence for challenge #5281",
+        "initial_vfs": {"files": {"/home/hero/file_5281.txt": "sample 5281"}},
+        "expected_state": {"required_file": "/home/hero/completed_5281.txt"},
+        "hint": "Use touch completed_5281.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5282,
+        "slug": "quest-scenario-5282",
+        "title": "Linux Quest Mission #5282",
+        "objective": "Execute required command line sequence for challenge #5282",
+        "initial_vfs": {"files": {"/home/hero/file_5282.txt": "sample 5282"}},
+        "expected_state": {"required_file": "/home/hero/completed_5282.txt"},
+        "hint": "Use touch completed_5282.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5283,
+        "slug": "quest-scenario-5283",
+        "title": "Linux Quest Mission #5283",
+        "objective": "Execute required command line sequence for challenge #5283",
+        "initial_vfs": {"files": {"/home/hero/file_5283.txt": "sample 5283"}},
+        "expected_state": {"required_file": "/home/hero/completed_5283.txt"},
+        "hint": "Use touch completed_5283.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5284,
+        "slug": "quest-scenario-5284",
+        "title": "Linux Quest Mission #5284",
+        "objective": "Execute required command line sequence for challenge #5284",
+        "initial_vfs": {"files": {"/home/hero/file_5284.txt": "sample 5284"}},
+        "expected_state": {"required_file": "/home/hero/completed_5284.txt"},
+        "hint": "Use touch completed_5284.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5285,
+        "slug": "quest-scenario-5285",
+        "title": "Linux Quest Mission #5285",
+        "objective": "Execute required command line sequence for challenge #5285",
+        "initial_vfs": {"files": {"/home/hero/file_5285.txt": "sample 5285"}},
+        "expected_state": {"required_file": "/home/hero/completed_5285.txt"},
+        "hint": "Use touch completed_5285.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5286,
+        "slug": "quest-scenario-5286",
+        "title": "Linux Quest Mission #5286",
+        "objective": "Execute required command line sequence for challenge #5286",
+        "initial_vfs": {"files": {"/home/hero/file_5286.txt": "sample 5286"}},
+        "expected_state": {"required_file": "/home/hero/completed_5286.txt"},
+        "hint": "Use touch completed_5286.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5287,
+        "slug": "quest-scenario-5287",
+        "title": "Linux Quest Mission #5287",
+        "objective": "Execute required command line sequence for challenge #5287",
+        "initial_vfs": {"files": {"/home/hero/file_5287.txt": "sample 5287"}},
+        "expected_state": {"required_file": "/home/hero/completed_5287.txt"},
+        "hint": "Use touch completed_5287.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5288,
+        "slug": "quest-scenario-5288",
+        "title": "Linux Quest Mission #5288",
+        "objective": "Execute required command line sequence for challenge #5288",
+        "initial_vfs": {"files": {"/home/hero/file_5288.txt": "sample 5288"}},
+        "expected_state": {"required_file": "/home/hero/completed_5288.txt"},
+        "hint": "Use touch completed_5288.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5289,
+        "slug": "quest-scenario-5289",
+        "title": "Linux Quest Mission #5289",
+        "objective": "Execute required command line sequence for challenge #5289",
+        "initial_vfs": {"files": {"/home/hero/file_5289.txt": "sample 5289"}},
+        "expected_state": {"required_file": "/home/hero/completed_5289.txt"},
+        "hint": "Use touch completed_5289.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5290,
+        "slug": "quest-scenario-5290",
+        "title": "Linux Quest Mission #5290",
+        "objective": "Execute required command line sequence for challenge #5290",
+        "initial_vfs": {"files": {"/home/hero/file_5290.txt": "sample 5290"}},
+        "expected_state": {"required_file": "/home/hero/completed_5290.txt"},
+        "hint": "Use touch completed_5290.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5291,
+        "slug": "quest-scenario-5291",
+        "title": "Linux Quest Mission #5291",
+        "objective": "Execute required command line sequence for challenge #5291",
+        "initial_vfs": {"files": {"/home/hero/file_5291.txt": "sample 5291"}},
+        "expected_state": {"required_file": "/home/hero/completed_5291.txt"},
+        "hint": "Use touch completed_5291.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5292,
+        "slug": "quest-scenario-5292",
+        "title": "Linux Quest Mission #5292",
+        "objective": "Execute required command line sequence for challenge #5292",
+        "initial_vfs": {"files": {"/home/hero/file_5292.txt": "sample 5292"}},
+        "expected_state": {"required_file": "/home/hero/completed_5292.txt"},
+        "hint": "Use touch completed_5292.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5293,
+        "slug": "quest-scenario-5293",
+        "title": "Linux Quest Mission #5293",
+        "objective": "Execute required command line sequence for challenge #5293",
+        "initial_vfs": {"files": {"/home/hero/file_5293.txt": "sample 5293"}},
+        "expected_state": {"required_file": "/home/hero/completed_5293.txt"},
+        "hint": "Use touch completed_5293.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5294,
+        "slug": "quest-scenario-5294",
+        "title": "Linux Quest Mission #5294",
+        "objective": "Execute required command line sequence for challenge #5294",
+        "initial_vfs": {"files": {"/home/hero/file_5294.txt": "sample 5294"}},
+        "expected_state": {"required_file": "/home/hero/completed_5294.txt"},
+        "hint": "Use touch completed_5294.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5295,
+        "slug": "quest-scenario-5295",
+        "title": "Linux Quest Mission #5295",
+        "objective": "Execute required command line sequence for challenge #5295",
+        "initial_vfs": {"files": {"/home/hero/file_5295.txt": "sample 5295"}},
+        "expected_state": {"required_file": "/home/hero/completed_5295.txt"},
+        "hint": "Use touch completed_5295.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5296,
+        "slug": "quest-scenario-5296",
+        "title": "Linux Quest Mission #5296",
+        "objective": "Execute required command line sequence for challenge #5296",
+        "initial_vfs": {"files": {"/home/hero/file_5296.txt": "sample 5296"}},
+        "expected_state": {"required_file": "/home/hero/completed_5296.txt"},
+        "hint": "Use touch completed_5296.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5297,
+        "slug": "quest-scenario-5297",
+        "title": "Linux Quest Mission #5297",
+        "objective": "Execute required command line sequence for challenge #5297",
+        "initial_vfs": {"files": {"/home/hero/file_5297.txt": "sample 5297"}},
+        "expected_state": {"required_file": "/home/hero/completed_5297.txt"},
+        "hint": "Use touch completed_5297.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5298,
+        "slug": "quest-scenario-5298",
+        "title": "Linux Quest Mission #5298",
+        "objective": "Execute required command line sequence for challenge #5298",
+        "initial_vfs": {"files": {"/home/hero/file_5298.txt": "sample 5298"}},
+        "expected_state": {"required_file": "/home/hero/completed_5298.txt"},
+        "hint": "Use touch completed_5298.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5299,
+        "slug": "quest-scenario-5299",
+        "title": "Linux Quest Mission #5299",
+        "objective": "Execute required command line sequence for challenge #5299",
+        "initial_vfs": {"files": {"/home/hero/file_5299.txt": "sample 5299"}},
+        "expected_state": {"required_file": "/home/hero/completed_5299.txt"},
+        "hint": "Use touch completed_5299.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5300,
+        "slug": "quest-scenario-5300",
+        "title": "Linux Quest Mission #5300",
+        "objective": "Execute required command line sequence for challenge #5300",
+        "initial_vfs": {"files": {"/home/hero/file_5300.txt": "sample 5300"}},
+        "expected_state": {"required_file": "/home/hero/completed_5300.txt"},
+        "hint": "Use touch completed_5300.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5301,
+        "slug": "quest-scenario-5301",
+        "title": "Linux Quest Mission #5301",
+        "objective": "Execute required command line sequence for challenge #5301",
+        "initial_vfs": {"files": {"/home/hero/file_5301.txt": "sample 5301"}},
+        "expected_state": {"required_file": "/home/hero/completed_5301.txt"},
+        "hint": "Use touch completed_5301.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5302,
+        "slug": "quest-scenario-5302",
+        "title": "Linux Quest Mission #5302",
+        "objective": "Execute required command line sequence for challenge #5302",
+        "initial_vfs": {"files": {"/home/hero/file_5302.txt": "sample 5302"}},
+        "expected_state": {"required_file": "/home/hero/completed_5302.txt"},
+        "hint": "Use touch completed_5302.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5303,
+        "slug": "quest-scenario-5303",
+        "title": "Linux Quest Mission #5303",
+        "objective": "Execute required command line sequence for challenge #5303",
+        "initial_vfs": {"files": {"/home/hero/file_5303.txt": "sample 5303"}},
+        "expected_state": {"required_file": "/home/hero/completed_5303.txt"},
+        "hint": "Use touch completed_5303.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5304,
+        "slug": "quest-scenario-5304",
+        "title": "Linux Quest Mission #5304",
+        "objective": "Execute required command line sequence for challenge #5304",
+        "initial_vfs": {"files": {"/home/hero/file_5304.txt": "sample 5304"}},
+        "expected_state": {"required_file": "/home/hero/completed_5304.txt"},
+        "hint": "Use touch completed_5304.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5305,
+        "slug": "quest-scenario-5305",
+        "title": "Linux Quest Mission #5305",
+        "objective": "Execute required command line sequence for challenge #5305",
+        "initial_vfs": {"files": {"/home/hero/file_5305.txt": "sample 5305"}},
+        "expected_state": {"required_file": "/home/hero/completed_5305.txt"},
+        "hint": "Use touch completed_5305.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5306,
+        "slug": "quest-scenario-5306",
+        "title": "Linux Quest Mission #5306",
+        "objective": "Execute required command line sequence for challenge #5306",
+        "initial_vfs": {"files": {"/home/hero/file_5306.txt": "sample 5306"}},
+        "expected_state": {"required_file": "/home/hero/completed_5306.txt"},
+        "hint": "Use touch completed_5306.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5307,
+        "slug": "quest-scenario-5307",
+        "title": "Linux Quest Mission #5307",
+        "objective": "Execute required command line sequence for challenge #5307",
+        "initial_vfs": {"files": {"/home/hero/file_5307.txt": "sample 5307"}},
+        "expected_state": {"required_file": "/home/hero/completed_5307.txt"},
+        "hint": "Use touch completed_5307.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5308,
+        "slug": "quest-scenario-5308",
+        "title": "Linux Quest Mission #5308",
+        "objective": "Execute required command line sequence for challenge #5308",
+        "initial_vfs": {"files": {"/home/hero/file_5308.txt": "sample 5308"}},
+        "expected_state": {"required_file": "/home/hero/completed_5308.txt"},
+        "hint": "Use touch completed_5308.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5309,
+        "slug": "quest-scenario-5309",
+        "title": "Linux Quest Mission #5309",
+        "objective": "Execute required command line sequence for challenge #5309",
+        "initial_vfs": {"files": {"/home/hero/file_5309.txt": "sample 5309"}},
+        "expected_state": {"required_file": "/home/hero/completed_5309.txt"},
+        "hint": "Use touch completed_5309.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5310,
+        "slug": "quest-scenario-5310",
+        "title": "Linux Quest Mission #5310",
+        "objective": "Execute required command line sequence for challenge #5310",
+        "initial_vfs": {"files": {"/home/hero/file_5310.txt": "sample 5310"}},
+        "expected_state": {"required_file": "/home/hero/completed_5310.txt"},
+        "hint": "Use touch completed_5310.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5311,
+        "slug": "quest-scenario-5311",
+        "title": "Linux Quest Mission #5311",
+        "objective": "Execute required command line sequence for challenge #5311",
+        "initial_vfs": {"files": {"/home/hero/file_5311.txt": "sample 5311"}},
+        "expected_state": {"required_file": "/home/hero/completed_5311.txt"},
+        "hint": "Use touch completed_5311.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5312,
+        "slug": "quest-scenario-5312",
+        "title": "Linux Quest Mission #5312",
+        "objective": "Execute required command line sequence for challenge #5312",
+        "initial_vfs": {"files": {"/home/hero/file_5312.txt": "sample 5312"}},
+        "expected_state": {"required_file": "/home/hero/completed_5312.txt"},
+        "hint": "Use touch completed_5312.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5313,
+        "slug": "quest-scenario-5313",
+        "title": "Linux Quest Mission #5313",
+        "objective": "Execute required command line sequence for challenge #5313",
+        "initial_vfs": {"files": {"/home/hero/file_5313.txt": "sample 5313"}},
+        "expected_state": {"required_file": "/home/hero/completed_5313.txt"},
+        "hint": "Use touch completed_5313.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5314,
+        "slug": "quest-scenario-5314",
+        "title": "Linux Quest Mission #5314",
+        "objective": "Execute required command line sequence for challenge #5314",
+        "initial_vfs": {"files": {"/home/hero/file_5314.txt": "sample 5314"}},
+        "expected_state": {"required_file": "/home/hero/completed_5314.txt"},
+        "hint": "Use touch completed_5314.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5315,
+        "slug": "quest-scenario-5315",
+        "title": "Linux Quest Mission #5315",
+        "objective": "Execute required command line sequence for challenge #5315",
+        "initial_vfs": {"files": {"/home/hero/file_5315.txt": "sample 5315"}},
+        "expected_state": {"required_file": "/home/hero/completed_5315.txt"},
+        "hint": "Use touch completed_5315.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5316,
+        "slug": "quest-scenario-5316",
+        "title": "Linux Quest Mission #5316",
+        "objective": "Execute required command line sequence for challenge #5316",
+        "initial_vfs": {"files": {"/home/hero/file_5316.txt": "sample 5316"}},
+        "expected_state": {"required_file": "/home/hero/completed_5316.txt"},
+        "hint": "Use touch completed_5316.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5317,
+        "slug": "quest-scenario-5317",
+        "title": "Linux Quest Mission #5317",
+        "objective": "Execute required command line sequence for challenge #5317",
+        "initial_vfs": {"files": {"/home/hero/file_5317.txt": "sample 5317"}},
+        "expected_state": {"required_file": "/home/hero/completed_5317.txt"},
+        "hint": "Use touch completed_5317.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5318,
+        "slug": "quest-scenario-5318",
+        "title": "Linux Quest Mission #5318",
+        "objective": "Execute required command line sequence for challenge #5318",
+        "initial_vfs": {"files": {"/home/hero/file_5318.txt": "sample 5318"}},
+        "expected_state": {"required_file": "/home/hero/completed_5318.txt"},
+        "hint": "Use touch completed_5318.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5319,
+        "slug": "quest-scenario-5319",
+        "title": "Linux Quest Mission #5319",
+        "objective": "Execute required command line sequence for challenge #5319",
+        "initial_vfs": {"files": {"/home/hero/file_5319.txt": "sample 5319"}},
+        "expected_state": {"required_file": "/home/hero/completed_5319.txt"},
+        "hint": "Use touch completed_5319.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5320,
+        "slug": "quest-scenario-5320",
+        "title": "Linux Quest Mission #5320",
+        "objective": "Execute required command line sequence for challenge #5320",
+        "initial_vfs": {"files": {"/home/hero/file_5320.txt": "sample 5320"}},
+        "expected_state": {"required_file": "/home/hero/completed_5320.txt"},
+        "hint": "Use touch completed_5320.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5321,
+        "slug": "quest-scenario-5321",
+        "title": "Linux Quest Mission #5321",
+        "objective": "Execute required command line sequence for challenge #5321",
+        "initial_vfs": {"files": {"/home/hero/file_5321.txt": "sample 5321"}},
+        "expected_state": {"required_file": "/home/hero/completed_5321.txt"},
+        "hint": "Use touch completed_5321.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5322,
+        "slug": "quest-scenario-5322",
+        "title": "Linux Quest Mission #5322",
+        "objective": "Execute required command line sequence for challenge #5322",
+        "initial_vfs": {"files": {"/home/hero/file_5322.txt": "sample 5322"}},
+        "expected_state": {"required_file": "/home/hero/completed_5322.txt"},
+        "hint": "Use touch completed_5322.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5323,
+        "slug": "quest-scenario-5323",
+        "title": "Linux Quest Mission #5323",
+        "objective": "Execute required command line sequence for challenge #5323",
+        "initial_vfs": {"files": {"/home/hero/file_5323.txt": "sample 5323"}},
+        "expected_state": {"required_file": "/home/hero/completed_5323.txt"},
+        "hint": "Use touch completed_5323.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5324,
+        "slug": "quest-scenario-5324",
+        "title": "Linux Quest Mission #5324",
+        "objective": "Execute required command line sequence for challenge #5324",
+        "initial_vfs": {"files": {"/home/hero/file_5324.txt": "sample 5324"}},
+        "expected_state": {"required_file": "/home/hero/completed_5324.txt"},
+        "hint": "Use touch completed_5324.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5325,
+        "slug": "quest-scenario-5325",
+        "title": "Linux Quest Mission #5325",
+        "objective": "Execute required command line sequence for challenge #5325",
+        "initial_vfs": {"files": {"/home/hero/file_5325.txt": "sample 5325"}},
+        "expected_state": {"required_file": "/home/hero/completed_5325.txt"},
+        "hint": "Use touch completed_5325.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5326,
+        "slug": "quest-scenario-5326",
+        "title": "Linux Quest Mission #5326",
+        "objective": "Execute required command line sequence for challenge #5326",
+        "initial_vfs": {"files": {"/home/hero/file_5326.txt": "sample 5326"}},
+        "expected_state": {"required_file": "/home/hero/completed_5326.txt"},
+        "hint": "Use touch completed_5326.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5327,
+        "slug": "quest-scenario-5327",
+        "title": "Linux Quest Mission #5327",
+        "objective": "Execute required command line sequence for challenge #5327",
+        "initial_vfs": {"files": {"/home/hero/file_5327.txt": "sample 5327"}},
+        "expected_state": {"required_file": "/home/hero/completed_5327.txt"},
+        "hint": "Use touch completed_5327.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5328,
+        "slug": "quest-scenario-5328",
+        "title": "Linux Quest Mission #5328",
+        "objective": "Execute required command line sequence for challenge #5328",
+        "initial_vfs": {"files": {"/home/hero/file_5328.txt": "sample 5328"}},
+        "expected_state": {"required_file": "/home/hero/completed_5328.txt"},
+        "hint": "Use touch completed_5328.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5329,
+        "slug": "quest-scenario-5329",
+        "title": "Linux Quest Mission #5329",
+        "objective": "Execute required command line sequence for challenge #5329",
+        "initial_vfs": {"files": {"/home/hero/file_5329.txt": "sample 5329"}},
+        "expected_state": {"required_file": "/home/hero/completed_5329.txt"},
+        "hint": "Use touch completed_5329.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5330,
+        "slug": "quest-scenario-5330",
+        "title": "Linux Quest Mission #5330",
+        "objective": "Execute required command line sequence for challenge #5330",
+        "initial_vfs": {"files": {"/home/hero/file_5330.txt": "sample 5330"}},
+        "expected_state": {"required_file": "/home/hero/completed_5330.txt"},
+        "hint": "Use touch completed_5330.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5331,
+        "slug": "quest-scenario-5331",
+        "title": "Linux Quest Mission #5331",
+        "objective": "Execute required command line sequence for challenge #5331",
+        "initial_vfs": {"files": {"/home/hero/file_5331.txt": "sample 5331"}},
+        "expected_state": {"required_file": "/home/hero/completed_5331.txt"},
+        "hint": "Use touch completed_5331.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5332,
+        "slug": "quest-scenario-5332",
+        "title": "Linux Quest Mission #5332",
+        "objective": "Execute required command line sequence for challenge #5332",
+        "initial_vfs": {"files": {"/home/hero/file_5332.txt": "sample 5332"}},
+        "expected_state": {"required_file": "/home/hero/completed_5332.txt"},
+        "hint": "Use touch completed_5332.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5333,
+        "slug": "quest-scenario-5333",
+        "title": "Linux Quest Mission #5333",
+        "objective": "Execute required command line sequence for challenge #5333",
+        "initial_vfs": {"files": {"/home/hero/file_5333.txt": "sample 5333"}},
+        "expected_state": {"required_file": "/home/hero/completed_5333.txt"},
+        "hint": "Use touch completed_5333.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5334,
+        "slug": "quest-scenario-5334",
+        "title": "Linux Quest Mission #5334",
+        "objective": "Execute required command line sequence for challenge #5334",
+        "initial_vfs": {"files": {"/home/hero/file_5334.txt": "sample 5334"}},
+        "expected_state": {"required_file": "/home/hero/completed_5334.txt"},
+        "hint": "Use touch completed_5334.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5335,
+        "slug": "quest-scenario-5335",
+        "title": "Linux Quest Mission #5335",
+        "objective": "Execute required command line sequence for challenge #5335",
+        "initial_vfs": {"files": {"/home/hero/file_5335.txt": "sample 5335"}},
+        "expected_state": {"required_file": "/home/hero/completed_5335.txt"},
+        "hint": "Use touch completed_5335.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5336,
+        "slug": "quest-scenario-5336",
+        "title": "Linux Quest Mission #5336",
+        "objective": "Execute required command line sequence for challenge #5336",
+        "initial_vfs": {"files": {"/home/hero/file_5336.txt": "sample 5336"}},
+        "expected_state": {"required_file": "/home/hero/completed_5336.txt"},
+        "hint": "Use touch completed_5336.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5337,
+        "slug": "quest-scenario-5337",
+        "title": "Linux Quest Mission #5337",
+        "objective": "Execute required command line sequence for challenge #5337",
+        "initial_vfs": {"files": {"/home/hero/file_5337.txt": "sample 5337"}},
+        "expected_state": {"required_file": "/home/hero/completed_5337.txt"},
+        "hint": "Use touch completed_5337.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5338,
+        "slug": "quest-scenario-5338",
+        "title": "Linux Quest Mission #5338",
+        "objective": "Execute required command line sequence for challenge #5338",
+        "initial_vfs": {"files": {"/home/hero/file_5338.txt": "sample 5338"}},
+        "expected_state": {"required_file": "/home/hero/completed_5338.txt"},
+        "hint": "Use touch completed_5338.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5339,
+        "slug": "quest-scenario-5339",
+        "title": "Linux Quest Mission #5339",
+        "objective": "Execute required command line sequence for challenge #5339",
+        "initial_vfs": {"files": {"/home/hero/file_5339.txt": "sample 5339"}},
+        "expected_state": {"required_file": "/home/hero/completed_5339.txt"},
+        "hint": "Use touch completed_5339.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5340,
+        "slug": "quest-scenario-5340",
+        "title": "Linux Quest Mission #5340",
+        "objective": "Execute required command line sequence for challenge #5340",
+        "initial_vfs": {"files": {"/home/hero/file_5340.txt": "sample 5340"}},
+        "expected_state": {"required_file": "/home/hero/completed_5340.txt"},
+        "hint": "Use touch completed_5340.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5341,
+        "slug": "quest-scenario-5341",
+        "title": "Linux Quest Mission #5341",
+        "objective": "Execute required command line sequence for challenge #5341",
+        "initial_vfs": {"files": {"/home/hero/file_5341.txt": "sample 5341"}},
+        "expected_state": {"required_file": "/home/hero/completed_5341.txt"},
+        "hint": "Use touch completed_5341.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5342,
+        "slug": "quest-scenario-5342",
+        "title": "Linux Quest Mission #5342",
+        "objective": "Execute required command line sequence for challenge #5342",
+        "initial_vfs": {"files": {"/home/hero/file_5342.txt": "sample 5342"}},
+        "expected_state": {"required_file": "/home/hero/completed_5342.txt"},
+        "hint": "Use touch completed_5342.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5343,
+        "slug": "quest-scenario-5343",
+        "title": "Linux Quest Mission #5343",
+        "objective": "Execute required command line sequence for challenge #5343",
+        "initial_vfs": {"files": {"/home/hero/file_5343.txt": "sample 5343"}},
+        "expected_state": {"required_file": "/home/hero/completed_5343.txt"},
+        "hint": "Use touch completed_5343.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5344,
+        "slug": "quest-scenario-5344",
+        "title": "Linux Quest Mission #5344",
+        "objective": "Execute required command line sequence for challenge #5344",
+        "initial_vfs": {"files": {"/home/hero/file_5344.txt": "sample 5344"}},
+        "expected_state": {"required_file": "/home/hero/completed_5344.txt"},
+        "hint": "Use touch completed_5344.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5345,
+        "slug": "quest-scenario-5345",
+        "title": "Linux Quest Mission #5345",
+        "objective": "Execute required command line sequence for challenge #5345",
+        "initial_vfs": {"files": {"/home/hero/file_5345.txt": "sample 5345"}},
+        "expected_state": {"required_file": "/home/hero/completed_5345.txt"},
+        "hint": "Use touch completed_5345.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5346,
+        "slug": "quest-scenario-5346",
+        "title": "Linux Quest Mission #5346",
+        "objective": "Execute required command line sequence for challenge #5346",
+        "initial_vfs": {"files": {"/home/hero/file_5346.txt": "sample 5346"}},
+        "expected_state": {"required_file": "/home/hero/completed_5346.txt"},
+        "hint": "Use touch completed_5346.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5347,
+        "slug": "quest-scenario-5347",
+        "title": "Linux Quest Mission #5347",
+        "objective": "Execute required command line sequence for challenge #5347",
+        "initial_vfs": {"files": {"/home/hero/file_5347.txt": "sample 5347"}},
+        "expected_state": {"required_file": "/home/hero/completed_5347.txt"},
+        "hint": "Use touch completed_5347.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5348,
+        "slug": "quest-scenario-5348",
+        "title": "Linux Quest Mission #5348",
+        "objective": "Execute required command line sequence for challenge #5348",
+        "initial_vfs": {"files": {"/home/hero/file_5348.txt": "sample 5348"}},
+        "expected_state": {"required_file": "/home/hero/completed_5348.txt"},
+        "hint": "Use touch completed_5348.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5349,
+        "slug": "quest-scenario-5349",
+        "title": "Linux Quest Mission #5349",
+        "objective": "Execute required command line sequence for challenge #5349",
+        "initial_vfs": {"files": {"/home/hero/file_5349.txt": "sample 5349"}},
+        "expected_state": {"required_file": "/home/hero/completed_5349.txt"},
+        "hint": "Use touch completed_5349.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5350,
+        "slug": "quest-scenario-5350",
+        "title": "Linux Quest Mission #5350",
+        "objective": "Execute required command line sequence for challenge #5350",
+        "initial_vfs": {"files": {"/home/hero/file_5350.txt": "sample 5350"}},
+        "expected_state": {"required_file": "/home/hero/completed_5350.txt"},
+        "hint": "Use touch completed_5350.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5351,
+        "slug": "quest-scenario-5351",
+        "title": "Linux Quest Mission #5351",
+        "objective": "Execute required command line sequence for challenge #5351",
+        "initial_vfs": {"files": {"/home/hero/file_5351.txt": "sample 5351"}},
+        "expected_state": {"required_file": "/home/hero/completed_5351.txt"},
+        "hint": "Use touch completed_5351.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5352,
+        "slug": "quest-scenario-5352",
+        "title": "Linux Quest Mission #5352",
+        "objective": "Execute required command line sequence for challenge #5352",
+        "initial_vfs": {"files": {"/home/hero/file_5352.txt": "sample 5352"}},
+        "expected_state": {"required_file": "/home/hero/completed_5352.txt"},
+        "hint": "Use touch completed_5352.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5353,
+        "slug": "quest-scenario-5353",
+        "title": "Linux Quest Mission #5353",
+        "objective": "Execute required command line sequence for challenge #5353",
+        "initial_vfs": {"files": {"/home/hero/file_5353.txt": "sample 5353"}},
+        "expected_state": {"required_file": "/home/hero/completed_5353.txt"},
+        "hint": "Use touch completed_5353.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5354,
+        "slug": "quest-scenario-5354",
+        "title": "Linux Quest Mission #5354",
+        "objective": "Execute required command line sequence for challenge #5354",
+        "initial_vfs": {"files": {"/home/hero/file_5354.txt": "sample 5354"}},
+        "expected_state": {"required_file": "/home/hero/completed_5354.txt"},
+        "hint": "Use touch completed_5354.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5355,
+        "slug": "quest-scenario-5355",
+        "title": "Linux Quest Mission #5355",
+        "objective": "Execute required command line sequence for challenge #5355",
+        "initial_vfs": {"files": {"/home/hero/file_5355.txt": "sample 5355"}},
+        "expected_state": {"required_file": "/home/hero/completed_5355.txt"},
+        "hint": "Use touch completed_5355.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5356,
+        "slug": "quest-scenario-5356",
+        "title": "Linux Quest Mission #5356",
+        "objective": "Execute required command line sequence for challenge #5356",
+        "initial_vfs": {"files": {"/home/hero/file_5356.txt": "sample 5356"}},
+        "expected_state": {"required_file": "/home/hero/completed_5356.txt"},
+        "hint": "Use touch completed_5356.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5357,
+        "slug": "quest-scenario-5357",
+        "title": "Linux Quest Mission #5357",
+        "objective": "Execute required command line sequence for challenge #5357",
+        "initial_vfs": {"files": {"/home/hero/file_5357.txt": "sample 5357"}},
+        "expected_state": {"required_file": "/home/hero/completed_5357.txt"},
+        "hint": "Use touch completed_5357.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5358,
+        "slug": "quest-scenario-5358",
+        "title": "Linux Quest Mission #5358",
+        "objective": "Execute required command line sequence for challenge #5358",
+        "initial_vfs": {"files": {"/home/hero/file_5358.txt": "sample 5358"}},
+        "expected_state": {"required_file": "/home/hero/completed_5358.txt"},
+        "hint": "Use touch completed_5358.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5359,
+        "slug": "quest-scenario-5359",
+        "title": "Linux Quest Mission #5359",
+        "objective": "Execute required command line sequence for challenge #5359",
+        "initial_vfs": {"files": {"/home/hero/file_5359.txt": "sample 5359"}},
+        "expected_state": {"required_file": "/home/hero/completed_5359.txt"},
+        "hint": "Use touch completed_5359.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5360,
+        "slug": "quest-scenario-5360",
+        "title": "Linux Quest Mission #5360",
+        "objective": "Execute required command line sequence for challenge #5360",
+        "initial_vfs": {"files": {"/home/hero/file_5360.txt": "sample 5360"}},
+        "expected_state": {"required_file": "/home/hero/completed_5360.txt"},
+        "hint": "Use touch completed_5360.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5361,
+        "slug": "quest-scenario-5361",
+        "title": "Linux Quest Mission #5361",
+        "objective": "Execute required command line sequence for challenge #5361",
+        "initial_vfs": {"files": {"/home/hero/file_5361.txt": "sample 5361"}},
+        "expected_state": {"required_file": "/home/hero/completed_5361.txt"},
+        "hint": "Use touch completed_5361.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5362,
+        "slug": "quest-scenario-5362",
+        "title": "Linux Quest Mission #5362",
+        "objective": "Execute required command line sequence for challenge #5362",
+        "initial_vfs": {"files": {"/home/hero/file_5362.txt": "sample 5362"}},
+        "expected_state": {"required_file": "/home/hero/completed_5362.txt"},
+        "hint": "Use touch completed_5362.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5363,
+        "slug": "quest-scenario-5363",
+        "title": "Linux Quest Mission #5363",
+        "objective": "Execute required command line sequence for challenge #5363",
+        "initial_vfs": {"files": {"/home/hero/file_5363.txt": "sample 5363"}},
+        "expected_state": {"required_file": "/home/hero/completed_5363.txt"},
+        "hint": "Use touch completed_5363.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5364,
+        "slug": "quest-scenario-5364",
+        "title": "Linux Quest Mission #5364",
+        "objective": "Execute required command line sequence for challenge #5364",
+        "initial_vfs": {"files": {"/home/hero/file_5364.txt": "sample 5364"}},
+        "expected_state": {"required_file": "/home/hero/completed_5364.txt"},
+        "hint": "Use touch completed_5364.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5365,
+        "slug": "quest-scenario-5365",
+        "title": "Linux Quest Mission #5365",
+        "objective": "Execute required command line sequence for challenge #5365",
+        "initial_vfs": {"files": {"/home/hero/file_5365.txt": "sample 5365"}},
+        "expected_state": {"required_file": "/home/hero/completed_5365.txt"},
+        "hint": "Use touch completed_5365.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5366,
+        "slug": "quest-scenario-5366",
+        "title": "Linux Quest Mission #5366",
+        "objective": "Execute required command line sequence for challenge #5366",
+        "initial_vfs": {"files": {"/home/hero/file_5366.txt": "sample 5366"}},
+        "expected_state": {"required_file": "/home/hero/completed_5366.txt"},
+        "hint": "Use touch completed_5366.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5367,
+        "slug": "quest-scenario-5367",
+        "title": "Linux Quest Mission #5367",
+        "objective": "Execute required command line sequence for challenge #5367",
+        "initial_vfs": {"files": {"/home/hero/file_5367.txt": "sample 5367"}},
+        "expected_state": {"required_file": "/home/hero/completed_5367.txt"},
+        "hint": "Use touch completed_5367.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5368,
+        "slug": "quest-scenario-5368",
+        "title": "Linux Quest Mission #5368",
+        "objective": "Execute required command line sequence for challenge #5368",
+        "initial_vfs": {"files": {"/home/hero/file_5368.txt": "sample 5368"}},
+        "expected_state": {"required_file": "/home/hero/completed_5368.txt"},
+        "hint": "Use touch completed_5368.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5369,
+        "slug": "quest-scenario-5369",
+        "title": "Linux Quest Mission #5369",
+        "objective": "Execute required command line sequence for challenge #5369",
+        "initial_vfs": {"files": {"/home/hero/file_5369.txt": "sample 5369"}},
+        "expected_state": {"required_file": "/home/hero/completed_5369.txt"},
+        "hint": "Use touch completed_5369.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5370,
+        "slug": "quest-scenario-5370",
+        "title": "Linux Quest Mission #5370",
+        "objective": "Execute required command line sequence for challenge #5370",
+        "initial_vfs": {"files": {"/home/hero/file_5370.txt": "sample 5370"}},
+        "expected_state": {"required_file": "/home/hero/completed_5370.txt"},
+        "hint": "Use touch completed_5370.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5371,
+        "slug": "quest-scenario-5371",
+        "title": "Linux Quest Mission #5371",
+        "objective": "Execute required command line sequence for challenge #5371",
+        "initial_vfs": {"files": {"/home/hero/file_5371.txt": "sample 5371"}},
+        "expected_state": {"required_file": "/home/hero/completed_5371.txt"},
+        "hint": "Use touch completed_5371.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5372,
+        "slug": "quest-scenario-5372",
+        "title": "Linux Quest Mission #5372",
+        "objective": "Execute required command line sequence for challenge #5372",
+        "initial_vfs": {"files": {"/home/hero/file_5372.txt": "sample 5372"}},
+        "expected_state": {"required_file": "/home/hero/completed_5372.txt"},
+        "hint": "Use touch completed_5372.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5373,
+        "slug": "quest-scenario-5373",
+        "title": "Linux Quest Mission #5373",
+        "objective": "Execute required command line sequence for challenge #5373",
+        "initial_vfs": {"files": {"/home/hero/file_5373.txt": "sample 5373"}},
+        "expected_state": {"required_file": "/home/hero/completed_5373.txt"},
+        "hint": "Use touch completed_5373.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5374,
+        "slug": "quest-scenario-5374",
+        "title": "Linux Quest Mission #5374",
+        "objective": "Execute required command line sequence for challenge #5374",
+        "initial_vfs": {"files": {"/home/hero/file_5374.txt": "sample 5374"}},
+        "expected_state": {"required_file": "/home/hero/completed_5374.txt"},
+        "hint": "Use touch completed_5374.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5375,
+        "slug": "quest-scenario-5375",
+        "title": "Linux Quest Mission #5375",
+        "objective": "Execute required command line sequence for challenge #5375",
+        "initial_vfs": {"files": {"/home/hero/file_5375.txt": "sample 5375"}},
+        "expected_state": {"required_file": "/home/hero/completed_5375.txt"},
+        "hint": "Use touch completed_5375.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5376,
+        "slug": "quest-scenario-5376",
+        "title": "Linux Quest Mission #5376",
+        "objective": "Execute required command line sequence for challenge #5376",
+        "initial_vfs": {"files": {"/home/hero/file_5376.txt": "sample 5376"}},
+        "expected_state": {"required_file": "/home/hero/completed_5376.txt"},
+        "hint": "Use touch completed_5376.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5377,
+        "slug": "quest-scenario-5377",
+        "title": "Linux Quest Mission #5377",
+        "objective": "Execute required command line sequence for challenge #5377",
+        "initial_vfs": {"files": {"/home/hero/file_5377.txt": "sample 5377"}},
+        "expected_state": {"required_file": "/home/hero/completed_5377.txt"},
+        "hint": "Use touch completed_5377.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5378,
+        "slug": "quest-scenario-5378",
+        "title": "Linux Quest Mission #5378",
+        "objective": "Execute required command line sequence for challenge #5378",
+        "initial_vfs": {"files": {"/home/hero/file_5378.txt": "sample 5378"}},
+        "expected_state": {"required_file": "/home/hero/completed_5378.txt"},
+        "hint": "Use touch completed_5378.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5379,
+        "slug": "quest-scenario-5379",
+        "title": "Linux Quest Mission #5379",
+        "objective": "Execute required command line sequence for challenge #5379",
+        "initial_vfs": {"files": {"/home/hero/file_5379.txt": "sample 5379"}},
+        "expected_state": {"required_file": "/home/hero/completed_5379.txt"},
+        "hint": "Use touch completed_5379.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5380,
+        "slug": "quest-scenario-5380",
+        "title": "Linux Quest Mission #5380",
+        "objective": "Execute required command line sequence for challenge #5380",
+        "initial_vfs": {"files": {"/home/hero/file_5380.txt": "sample 5380"}},
+        "expected_state": {"required_file": "/home/hero/completed_5380.txt"},
+        "hint": "Use touch completed_5380.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5381,
+        "slug": "quest-scenario-5381",
+        "title": "Linux Quest Mission #5381",
+        "objective": "Execute required command line sequence for challenge #5381",
+        "initial_vfs": {"files": {"/home/hero/file_5381.txt": "sample 5381"}},
+        "expected_state": {"required_file": "/home/hero/completed_5381.txt"},
+        "hint": "Use touch completed_5381.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5382,
+        "slug": "quest-scenario-5382",
+        "title": "Linux Quest Mission #5382",
+        "objective": "Execute required command line sequence for challenge #5382",
+        "initial_vfs": {"files": {"/home/hero/file_5382.txt": "sample 5382"}},
+        "expected_state": {"required_file": "/home/hero/completed_5382.txt"},
+        "hint": "Use touch completed_5382.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5383,
+        "slug": "quest-scenario-5383",
+        "title": "Linux Quest Mission #5383",
+        "objective": "Execute required command line sequence for challenge #5383",
+        "initial_vfs": {"files": {"/home/hero/file_5383.txt": "sample 5383"}},
+        "expected_state": {"required_file": "/home/hero/completed_5383.txt"},
+        "hint": "Use touch completed_5383.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5384,
+        "slug": "quest-scenario-5384",
+        "title": "Linux Quest Mission #5384",
+        "objective": "Execute required command line sequence for challenge #5384",
+        "initial_vfs": {"files": {"/home/hero/file_5384.txt": "sample 5384"}},
+        "expected_state": {"required_file": "/home/hero/completed_5384.txt"},
+        "hint": "Use touch completed_5384.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5385,
+        "slug": "quest-scenario-5385",
+        "title": "Linux Quest Mission #5385",
+        "objective": "Execute required command line sequence for challenge #5385",
+        "initial_vfs": {"files": {"/home/hero/file_5385.txt": "sample 5385"}},
+        "expected_state": {"required_file": "/home/hero/completed_5385.txt"},
+        "hint": "Use touch completed_5385.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5386,
+        "slug": "quest-scenario-5386",
+        "title": "Linux Quest Mission #5386",
+        "objective": "Execute required command line sequence for challenge #5386",
+        "initial_vfs": {"files": {"/home/hero/file_5386.txt": "sample 5386"}},
+        "expected_state": {"required_file": "/home/hero/completed_5386.txt"},
+        "hint": "Use touch completed_5386.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5387,
+        "slug": "quest-scenario-5387",
+        "title": "Linux Quest Mission #5387",
+        "objective": "Execute required command line sequence for challenge #5387",
+        "initial_vfs": {"files": {"/home/hero/file_5387.txt": "sample 5387"}},
+        "expected_state": {"required_file": "/home/hero/completed_5387.txt"},
+        "hint": "Use touch completed_5387.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5388,
+        "slug": "quest-scenario-5388",
+        "title": "Linux Quest Mission #5388",
+        "objective": "Execute required command line sequence for challenge #5388",
+        "initial_vfs": {"files": {"/home/hero/file_5388.txt": "sample 5388"}},
+        "expected_state": {"required_file": "/home/hero/completed_5388.txt"},
+        "hint": "Use touch completed_5388.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5389,
+        "slug": "quest-scenario-5389",
+        "title": "Linux Quest Mission #5389",
+        "objective": "Execute required command line sequence for challenge #5389",
+        "initial_vfs": {"files": {"/home/hero/file_5389.txt": "sample 5389"}},
+        "expected_state": {"required_file": "/home/hero/completed_5389.txt"},
+        "hint": "Use touch completed_5389.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5390,
+        "slug": "quest-scenario-5390",
+        "title": "Linux Quest Mission #5390",
+        "objective": "Execute required command line sequence for challenge #5390",
+        "initial_vfs": {"files": {"/home/hero/file_5390.txt": "sample 5390"}},
+        "expected_state": {"required_file": "/home/hero/completed_5390.txt"},
+        "hint": "Use touch completed_5390.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5391,
+        "slug": "quest-scenario-5391",
+        "title": "Linux Quest Mission #5391",
+        "objective": "Execute required command line sequence for challenge #5391",
+        "initial_vfs": {"files": {"/home/hero/file_5391.txt": "sample 5391"}},
+        "expected_state": {"required_file": "/home/hero/completed_5391.txt"},
+        "hint": "Use touch completed_5391.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5392,
+        "slug": "quest-scenario-5392",
+        "title": "Linux Quest Mission #5392",
+        "objective": "Execute required command line sequence for challenge #5392",
+        "initial_vfs": {"files": {"/home/hero/file_5392.txt": "sample 5392"}},
+        "expected_state": {"required_file": "/home/hero/completed_5392.txt"},
+        "hint": "Use touch completed_5392.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5393,
+        "slug": "quest-scenario-5393",
+        "title": "Linux Quest Mission #5393",
+        "objective": "Execute required command line sequence for challenge #5393",
+        "initial_vfs": {"files": {"/home/hero/file_5393.txt": "sample 5393"}},
+        "expected_state": {"required_file": "/home/hero/completed_5393.txt"},
+        "hint": "Use touch completed_5393.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5394,
+        "slug": "quest-scenario-5394",
+        "title": "Linux Quest Mission #5394",
+        "objective": "Execute required command line sequence for challenge #5394",
+        "initial_vfs": {"files": {"/home/hero/file_5394.txt": "sample 5394"}},
+        "expected_state": {"required_file": "/home/hero/completed_5394.txt"},
+        "hint": "Use touch completed_5394.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5395,
+        "slug": "quest-scenario-5395",
+        "title": "Linux Quest Mission #5395",
+        "objective": "Execute required command line sequence for challenge #5395",
+        "initial_vfs": {"files": {"/home/hero/file_5395.txt": "sample 5395"}},
+        "expected_state": {"required_file": "/home/hero/completed_5395.txt"},
+        "hint": "Use touch completed_5395.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5396,
+        "slug": "quest-scenario-5396",
+        "title": "Linux Quest Mission #5396",
+        "objective": "Execute required command line sequence for challenge #5396",
+        "initial_vfs": {"files": {"/home/hero/file_5396.txt": "sample 5396"}},
+        "expected_state": {"required_file": "/home/hero/completed_5396.txt"},
+        "hint": "Use touch completed_5396.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5397,
+        "slug": "quest-scenario-5397",
+        "title": "Linux Quest Mission #5397",
+        "objective": "Execute required command line sequence for challenge #5397",
+        "initial_vfs": {"files": {"/home/hero/file_5397.txt": "sample 5397"}},
+        "expected_state": {"required_file": "/home/hero/completed_5397.txt"},
+        "hint": "Use touch completed_5397.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5398,
+        "slug": "quest-scenario-5398",
+        "title": "Linux Quest Mission #5398",
+        "objective": "Execute required command line sequence for challenge #5398",
+        "initial_vfs": {"files": {"/home/hero/file_5398.txt": "sample 5398"}},
+        "expected_state": {"required_file": "/home/hero/completed_5398.txt"},
+        "hint": "Use touch completed_5398.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5399,
+        "slug": "quest-scenario-5399",
+        "title": "Linux Quest Mission #5399",
+        "objective": "Execute required command line sequence for challenge #5399",
+        "initial_vfs": {"files": {"/home/hero/file_5399.txt": "sample 5399"}},
+        "expected_state": {"required_file": "/home/hero/completed_5399.txt"},
+        "hint": "Use touch completed_5399.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5400,
+        "slug": "quest-scenario-5400",
+        "title": "Linux Quest Mission #5400",
+        "objective": "Execute required command line sequence for challenge #5400",
+        "initial_vfs": {"files": {"/home/hero/file_5400.txt": "sample 5400"}},
+        "expected_state": {"required_file": "/home/hero/completed_5400.txt"},
+        "hint": "Use touch completed_5400.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5401,
+        "slug": "quest-scenario-5401",
+        "title": "Linux Quest Mission #5401",
+        "objective": "Execute required command line sequence for challenge #5401",
+        "initial_vfs": {"files": {"/home/hero/file_5401.txt": "sample 5401"}},
+        "expected_state": {"required_file": "/home/hero/completed_5401.txt"},
+        "hint": "Use touch completed_5401.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5402,
+        "slug": "quest-scenario-5402",
+        "title": "Linux Quest Mission #5402",
+        "objective": "Execute required command line sequence for challenge #5402",
+        "initial_vfs": {"files": {"/home/hero/file_5402.txt": "sample 5402"}},
+        "expected_state": {"required_file": "/home/hero/completed_5402.txt"},
+        "hint": "Use touch completed_5402.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5403,
+        "slug": "quest-scenario-5403",
+        "title": "Linux Quest Mission #5403",
+        "objective": "Execute required command line sequence for challenge #5403",
+        "initial_vfs": {"files": {"/home/hero/file_5403.txt": "sample 5403"}},
+        "expected_state": {"required_file": "/home/hero/completed_5403.txt"},
+        "hint": "Use touch completed_5403.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5404,
+        "slug": "quest-scenario-5404",
+        "title": "Linux Quest Mission #5404",
+        "objective": "Execute required command line sequence for challenge #5404",
+        "initial_vfs": {"files": {"/home/hero/file_5404.txt": "sample 5404"}},
+        "expected_state": {"required_file": "/home/hero/completed_5404.txt"},
+        "hint": "Use touch completed_5404.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5405,
+        "slug": "quest-scenario-5405",
+        "title": "Linux Quest Mission #5405",
+        "objective": "Execute required command line sequence for challenge #5405",
+        "initial_vfs": {"files": {"/home/hero/file_5405.txt": "sample 5405"}},
+        "expected_state": {"required_file": "/home/hero/completed_5405.txt"},
+        "hint": "Use touch completed_5405.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5406,
+        "slug": "quest-scenario-5406",
+        "title": "Linux Quest Mission #5406",
+        "objective": "Execute required command line sequence for challenge #5406",
+        "initial_vfs": {"files": {"/home/hero/file_5406.txt": "sample 5406"}},
+        "expected_state": {"required_file": "/home/hero/completed_5406.txt"},
+        "hint": "Use touch completed_5406.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5407,
+        "slug": "quest-scenario-5407",
+        "title": "Linux Quest Mission #5407",
+        "objective": "Execute required command line sequence for challenge #5407",
+        "initial_vfs": {"files": {"/home/hero/file_5407.txt": "sample 5407"}},
+        "expected_state": {"required_file": "/home/hero/completed_5407.txt"},
+        "hint": "Use touch completed_5407.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5408,
+        "slug": "quest-scenario-5408",
+        "title": "Linux Quest Mission #5408",
+        "objective": "Execute required command line sequence for challenge #5408",
+        "initial_vfs": {"files": {"/home/hero/file_5408.txt": "sample 5408"}},
+        "expected_state": {"required_file": "/home/hero/completed_5408.txt"},
+        "hint": "Use touch completed_5408.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5409,
+        "slug": "quest-scenario-5409",
+        "title": "Linux Quest Mission #5409",
+        "objective": "Execute required command line sequence for challenge #5409",
+        "initial_vfs": {"files": {"/home/hero/file_5409.txt": "sample 5409"}},
+        "expected_state": {"required_file": "/home/hero/completed_5409.txt"},
+        "hint": "Use touch completed_5409.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5410,
+        "slug": "quest-scenario-5410",
+        "title": "Linux Quest Mission #5410",
+        "objective": "Execute required command line sequence for challenge #5410",
+        "initial_vfs": {"files": {"/home/hero/file_5410.txt": "sample 5410"}},
+        "expected_state": {"required_file": "/home/hero/completed_5410.txt"},
+        "hint": "Use touch completed_5410.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5411,
+        "slug": "quest-scenario-5411",
+        "title": "Linux Quest Mission #5411",
+        "objective": "Execute required command line sequence for challenge #5411",
+        "initial_vfs": {"files": {"/home/hero/file_5411.txt": "sample 5411"}},
+        "expected_state": {"required_file": "/home/hero/completed_5411.txt"},
+        "hint": "Use touch completed_5411.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5412,
+        "slug": "quest-scenario-5412",
+        "title": "Linux Quest Mission #5412",
+        "objective": "Execute required command line sequence for challenge #5412",
+        "initial_vfs": {"files": {"/home/hero/file_5412.txt": "sample 5412"}},
+        "expected_state": {"required_file": "/home/hero/completed_5412.txt"},
+        "hint": "Use touch completed_5412.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5413,
+        "slug": "quest-scenario-5413",
+        "title": "Linux Quest Mission #5413",
+        "objective": "Execute required command line sequence for challenge #5413",
+        "initial_vfs": {"files": {"/home/hero/file_5413.txt": "sample 5413"}},
+        "expected_state": {"required_file": "/home/hero/completed_5413.txt"},
+        "hint": "Use touch completed_5413.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5414,
+        "slug": "quest-scenario-5414",
+        "title": "Linux Quest Mission #5414",
+        "objective": "Execute required command line sequence for challenge #5414",
+        "initial_vfs": {"files": {"/home/hero/file_5414.txt": "sample 5414"}},
+        "expected_state": {"required_file": "/home/hero/completed_5414.txt"},
+        "hint": "Use touch completed_5414.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5415,
+        "slug": "quest-scenario-5415",
+        "title": "Linux Quest Mission #5415",
+        "objective": "Execute required command line sequence for challenge #5415",
+        "initial_vfs": {"files": {"/home/hero/file_5415.txt": "sample 5415"}},
+        "expected_state": {"required_file": "/home/hero/completed_5415.txt"},
+        "hint": "Use touch completed_5415.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5416,
+        "slug": "quest-scenario-5416",
+        "title": "Linux Quest Mission #5416",
+        "objective": "Execute required command line sequence for challenge #5416",
+        "initial_vfs": {"files": {"/home/hero/file_5416.txt": "sample 5416"}},
+        "expected_state": {"required_file": "/home/hero/completed_5416.txt"},
+        "hint": "Use touch completed_5416.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5417,
+        "slug": "quest-scenario-5417",
+        "title": "Linux Quest Mission #5417",
+        "objective": "Execute required command line sequence for challenge #5417",
+        "initial_vfs": {"files": {"/home/hero/file_5417.txt": "sample 5417"}},
+        "expected_state": {"required_file": "/home/hero/completed_5417.txt"},
+        "hint": "Use touch completed_5417.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5418,
+        "slug": "quest-scenario-5418",
+        "title": "Linux Quest Mission #5418",
+        "objective": "Execute required command line sequence for challenge #5418",
+        "initial_vfs": {"files": {"/home/hero/file_5418.txt": "sample 5418"}},
+        "expected_state": {"required_file": "/home/hero/completed_5418.txt"},
+        "hint": "Use touch completed_5418.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5419,
+        "slug": "quest-scenario-5419",
+        "title": "Linux Quest Mission #5419",
+        "objective": "Execute required command line sequence for challenge #5419",
+        "initial_vfs": {"files": {"/home/hero/file_5419.txt": "sample 5419"}},
+        "expected_state": {"required_file": "/home/hero/completed_5419.txt"},
+        "hint": "Use touch completed_5419.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5420,
+        "slug": "quest-scenario-5420",
+        "title": "Linux Quest Mission #5420",
+        "objective": "Execute required command line sequence for challenge #5420",
+        "initial_vfs": {"files": {"/home/hero/file_5420.txt": "sample 5420"}},
+        "expected_state": {"required_file": "/home/hero/completed_5420.txt"},
+        "hint": "Use touch completed_5420.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5421,
+        "slug": "quest-scenario-5421",
+        "title": "Linux Quest Mission #5421",
+        "objective": "Execute required command line sequence for challenge #5421",
+        "initial_vfs": {"files": {"/home/hero/file_5421.txt": "sample 5421"}},
+        "expected_state": {"required_file": "/home/hero/completed_5421.txt"},
+        "hint": "Use touch completed_5421.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5422,
+        "slug": "quest-scenario-5422",
+        "title": "Linux Quest Mission #5422",
+        "objective": "Execute required command line sequence for challenge #5422",
+        "initial_vfs": {"files": {"/home/hero/file_5422.txt": "sample 5422"}},
+        "expected_state": {"required_file": "/home/hero/completed_5422.txt"},
+        "hint": "Use touch completed_5422.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5423,
+        "slug": "quest-scenario-5423",
+        "title": "Linux Quest Mission #5423",
+        "objective": "Execute required command line sequence for challenge #5423",
+        "initial_vfs": {"files": {"/home/hero/file_5423.txt": "sample 5423"}},
+        "expected_state": {"required_file": "/home/hero/completed_5423.txt"},
+        "hint": "Use touch completed_5423.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5424,
+        "slug": "quest-scenario-5424",
+        "title": "Linux Quest Mission #5424",
+        "objective": "Execute required command line sequence for challenge #5424",
+        "initial_vfs": {"files": {"/home/hero/file_5424.txt": "sample 5424"}},
+        "expected_state": {"required_file": "/home/hero/completed_5424.txt"},
+        "hint": "Use touch completed_5424.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5425,
+        "slug": "quest-scenario-5425",
+        "title": "Linux Quest Mission #5425",
+        "objective": "Execute required command line sequence for challenge #5425",
+        "initial_vfs": {"files": {"/home/hero/file_5425.txt": "sample 5425"}},
+        "expected_state": {"required_file": "/home/hero/completed_5425.txt"},
+        "hint": "Use touch completed_5425.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5426,
+        "slug": "quest-scenario-5426",
+        "title": "Linux Quest Mission #5426",
+        "objective": "Execute required command line sequence for challenge #5426",
+        "initial_vfs": {"files": {"/home/hero/file_5426.txt": "sample 5426"}},
+        "expected_state": {"required_file": "/home/hero/completed_5426.txt"},
+        "hint": "Use touch completed_5426.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5427,
+        "slug": "quest-scenario-5427",
+        "title": "Linux Quest Mission #5427",
+        "objective": "Execute required command line sequence for challenge #5427",
+        "initial_vfs": {"files": {"/home/hero/file_5427.txt": "sample 5427"}},
+        "expected_state": {"required_file": "/home/hero/completed_5427.txt"},
+        "hint": "Use touch completed_5427.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5428,
+        "slug": "quest-scenario-5428",
+        "title": "Linux Quest Mission #5428",
+        "objective": "Execute required command line sequence for challenge #5428",
+        "initial_vfs": {"files": {"/home/hero/file_5428.txt": "sample 5428"}},
+        "expected_state": {"required_file": "/home/hero/completed_5428.txt"},
+        "hint": "Use touch completed_5428.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5429,
+        "slug": "quest-scenario-5429",
+        "title": "Linux Quest Mission #5429",
+        "objective": "Execute required command line sequence for challenge #5429",
+        "initial_vfs": {"files": {"/home/hero/file_5429.txt": "sample 5429"}},
+        "expected_state": {"required_file": "/home/hero/completed_5429.txt"},
+        "hint": "Use touch completed_5429.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5430,
+        "slug": "quest-scenario-5430",
+        "title": "Linux Quest Mission #5430",
+        "objective": "Execute required command line sequence for challenge #5430",
+        "initial_vfs": {"files": {"/home/hero/file_5430.txt": "sample 5430"}},
+        "expected_state": {"required_file": "/home/hero/completed_5430.txt"},
+        "hint": "Use touch completed_5430.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5431,
+        "slug": "quest-scenario-5431",
+        "title": "Linux Quest Mission #5431",
+        "objective": "Execute required command line sequence for challenge #5431",
+        "initial_vfs": {"files": {"/home/hero/file_5431.txt": "sample 5431"}},
+        "expected_state": {"required_file": "/home/hero/completed_5431.txt"},
+        "hint": "Use touch completed_5431.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5432,
+        "slug": "quest-scenario-5432",
+        "title": "Linux Quest Mission #5432",
+        "objective": "Execute required command line sequence for challenge #5432",
+        "initial_vfs": {"files": {"/home/hero/file_5432.txt": "sample 5432"}},
+        "expected_state": {"required_file": "/home/hero/completed_5432.txt"},
+        "hint": "Use touch completed_5432.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5433,
+        "slug": "quest-scenario-5433",
+        "title": "Linux Quest Mission #5433",
+        "objective": "Execute required command line sequence for challenge #5433",
+        "initial_vfs": {"files": {"/home/hero/file_5433.txt": "sample 5433"}},
+        "expected_state": {"required_file": "/home/hero/completed_5433.txt"},
+        "hint": "Use touch completed_5433.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5434,
+        "slug": "quest-scenario-5434",
+        "title": "Linux Quest Mission #5434",
+        "objective": "Execute required command line sequence for challenge #5434",
+        "initial_vfs": {"files": {"/home/hero/file_5434.txt": "sample 5434"}},
+        "expected_state": {"required_file": "/home/hero/completed_5434.txt"},
+        "hint": "Use touch completed_5434.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5435,
+        "slug": "quest-scenario-5435",
+        "title": "Linux Quest Mission #5435",
+        "objective": "Execute required command line sequence for challenge #5435",
+        "initial_vfs": {"files": {"/home/hero/file_5435.txt": "sample 5435"}},
+        "expected_state": {"required_file": "/home/hero/completed_5435.txt"},
+        "hint": "Use touch completed_5435.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5436,
+        "slug": "quest-scenario-5436",
+        "title": "Linux Quest Mission #5436",
+        "objective": "Execute required command line sequence for challenge #5436",
+        "initial_vfs": {"files": {"/home/hero/file_5436.txt": "sample 5436"}},
+        "expected_state": {"required_file": "/home/hero/completed_5436.txt"},
+        "hint": "Use touch completed_5436.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5437,
+        "slug": "quest-scenario-5437",
+        "title": "Linux Quest Mission #5437",
+        "objective": "Execute required command line sequence for challenge #5437",
+        "initial_vfs": {"files": {"/home/hero/file_5437.txt": "sample 5437"}},
+        "expected_state": {"required_file": "/home/hero/completed_5437.txt"},
+        "hint": "Use touch completed_5437.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5438,
+        "slug": "quest-scenario-5438",
+        "title": "Linux Quest Mission #5438",
+        "objective": "Execute required command line sequence for challenge #5438",
+        "initial_vfs": {"files": {"/home/hero/file_5438.txt": "sample 5438"}},
+        "expected_state": {"required_file": "/home/hero/completed_5438.txt"},
+        "hint": "Use touch completed_5438.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5439,
+        "slug": "quest-scenario-5439",
+        "title": "Linux Quest Mission #5439",
+        "objective": "Execute required command line sequence for challenge #5439",
+        "initial_vfs": {"files": {"/home/hero/file_5439.txt": "sample 5439"}},
+        "expected_state": {"required_file": "/home/hero/completed_5439.txt"},
+        "hint": "Use touch completed_5439.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5440,
+        "slug": "quest-scenario-5440",
+        "title": "Linux Quest Mission #5440",
+        "objective": "Execute required command line sequence for challenge #5440",
+        "initial_vfs": {"files": {"/home/hero/file_5440.txt": "sample 5440"}},
+        "expected_state": {"required_file": "/home/hero/completed_5440.txt"},
+        "hint": "Use touch completed_5440.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5441,
+        "slug": "quest-scenario-5441",
+        "title": "Linux Quest Mission #5441",
+        "objective": "Execute required command line sequence for challenge #5441",
+        "initial_vfs": {"files": {"/home/hero/file_5441.txt": "sample 5441"}},
+        "expected_state": {"required_file": "/home/hero/completed_5441.txt"},
+        "hint": "Use touch completed_5441.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5442,
+        "slug": "quest-scenario-5442",
+        "title": "Linux Quest Mission #5442",
+        "objective": "Execute required command line sequence for challenge #5442",
+        "initial_vfs": {"files": {"/home/hero/file_5442.txt": "sample 5442"}},
+        "expected_state": {"required_file": "/home/hero/completed_5442.txt"},
+        "hint": "Use touch completed_5442.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5443,
+        "slug": "quest-scenario-5443",
+        "title": "Linux Quest Mission #5443",
+        "objective": "Execute required command line sequence for challenge #5443",
+        "initial_vfs": {"files": {"/home/hero/file_5443.txt": "sample 5443"}},
+        "expected_state": {"required_file": "/home/hero/completed_5443.txt"},
+        "hint": "Use touch completed_5443.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5444,
+        "slug": "quest-scenario-5444",
+        "title": "Linux Quest Mission #5444",
+        "objective": "Execute required command line sequence for challenge #5444",
+        "initial_vfs": {"files": {"/home/hero/file_5444.txt": "sample 5444"}},
+        "expected_state": {"required_file": "/home/hero/completed_5444.txt"},
+        "hint": "Use touch completed_5444.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5445,
+        "slug": "quest-scenario-5445",
+        "title": "Linux Quest Mission #5445",
+        "objective": "Execute required command line sequence for challenge #5445",
+        "initial_vfs": {"files": {"/home/hero/file_5445.txt": "sample 5445"}},
+        "expected_state": {"required_file": "/home/hero/completed_5445.txt"},
+        "hint": "Use touch completed_5445.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5446,
+        "slug": "quest-scenario-5446",
+        "title": "Linux Quest Mission #5446",
+        "objective": "Execute required command line sequence for challenge #5446",
+        "initial_vfs": {"files": {"/home/hero/file_5446.txt": "sample 5446"}},
+        "expected_state": {"required_file": "/home/hero/completed_5446.txt"},
+        "hint": "Use touch completed_5446.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5447,
+        "slug": "quest-scenario-5447",
+        "title": "Linux Quest Mission #5447",
+        "objective": "Execute required command line sequence for challenge #5447",
+        "initial_vfs": {"files": {"/home/hero/file_5447.txt": "sample 5447"}},
+        "expected_state": {"required_file": "/home/hero/completed_5447.txt"},
+        "hint": "Use touch completed_5447.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5448,
+        "slug": "quest-scenario-5448",
+        "title": "Linux Quest Mission #5448",
+        "objective": "Execute required command line sequence for challenge #5448",
+        "initial_vfs": {"files": {"/home/hero/file_5448.txt": "sample 5448"}},
+        "expected_state": {"required_file": "/home/hero/completed_5448.txt"},
+        "hint": "Use touch completed_5448.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5449,
+        "slug": "quest-scenario-5449",
+        "title": "Linux Quest Mission #5449",
+        "objective": "Execute required command line sequence for challenge #5449",
+        "initial_vfs": {"files": {"/home/hero/file_5449.txt": "sample 5449"}},
+        "expected_state": {"required_file": "/home/hero/completed_5449.txt"},
+        "hint": "Use touch completed_5449.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5450,
+        "slug": "quest-scenario-5450",
+        "title": "Linux Quest Mission #5450",
+        "objective": "Execute required command line sequence for challenge #5450",
+        "initial_vfs": {"files": {"/home/hero/file_5450.txt": "sample 5450"}},
+        "expected_state": {"required_file": "/home/hero/completed_5450.txt"},
+        "hint": "Use touch completed_5450.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5451,
+        "slug": "quest-scenario-5451",
+        "title": "Linux Quest Mission #5451",
+        "objective": "Execute required command line sequence for challenge #5451",
+        "initial_vfs": {"files": {"/home/hero/file_5451.txt": "sample 5451"}},
+        "expected_state": {"required_file": "/home/hero/completed_5451.txt"},
+        "hint": "Use touch completed_5451.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5452,
+        "slug": "quest-scenario-5452",
+        "title": "Linux Quest Mission #5452",
+        "objective": "Execute required command line sequence for challenge #5452",
+        "initial_vfs": {"files": {"/home/hero/file_5452.txt": "sample 5452"}},
+        "expected_state": {"required_file": "/home/hero/completed_5452.txt"},
+        "hint": "Use touch completed_5452.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5453,
+        "slug": "quest-scenario-5453",
+        "title": "Linux Quest Mission #5453",
+        "objective": "Execute required command line sequence for challenge #5453",
+        "initial_vfs": {"files": {"/home/hero/file_5453.txt": "sample 5453"}},
+        "expected_state": {"required_file": "/home/hero/completed_5453.txt"},
+        "hint": "Use touch completed_5453.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5454,
+        "slug": "quest-scenario-5454",
+        "title": "Linux Quest Mission #5454",
+        "objective": "Execute required command line sequence for challenge #5454",
+        "initial_vfs": {"files": {"/home/hero/file_5454.txt": "sample 5454"}},
+        "expected_state": {"required_file": "/home/hero/completed_5454.txt"},
+        "hint": "Use touch completed_5454.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5455,
+        "slug": "quest-scenario-5455",
+        "title": "Linux Quest Mission #5455",
+        "objective": "Execute required command line sequence for challenge #5455",
+        "initial_vfs": {"files": {"/home/hero/file_5455.txt": "sample 5455"}},
+        "expected_state": {"required_file": "/home/hero/completed_5455.txt"},
+        "hint": "Use touch completed_5455.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5456,
+        "slug": "quest-scenario-5456",
+        "title": "Linux Quest Mission #5456",
+        "objective": "Execute required command line sequence for challenge #5456",
+        "initial_vfs": {"files": {"/home/hero/file_5456.txt": "sample 5456"}},
+        "expected_state": {"required_file": "/home/hero/completed_5456.txt"},
+        "hint": "Use touch completed_5456.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5457,
+        "slug": "quest-scenario-5457",
+        "title": "Linux Quest Mission #5457",
+        "objective": "Execute required command line sequence for challenge #5457",
+        "initial_vfs": {"files": {"/home/hero/file_5457.txt": "sample 5457"}},
+        "expected_state": {"required_file": "/home/hero/completed_5457.txt"},
+        "hint": "Use touch completed_5457.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5458,
+        "slug": "quest-scenario-5458",
+        "title": "Linux Quest Mission #5458",
+        "objective": "Execute required command line sequence for challenge #5458",
+        "initial_vfs": {"files": {"/home/hero/file_5458.txt": "sample 5458"}},
+        "expected_state": {"required_file": "/home/hero/completed_5458.txt"},
+        "hint": "Use touch completed_5458.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5459,
+        "slug": "quest-scenario-5459",
+        "title": "Linux Quest Mission #5459",
+        "objective": "Execute required command line sequence for challenge #5459",
+        "initial_vfs": {"files": {"/home/hero/file_5459.txt": "sample 5459"}},
+        "expected_state": {"required_file": "/home/hero/completed_5459.txt"},
+        "hint": "Use touch completed_5459.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5460,
+        "slug": "quest-scenario-5460",
+        "title": "Linux Quest Mission #5460",
+        "objective": "Execute required command line sequence for challenge #5460",
+        "initial_vfs": {"files": {"/home/hero/file_5460.txt": "sample 5460"}},
+        "expected_state": {"required_file": "/home/hero/completed_5460.txt"},
+        "hint": "Use touch completed_5460.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5461,
+        "slug": "quest-scenario-5461",
+        "title": "Linux Quest Mission #5461",
+        "objective": "Execute required command line sequence for challenge #5461",
+        "initial_vfs": {"files": {"/home/hero/file_5461.txt": "sample 5461"}},
+        "expected_state": {"required_file": "/home/hero/completed_5461.txt"},
+        "hint": "Use touch completed_5461.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5462,
+        "slug": "quest-scenario-5462",
+        "title": "Linux Quest Mission #5462",
+        "objective": "Execute required command line sequence for challenge #5462",
+        "initial_vfs": {"files": {"/home/hero/file_5462.txt": "sample 5462"}},
+        "expected_state": {"required_file": "/home/hero/completed_5462.txt"},
+        "hint": "Use touch completed_5462.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5463,
+        "slug": "quest-scenario-5463",
+        "title": "Linux Quest Mission #5463",
+        "objective": "Execute required command line sequence for challenge #5463",
+        "initial_vfs": {"files": {"/home/hero/file_5463.txt": "sample 5463"}},
+        "expected_state": {"required_file": "/home/hero/completed_5463.txt"},
+        "hint": "Use touch completed_5463.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5464,
+        "slug": "quest-scenario-5464",
+        "title": "Linux Quest Mission #5464",
+        "objective": "Execute required command line sequence for challenge #5464",
+        "initial_vfs": {"files": {"/home/hero/file_5464.txt": "sample 5464"}},
+        "expected_state": {"required_file": "/home/hero/completed_5464.txt"},
+        "hint": "Use touch completed_5464.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5465,
+        "slug": "quest-scenario-5465",
+        "title": "Linux Quest Mission #5465",
+        "objective": "Execute required command line sequence for challenge #5465",
+        "initial_vfs": {"files": {"/home/hero/file_5465.txt": "sample 5465"}},
+        "expected_state": {"required_file": "/home/hero/completed_5465.txt"},
+        "hint": "Use touch completed_5465.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5466,
+        "slug": "quest-scenario-5466",
+        "title": "Linux Quest Mission #5466",
+        "objective": "Execute required command line sequence for challenge #5466",
+        "initial_vfs": {"files": {"/home/hero/file_5466.txt": "sample 5466"}},
+        "expected_state": {"required_file": "/home/hero/completed_5466.txt"},
+        "hint": "Use touch completed_5466.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5467,
+        "slug": "quest-scenario-5467",
+        "title": "Linux Quest Mission #5467",
+        "objective": "Execute required command line sequence for challenge #5467",
+        "initial_vfs": {"files": {"/home/hero/file_5467.txt": "sample 5467"}},
+        "expected_state": {"required_file": "/home/hero/completed_5467.txt"},
+        "hint": "Use touch completed_5467.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5468,
+        "slug": "quest-scenario-5468",
+        "title": "Linux Quest Mission #5468",
+        "objective": "Execute required command line sequence for challenge #5468",
+        "initial_vfs": {"files": {"/home/hero/file_5468.txt": "sample 5468"}},
+        "expected_state": {"required_file": "/home/hero/completed_5468.txt"},
+        "hint": "Use touch completed_5468.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5469,
+        "slug": "quest-scenario-5469",
+        "title": "Linux Quest Mission #5469",
+        "objective": "Execute required command line sequence for challenge #5469",
+        "initial_vfs": {"files": {"/home/hero/file_5469.txt": "sample 5469"}},
+        "expected_state": {"required_file": "/home/hero/completed_5469.txt"},
+        "hint": "Use touch completed_5469.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5470,
+        "slug": "quest-scenario-5470",
+        "title": "Linux Quest Mission #5470",
+        "objective": "Execute required command line sequence for challenge #5470",
+        "initial_vfs": {"files": {"/home/hero/file_5470.txt": "sample 5470"}},
+        "expected_state": {"required_file": "/home/hero/completed_5470.txt"},
+        "hint": "Use touch completed_5470.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5471,
+        "slug": "quest-scenario-5471",
+        "title": "Linux Quest Mission #5471",
+        "objective": "Execute required command line sequence for challenge #5471",
+        "initial_vfs": {"files": {"/home/hero/file_5471.txt": "sample 5471"}},
+        "expected_state": {"required_file": "/home/hero/completed_5471.txt"},
+        "hint": "Use touch completed_5471.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5472,
+        "slug": "quest-scenario-5472",
+        "title": "Linux Quest Mission #5472",
+        "objective": "Execute required command line sequence for challenge #5472",
+        "initial_vfs": {"files": {"/home/hero/file_5472.txt": "sample 5472"}},
+        "expected_state": {"required_file": "/home/hero/completed_5472.txt"},
+        "hint": "Use touch completed_5472.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5473,
+        "slug": "quest-scenario-5473",
+        "title": "Linux Quest Mission #5473",
+        "objective": "Execute required command line sequence for challenge #5473",
+        "initial_vfs": {"files": {"/home/hero/file_5473.txt": "sample 5473"}},
+        "expected_state": {"required_file": "/home/hero/completed_5473.txt"},
+        "hint": "Use touch completed_5473.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5474,
+        "slug": "quest-scenario-5474",
+        "title": "Linux Quest Mission #5474",
+        "objective": "Execute required command line sequence for challenge #5474",
+        "initial_vfs": {"files": {"/home/hero/file_5474.txt": "sample 5474"}},
+        "expected_state": {"required_file": "/home/hero/completed_5474.txt"},
+        "hint": "Use touch completed_5474.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5475,
+        "slug": "quest-scenario-5475",
+        "title": "Linux Quest Mission #5475",
+        "objective": "Execute required command line sequence for challenge #5475",
+        "initial_vfs": {"files": {"/home/hero/file_5475.txt": "sample 5475"}},
+        "expected_state": {"required_file": "/home/hero/completed_5475.txt"},
+        "hint": "Use touch completed_5475.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5476,
+        "slug": "quest-scenario-5476",
+        "title": "Linux Quest Mission #5476",
+        "objective": "Execute required command line sequence for challenge #5476",
+        "initial_vfs": {"files": {"/home/hero/file_5476.txt": "sample 5476"}},
+        "expected_state": {"required_file": "/home/hero/completed_5476.txt"},
+        "hint": "Use touch completed_5476.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5477,
+        "slug": "quest-scenario-5477",
+        "title": "Linux Quest Mission #5477",
+        "objective": "Execute required command line sequence for challenge #5477",
+        "initial_vfs": {"files": {"/home/hero/file_5477.txt": "sample 5477"}},
+        "expected_state": {"required_file": "/home/hero/completed_5477.txt"},
+        "hint": "Use touch completed_5477.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5478,
+        "slug": "quest-scenario-5478",
+        "title": "Linux Quest Mission #5478",
+        "objective": "Execute required command line sequence for challenge #5478",
+        "initial_vfs": {"files": {"/home/hero/file_5478.txt": "sample 5478"}},
+        "expected_state": {"required_file": "/home/hero/completed_5478.txt"},
+        "hint": "Use touch completed_5478.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5479,
+        "slug": "quest-scenario-5479",
+        "title": "Linux Quest Mission #5479",
+        "objective": "Execute required command line sequence for challenge #5479",
+        "initial_vfs": {"files": {"/home/hero/file_5479.txt": "sample 5479"}},
+        "expected_state": {"required_file": "/home/hero/completed_5479.txt"},
+        "hint": "Use touch completed_5479.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5480,
+        "slug": "quest-scenario-5480",
+        "title": "Linux Quest Mission #5480",
+        "objective": "Execute required command line sequence for challenge #5480",
+        "initial_vfs": {"files": {"/home/hero/file_5480.txt": "sample 5480"}},
+        "expected_state": {"required_file": "/home/hero/completed_5480.txt"},
+        "hint": "Use touch completed_5480.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5481,
+        "slug": "quest-scenario-5481",
+        "title": "Linux Quest Mission #5481",
+        "objective": "Execute required command line sequence for challenge #5481",
+        "initial_vfs": {"files": {"/home/hero/file_5481.txt": "sample 5481"}},
+        "expected_state": {"required_file": "/home/hero/completed_5481.txt"},
+        "hint": "Use touch completed_5481.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5482,
+        "slug": "quest-scenario-5482",
+        "title": "Linux Quest Mission #5482",
+        "objective": "Execute required command line sequence for challenge #5482",
+        "initial_vfs": {"files": {"/home/hero/file_5482.txt": "sample 5482"}},
+        "expected_state": {"required_file": "/home/hero/completed_5482.txt"},
+        "hint": "Use touch completed_5482.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5483,
+        "slug": "quest-scenario-5483",
+        "title": "Linux Quest Mission #5483",
+        "objective": "Execute required command line sequence for challenge #5483",
+        "initial_vfs": {"files": {"/home/hero/file_5483.txt": "sample 5483"}},
+        "expected_state": {"required_file": "/home/hero/completed_5483.txt"},
+        "hint": "Use touch completed_5483.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5484,
+        "slug": "quest-scenario-5484",
+        "title": "Linux Quest Mission #5484",
+        "objective": "Execute required command line sequence for challenge #5484",
+        "initial_vfs": {"files": {"/home/hero/file_5484.txt": "sample 5484"}},
+        "expected_state": {"required_file": "/home/hero/completed_5484.txt"},
+        "hint": "Use touch completed_5484.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5485,
+        "slug": "quest-scenario-5485",
+        "title": "Linux Quest Mission #5485",
+        "objective": "Execute required command line sequence for challenge #5485",
+        "initial_vfs": {"files": {"/home/hero/file_5485.txt": "sample 5485"}},
+        "expected_state": {"required_file": "/home/hero/completed_5485.txt"},
+        "hint": "Use touch completed_5485.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5486,
+        "slug": "quest-scenario-5486",
+        "title": "Linux Quest Mission #5486",
+        "objective": "Execute required command line sequence for challenge #5486",
+        "initial_vfs": {"files": {"/home/hero/file_5486.txt": "sample 5486"}},
+        "expected_state": {"required_file": "/home/hero/completed_5486.txt"},
+        "hint": "Use touch completed_5486.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5487,
+        "slug": "quest-scenario-5487",
+        "title": "Linux Quest Mission #5487",
+        "objective": "Execute required command line sequence for challenge #5487",
+        "initial_vfs": {"files": {"/home/hero/file_5487.txt": "sample 5487"}},
+        "expected_state": {"required_file": "/home/hero/completed_5487.txt"},
+        "hint": "Use touch completed_5487.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5488,
+        "slug": "quest-scenario-5488",
+        "title": "Linux Quest Mission #5488",
+        "objective": "Execute required command line sequence for challenge #5488",
+        "initial_vfs": {"files": {"/home/hero/file_5488.txt": "sample 5488"}},
+        "expected_state": {"required_file": "/home/hero/completed_5488.txt"},
+        "hint": "Use touch completed_5488.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5489,
+        "slug": "quest-scenario-5489",
+        "title": "Linux Quest Mission #5489",
+        "objective": "Execute required command line sequence for challenge #5489",
+        "initial_vfs": {"files": {"/home/hero/file_5489.txt": "sample 5489"}},
+        "expected_state": {"required_file": "/home/hero/completed_5489.txt"},
+        "hint": "Use touch completed_5489.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5490,
+        "slug": "quest-scenario-5490",
+        "title": "Linux Quest Mission #5490",
+        "objective": "Execute required command line sequence for challenge #5490",
+        "initial_vfs": {"files": {"/home/hero/file_5490.txt": "sample 5490"}},
+        "expected_state": {"required_file": "/home/hero/completed_5490.txt"},
+        "hint": "Use touch completed_5490.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5491,
+        "slug": "quest-scenario-5491",
+        "title": "Linux Quest Mission #5491",
+        "objective": "Execute required command line sequence for challenge #5491",
+        "initial_vfs": {"files": {"/home/hero/file_5491.txt": "sample 5491"}},
+        "expected_state": {"required_file": "/home/hero/completed_5491.txt"},
+        "hint": "Use touch completed_5491.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5492,
+        "slug": "quest-scenario-5492",
+        "title": "Linux Quest Mission #5492",
+        "objective": "Execute required command line sequence for challenge #5492",
+        "initial_vfs": {"files": {"/home/hero/file_5492.txt": "sample 5492"}},
+        "expected_state": {"required_file": "/home/hero/completed_5492.txt"},
+        "hint": "Use touch completed_5492.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5493,
+        "slug": "quest-scenario-5493",
+        "title": "Linux Quest Mission #5493",
+        "objective": "Execute required command line sequence for challenge #5493",
+        "initial_vfs": {"files": {"/home/hero/file_5493.txt": "sample 5493"}},
+        "expected_state": {"required_file": "/home/hero/completed_5493.txt"},
+        "hint": "Use touch completed_5493.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5494,
+        "slug": "quest-scenario-5494",
+        "title": "Linux Quest Mission #5494",
+        "objective": "Execute required command line sequence for challenge #5494",
+        "initial_vfs": {"files": {"/home/hero/file_5494.txt": "sample 5494"}},
+        "expected_state": {"required_file": "/home/hero/completed_5494.txt"},
+        "hint": "Use touch completed_5494.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5495,
+        "slug": "quest-scenario-5495",
+        "title": "Linux Quest Mission #5495",
+        "objective": "Execute required command line sequence for challenge #5495",
+        "initial_vfs": {"files": {"/home/hero/file_5495.txt": "sample 5495"}},
+        "expected_state": {"required_file": "/home/hero/completed_5495.txt"},
+        "hint": "Use touch completed_5495.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5496,
+        "slug": "quest-scenario-5496",
+        "title": "Linux Quest Mission #5496",
+        "objective": "Execute required command line sequence for challenge #5496",
+        "initial_vfs": {"files": {"/home/hero/file_5496.txt": "sample 5496"}},
+        "expected_state": {"required_file": "/home/hero/completed_5496.txt"},
+        "hint": "Use touch completed_5496.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5497,
+        "slug": "quest-scenario-5497",
+        "title": "Linux Quest Mission #5497",
+        "objective": "Execute required command line sequence for challenge #5497",
+        "initial_vfs": {"files": {"/home/hero/file_5497.txt": "sample 5497"}},
+        "expected_state": {"required_file": "/home/hero/completed_5497.txt"},
+        "hint": "Use touch completed_5497.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5498,
+        "slug": "quest-scenario-5498",
+        "title": "Linux Quest Mission #5498",
+        "objective": "Execute required command line sequence for challenge #5498",
+        "initial_vfs": {"files": {"/home/hero/file_5498.txt": "sample 5498"}},
+        "expected_state": {"required_file": "/home/hero/completed_5498.txt"},
+        "hint": "Use touch completed_5498.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5499,
+        "slug": "quest-scenario-5499",
+        "title": "Linux Quest Mission #5499",
+        "objective": "Execute required command line sequence for challenge #5499",
+        "initial_vfs": {"files": {"/home/hero/file_5499.txt": "sample 5499"}},
+        "expected_state": {"required_file": "/home/hero/completed_5499.txt"},
+        "hint": "Use touch completed_5499.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5500,
+        "slug": "quest-scenario-5500",
+        "title": "Linux Quest Mission #5500",
+        "objective": "Execute required command line sequence for challenge #5500",
+        "initial_vfs": {"files": {"/home/hero/file_5500.txt": "sample 5500"}},
+        "expected_state": {"required_file": "/home/hero/completed_5500.txt"},
+        "hint": "Use touch completed_5500.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5501,
+        "slug": "quest-scenario-5501",
+        "title": "Linux Quest Mission #5501",
+        "objective": "Execute required command line sequence for challenge #5501",
+        "initial_vfs": {"files": {"/home/hero/file_5501.txt": "sample 5501"}},
+        "expected_state": {"required_file": "/home/hero/completed_5501.txt"},
+        "hint": "Use touch completed_5501.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5502,
+        "slug": "quest-scenario-5502",
+        "title": "Linux Quest Mission #5502",
+        "objective": "Execute required command line sequence for challenge #5502",
+        "initial_vfs": {"files": {"/home/hero/file_5502.txt": "sample 5502"}},
+        "expected_state": {"required_file": "/home/hero/completed_5502.txt"},
+        "hint": "Use touch completed_5502.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5503,
+        "slug": "quest-scenario-5503",
+        "title": "Linux Quest Mission #5503",
+        "objective": "Execute required command line sequence for challenge #5503",
+        "initial_vfs": {"files": {"/home/hero/file_5503.txt": "sample 5503"}},
+        "expected_state": {"required_file": "/home/hero/completed_5503.txt"},
+        "hint": "Use touch completed_5503.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5504,
+        "slug": "quest-scenario-5504",
+        "title": "Linux Quest Mission #5504",
+        "objective": "Execute required command line sequence for challenge #5504",
+        "initial_vfs": {"files": {"/home/hero/file_5504.txt": "sample 5504"}},
+        "expected_state": {"required_file": "/home/hero/completed_5504.txt"},
+        "hint": "Use touch completed_5504.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5505,
+        "slug": "quest-scenario-5505",
+        "title": "Linux Quest Mission #5505",
+        "objective": "Execute required command line sequence for challenge #5505",
+        "initial_vfs": {"files": {"/home/hero/file_5505.txt": "sample 5505"}},
+        "expected_state": {"required_file": "/home/hero/completed_5505.txt"},
+        "hint": "Use touch completed_5505.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5506,
+        "slug": "quest-scenario-5506",
+        "title": "Linux Quest Mission #5506",
+        "objective": "Execute required command line sequence for challenge #5506",
+        "initial_vfs": {"files": {"/home/hero/file_5506.txt": "sample 5506"}},
+        "expected_state": {"required_file": "/home/hero/completed_5506.txt"},
+        "hint": "Use touch completed_5506.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5507,
+        "slug": "quest-scenario-5507",
+        "title": "Linux Quest Mission #5507",
+        "objective": "Execute required command line sequence for challenge #5507",
+        "initial_vfs": {"files": {"/home/hero/file_5507.txt": "sample 5507"}},
+        "expected_state": {"required_file": "/home/hero/completed_5507.txt"},
+        "hint": "Use touch completed_5507.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5508,
+        "slug": "quest-scenario-5508",
+        "title": "Linux Quest Mission #5508",
+        "objective": "Execute required command line sequence for challenge #5508",
+        "initial_vfs": {"files": {"/home/hero/file_5508.txt": "sample 5508"}},
+        "expected_state": {"required_file": "/home/hero/completed_5508.txt"},
+        "hint": "Use touch completed_5508.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5509,
+        "slug": "quest-scenario-5509",
+        "title": "Linux Quest Mission #5509",
+        "objective": "Execute required command line sequence for challenge #5509",
+        "initial_vfs": {"files": {"/home/hero/file_5509.txt": "sample 5509"}},
+        "expected_state": {"required_file": "/home/hero/completed_5509.txt"},
+        "hint": "Use touch completed_5509.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5510,
+        "slug": "quest-scenario-5510",
+        "title": "Linux Quest Mission #5510",
+        "objective": "Execute required command line sequence for challenge #5510",
+        "initial_vfs": {"files": {"/home/hero/file_5510.txt": "sample 5510"}},
+        "expected_state": {"required_file": "/home/hero/completed_5510.txt"},
+        "hint": "Use touch completed_5510.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5511,
+        "slug": "quest-scenario-5511",
+        "title": "Linux Quest Mission #5511",
+        "objective": "Execute required command line sequence for challenge #5511",
+        "initial_vfs": {"files": {"/home/hero/file_5511.txt": "sample 5511"}},
+        "expected_state": {"required_file": "/home/hero/completed_5511.txt"},
+        "hint": "Use touch completed_5511.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5512,
+        "slug": "quest-scenario-5512",
+        "title": "Linux Quest Mission #5512",
+        "objective": "Execute required command line sequence for challenge #5512",
+        "initial_vfs": {"files": {"/home/hero/file_5512.txt": "sample 5512"}},
+        "expected_state": {"required_file": "/home/hero/completed_5512.txt"},
+        "hint": "Use touch completed_5512.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5513,
+        "slug": "quest-scenario-5513",
+        "title": "Linux Quest Mission #5513",
+        "objective": "Execute required command line sequence for challenge #5513",
+        "initial_vfs": {"files": {"/home/hero/file_5513.txt": "sample 5513"}},
+        "expected_state": {"required_file": "/home/hero/completed_5513.txt"},
+        "hint": "Use touch completed_5513.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5514,
+        "slug": "quest-scenario-5514",
+        "title": "Linux Quest Mission #5514",
+        "objective": "Execute required command line sequence for challenge #5514",
+        "initial_vfs": {"files": {"/home/hero/file_5514.txt": "sample 5514"}},
+        "expected_state": {"required_file": "/home/hero/completed_5514.txt"},
+        "hint": "Use touch completed_5514.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5515,
+        "slug": "quest-scenario-5515",
+        "title": "Linux Quest Mission #5515",
+        "objective": "Execute required command line sequence for challenge #5515",
+        "initial_vfs": {"files": {"/home/hero/file_5515.txt": "sample 5515"}},
+        "expected_state": {"required_file": "/home/hero/completed_5515.txt"},
+        "hint": "Use touch completed_5515.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5516,
+        "slug": "quest-scenario-5516",
+        "title": "Linux Quest Mission #5516",
+        "objective": "Execute required command line sequence for challenge #5516",
+        "initial_vfs": {"files": {"/home/hero/file_5516.txt": "sample 5516"}},
+        "expected_state": {"required_file": "/home/hero/completed_5516.txt"},
+        "hint": "Use touch completed_5516.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5517,
+        "slug": "quest-scenario-5517",
+        "title": "Linux Quest Mission #5517",
+        "objective": "Execute required command line sequence for challenge #5517",
+        "initial_vfs": {"files": {"/home/hero/file_5517.txt": "sample 5517"}},
+        "expected_state": {"required_file": "/home/hero/completed_5517.txt"},
+        "hint": "Use touch completed_5517.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5518,
+        "slug": "quest-scenario-5518",
+        "title": "Linux Quest Mission #5518",
+        "objective": "Execute required command line sequence for challenge #5518",
+        "initial_vfs": {"files": {"/home/hero/file_5518.txt": "sample 5518"}},
+        "expected_state": {"required_file": "/home/hero/completed_5518.txt"},
+        "hint": "Use touch completed_5518.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5519,
+        "slug": "quest-scenario-5519",
+        "title": "Linux Quest Mission #5519",
+        "objective": "Execute required command line sequence for challenge #5519",
+        "initial_vfs": {"files": {"/home/hero/file_5519.txt": "sample 5519"}},
+        "expected_state": {"required_file": "/home/hero/completed_5519.txt"},
+        "hint": "Use touch completed_5519.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5520,
+        "slug": "quest-scenario-5520",
+        "title": "Linux Quest Mission #5520",
+        "objective": "Execute required command line sequence for challenge #5520",
+        "initial_vfs": {"files": {"/home/hero/file_5520.txt": "sample 5520"}},
+        "expected_state": {"required_file": "/home/hero/completed_5520.txt"},
+        "hint": "Use touch completed_5520.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5521,
+        "slug": "quest-scenario-5521",
+        "title": "Linux Quest Mission #5521",
+        "objective": "Execute required command line sequence for challenge #5521",
+        "initial_vfs": {"files": {"/home/hero/file_5521.txt": "sample 5521"}},
+        "expected_state": {"required_file": "/home/hero/completed_5521.txt"},
+        "hint": "Use touch completed_5521.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5522,
+        "slug": "quest-scenario-5522",
+        "title": "Linux Quest Mission #5522",
+        "objective": "Execute required command line sequence for challenge #5522",
+        "initial_vfs": {"files": {"/home/hero/file_5522.txt": "sample 5522"}},
+        "expected_state": {"required_file": "/home/hero/completed_5522.txt"},
+        "hint": "Use touch completed_5522.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5523,
+        "slug": "quest-scenario-5523",
+        "title": "Linux Quest Mission #5523",
+        "objective": "Execute required command line sequence for challenge #5523",
+        "initial_vfs": {"files": {"/home/hero/file_5523.txt": "sample 5523"}},
+        "expected_state": {"required_file": "/home/hero/completed_5523.txt"},
+        "hint": "Use touch completed_5523.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5524,
+        "slug": "quest-scenario-5524",
+        "title": "Linux Quest Mission #5524",
+        "objective": "Execute required command line sequence for challenge #5524",
+        "initial_vfs": {"files": {"/home/hero/file_5524.txt": "sample 5524"}},
+        "expected_state": {"required_file": "/home/hero/completed_5524.txt"},
+        "hint": "Use touch completed_5524.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5525,
+        "slug": "quest-scenario-5525",
+        "title": "Linux Quest Mission #5525",
+        "objective": "Execute required command line sequence for challenge #5525",
+        "initial_vfs": {"files": {"/home/hero/file_5525.txt": "sample 5525"}},
+        "expected_state": {"required_file": "/home/hero/completed_5525.txt"},
+        "hint": "Use touch completed_5525.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5526,
+        "slug": "quest-scenario-5526",
+        "title": "Linux Quest Mission #5526",
+        "objective": "Execute required command line sequence for challenge #5526",
+        "initial_vfs": {"files": {"/home/hero/file_5526.txt": "sample 5526"}},
+        "expected_state": {"required_file": "/home/hero/completed_5526.txt"},
+        "hint": "Use touch completed_5526.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5527,
+        "slug": "quest-scenario-5527",
+        "title": "Linux Quest Mission #5527",
+        "objective": "Execute required command line sequence for challenge #5527",
+        "initial_vfs": {"files": {"/home/hero/file_5527.txt": "sample 5527"}},
+        "expected_state": {"required_file": "/home/hero/completed_5527.txt"},
+        "hint": "Use touch completed_5527.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5528,
+        "slug": "quest-scenario-5528",
+        "title": "Linux Quest Mission #5528",
+        "objective": "Execute required command line sequence for challenge #5528",
+        "initial_vfs": {"files": {"/home/hero/file_5528.txt": "sample 5528"}},
+        "expected_state": {"required_file": "/home/hero/completed_5528.txt"},
+        "hint": "Use touch completed_5528.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5529,
+        "slug": "quest-scenario-5529",
+        "title": "Linux Quest Mission #5529",
+        "objective": "Execute required command line sequence for challenge #5529",
+        "initial_vfs": {"files": {"/home/hero/file_5529.txt": "sample 5529"}},
+        "expected_state": {"required_file": "/home/hero/completed_5529.txt"},
+        "hint": "Use touch completed_5529.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5530,
+        "slug": "quest-scenario-5530",
+        "title": "Linux Quest Mission #5530",
+        "objective": "Execute required command line sequence for challenge #5530",
+        "initial_vfs": {"files": {"/home/hero/file_5530.txt": "sample 5530"}},
+        "expected_state": {"required_file": "/home/hero/completed_5530.txt"},
+        "hint": "Use touch completed_5530.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5531,
+        "slug": "quest-scenario-5531",
+        "title": "Linux Quest Mission #5531",
+        "objective": "Execute required command line sequence for challenge #5531",
+        "initial_vfs": {"files": {"/home/hero/file_5531.txt": "sample 5531"}},
+        "expected_state": {"required_file": "/home/hero/completed_5531.txt"},
+        "hint": "Use touch completed_5531.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5532,
+        "slug": "quest-scenario-5532",
+        "title": "Linux Quest Mission #5532",
+        "objective": "Execute required command line sequence for challenge #5532",
+        "initial_vfs": {"files": {"/home/hero/file_5532.txt": "sample 5532"}},
+        "expected_state": {"required_file": "/home/hero/completed_5532.txt"},
+        "hint": "Use touch completed_5532.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5533,
+        "slug": "quest-scenario-5533",
+        "title": "Linux Quest Mission #5533",
+        "objective": "Execute required command line sequence for challenge #5533",
+        "initial_vfs": {"files": {"/home/hero/file_5533.txt": "sample 5533"}},
+        "expected_state": {"required_file": "/home/hero/completed_5533.txt"},
+        "hint": "Use touch completed_5533.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5534,
+        "slug": "quest-scenario-5534",
+        "title": "Linux Quest Mission #5534",
+        "objective": "Execute required command line sequence for challenge #5534",
+        "initial_vfs": {"files": {"/home/hero/file_5534.txt": "sample 5534"}},
+        "expected_state": {"required_file": "/home/hero/completed_5534.txt"},
+        "hint": "Use touch completed_5534.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5535,
+        "slug": "quest-scenario-5535",
+        "title": "Linux Quest Mission #5535",
+        "objective": "Execute required command line sequence for challenge #5535",
+        "initial_vfs": {"files": {"/home/hero/file_5535.txt": "sample 5535"}},
+        "expected_state": {"required_file": "/home/hero/completed_5535.txt"},
+        "hint": "Use touch completed_5535.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5536,
+        "slug": "quest-scenario-5536",
+        "title": "Linux Quest Mission #5536",
+        "objective": "Execute required command line sequence for challenge #5536",
+        "initial_vfs": {"files": {"/home/hero/file_5536.txt": "sample 5536"}},
+        "expected_state": {"required_file": "/home/hero/completed_5536.txt"},
+        "hint": "Use touch completed_5536.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5537,
+        "slug": "quest-scenario-5537",
+        "title": "Linux Quest Mission #5537",
+        "objective": "Execute required command line sequence for challenge #5537",
+        "initial_vfs": {"files": {"/home/hero/file_5537.txt": "sample 5537"}},
+        "expected_state": {"required_file": "/home/hero/completed_5537.txt"},
+        "hint": "Use touch completed_5537.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5538,
+        "slug": "quest-scenario-5538",
+        "title": "Linux Quest Mission #5538",
+        "objective": "Execute required command line sequence for challenge #5538",
+        "initial_vfs": {"files": {"/home/hero/file_5538.txt": "sample 5538"}},
+        "expected_state": {"required_file": "/home/hero/completed_5538.txt"},
+        "hint": "Use touch completed_5538.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5539,
+        "slug": "quest-scenario-5539",
+        "title": "Linux Quest Mission #5539",
+        "objective": "Execute required command line sequence for challenge #5539",
+        "initial_vfs": {"files": {"/home/hero/file_5539.txt": "sample 5539"}},
+        "expected_state": {"required_file": "/home/hero/completed_5539.txt"},
+        "hint": "Use touch completed_5539.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5540,
+        "slug": "quest-scenario-5540",
+        "title": "Linux Quest Mission #5540",
+        "objective": "Execute required command line sequence for challenge #5540",
+        "initial_vfs": {"files": {"/home/hero/file_5540.txt": "sample 5540"}},
+        "expected_state": {"required_file": "/home/hero/completed_5540.txt"},
+        "hint": "Use touch completed_5540.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5541,
+        "slug": "quest-scenario-5541",
+        "title": "Linux Quest Mission #5541",
+        "objective": "Execute required command line sequence for challenge #5541",
+        "initial_vfs": {"files": {"/home/hero/file_5541.txt": "sample 5541"}},
+        "expected_state": {"required_file": "/home/hero/completed_5541.txt"},
+        "hint": "Use touch completed_5541.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5542,
+        "slug": "quest-scenario-5542",
+        "title": "Linux Quest Mission #5542",
+        "objective": "Execute required command line sequence for challenge #5542",
+        "initial_vfs": {"files": {"/home/hero/file_5542.txt": "sample 5542"}},
+        "expected_state": {"required_file": "/home/hero/completed_5542.txt"},
+        "hint": "Use touch completed_5542.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5543,
+        "slug": "quest-scenario-5543",
+        "title": "Linux Quest Mission #5543",
+        "objective": "Execute required command line sequence for challenge #5543",
+        "initial_vfs": {"files": {"/home/hero/file_5543.txt": "sample 5543"}},
+        "expected_state": {"required_file": "/home/hero/completed_5543.txt"},
+        "hint": "Use touch completed_5543.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5544,
+        "slug": "quest-scenario-5544",
+        "title": "Linux Quest Mission #5544",
+        "objective": "Execute required command line sequence for challenge #5544",
+        "initial_vfs": {"files": {"/home/hero/file_5544.txt": "sample 5544"}},
+        "expected_state": {"required_file": "/home/hero/completed_5544.txt"},
+        "hint": "Use touch completed_5544.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5545,
+        "slug": "quest-scenario-5545",
+        "title": "Linux Quest Mission #5545",
+        "objective": "Execute required command line sequence for challenge #5545",
+        "initial_vfs": {"files": {"/home/hero/file_5545.txt": "sample 5545"}},
+        "expected_state": {"required_file": "/home/hero/completed_5545.txt"},
+        "hint": "Use touch completed_5545.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5546,
+        "slug": "quest-scenario-5546",
+        "title": "Linux Quest Mission #5546",
+        "objective": "Execute required command line sequence for challenge #5546",
+        "initial_vfs": {"files": {"/home/hero/file_5546.txt": "sample 5546"}},
+        "expected_state": {"required_file": "/home/hero/completed_5546.txt"},
+        "hint": "Use touch completed_5546.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5547,
+        "slug": "quest-scenario-5547",
+        "title": "Linux Quest Mission #5547",
+        "objective": "Execute required command line sequence for challenge #5547",
+        "initial_vfs": {"files": {"/home/hero/file_5547.txt": "sample 5547"}},
+        "expected_state": {"required_file": "/home/hero/completed_5547.txt"},
+        "hint": "Use touch completed_5547.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5548,
+        "slug": "quest-scenario-5548",
+        "title": "Linux Quest Mission #5548",
+        "objective": "Execute required command line sequence for challenge #5548",
+        "initial_vfs": {"files": {"/home/hero/file_5548.txt": "sample 5548"}},
+        "expected_state": {"required_file": "/home/hero/completed_5548.txt"},
+        "hint": "Use touch completed_5548.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5549,
+        "slug": "quest-scenario-5549",
+        "title": "Linux Quest Mission #5549",
+        "objective": "Execute required command line sequence for challenge #5549",
+        "initial_vfs": {"files": {"/home/hero/file_5549.txt": "sample 5549"}},
+        "expected_state": {"required_file": "/home/hero/completed_5549.txt"},
+        "hint": "Use touch completed_5549.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5550,
+        "slug": "quest-scenario-5550",
+        "title": "Linux Quest Mission #5550",
+        "objective": "Execute required command line sequence for challenge #5550",
+        "initial_vfs": {"files": {"/home/hero/file_5550.txt": "sample 5550"}},
+        "expected_state": {"required_file": "/home/hero/completed_5550.txt"},
+        "hint": "Use touch completed_5550.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5551,
+        "slug": "quest-scenario-5551",
+        "title": "Linux Quest Mission #5551",
+        "objective": "Execute required command line sequence for challenge #5551",
+        "initial_vfs": {"files": {"/home/hero/file_5551.txt": "sample 5551"}},
+        "expected_state": {"required_file": "/home/hero/completed_5551.txt"},
+        "hint": "Use touch completed_5551.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5552,
+        "slug": "quest-scenario-5552",
+        "title": "Linux Quest Mission #5552",
+        "objective": "Execute required command line sequence for challenge #5552",
+        "initial_vfs": {"files": {"/home/hero/file_5552.txt": "sample 5552"}},
+        "expected_state": {"required_file": "/home/hero/completed_5552.txt"},
+        "hint": "Use touch completed_5552.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5553,
+        "slug": "quest-scenario-5553",
+        "title": "Linux Quest Mission #5553",
+        "objective": "Execute required command line sequence for challenge #5553",
+        "initial_vfs": {"files": {"/home/hero/file_5553.txt": "sample 5553"}},
+        "expected_state": {"required_file": "/home/hero/completed_5553.txt"},
+        "hint": "Use touch completed_5553.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5554,
+        "slug": "quest-scenario-5554",
+        "title": "Linux Quest Mission #5554",
+        "objective": "Execute required command line sequence for challenge #5554",
+        "initial_vfs": {"files": {"/home/hero/file_5554.txt": "sample 5554"}},
+        "expected_state": {"required_file": "/home/hero/completed_5554.txt"},
+        "hint": "Use touch completed_5554.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5555,
+        "slug": "quest-scenario-5555",
+        "title": "Linux Quest Mission #5555",
+        "objective": "Execute required command line sequence for challenge #5555",
+        "initial_vfs": {"files": {"/home/hero/file_5555.txt": "sample 5555"}},
+        "expected_state": {"required_file": "/home/hero/completed_5555.txt"},
+        "hint": "Use touch completed_5555.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5556,
+        "slug": "quest-scenario-5556",
+        "title": "Linux Quest Mission #5556",
+        "objective": "Execute required command line sequence for challenge #5556",
+        "initial_vfs": {"files": {"/home/hero/file_5556.txt": "sample 5556"}},
+        "expected_state": {"required_file": "/home/hero/completed_5556.txt"},
+        "hint": "Use touch completed_5556.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5557,
+        "slug": "quest-scenario-5557",
+        "title": "Linux Quest Mission #5557",
+        "objective": "Execute required command line sequence for challenge #5557",
+        "initial_vfs": {"files": {"/home/hero/file_5557.txt": "sample 5557"}},
+        "expected_state": {"required_file": "/home/hero/completed_5557.txt"},
+        "hint": "Use touch completed_5557.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5558,
+        "slug": "quest-scenario-5558",
+        "title": "Linux Quest Mission #5558",
+        "objective": "Execute required command line sequence for challenge #5558",
+        "initial_vfs": {"files": {"/home/hero/file_5558.txt": "sample 5558"}},
+        "expected_state": {"required_file": "/home/hero/completed_5558.txt"},
+        "hint": "Use touch completed_5558.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5559,
+        "slug": "quest-scenario-5559",
+        "title": "Linux Quest Mission #5559",
+        "objective": "Execute required command line sequence for challenge #5559",
+        "initial_vfs": {"files": {"/home/hero/file_5559.txt": "sample 5559"}},
+        "expected_state": {"required_file": "/home/hero/completed_5559.txt"},
+        "hint": "Use touch completed_5559.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5560,
+        "slug": "quest-scenario-5560",
+        "title": "Linux Quest Mission #5560",
+        "objective": "Execute required command line sequence for challenge #5560",
+        "initial_vfs": {"files": {"/home/hero/file_5560.txt": "sample 5560"}},
+        "expected_state": {"required_file": "/home/hero/completed_5560.txt"},
+        "hint": "Use touch completed_5560.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5561,
+        "slug": "quest-scenario-5561",
+        "title": "Linux Quest Mission #5561",
+        "objective": "Execute required command line sequence for challenge #5561",
+        "initial_vfs": {"files": {"/home/hero/file_5561.txt": "sample 5561"}},
+        "expected_state": {"required_file": "/home/hero/completed_5561.txt"},
+        "hint": "Use touch completed_5561.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5562,
+        "slug": "quest-scenario-5562",
+        "title": "Linux Quest Mission #5562",
+        "objective": "Execute required command line sequence for challenge #5562",
+        "initial_vfs": {"files": {"/home/hero/file_5562.txt": "sample 5562"}},
+        "expected_state": {"required_file": "/home/hero/completed_5562.txt"},
+        "hint": "Use touch completed_5562.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5563,
+        "slug": "quest-scenario-5563",
+        "title": "Linux Quest Mission #5563",
+        "objective": "Execute required command line sequence for challenge #5563",
+        "initial_vfs": {"files": {"/home/hero/file_5563.txt": "sample 5563"}},
+        "expected_state": {"required_file": "/home/hero/completed_5563.txt"},
+        "hint": "Use touch completed_5563.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5564,
+        "slug": "quest-scenario-5564",
+        "title": "Linux Quest Mission #5564",
+        "objective": "Execute required command line sequence for challenge #5564",
+        "initial_vfs": {"files": {"/home/hero/file_5564.txt": "sample 5564"}},
+        "expected_state": {"required_file": "/home/hero/completed_5564.txt"},
+        "hint": "Use touch completed_5564.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5565,
+        "slug": "quest-scenario-5565",
+        "title": "Linux Quest Mission #5565",
+        "objective": "Execute required command line sequence for challenge #5565",
+        "initial_vfs": {"files": {"/home/hero/file_5565.txt": "sample 5565"}},
+        "expected_state": {"required_file": "/home/hero/completed_5565.txt"},
+        "hint": "Use touch completed_5565.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5566,
+        "slug": "quest-scenario-5566",
+        "title": "Linux Quest Mission #5566",
+        "objective": "Execute required command line sequence for challenge #5566",
+        "initial_vfs": {"files": {"/home/hero/file_5566.txt": "sample 5566"}},
+        "expected_state": {"required_file": "/home/hero/completed_5566.txt"},
+        "hint": "Use touch completed_5566.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5567,
+        "slug": "quest-scenario-5567",
+        "title": "Linux Quest Mission #5567",
+        "objective": "Execute required command line sequence for challenge #5567",
+        "initial_vfs": {"files": {"/home/hero/file_5567.txt": "sample 5567"}},
+        "expected_state": {"required_file": "/home/hero/completed_5567.txt"},
+        "hint": "Use touch completed_5567.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5568,
+        "slug": "quest-scenario-5568",
+        "title": "Linux Quest Mission #5568",
+        "objective": "Execute required command line sequence for challenge #5568",
+        "initial_vfs": {"files": {"/home/hero/file_5568.txt": "sample 5568"}},
+        "expected_state": {"required_file": "/home/hero/completed_5568.txt"},
+        "hint": "Use touch completed_5568.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5569,
+        "slug": "quest-scenario-5569",
+        "title": "Linux Quest Mission #5569",
+        "objective": "Execute required command line sequence for challenge #5569",
+        "initial_vfs": {"files": {"/home/hero/file_5569.txt": "sample 5569"}},
+        "expected_state": {"required_file": "/home/hero/completed_5569.txt"},
+        "hint": "Use touch completed_5569.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5570,
+        "slug": "quest-scenario-5570",
+        "title": "Linux Quest Mission #5570",
+        "objective": "Execute required command line sequence for challenge #5570",
+        "initial_vfs": {"files": {"/home/hero/file_5570.txt": "sample 5570"}},
+        "expected_state": {"required_file": "/home/hero/completed_5570.txt"},
+        "hint": "Use touch completed_5570.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5571,
+        "slug": "quest-scenario-5571",
+        "title": "Linux Quest Mission #5571",
+        "objective": "Execute required command line sequence for challenge #5571",
+        "initial_vfs": {"files": {"/home/hero/file_5571.txt": "sample 5571"}},
+        "expected_state": {"required_file": "/home/hero/completed_5571.txt"},
+        "hint": "Use touch completed_5571.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5572,
+        "slug": "quest-scenario-5572",
+        "title": "Linux Quest Mission #5572",
+        "objective": "Execute required command line sequence for challenge #5572",
+        "initial_vfs": {"files": {"/home/hero/file_5572.txt": "sample 5572"}},
+        "expected_state": {"required_file": "/home/hero/completed_5572.txt"},
+        "hint": "Use touch completed_5572.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5573,
+        "slug": "quest-scenario-5573",
+        "title": "Linux Quest Mission #5573",
+        "objective": "Execute required command line sequence for challenge #5573",
+        "initial_vfs": {"files": {"/home/hero/file_5573.txt": "sample 5573"}},
+        "expected_state": {"required_file": "/home/hero/completed_5573.txt"},
+        "hint": "Use touch completed_5573.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5574,
+        "slug": "quest-scenario-5574",
+        "title": "Linux Quest Mission #5574",
+        "objective": "Execute required command line sequence for challenge #5574",
+        "initial_vfs": {"files": {"/home/hero/file_5574.txt": "sample 5574"}},
+        "expected_state": {"required_file": "/home/hero/completed_5574.txt"},
+        "hint": "Use touch completed_5574.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5575,
+        "slug": "quest-scenario-5575",
+        "title": "Linux Quest Mission #5575",
+        "objective": "Execute required command line sequence for challenge #5575",
+        "initial_vfs": {"files": {"/home/hero/file_5575.txt": "sample 5575"}},
+        "expected_state": {"required_file": "/home/hero/completed_5575.txt"},
+        "hint": "Use touch completed_5575.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5576,
+        "slug": "quest-scenario-5576",
+        "title": "Linux Quest Mission #5576",
+        "objective": "Execute required command line sequence for challenge #5576",
+        "initial_vfs": {"files": {"/home/hero/file_5576.txt": "sample 5576"}},
+        "expected_state": {"required_file": "/home/hero/completed_5576.txt"},
+        "hint": "Use touch completed_5576.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5577,
+        "slug": "quest-scenario-5577",
+        "title": "Linux Quest Mission #5577",
+        "objective": "Execute required command line sequence for challenge #5577",
+        "initial_vfs": {"files": {"/home/hero/file_5577.txt": "sample 5577"}},
+        "expected_state": {"required_file": "/home/hero/completed_5577.txt"},
+        "hint": "Use touch completed_5577.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5578,
+        "slug": "quest-scenario-5578",
+        "title": "Linux Quest Mission #5578",
+        "objective": "Execute required command line sequence for challenge #5578",
+        "initial_vfs": {"files": {"/home/hero/file_5578.txt": "sample 5578"}},
+        "expected_state": {"required_file": "/home/hero/completed_5578.txt"},
+        "hint": "Use touch completed_5578.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5579,
+        "slug": "quest-scenario-5579",
+        "title": "Linux Quest Mission #5579",
+        "objective": "Execute required command line sequence for challenge #5579",
+        "initial_vfs": {"files": {"/home/hero/file_5579.txt": "sample 5579"}},
+        "expected_state": {"required_file": "/home/hero/completed_5579.txt"},
+        "hint": "Use touch completed_5579.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5580,
+        "slug": "quest-scenario-5580",
+        "title": "Linux Quest Mission #5580",
+        "objective": "Execute required command line sequence for challenge #5580",
+        "initial_vfs": {"files": {"/home/hero/file_5580.txt": "sample 5580"}},
+        "expected_state": {"required_file": "/home/hero/completed_5580.txt"},
+        "hint": "Use touch completed_5580.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5581,
+        "slug": "quest-scenario-5581",
+        "title": "Linux Quest Mission #5581",
+        "objective": "Execute required command line sequence for challenge #5581",
+        "initial_vfs": {"files": {"/home/hero/file_5581.txt": "sample 5581"}},
+        "expected_state": {"required_file": "/home/hero/completed_5581.txt"},
+        "hint": "Use touch completed_5581.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5582,
+        "slug": "quest-scenario-5582",
+        "title": "Linux Quest Mission #5582",
+        "objective": "Execute required command line sequence for challenge #5582",
+        "initial_vfs": {"files": {"/home/hero/file_5582.txt": "sample 5582"}},
+        "expected_state": {"required_file": "/home/hero/completed_5582.txt"},
+        "hint": "Use touch completed_5582.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5583,
+        "slug": "quest-scenario-5583",
+        "title": "Linux Quest Mission #5583",
+        "objective": "Execute required command line sequence for challenge #5583",
+        "initial_vfs": {"files": {"/home/hero/file_5583.txt": "sample 5583"}},
+        "expected_state": {"required_file": "/home/hero/completed_5583.txt"},
+        "hint": "Use touch completed_5583.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5584,
+        "slug": "quest-scenario-5584",
+        "title": "Linux Quest Mission #5584",
+        "objective": "Execute required command line sequence for challenge #5584",
+        "initial_vfs": {"files": {"/home/hero/file_5584.txt": "sample 5584"}},
+        "expected_state": {"required_file": "/home/hero/completed_5584.txt"},
+        "hint": "Use touch completed_5584.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5585,
+        "slug": "quest-scenario-5585",
+        "title": "Linux Quest Mission #5585",
+        "objective": "Execute required command line sequence for challenge #5585",
+        "initial_vfs": {"files": {"/home/hero/file_5585.txt": "sample 5585"}},
+        "expected_state": {"required_file": "/home/hero/completed_5585.txt"},
+        "hint": "Use touch completed_5585.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5586,
+        "slug": "quest-scenario-5586",
+        "title": "Linux Quest Mission #5586",
+        "objective": "Execute required command line sequence for challenge #5586",
+        "initial_vfs": {"files": {"/home/hero/file_5586.txt": "sample 5586"}},
+        "expected_state": {"required_file": "/home/hero/completed_5586.txt"},
+        "hint": "Use touch completed_5586.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5587,
+        "slug": "quest-scenario-5587",
+        "title": "Linux Quest Mission #5587",
+        "objective": "Execute required command line sequence for challenge #5587",
+        "initial_vfs": {"files": {"/home/hero/file_5587.txt": "sample 5587"}},
+        "expected_state": {"required_file": "/home/hero/completed_5587.txt"},
+        "hint": "Use touch completed_5587.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5588,
+        "slug": "quest-scenario-5588",
+        "title": "Linux Quest Mission #5588",
+        "objective": "Execute required command line sequence for challenge #5588",
+        "initial_vfs": {"files": {"/home/hero/file_5588.txt": "sample 5588"}},
+        "expected_state": {"required_file": "/home/hero/completed_5588.txt"},
+        "hint": "Use touch completed_5588.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5589,
+        "slug": "quest-scenario-5589",
+        "title": "Linux Quest Mission #5589",
+        "objective": "Execute required command line sequence for challenge #5589",
+        "initial_vfs": {"files": {"/home/hero/file_5589.txt": "sample 5589"}},
+        "expected_state": {"required_file": "/home/hero/completed_5589.txt"},
+        "hint": "Use touch completed_5589.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5590,
+        "slug": "quest-scenario-5590",
+        "title": "Linux Quest Mission #5590",
+        "objective": "Execute required command line sequence for challenge #5590",
+        "initial_vfs": {"files": {"/home/hero/file_5590.txt": "sample 5590"}},
+        "expected_state": {"required_file": "/home/hero/completed_5590.txt"},
+        "hint": "Use touch completed_5590.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5591,
+        "slug": "quest-scenario-5591",
+        "title": "Linux Quest Mission #5591",
+        "objective": "Execute required command line sequence for challenge #5591",
+        "initial_vfs": {"files": {"/home/hero/file_5591.txt": "sample 5591"}},
+        "expected_state": {"required_file": "/home/hero/completed_5591.txt"},
+        "hint": "Use touch completed_5591.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5592,
+        "slug": "quest-scenario-5592",
+        "title": "Linux Quest Mission #5592",
+        "objective": "Execute required command line sequence for challenge #5592",
+        "initial_vfs": {"files": {"/home/hero/file_5592.txt": "sample 5592"}},
+        "expected_state": {"required_file": "/home/hero/completed_5592.txt"},
+        "hint": "Use touch completed_5592.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5593,
+        "slug": "quest-scenario-5593",
+        "title": "Linux Quest Mission #5593",
+        "objective": "Execute required command line sequence for challenge #5593",
+        "initial_vfs": {"files": {"/home/hero/file_5593.txt": "sample 5593"}},
+        "expected_state": {"required_file": "/home/hero/completed_5593.txt"},
+        "hint": "Use touch completed_5593.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5594,
+        "slug": "quest-scenario-5594",
+        "title": "Linux Quest Mission #5594",
+        "objective": "Execute required command line sequence for challenge #5594",
+        "initial_vfs": {"files": {"/home/hero/file_5594.txt": "sample 5594"}},
+        "expected_state": {"required_file": "/home/hero/completed_5594.txt"},
+        "hint": "Use touch completed_5594.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5595,
+        "slug": "quest-scenario-5595",
+        "title": "Linux Quest Mission #5595",
+        "objective": "Execute required command line sequence for challenge #5595",
+        "initial_vfs": {"files": {"/home/hero/file_5595.txt": "sample 5595"}},
+        "expected_state": {"required_file": "/home/hero/completed_5595.txt"},
+        "hint": "Use touch completed_5595.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5596,
+        "slug": "quest-scenario-5596",
+        "title": "Linux Quest Mission #5596",
+        "objective": "Execute required command line sequence for challenge #5596",
+        "initial_vfs": {"files": {"/home/hero/file_5596.txt": "sample 5596"}},
+        "expected_state": {"required_file": "/home/hero/completed_5596.txt"},
+        "hint": "Use touch completed_5596.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5597,
+        "slug": "quest-scenario-5597",
+        "title": "Linux Quest Mission #5597",
+        "objective": "Execute required command line sequence for challenge #5597",
+        "initial_vfs": {"files": {"/home/hero/file_5597.txt": "sample 5597"}},
+        "expected_state": {"required_file": "/home/hero/completed_5597.txt"},
+        "hint": "Use touch completed_5597.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5598,
+        "slug": "quest-scenario-5598",
+        "title": "Linux Quest Mission #5598",
+        "objective": "Execute required command line sequence for challenge #5598",
+        "initial_vfs": {"files": {"/home/hero/file_5598.txt": "sample 5598"}},
+        "expected_state": {"required_file": "/home/hero/completed_5598.txt"},
+        "hint": "Use touch completed_5598.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5599,
+        "slug": "quest-scenario-5599",
+        "title": "Linux Quest Mission #5599",
+        "objective": "Execute required command line sequence for challenge #5599",
+        "initial_vfs": {"files": {"/home/hero/file_5599.txt": "sample 5599"}},
+        "expected_state": {"required_file": "/home/hero/completed_5599.txt"},
+        "hint": "Use touch completed_5599.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5600,
+        "slug": "quest-scenario-5600",
+        "title": "Linux Quest Mission #5600",
+        "objective": "Execute required command line sequence for challenge #5600",
+        "initial_vfs": {"files": {"/home/hero/file_5600.txt": "sample 5600"}},
+        "expected_state": {"required_file": "/home/hero/completed_5600.txt"},
+        "hint": "Use touch completed_5600.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5601,
+        "slug": "quest-scenario-5601",
+        "title": "Linux Quest Mission #5601",
+        "objective": "Execute required command line sequence for challenge #5601",
+        "initial_vfs": {"files": {"/home/hero/file_5601.txt": "sample 5601"}},
+        "expected_state": {"required_file": "/home/hero/completed_5601.txt"},
+        "hint": "Use touch completed_5601.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5602,
+        "slug": "quest-scenario-5602",
+        "title": "Linux Quest Mission #5602",
+        "objective": "Execute required command line sequence for challenge #5602",
+        "initial_vfs": {"files": {"/home/hero/file_5602.txt": "sample 5602"}},
+        "expected_state": {"required_file": "/home/hero/completed_5602.txt"},
+        "hint": "Use touch completed_5602.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5603,
+        "slug": "quest-scenario-5603",
+        "title": "Linux Quest Mission #5603",
+        "objective": "Execute required command line sequence for challenge #5603",
+        "initial_vfs": {"files": {"/home/hero/file_5603.txt": "sample 5603"}},
+        "expected_state": {"required_file": "/home/hero/completed_5603.txt"},
+        "hint": "Use touch completed_5603.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5604,
+        "slug": "quest-scenario-5604",
+        "title": "Linux Quest Mission #5604",
+        "objective": "Execute required command line sequence for challenge #5604",
+        "initial_vfs": {"files": {"/home/hero/file_5604.txt": "sample 5604"}},
+        "expected_state": {"required_file": "/home/hero/completed_5604.txt"},
+        "hint": "Use touch completed_5604.txt",
+        "xp_reward": 140
+    },
+    {
+        "id": 5605,
+        "slug": "quest-scenario-5605",
+        "title": "Linux Quest Mission #5605",
+        "objective": "Execute required command line sequence for challenge #5605",
+        "initial_vfs": {"files": {"/home/hero/file_5605.txt": "sample 5605"}},
+        "expected_state": {"required_file": "/home/hero/completed_5605.txt"},
+        "hint": "Use touch completed_5605.txt",
+        "xp_reward": 150
+    },
+    {
+        "id": 5606,
+        "slug": "quest-scenario-5606",
+        "title": "Linux Quest Mission #5606",
+        "objective": "Execute required command line sequence for challenge #5606",
+        "initial_vfs": {"files": {"/home/hero/file_5606.txt": "sample 5606"}},
+        "expected_state": {"required_file": "/home/hero/completed_5606.txt"},
+        "hint": "Use touch completed_5606.txt",
+        "xp_reward": 160
+    },
+    {
+        "id": 5607,
+        "slug": "quest-scenario-5607",
+        "title": "Linux Quest Mission #5607",
+        "objective": "Execute required command line sequence for challenge #5607",
+        "initial_vfs": {"files": {"/home/hero/file_5607.txt": "sample 5607"}},
+        "expected_state": {"required_file": "/home/hero/completed_5607.txt"},
+        "hint": "Use touch completed_5607.txt",
+        "xp_reward": 170
+    },
+    {
+        "id": 5608,
+        "slug": "quest-scenario-5608",
+        "title": "Linux Quest Mission #5608",
+        "objective": "Execute required command line sequence for challenge #5608",
+        "initial_vfs": {"files": {"/home/hero/file_5608.txt": "sample 5608"}},
+        "expected_state": {"required_file": "/home/hero/completed_5608.txt"},
+        "hint": "Use touch completed_5608.txt",
+        "xp_reward": 180
+    },
+    {
+        "id": 5609,
+        "slug": "quest-scenario-5609",
+        "title": "Linux Quest Mission #5609",
+        "objective": "Execute required command line sequence for challenge #5609",
+        "initial_vfs": {"files": {"/home/hero/file_5609.txt": "sample 5609"}},
+        "expected_state": {"required_file": "/home/hero/completed_5609.txt"},
+        "hint": "Use touch completed_5609.txt",
+        "xp_reward": 190
+    },
+    {
+        "id": 5610,
+        "slug": "quest-scenario-5610",
+        "title": "Linux Quest Mission #5610",
+        "objective": "Execute required command line sequence for challenge #5610",
+        "initial_vfs": {"files": {"/home/hero/file_5610.txt": "sample 5610"}},
+        "expected_state": {"required_file": "/home/hero/completed_5610.txt"},
+        "hint": "Use touch completed_5610.txt",
+        "xp_reward": 200
+    },
+    {
+        "id": 5611,
+        "slug": "quest-scenario-5611",
+        "title": "Linux Quest Mission #5611",
+        "objective": "Execute required command line sequence for challenge #5611",
+        "initial_vfs": {"files": {"/home/hero/file_5611.txt": "sample 5611"}},
+        "expected_state": {"required_file": "/home/hero/completed_5611.txt"},
+        "hint": "Use touch completed_5611.txt",
+        "xp_reward": 210
+    },
+    {
+        "id": 5612,
+        "slug": "quest-scenario-5612",
+        "title": "Linux Quest Mission #5612",
+        "objective": "Execute required command line sequence for challenge #5612",
+        "initial_vfs": {"files": {"/home/hero/file_5612.txt": "sample 5612"}},
+        "expected_state": {"required_file": "/home/hero/completed_5612.txt"},
+        "hint": "Use touch completed_5612.txt",
+        "xp_reward": 220
+    },
+    {
+        "id": 5613,
+        "slug": "quest-scenario-5613",
+        "title": "Linux Quest Mission #5613",
+        "objective": "Execute required command line sequence for challenge #5613",
+        "initial_vfs": {"files": {"/home/hero/file_5613.txt": "sample 5613"}},
+        "expected_state": {"required_file": "/home/hero/completed_5613.txt"},
+        "hint": "Use touch completed_5613.txt",
+        "xp_reward": 230
+    },
+    {
+        "id": 5614,
+        "slug": "quest-scenario-5614",
+        "title": "Linux Quest Mission #5614",
+        "objective": "Execute required command line sequence for challenge #5614",
+        "initial_vfs": {"files": {"/home/hero/file_5614.txt": "sample 5614"}},
+        "expected_state": {"required_file": "/home/hero/completed_5614.txt"},
+        "hint": "Use touch completed_5614.txt",
+        "xp_reward": 240
+    },
+    {
+        "id": 5615,
+        "slug": "quest-scenario-5615",
+        "title": "Linux Quest Mission #5615",
+        "objective": "Execute required command line sequence for challenge #5615",
+        "initial_vfs": {"files": {"/home/hero/file_5615.txt": "sample 5615"}},
+        "expected_state": {"required_file": "/home/hero/completed_5615.txt"},
+        "hint": "Use touch completed_5615.txt",
+        "xp_reward": 250
+    },
+    {
+        "id": 5616,
+        "slug": "quest-scenario-5616",
+        "title": "Linux Quest Mission #5616",
+        "objective": "Execute required command line sequence for challenge #5616",
+        "initial_vfs": {"files": {"/home/hero/file_5616.txt": "sample 5616"}},
+        "expected_state": {"required_file": "/home/hero/completed_5616.txt"},
+        "hint": "Use touch completed_5616.txt",
+        "xp_reward": 260
+    },
+    {
+        "id": 5617,
+        "slug": "quest-scenario-5617",
+        "title": "Linux Quest Mission #5617",
+        "objective": "Execute required command line sequence for challenge #5617",
+        "initial_vfs": {"files": {"/home/hero/file_5617.txt": "sample 5617"}},
+        "expected_state": {"required_file": "/home/hero/completed_5617.txt"},
+        "hint": "Use touch completed_5617.txt",
+        "xp_reward": 270
+    },
+    {
+        "id": 5618,
+        "slug": "quest-scenario-5618",
+        "title": "Linux Quest Mission #5618",
+        "objective": "Execute required command line sequence for challenge #5618",
+        "initial_vfs": {"files": {"/home/hero/file_5618.txt": "sample 5618"}},
+        "expected_state": {"required_file": "/home/hero/completed_5618.txt"},
+        "hint": "Use touch completed_5618.txt",
+        "xp_reward": 280
+    },
+    {
+        "id": 5619,
+        "slug": "quest-scenario-5619",
+        "title": "Linux Quest Mission #5619",
+        "objective": "Execute required command line sequence for challenge #5619",
+        "initial_vfs": {"files": {"/home/hero/file_5619.txt": "sample 5619"}},
+        "expected_state": {"required_file": "/home/hero/completed_5619.txt"},
+        "hint": "Use touch completed_5619.txt",
+        "xp_reward": 290
+    },
+    {
+        "id": 5620,
+        "slug": "quest-scenario-5620",
+        "title": "Linux Quest Mission #5620",
+        "objective": "Execute required command line sequence for challenge #5620",
+        "initial_vfs": {"files": {"/home/hero/file_5620.txt": "sample 5620"}},
+        "expected_state": {"required_file": "/home/hero/completed_5620.txt"},
+        "hint": "Use touch completed_5620.txt",
+        "xp_reward": 100
+    },
+    {
+        "id": 5621,
+        "slug": "quest-scenario-5621",
+        "title": "Linux Quest Mission #5621",
+        "objective": "Execute required command line sequence for challenge #5621",
+        "initial_vfs": {"files": {"/home/hero/file_5621.txt": "sample 5621"}},
+        "expected_state": {"required_file": "/home/hero/completed_5621.txt"},
+        "hint": "Use touch completed_5621.txt",
+        "xp_reward": 110
+    },
+    {
+        "id": 5622,
+        "slug": "quest-scenario-5622",
+        "title": "Linux Quest Mission #5622",
+        "objective": "Execute required command line sequence for challenge #5622",
+        "initial_vfs": {"files": {"/home/hero/file_5622.txt": "sample 5622"}},
+        "expected_state": {"required_file": "/home/hero/completed_5622.txt"},
+        "hint": "Use touch completed_5622.txt",
+        "xp_reward": 120
+    },
+    {
+        "id": 5623,
+        "slug": "quest-scenario-5623",
+        "title": "Linux Quest Mission #5623",
+        "objective": "Execute required command line sequence for challenge #5623",
+        "initial_vfs": {"files": {"/home/hero/file_5623.txt": "sample 5623"}},
+        "expected_state": {"required_file": "/home/hero/completed_5623.txt"},
+        "hint": "Use touch completed_5623.txt",
+        "xp_reward": 130
+    },
+    {
+        "id": 5624,
+        "slug": "quest-scenario-5624",
+        "title": "Linux Quest Mission #5624",
+        "objective": "Execute required command line sequence for challenge #5624",
+        "initial_vfs": {"files": {"/home/hero/file_5624.txt": "sample 5624"}},
+        "expected_state": {"required_file": "/home/hero/completed_5624.txt"},
+        "hint": "Use touch completed_5624.txt",
+        "xp_reward": 140
+    },
 ]
 
 def list_all_quests():

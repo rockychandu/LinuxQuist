@@ -1,0 +1,240 @@
+{% extends 'base.html' %}
+
+{% block title %}Regex & Text Processing Lab — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="margin-bottom: 2rem;">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+    <div>
+      <span class="badge" style="background: rgba(0,255,157,0.15); color: var(--neon-green); border: 1px solid var(--neon-green); padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.8rem; font-weight: bold;">
+        <i class="fas fa-terminal"></i> TEXT PROCESSING STUDIO
+      </span>
+      <h1 style="font-family: var(--font-title); font-size: 2rem; color: #fff; margin: 0.5rem 0 0.25rem 0;">
+        Regex & Text Processing Lab
+      </h1>
+      <p style="color: var(--text-muted); font-size: 0.95rem;">
+        Master Linux pattern matching with <code style="color:var(--neon-cyan);">grep</code>, <code style="color:var(--neon-green);">sed</code>, and <code style="color:var(--neon-gold);">awk</code> in real-time.
+      </p>
+    </div>
+    <div style="display: flex; gap: 0.75rem;">
+      <button onclick="injectCommandIntoTerminal()" class="btn btn-primary" style="display: flex; align-items: center; gap: 0.5rem;">
+        <i class="fas fa-play"></i> Run In Terminal
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="grid-2" style="grid-template-columns: 360px 1fr; gap: 1.5rem; align-items: start;">
+  <!-- LEFT: REGEX CONTROLS & CHALLENGES -->
+  <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+    <!-- PATTERN INPUT -->
+    <div class="card" style="border-left: 4px solid var(--neon-cyan);">
+      <h3 style="font-family: var(--font-title); font-size: 1.1rem; color: #fff; margin-bottom: 0.75rem;">
+        <i class="fas fa-filter"></i> Regular Expression
+      </h3>
+      <div style="margin-bottom: 1rem;">
+        <label style="font-size: 0.8rem; color: var(--text-muted); display: block; margin-bottom: 0.3rem;">Pattern (Regular Expression):</label>
+        <input type="text" id="regexInput" value="CRITICAL|ERROR" oninput="updateMatches()" style="width: 100%; background: #070a12; border: 1px solid var(--border-color); color: var(--neon-cyan); font-family: var(--font-code); padding: 0.6rem; border-radius: 6px; font-size: 0.95rem; outline: none;">
+      </div>
+
+      <div style="display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 0.75rem;">
+        <label style="font-size: 0.8rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.3rem;">
+          <input type="checkbox" id="flagCase" onchange="updateMatches()"> Ignore Case (-i)
+        </label>
+        <label style="font-size: 0.8rem; color: #cbd5e1; display: flex; align-items: center; gap: 0.3rem;">
+          <input type="checkbox" id="flagLine" checked onchange="updateMatches()"> Line Match
+        </label>
+      </div>
+
+      <div style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 0.5rem;">Sample Target File:</div>
+      <select id="logSelector" onchange="loadSampleFile()" style="width: 100%; background: #0f172a; border: 1px solid var(--border-color); color: #fff; padding: 0.5rem; border-radius: 6px; outline: none; font-size: 0.85rem;">
+        <option value="syslog">/var/log/syslog (System Events)</option>
+        <option value="authlog">/var/log/auth.log (SSH & Auth)</option>
+        <option value="passwd">/etc/passwd (User Registry)</option>
+      </select>
+    </div>
+
+    <!-- PRESET CHALLENGES -->
+    <div class="card">
+      <h3 style="font-family: var(--font-title); font-size: 1rem; color: var(--neon-gold); margin-bottom: 0.75rem;">
+        <i class="fas fa-trophy"></i> Practice Challenges
+      </h3>
+      <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+        <button class="btn btn-outline" onclick="setChallenge('ips')" style="text-align: left; padding: 0.5rem; font-size: 0.8rem;">
+          <strong style="color: var(--neon-green);">1. Extract IPv4 Addresses</strong>
+          <div style="font-size: 0.7rem; color: var(--text-muted);">Matches 192.168.x.x addresses</div>
+        </button>
+        <button class="btn btn-outline" onclick="setChallenge('crit')" style="text-align: left; padding: 0.5rem; font-size: 0.8rem;">
+          <strong style="color: var(--neon-orange);">2. Isolate CRITICAL Events</strong>
+          <div style="font-size: 0.7rem; color: var(--text-muted);">Matches database and auth failures</div>
+        </button>
+        <button class="btn btn-outline" onclick="setChallenge('users')" style="text-align: left; padding: 0.5rem; font-size: 0.8rem;">
+          <strong style="color: var(--neon-cyan);">3. Filter Bash Users</strong>
+          <div style="font-size: 0.7rem; color: var(--text-muted);">Extracts accounts with /bin/bash shell</div>
+        </button>
+      </div>
+    </div>
+
+    <!-- COMMAND GENERATOR -->
+    <div class="card">
+      <h3 style="font-family: var(--font-title); font-size: 1rem; color: #fff; margin-bottom: 0.5rem;">
+        <i class="fas fa-code"></i> Generated One-Liners
+      </h3>
+      <div style="display: flex; flex-direction: column; gap: 0.6rem; font-family: var(--font-code); font-size: 0.8rem;">
+        <div style="background: #070a12; padding: 0.5rem; border-radius: 4px; border-left: 2px solid var(--neon-cyan);">
+          <span style="color: var(--text-muted); font-size: 0.7rem;">grep:</span>
+          <div id="cmdGrep" style="color: #00f3ff; margin-top: 2px;">grep -E 'CRITICAL|ERROR' /var/log/syslog</div>
+        </div>
+        <div style="background: #070a12; padding: 0.5rem; border-radius: 4px; border-left: 2px solid var(--neon-green);">
+          <span style="color: var(--text-muted); font-size: 0.7rem;">sed:</span>
+          <div id="cmdSed" style="color: #00ff9d; margin-top: 2px;">sed -nE '/CRITICAL|ERROR/p' /var/log/syslog</div>
+        </div>
+        <div style="background: #070a12; padding: 0.5rem; border-radius: 4px; border-left: 2px solid var(--neon-gold);">
+          <span style="color: var(--text-muted); font-size: 0.7rem;">awk:</span>
+          <div id="cmdAwk" style="color: #ffbe0b; margin-top: 2px;">awk '/CRITICAL|ERROR/' /var/log/syslog</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- RIGHT: LIVE HIGHLIGHTER & TERMINAL RUNNER -->
+  <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+    <!-- HIGHLIGHTED LOG VIEW -->
+    <div class="card" style="padding: 0; overflow: hidden;">
+      <div style="background: #0f172a; padding: 0.6rem 1rem; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border-subtle);">
+        <div style="color: #fff; font-size: 0.85rem; font-family: var(--font-code);">
+          <i class="fas fa-file-alt text-cyan"></i> <span id="currentFilePath">/var/log/syslog</span>
+        </div>
+        <span class="badge" style="background: rgba(0,255,157,0.15); color: var(--neon-green); font-size: 0.75rem; padding: 2px 8px; border-radius: 4px;" id="matchCount">
+          2 matches found
+        </span>
+      </div>
+      <div id="logContentArea" style="height: 220px; overflow-y: auto; background: #070a12; color: #cbd5e1; font-family: var(--font-code); font-size: 0.85rem; line-height: 1.6; padding: 1rem; white-space: pre-wrap;"></div>
+    </div>
+
+    <!-- TERMINAL RUNNER -->
+    <div class="card">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+        <h3 style="font-family: var(--font-title); font-size: 1rem; color: #fff; margin: 0;">
+          <i class="fas fa-terminal"></i> Command Sandbox
+        </h3>
+        <span style="font-size: 0.75rem; color: var(--text-muted);">Real-time Execution</span>
+      </div>
+      <div id="regexTerminalContainer"></div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  const SAMPLE_LOGS = {
+    syslog: {
+      path: "/var/log/syslog",
+      content: `Oct 16 10:00:01 server systemd[1]: Started Daily apt download activities.
+Oct 16 10:00:05 server kernel: [    0.000000] Linux version 6.8.0-generic
+Oct 16 10:00:10 server auth_daemon[1042]: CRITICAL: Database connection failed at 10:00:05.
+Oct 16 10:00:12 server worker[1337]: INFO: Network interface eth0 up (192.168.1.100).
+Oct 16 10:00:15 server auth_daemon[1042]: CRITICAL: Auth service offline.
+Oct 16 10:00:20 server cron[888]: (root) CMD (/usr/local/bin/backup.sh >/dev/null 2>&1)
+Oct 16 10:00:30 server sshd[2048]: ERROR: Failed password for root from 192.168.1.50 port 52100 ssh2`
+    },
+    authlog: {
+      path: "/var/log/auth.log",
+      content: `Oct 16 09:12:01 server sshd[1024]: Accepted password for hero from 192.168.1.100 port 52140 ssh2
+Oct 16 09:15:22 server sudo: hero : TTY=pts/0 ; PWD=/home/hero ; USER=root ; COMMAND=/bin/systemctl restart nginx
+Oct 16 09:30:11 server sshd[2201]: Failed password for invalid user admin from 10.0.0.15 port 41200 ssh2
+Oct 16 09:35:04 server sshd[2205]: Failed password for invalid user guest from 172.16.0.4 port 38992 ssh2
+Oct 16 09:40:00 server sudo: hero : TTY=pts/1 ; PWD=/home/hero ; USER=root ; COMMAND=/usr/bin/apt update`
+    },
+    passwd: {
+      path: "/etc/passwd",
+      content: `root:x:0:0:root:/root:/bin/bash
+daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+bin:x:2:2:bin:/bin:/usr/sbin/nologin
+sys:x:3:3:sys:/dev:/usr/sbin/nologin
+sync:x:4:65534:sync:/bin:/bin/sync
+hero:x:1000:1000:Hero User:/home/hero:/bin/bash
+questbot:x:1001:1001:Quest Bot:/home/questbot:/bin/bash
+sshd:x:120:65534::/run/sshd:/usr/sbin/nologin`
+    }
+  };
+
+  let activeFileKey = 'syslog';
+
+  function loadSampleFile() {
+    activeFileKey = document.getElementById('logSelector').value;
+    document.getElementById('currentFilePath').innerText = SAMPLE_LOGS[activeFileKey].path;
+    updateMatches();
+  }
+
+  function setChallenge(type) {
+    if (type === 'ips') {
+      document.getElementById('regexInput').value = '\\b[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\b';
+      document.getElementById('logSelector').value = 'authlog';
+    } else if (type === 'crit') {
+      document.getElementById('regexInput').value = 'CRITICAL|ERROR';
+      document.getElementById('logSelector').value = 'syslog';
+    } else if (type === 'users') {
+      document.getElementById('regexInput').value = '^[^:]+:.*:/bin/bash$';
+      document.getElementById('logSelector').value = 'passwd';
+    }
+    loadSampleFile();
+  }
+
+  function updateMatches() {
+    const rawPattern = document.getElementById('regexInput').value.trim();
+    const ignoreCase = document.getElementById('flagCase').checked;
+    const logData = SAMPLE_LOGS[activeFileKey];
+    const path = logData.path;
+
+    // Update command previews
+    const flagsGrep = ignoreCase ? "-E -i" : "-E";
+    document.getElementById('cmdGrep').innerText = `grep ${flagsGrep} '${rawPattern}' ${path}`;
+    document.getElementById('cmdSed').innerText = `sed -nE '/${rawPattern}/p' ${path}`;
+    document.getElementById('cmdAwk').innerText = `awk '/${rawPattern}/' ${path}`;
+
+    const container = document.getElementById('logContentArea');
+    if (!rawPattern) {
+      container.innerText = logData.content;
+      document.getElementById('matchCount').innerText = '0 matches';
+      return;
+    }
+
+    try {
+      const reg = new RegExp(rawPattern, ignoreCase ? 'gi' : 'g');
+      const lines = logData.content.split('\n');
+      let totalMatches = 0;
+
+      const renderedLines = lines.map(line => {
+        if (reg.test(line)) {
+          totalMatches++;
+          reg.lastIndex = 0;
+          const highlighted = line.replace(reg, match => `<mark style="background:#ff3366; color:#fff; border-radius:2px; padding:0 2px;">${match}</mark>`);
+          return `<div style="background:rgba(255,51,102,0.1); border-left:3px solid #ff3366; padding-left:4px;">${highlighted}</div>`;
+        }
+        return `<div>${line}</div>`;
+      });
+
+      container.innerHTML = renderedLines.join('');
+      document.getElementById('matchCount').innerText = `${totalMatches} lines matched`;
+    } catch (e) {
+      container.innerText = logData.content;
+      document.getElementById('matchCount').innerText = 'Invalid regex syntax';
+    }
+  }
+
+  function injectCommandIntoTerminal() {
+    const cmd = document.getElementById('cmdGrep').innerText;
+    if (window.regexTerminal) {
+      window.regexTerminal.writeLine(`${window.regexTerminal.termPrompt.innerText} ${cmd}`, 'prompt-line');
+      window.regexTerminal.executeCommand(cmd);
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    window.regexTerminal = new TerminalSimulator('regexTerminalContainer', null);
+    loadSampleFile();
+  });
+</script>
+{% endblock %}

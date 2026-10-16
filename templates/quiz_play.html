@@ -6,7 +6,7 @@
 <div style="max-width: 750px; margin: 2rem auto;">
   <div class="card">
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1rem;">
-      <a href="{{ url_for('quizzes_list') }}" style="color: var(--neon-orange); font-size: 0.9rem;">&larr; Back to 10 Quiz Levels</a>
+      <a href="{{ url_for('quizzes_list') }}" style="color: var(--neon-orange); font-size: 0.9rem;">&larr; Back to 20 Quiz Levels</a>
       <span class="stat-chip xp"><i class="fas fa-star"></i> +{{ quiz_level.xp_reward }} XP Reward</span>
     </div>
 
@@ -59,10 +59,21 @@
     try {
       const res = await fetch(`/api/quiz-levels/${quizLevelId}/submit`, {
         method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
+        headers: { 
+          'Content-Type': 'application/json',
+          'Accept': 'application/json'
+        },
         body: JSON.stringify(answers)
       });
-      const data = await res.json();
+      
+      const data = await res.json().catch(() => null);
+
+      if (!res.ok || !data || data.success === false) {
+        const msg = (data && data.error) ? data.error : `Submission error (${res.status})`;
+        showToast(msg, "error");
+        return;
+      }
+
       const box = document.getElementById('quizResultBox');
       if (box) {
         box.style.display = 'block';
@@ -70,16 +81,21 @@
           if (window.soundEngine) window.soundEngine.playSuccessSound();
           box.className = 'card';
           box.style.borderColor = 'var(--neon-gold)';
-          box.innerHTML = `<h3 style="color: var(--neon-gold);"><i class="fas fa-trophy"></i> QUIZ PASSED! Score: ${data.score}%</h3><p>Congratulations! You earned <strong>+${data.xp_earned} XP</strong>!</p>`;
+          box.style.background = 'rgba(255, 190, 11, 0.1)';
+          let guestNote = data.guest ? '<p style="color: var(--neon-cyan); font-size: 0.9rem; margin-top: 0.5rem;"><i class="fas fa-info-circle"></i> Log in or register to save your XP!</p>' : '';
+          box.innerHTML = `<h3 style="color: var(--neon-gold);"><i class="fas fa-trophy"></i> QUIZ PASSED! Score: ${data.score}%</h3><p>Congratulations! You earned <strong>+${data.xp_earned} XP</strong>!</p>${guestNote}`;
         } else {
           if (window.soundEngine) window.soundEngine.playErrorSound();
           box.className = 'card';
           box.style.borderColor = 'var(--neon-red)';
+          box.style.background = 'rgba(255, 51, 102, 0.1)';
           box.innerHTML = `<h3 style="color: var(--neon-red);"><i class="fas fa-times-circle"></i> QUIZ FAILED! Score: ${data.score}%</h3><p>You need at least 70% to pass. Try again!</p>`;
         }
+        box.scrollIntoView({ behavior: 'smooth', block: 'center' });
       }
     } catch (e) {
-      showToast("Error submitting quiz", "error");
+      console.error("Quiz submission error:", e);
+      showToast("Network error submitting quiz", "error");
     }
   }
 </script>

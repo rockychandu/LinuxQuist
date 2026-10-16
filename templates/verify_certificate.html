@@ -1,0 +1,75 @@
+{% extends 'base.html' %}
+
+{% block title %}Verify Certificate — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="max-width: 760px; margin: 2rem auto;">
+  {% if cert %}
+    <div class="card" style="border: 2px solid var(--neon-gold); text-align: center; padding: 2.5rem; background: radial-gradient(circle at top, rgba(255,190,11,0.08) 0%, rgba(7,10,18,0.98) 100%); box-shadow: 0 0 50px rgba(255,190,11,0.2);">
+      
+      <div style="display: inline-block; padding: 0.5rem 1rem; border-radius: 30px; background: rgba(0,255,157,0.15); border: 1px solid var(--neon-green); color: var(--neon-green); font-size: 0.85rem; font-weight: bold; margin-bottom: 1.5rem;">
+        <i class="fas fa-check-circle"></i> VERIFIED AUTHENTIC CERTIFICATE
+      </div>
+
+      <div style="font-size: 3.5rem; color: var(--neon-gold); margin-bottom: 1rem;">
+        <i class="fas fa-certificate"></i>
+      </div>
+
+      <h1 style="font-family: var(--font-title); font-size: 2.2rem; color: #fff; margin-bottom: 0.5rem;">
+        LinuxQuest Certified Linux Architect
+      </h1>
+      <p style="color: var(--text-muted); font-size: 1rem; margin-bottom: 2rem;">
+        Official accreditation of 20 levels of mastery in Linux command line engineering, POSIX systems, and SysAdmin architecture.
+      </p>
+
+      <div style="background: #0f172a; border: 1px solid var(--border-color); border-radius: 8px; padding: 1.5rem; display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; text-align: left; margin-bottom: 2rem;">
+        <div>
+          <span style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Awarded To</span>
+          <div style="color: var(--neon-cyan); font-size: 1.2rem; font-weight: bold; font-family: var(--font-code);">
+            @{{ cert.username }}
+          </div>
+        </div>
+
+        <div>
+          <span style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Certificate ID</span>
+          <div style="color: var(--neon-gold); font-size: 1.1rem; font-weight: bold; font-family: var(--font-code);">
+            {{ cert.cert_code }}
+          </div>
+        </div>
+
+        <div>
+          <span style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Issue Date</span>
+          <div style="color: #fff; font-size: 1rem; font-family: var(--font-code);">
+            {{ cert.issued_at }}
+          </div>
+        </div>
+
+        <div>
+          <span style="font-size: 0.75rem; color: var(--text-muted); text-transform: uppercase;">Security Verification Hash</span>
+          <div style="color: var(--neon-green); font-size: 0.9rem; font-weight: bold; font-family: var(--font-code); word-break: break-all;">
+            {{ cert.verification_hash }}
+          </div>
+        </div>
+      </div>
+
+      <div style="display: flex; justify-content: center; gap: 1rem;">
+        <button onclick="window.print()" class="btn btn-primary" style="display: flex; align-items: center; gap: 0.5rem;">
+          <i class="fas fa-print"></i> Print Official Record
+        </button>
+        <a href="{{ url_for('index') }}" class="btn btn-outline">
+          Back to Home
+        </a>
+      </div>
+    </div>
+  {% else %}
+    <div class="card" style="text-align: center; padding: 3rem; border: 1px solid var(--neon-red);">
+      <i class="fas fa-exclamation-triangle text-red" style="font-size: 3rem; margin-bottom: 1rem;"></i>
+      <h2 style="color: #fff; font-family: var(--font-title); margin-bottom: 0.5rem;">Certificate Not Found</h2>
+      <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
+        The requested certificate code does not exist in the official LinuxQuest cryptographic ledger.
+      </p>
+      <a href="{{ url_for('index') }}" class="btn btn-primary">Return to LinuxQuest</a>
+    </div>
+  {% endif %}
+</div>
+{% endblock %}

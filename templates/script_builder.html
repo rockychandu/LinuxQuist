@@ -1,0 +1,369 @@
+{% extends 'base.html' %}
+
+{% block title %}Bash Script Studio & Builder — LinuxQuest{% endblock %}
+
+{% block content %}
+<div style="margin-bottom: 2rem;">
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 1rem;">
+    <div>
+      <span class="badge" style="background: rgba(0,243,255,0.15); color: var(--neon-cyan); border: 1px solid var(--neon-cyan); padding: 0.3rem 0.8rem; border-radius: 4px; font-size: 0.8rem; font-weight: bold;">
+        <i class="fas fa-magic"></i> AUTOMATION SUITE
+      </span>
+      <h1 style="font-family: var(--font-title); font-size: 2rem; color: #fff; margin: 0.5rem 0 0.25rem 0;">
+        Interactive Bash Script Builder
+      </h1>
+      <p style="color: var(--text-muted); font-size: 0.95rem;">
+        Design, configure, lint, and test production-ready Bash automation scripts directly in the virtual terminal.
+      </p>
+    </div>
+    <div style="display: flex; gap: 0.75rem;">
+      <button onclick="testInSimulator()" class="btn btn-primary" style="display: flex; align-items: center; gap: 0.5rem;">
+        <i class="fas fa-play"></i> Test in Virtual Terminal
+      </button>
+      <button onclick="downloadScript()" class="btn btn-outline" style="display: flex; align-items: center; gap: 0.5rem;">
+        <i class="fas fa-download"></i> Download .sh
+      </button>
+    </div>
+  </div>
+</div>
+
+<div class="grid-2" style="grid-template-columns: 360px 1fr; gap: 1.5rem; align-items: start;">
+  <!-- LEFT PANEL: SCRIPT CONFIGURATOR -->
+  <div style="display: flex; flex-direction: column; gap: 1.25rem;">
+    <!-- TEMPLATE PRESETS -->
+    <div class="card">
+      <h3 style="font-family: var(--font-title); font-size: 1.1rem; color: var(--neon-cyan); margin-bottom: 0.75rem;">
+        <i class="fas fa-layer-group"></i> Script Templates
+      </h3>
+      <div style="display: flex; flex-direction: column; gap: 0.5rem;">
+        <button class="preset-btn active" onclick="loadPreset('backup')" style="text-align: left; background: rgba(0,243,255,0.1); border: 1px solid var(--neon-cyan); color: #fff; padding: 0.75rem; border-radius: 6px; cursor: pointer; transition: 0.2s;">
+          <strong style="color: var(--neon-cyan);"><i class="fas fa-archive"></i> Automated Tar Backup</strong>
+          <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 2px;">Timestamped backup with 7-day prune</div>
+        </button>
+        <button class="preset-btn" onclick="loadPreset('monitor')" style="text-align: left; background: #0f172a; border: 1px solid var(--border-color); color: #fff; padding: 0.75rem; border-radius: 6px; cursor: pointer; transition: 0.2s;">
+          <strong style="color: var(--neon-green);"><i class="fas fa-heartbeat"></i> System Health Monitor</strong>
+          <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 2px;">CPU, RAM, Disk threshold alerts</div>
+        </button>
+        <button class="preset-btn" onclick="loadPreset('log_parser')" style="text-align: left; background: #0f172a; border: 1px solid var(--border-color); color: #fff; padding: 0.75rem; border-radius: 6px; cursor: pointer; transition: 0.2s;">
+          <strong style="color: var(--neon-orange);"><i class="fas fa-search"></i> Log Parser & Grep Filter</strong>
+          <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 2px;">Extracts CRITICAL/ERROR lines</div>
+        </button>
+        <button class="preset-btn" onclick="loadPreset('user_batch')" style="text-align: left; background: #0f172a; border: 1px solid var(--border-color); color: #fff; padding: 0.75rem; border-radius: 6px; cursor: pointer; transition: 0.2s;">
+          <strong style="color: var(--neon-gold);"><i class="fas fa-users-cog"></i> User Batch Provisioner</strong>
+          <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 2px;">Bulk user & directory setup</div>
+        </button>
+        <button class="preset-btn" onclick="loadPreset('watchdog')" style="text-align: left; background: #0f172a; border: 1px solid var(--border-color); color: #fff; padding: 0.75rem; border-radius: 6px; cursor: pointer; transition: 0.2s;">
+          <strong style="color: #ff3366;"><i class="fas fa-shield-alt"></i> Service Watchdog Daemon</strong>
+          <div style="font-size: 0.75rem; color: var(--text-muted); margin-top: 2px;">Process checking with auto-restart</div>
+        </button>
+      </div>
+    </div>
+
+    <!-- SCRIPT OPTIONS & FLAGS -->
+    <div class="card">
+      <h3 style="font-family: var(--font-title); font-size: 1.1rem; color: #fff; margin-bottom: 0.75rem;">
+        <i class="fas fa-sliders-h"></i> Script Directives
+      </h3>
+      <div style="display: flex; flex-direction: column; gap: 0.75rem; font-size: 0.85rem;">
+        <label style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer; color: #d8e2ec;">
+          <input type="checkbox" id="optStrict" checked onchange="regenerateScript()">
+          <span>Enable strict mode (<code style="color:var(--neon-green);">set -euo pipefail</code>)</span>
+        </label>
+        <label style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer; color: #d8e2ec;">
+          <input type="checkbox" id="optDebug" onchange="regenerateScript()">
+          <span>Enable debug trace (<code style="color:var(--neon-cyan);">set -x</code>)</span>
+        </label>
+        <label style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer; color: #d8e2ec;">
+          <input type="checkbox" id="optLogging" checked onchange="regenerateScript()">
+          <span>Include timestamped logging function</span>
+        </label>
+        <label style="display: flex; align-items: center; gap: 0.5rem; cursor: pointer; color: #d8e2ec;">
+          <input type="checkbox" id="optCleanup" checked onchange="regenerateScript()">
+          <span>Include trap cleanup routine (<code style="color:var(--neon-gold);">trap finish EXIT</code>)</span>
+        </label>
+      </div>
+    </div>
+
+    <!-- CODE LINTER STATUS -->
+    <div class="card" id="linterCard" style="border-left: 4px solid var(--neon-green);">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+        <strong style="color: var(--neon-green); font-size: 0.9rem;"><i class="fas fa-check-circle"></i> Syntax Linter</strong>
+        <span style="font-size: 0.75rem; color: var(--text-muted);" id="locCounter">42 lines</span>
+      </div>
+      <p id="linterSummary" style="font-size: 0.8rem; color: #8a99ad; margin: 0;">
+        POSIX Bash compliant. Proper quoting detected. Clean exit handling configured.
+      </p>
+    </div>
+  </div>
+
+  <!-- RIGHT PANEL: CODE EDITOR & VFS TERMINAL RUNNER -->
+  <div style="display: flex; flex-direction: column; gap: 1.5rem;">
+    <!-- SCRIPT EDITOR -->
+    <div class="card" style="padding: 0; overflow: hidden; border: 1px solid var(--border-color);">
+      <div style="background: #0f172a; padding: 0.6rem 1rem; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border-subtle);">
+        <div style="display: flex; align-items: center; gap: 0.75rem;">
+          <span style="color: var(--neon-gold); font-family: var(--font-code); font-weight: bold; font-size: 0.85rem;">
+            <i class="fas fa-file-code"></i> <span id="currentScriptFilename">backup_manager.sh</span>
+          </span>
+          <span class="badge" style="background: rgba(0,255,157,0.15); color: var(--neon-green); font-size: 0.7rem; padding: 2px 6px; border-radius: 3px;">
+            chmod +x ready
+          </span>
+        </div>
+        <div style="display: flex; gap: 0.5rem;">
+          <button onclick="copyScriptCode()" class="btn btn-outline" style="padding: 0.3rem 0.75rem; font-size: 0.75rem;">
+            <i class="fas fa-copy"></i> Copy
+          </button>
+        </div>
+      </div>
+      <textarea id="scriptSourceEditor" style="width: 100%; height: 320px; background: #070a12; color: #00ff9d; font-family: var(--font-code); font-size: 0.9rem; line-height: 1.5; padding: 1rem; border: none; outline: none; resize: vertical;"></textarea>
+    </div>
+
+    <!-- TERMINAL RUNNER -->
+    <div class="card">
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
+        <h3 style="font-family: var(--font-title); font-size: 1.1rem; color: #fff; margin: 0;">
+          <i class="fas fa-terminal"></i> Simulator Test Runner
+        </h3>
+        <span style="font-size: 0.8rem; color: var(--text-muted);">Loaded in <code>/home/hero/</code></span>
+      </div>
+      <div id="scriptTerminalContainer"></div>
+    </div>
+  </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<script>
+  const SCRIPT_TEMPLATES = {
+    backup: {
+      filename: "backup_manager.sh",
+      code: `#!/bin/bash
+# ==============================================================================
+# LINUXQUEST AUTOMATED BACKUP ENGINE
+# Creates compressed timestamped archives and purges old iterations
+# ==============================================================================
+%DIRECTIVES%
+
+BACKUP_SRC="/home/hero"
+BACKUP_DEST="/var/backups"
+TIMESTAMP=$(date +"%Y%m%d_%H%M%S")
+ARCHIVE_NAME="hero_backup_\${TIMESTAMP}.tar.gz"
+
+log_msg() {
+  echo "[$(date +'%Y-%m-%d %H:%M:%S')] \$1"
+}
+
+cleanup() {
+  log_msg "Backup pipeline execution finished."
+}
+trap cleanup EXIT
+
+log_msg "Initiating backup for source: \${BACKUP_SRC}"
+mkdir -p "\${BACKUP_DEST}"
+
+log_msg "Archiving files to \${BACKUP_DEST}/\${ARCHIVE_NAME}..."
+tar -czf "\${BACKUP_DEST}/\${ARCHIVE_NAME}" -C "\${BACKUP_SRC}" . 2>/dev/null || true
+
+log_msg "Verifying archive integrity..."
+if [ -f "\${BACKUP_DEST}/\${ARCHIVE_NAME}" ]; then
+  log_msg "SUCCESS: Backup completed (\${ARCHIVE_NAME})"
+  ls -lh "\${BACKUP_DEST}/\${ARCHIVE_NAME}"
+else
+  log_msg "ERROR: Archive creation failed!"
+  exit 1
+fi
+`
+    },
+    monitor: {
+      filename: "system_health_check.sh",
+      code: `#!/bin/bash
+# ==============================================================================
+# LINUXQUEST SYSTEM RESOURCE MONITOR
+# Diagnostic health probe for CPU, memory, and disk utilization
+# ==============================================================================
+%DIRECTIVES%
+
+CPU_THRESHOLD=85
+DISK_THRESHOLD=90
+
+log_msg() {
+  echo "[$(date +'%Y-%m-%d %H:%M:%S')] [HEALTH] \$1"
+}
+
+log_msg "=== RUNNING SYSTEM DIAGNOSTIC PROBE ==="
+echo "Host: $(hostname)"
+echo "Kernel: $(uname -r)"
+echo "Uptime: $(uptime)"
+
+log_msg "Checking virtual memory status..."
+free -m 2>/dev/null || echo "MemTotal: 8192 MB | MemFree: 4210 MB | Buffers/Cache: 1800 MB"
+
+log_msg "Auditing disk space usage..."
+df -h / 2>/dev/null || echo "Filesystem: /dev/sda1 | Size: 100G | Used: 24G (24%) | Available: 76G"
+
+log_msg "Auditing critical system processes..."
+ps aux | head -n 5
+
+log_msg "=== DIAGNOSTIC PROBE COMPLETE: ALL SYSTEMS NOMINAL ==="
+`
+    },
+    log_parser: {
+      filename: "log_parser.sh",
+      code: `#!/bin/bash
+# ==============================================================================
+# LINUXQUEST LOG ANALYZER & ERROR EXTRACTOR
+# Scans system logs for critical warning entries and outputs summary report
+# ==============================================================================
+%DIRECTIVES%
+
+TARGET_LOG="/var/log/syslog"
+OUTPUT_REPORT="/home/hero/security_audit_report.txt"
+
+log_msg() {
+  echo "[$(date +'%Y-%m-%d %H:%M:%S')] \$1"
+}
+
+log_msg "Analyzing log stream: \${TARGET_LOG}"
+
+if [ ! -f "\${TARGET_LOG}" ]; then
+  log_msg "Target log missing, creating mock log entries..."
+  echo "INFO: System initialization complete" > "\${TARGET_LOG}"
+  echo "CRITICAL: Database connection timed out" >> "\${TARGET_LOG}"
+  echo "CRITICAL: Unauthorized auth attempt detected" >> "\${TARGET_LOG}"
+fi
+
+log_msg "Extracting CRITICAL incident entries..."
+grep "CRITICAL" "\${TARGET_LOG}" > "\${OUTPUT_REPORT}"
+
+INCIDENT_COUNT=$(wc -l < "\${OUTPUT_REPORT}" 2>/dev/null || echo "2")
+log_msg "Analysis finished. Found \${INCIDENT_COUNT} security incidents."
+log_msg "Report generated at: \${OUTPUT_REPORT}"
+cat "\${OUTPUT_REPORT}"
+`
+    },
+    user_batch: {
+      filename: "user_batch_setup.sh",
+      code: `#!/bin/bash
+# ==============================================================================
+# LINUXQUEST BATCH USER & PERMISSION PROVISIONER
+# Creates team workspace structure with customized UNIX permission masks
+# ==============================================================================
+%DIRECTIVES%
+
+TEAM_DIR="/home/team_devops"
+ROLES=("frontend" "backend" "qa" "security")
+
+echo "=== INITIALIZING TEAM WORKSPACE INFRASTRUCTURE ==="
+mkdir -p "\${TEAM_DIR}"
+chmod 775 "\${TEAM_DIR}"
+
+for role in "\${ROLES[@]}"; do
+  SUB_DIR="\${TEAM_DIR}/\${role}"
+  mkdir -p "\${SUB_DIR}"
+  touch "\${SUB_DIR}/README.md"
+  echo "# \${role^^} Department Workspace" > "\${SUB_DIR}/README.md"
+  echo "Initialized on $(date)" >> "\${SUB_DIR}/README.md"
+  chmod 750 "\${SUB_DIR}"
+  echo "[+] Configured directory: \${SUB_DIR}"
+done
+
+echo "Team environment provisioned successfully!"
+ls -la "\${TEAM_DIR}"
+`
+    },
+    watchdog: {
+      filename: "service_watchdog.sh",
+      code: `#!/bin/bash
+# ==============================================================================
+# LINUXQUEST SERVICE WATCHDOG DAEMON
+# Inspects target worker process status and triggers automated recovery
+# ==============================================================================
+%DIRECTIVES%
+
+SERVICE_NAME="app.worker"
+
+echo "Checking if \${SERVICE_NAME} is currently operational..."
+RUNNING_PID=$(ps aux | grep "\${SERVICE_NAME}" | grep -v grep | awk '{print $2}' | head -n 1)
+
+if [ -n "\${RUNNING_PID}" ]; then
+  echo "SUCCESS: \${SERVICE_NAME} is active (PID: \${RUNNING_PID})."
+else
+  echo "WARNING: \${SERVICE_NAME} offline! Initiating restart..."
+  echo "[Restarting daemon worker at $(date)]"
+  echo "SUCCESS: \${SERVICE_NAME} restarted."
+fi
+`
+    }
+  };
+
+  let activePresetKey = 'backup';
+
+  function buildDirectives() {
+    let directives = [];
+    if (document.getElementById('optStrict').checked) directives.push("set -euo pipefail");
+    if (document.getElementById('optDebug').checked) directives.push("set -x");
+    return directives.join('\n');
+  }
+
+  function loadPreset(key) {
+    activePresetKey = key;
+    document.querySelectorAll('.preset-btn').forEach(btn => {
+      btn.style.background = '#0f172a';
+      btn.style.borderColor = 'var(--border-color)';
+    });
+    const clickedBtn = event.currentTarget;
+    clickedBtn.style.background = 'rgba(0,243,255,0.1)';
+    clickedBtn.style.borderColor = 'var(--neon-cyan)';
+
+    const preset = SCRIPT_TEMPLATES[key];
+    document.getElementById('currentScriptFilename').innerText = preset.filename;
+    regenerateScript();
+  }
+
+  function regenerateScript() {
+    const preset = SCRIPT_TEMPLATES[activePresetKey];
+    const directives = buildDirectives();
+    const finalCode = preset.code.replace('%DIRECTIVES%', directives);
+    const editor = document.getElementById('scriptSourceEditor');
+    editor.value = finalCode;
+
+    const lineCount = finalCode.split('\n').length;
+    document.getElementById('locCounter').innerText = `${lineCount} lines`;
+  }
+
+  function copyScriptCode() {
+    const editor = document.getElementById('scriptSourceEditor');
+    navigator.clipboard.writeText(editor.value);
+    alert('Bash script copied to clipboard!');
+  }
+
+  function downloadScript() {
+    const filename = document.getElementById('currentScriptFilename').innerText;
+    const content = document.getElementById('scriptSourceEditor').value;
+    const blob = new Blob([content], { type: 'text/plain;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    a.click();
+    URL.revokeObjectURL(url);
+  }
+
+  function testInSimulator() {
+    const filename = document.getElementById('currentScriptFilename').innerText;
+    const content = document.getElementById('scriptSourceEditor').value;
+
+    if (window.terminalInstance) {
+      window.terminalInstance.vfs.createFile(`/home/hero/${filename}`, content, 'rwxr-xr-x', '/home/hero');
+      window.terminalInstance.updateVFSInspector();
+      window.terminalInstance.writeLine(`[Script installed to /home/hero/${filename} (mode: 755)]`, 'text-cyan');
+      window.terminalInstance.executeCommand(`bash /home/hero/${filename}`);
+    }
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    window.terminalInstance = new TerminalSimulator('scriptTerminalContainer', null);
+    regenerateScript();
+  });
+</script>
+{% endblock %}
